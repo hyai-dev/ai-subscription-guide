@@ -1,5 +1,5 @@
 {
-  "state": "reviewed local drafts; publication receipt recorded after push",
+  "state": "published and publicly verified",
   "articles": [
     {
       "file": "docs/04-account-credentials-and-order-evidence.md",
@@ -35,5 +35,8 @@
     }
   ],
   "ownershipDisclosure": "Maintained by PayForGPT and Nano Banana operators; self-published distribution, not independent endorsement.",
-  "imageGeneration": "Built-in image_gen; prompts and hashes in illustrations-20261018.json"
+  "imageGeneration": "Built-in image_gen; prompts and hashes in illustrations-20261018.json",
+  "publishedSourceCommit": "2018bb4287e366e9c73abced1b2a175f117981a9",
+  "verifiedAtUtc": "2026-10-18T09:02:27.122201+00:00",
+  "publicationReceipt": "publication-receipt-20261018.json"
 }

@@ -1,0 +1,77 @@
+{
+  "verified": true,
+  "verified_at_utc": "2026-10-18T09:02:27.122201+00:00",
+  "repository": "hyai-dev/ai-subscription-guide",
+  "repository_public": true,
+  "commit": "2018bb4287e366e9c73abced1b2a175f117981a9",
+  "articles": [
+    {
+      "url": "https://github.com/hyai-dev/ai-subscription-guide/blob/main/docs/04-account-credentials-and-order-evidence.md",
+      "file": "docs/04-account-credentials-and-order-evidence.md",
+      "title": "免密代充要交什么？先把订单材料和账号钥匙分开",
+      "public_http_status": 200,
+      "raw_http_status": 200,
+      "source_sha": "2018bb4287e366e9c73abced1b2a175f117981a9",
+      "source_sha256": "f0819566afadb6fef17523949e6e86d41b5a0cd203acfdf2a11b12f8b48a6cd8",
+      "image_count": 2,
+      "images_verified": [
+        "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/main/assets/illustrated-20261018/credentials-v1.webp",
+        "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/main/assets/illustrated-20261018/channels-v1.webp"
+      ],
+      "targets": [
+        "https://payforgpt.com/ai-subscriptions/passwordless-recharge-credentials",
+        "https://nano-banana.lol/ai-subscriptions/passwordless-recharge-credentials"
+      ]
+    },
+    {
+      "url": "https://github.com/hyai-dev/ai-subscription-guide/blob/main/docs/05-payment-channels-and-billing-records.md",
+      "file": "docs/05-payment-channels-and-billing-records.md",
+      "title": "ChatGPT 付款方式怎么核对：先认清买的是什么、谁在收款",
+      "public_http_status": 200,
+      "raw_http_status": 200,
+      "source_sha": "2018bb4287e366e9c73abced1b2a175f117981a9",
+      "source_sha256": "a3af822a7bee448cb9405f51106c7c59da5d125a96331c0e7c43b6f4dc388eb8",
+      "image_count": 2,
+      "images_verified": [
+        "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/main/assets/illustrated-20261018/channels-v1.webp",
+        "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/main/assets/illustrated-20261018/price-v1.webp"
+      ],
+      "targets": [
+        "https://payforgpt.com/ai-subscriptions/chatgpt-payment-channels-guide",
+        "https://nano-banana.lol/ai-subscriptions/alipay-wechat-pay"
+      ]
+    },
+    {
+      "url": "https://github.com/hyai-dev/ai-subscription-guide/blob/main/docs/06-renewal-and-price-comparison.md",
+      "file": "docs/06-renewal-and-price-comparison.md",
+      "title": "ChatGPT 续费前的三次核对：账号、原渠道、下一账期",
+      "public_http_status": 200,
+      "raw_http_status": 200,
+      "source_sha": "2018bb4287e366e9c73abced1b2a175f117981a9",
+      "source_sha256": "d164ff49132e6de00a02a91e461f5dbf7106424b69a6cb58a0c7d1933537736e",
+      "image_count": 2,
+      "images_verified": [
+        "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/main/assets/illustrated-20261018/renewal-v1.webp",
+        "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/main/assets/illustrated-20261018/price-v1.webp"
+      ],
+      "targets": [
+        "https://payforgpt.com/how-to/handle-payment-failed",
+        "https://nano-banana.lol/ai-subscriptions/chatgpt-plus-renewal",
+        "https://payforgpt.com/plus-price",
+        "https://nano-banana.lol/plus-price"
+      ]
+    }
+  ],
+  "new_articles": 3,
+  "new_article_image_placements": 6,
+  "contextual_target_links": 8,
+  "source_domain_count": 1,
+  "ownership": "Self-owned GitHub content distribution; no independent endorsement, indexing or ranking claimed.",
+  "additional_updates": [
+    "README identity and source disclosure",
+    "Historical 03 guide rewritten without unverified practical-test or safety claims"
+  ],
+  "other_channels": {
+    "DEV": "not authenticated; no post created there"
+  }
+}
