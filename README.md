@@ -1,24 +1,31 @@
-# AI 订阅充值避坑指南
+# AI 订阅与账号安全图文指南
 
-国内没有海外信用卡，怎么买 ChatGPT Plus / Codex / Claude 订阅？这个仓库收集了三篇实操教程：选套餐、充值流程、防风控要点，以及免费的 IP 网络环境自查方法，全部按步骤写，照着做就行。
+由 PayForGPT 与 Nano Banana 内容运营方维护。两站是独立商家，与 OpenAI、Apple、Google 没有隶属关系。本仓库提供可核对来源的教程和购买前检查，文内回链指向我们运营的网站，供进一步查阅。
 
-## 教程目录
+2026-10-18 新增三篇完整图文稿，每篇两张解释图。配图由生成式工具制作，用于说明概念，不能当作真实支付、账号操作或后台审计的证据。公开规则、商家商品与本人账号状态分别核对；来源复核不等于交易实测。
 
-- [自查 IP 避坑：3 步检测你的网络是不是机房 IP / 代理 IP](docs/01-ip-check-tutorial.md)
-- [Codex 国内充值避坑指南：选套餐、防风控、订单留痕](docs/02-codex-topup-guide.md)
-- [没有海外信用卡，怎么买 ChatGPT Plus？三种方式实测对比](docs/03-plus-without-card.md)
+## 本次图文教程
 
-## 常用工具
+| 你正在核对的问题 | 完整文章 |
+| --- | --- |
+| 不用密码却要求 Session JSON，资料代表什么权限？ | [订单材料与账号凭证怎么分](docs/04-account-credentials-and-order-evidence.md) |
+| 网页、Apple／Google、商城和 API，谁收款、凭证在哪？ | [付款渠道与账单分流](docs/05-payment-channels-and-billing-records.md) |
+| 续费失败是否还可能扣款，新报价能否直接比较？ | [续费前核对账号、原渠道与下一账期](docs/06-renewal-and-price-comparison.md) |
 
-- **免费 IP 网络环境检测**：https://nano-banana.lol/ip —— 查出口 IP 的 ISP / ASN / 机房与代理标签，打开即用，免注册
-- **Nano Banana**：https://nano-banana.lol/ —— AI 订阅选购指南、Codex 专题页、订单查询
-- **PayForGPT**：https://payforgpt.com/ —— ChatGPT Plus / Pro 代充，支持支付宝 / 微信 / USDT
+![续费前分别核对本人账号、原购买渠道、到期与续费状态](assets/illustrated-20261018/renewal-v1.webp)
 
-## 安全红线
+*教学示意：关掉续费、处理旧扣款和建立新订阅分别确认。*
 
-- 任何让你交账号密码、验证码、Cookie 的"充值服务"，都是骗子，正规流程不需要这些
-- 价格以商品页实时显示为准；付款凭证（金额、时间、截图）务必保留
+## 其他资料
 
-## 免责声明
+- [没有海外信用卡时，先核对订阅资格与购买对象](docs/03-plus-without-card.md)：2026-10-18 按公开来源重写，未做真实交易对比。
+- [历史 IP 网络自查教程](docs/01-ip-check-tutorial.md)：检测结果只能描述部分网络属性，不能证明服务地区资格或支付一定成功；本次没有重新实测该教程。
+- [历史 Codex 购买核对](docs/02-codex-topup-guide.md)：本文不替代当前产品与官方规则，本次没有重新实测该流程。
 
-教程仅供学习参考，各平台政策与价格随时可能调整，下单前请以官方页面当前说明为准。
+## 阅读与使用
+
+先核对服务地区、本人账号与实际购买对象，再比较同周期权益、币种税费、资料接收方和售后条件。中国大陆不在本次查阅的 ChatGPT 官方支持地区列表中；商城支持微信或支付宝，不能推导为 OpenAI 网页原生支持或已开放相关地区。参考 [OpenAI 支持地区](https://help.openai.com/en/articles/7947663-chatgpt-supported-countries)。
+
+密码、验证码、Cookie、Session JSON 与 API Key 不作为普通订单备注或聊天核单材料。怀疑泄露时，按各凭证的官方安全与撤销流程分别处理；不要把“不用密码”或“已退款”理解为访问权限已撤销。
+
+站点进一步资料：[PayForGPT 购买与订单帮助](https://payforgpt.com/faq) · [Nano Banana 购买与订单帮助](https://nano-banana.lol/faq)。当前商品、支付与交付条件以各站实际页面为准。

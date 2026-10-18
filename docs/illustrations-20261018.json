@@ -1,0 +1,100 @@
+{
+  "date": "2026-10-18",
+  "mode": "Built-in image_gen",
+  "postProcessing": "WebP re-encoding only; original geometry retained.",
+  "uniqueImages": 4,
+  "assets": [
+    {
+      "key": "credentials",
+      "path": "/images/guides/illustrated-20261018/credentials-v1.webp",
+      "width": 1672,
+      "height": 941,
+      "sourceSha256": "4e528e8c52cb21e9ae95c7f60c2f29d466ab18832a72af8196380cb0b3f7f57a",
+      "sha256": "539505083aeb9411a53c82200ab07d0aac9aa5f14df6fc2e93e5867a4463f353",
+      "bytes": 84870,
+      "method": "Built-in image_gen; WebP re-encoding preserves geometry, no semantic edits.",
+      "qa": "One character; Chinese labels and relations checked; no real credentials, price or endorsement shown.",
+      "concept": {
+        "claim": "订单证据和可能带来账号访问的凭证分别核对，免密码不能单独证明无风险。",
+        "scene": "向商店递交纸条，钥匙留在本人账号门一侧。",
+        "labels": [
+          "先分清，再提交",
+          "订单材料",
+          "账号凭证"
+        ],
+        "boundary": "教学隐喻，不描述具体令牌的全部能力，不表示某商家已审计或必定安全。"
+      },
+      "prompt": "Use case: infographic-diagram. One standalone Chinese editorial explanation illustration for an article about ChatGPT purchase data, 16:9 horizontal 1536x864. Pure white background, light hand-drawn black ink lines, sparse orange and blue, generous whitespace, readable short Chinese labels. Exactly ONE small simplified cartoon Chinese Xiaowei with short black hair and rounded rectangular black glasses, plain black T shirt and line-drawn trousers, about four heads tall, no realistic shading. He is at center left, handing a blue paper receipt with only abstract lines to a small shop order tray on the far left; his other hand keeps an orange key ring in his own pocket. To the right an orange personal-account door with a keyhole remains separated from the shop. The key ring visually matches that door, the receipt visually matches the shop tray. Crucial relation: ordinary order evidence is different from credentials granting account access; no arrow delivering keys to the shop, no guarantee safety. Use EXACTLY these three labels, no additional text: \"订单材料\" by the receipt, \"账号凭证\" by the keys and private door, \"先分清，再提交\" as short top headline. No brand logo, no real interface screenshot, no password, no token string, no security badge, no watermark, no second person."
+    },
+    {
+      "key": "channels",
+      "path": "/images/guides/illustrated-20261018/channels-v1.webp",
+      "width": 1672,
+      "height": 941,
+      "sourceSha256": "3a84f8d4740d60bccc055856ae71da8f3459013a135e133c90b3cf0ed107352e",
+      "sha256": "be3060fa5ad3f83dbc4fe5f2f59d3fbd6325c353b620735f96f09657511df5e1",
+      "bytes": 115936,
+      "method": "Built-in image_gen; WebP re-encoding preserves geometry, no semantic edits.",
+      "qa": "One character; Chinese labels and relations checked; no real credentials, price or endorsement shown.",
+      "concept": {
+        "claim": "原收款方与凭证对应，网页、应用商店与商家订单分别查询。",
+        "scene": "三条独立账单路径，各自的纸条进入自己的文件夹。",
+        "labels": [
+          "先找收款方，再查对应凭证",
+          "网页订阅",
+          "应用商店",
+          "第三方订单"
+        ],
+        "boundary": "Apple与Google仍需细分；API另有账单。图示不表示所有地区和账号均能使用。"
+      },
+      "prompt": "Use case: infographic-diagram. One standalone Chinese article teaching illustration 16:9 horizontal 1536x864. Pure white, light hand-drawn black ink, sparse orange/blue, airy spacing; simple objects and short clear Chinese labels. Exactly ONE small cartoon Xiaowei: short black hair, rounded rectangle black glasses, black T shirt, simple line trousers, no skin texture. He stands bottom left sorting THREE paper receipts into THREE distinct open folders in a single horizontal row, each folder has a visually matching object behind it: left laptop/browser for website subscription, middle smartphone for app-store purchase, right small independent merchant storefront for third-party order. Each receipt goes only into its matching folder with a short downward pointer; the folders remain separate, never combine payment records. This shows determine the actual collecting party/channel and look up its own record; does not imply any channel is supported in every region or that merchant receipt is official invoice. EXACT text only: headline \"先找收款方，再查对应凭证\"; folder labels left \"网页订阅\", middle \"应用商店\", right \"第三方订单\". No logos, no prices, no genuine account UI, no successful-payment tick, no second person, no watermark."
+    },
+    {
+      "key": "renewal",
+      "path": "/images/guides/illustrated-20261018/renewal-v1.webp",
+      "width": 1672,
+      "height": 941,
+      "sourceSha256": "294cadd77835e96d4c657f1d06711028172c657b666721dcb10ddb7bdd90ae4e",
+      "sha256": "4199289ce3567a5f92ff37efd1543bbd3a8bc02b0918f5728b36c398f51396e0",
+      "bytes": 89694,
+      "method": "Built-in image_gen; WebP re-encoding preserves geometry, no semantic edits.",
+      "qa": "One character; Chinese labels and relations checked; no real credentials, price or endorsement shown.",
+      "concept": {
+        "claim": "续费前分别核对本人账号、原渠道和日期/续费状态。",
+        "scene": "同一检查台的三张卡片，小伟逐一核对。",
+        "labels": [
+          "续费前，先核对三件事",
+          "本人账号",
+          "原购买渠道",
+          "到期与续费状态"
+        ],
+        "boundary": "取消未来续费、过去扣款退款与当前权益不同，不把开关当退款证明。"
+      },
+      "prompt": "Use case: infographic-diagram. Chinese educational article illustration, horizontal 16:9 1536x864, pure white, lightweight hand-drawn black lines with sparse blue/orange, generous blank space. Exactly ONE small cartoon Xiaowei with short black hair and black rounded-rectangle glasses, black T shirt and simple trousers, minimal face. He stands beside a desktop workbench with THREE large cards laid out side by side, examining them with a small magnifying glass. Card 1 shows profile silhouette plus envelope, card 2 shows a receipt next to laptop and phone, card 3 shows a calendar next to a separate toggle switch. No card implies a payment has succeeded. Visual relation: before renewing, verify the account, original purchase channel, and expiry/renewal state independently; no assumption that turning off renewal refunds a charge or removes current entitlement. Only exact headline and labels: top \"续费前，先核对三件事\"; card 1 \"本人账号\"; card 2 \"原购买渠道\"; card 3 \"到期与续费状态\". No date numerals, no prices, no logos, no copied software UI, no lock bypass, no second person, no watermark. Large labels legible at mobile article width."
+    },
+    {
+      "key": "price",
+      "path": "/images/guides/illustrated-20261018/price-v1.webp",
+      "width": 1672,
+      "height": 941,
+      "sourceSha256": "1bd96f1db6cb809896dd2d5e6dcf92ac4b70cd80d4d1fdffa864daed3f380294",
+      "sha256": "a26ac48087ceaa286c7ca936348cdeec90bcb1d5289488c0646e666000181025",
+      "bytes": 72744,
+      "method": "Built-in image_gen; WebP re-encoding preserves geometry, no semantic edits.",
+      "qa": "One character; Chinese labels and relations checked; no real credentials, price or endorsement shown.",
+      "concept": {
+        "claim": "价格比较须先统一最终金额、计费周期和实际权益。",
+        "scene": "两张方案卡对齐三条基线，没有赢家或数字报价。",
+        "labels": [
+          "价格比较，先对齐条件",
+          "最终金额",
+          "计费周期",
+          "实际权益"
+        ],
+        "boundary": "没有实测商家报价、折扣、固定税率或服务安全排名。"
+      },
+      "prompt": "Use case: infographic-diagram. One Chinese educational editorial illustration about fairly comparing AI subscription prices, horizontal 16:9 1536x864. Pure white background, lightweight hand-drawn black ink, sparse orange and blue, ample whitespace, minimal clean labels. Exactly ONE small cartoon Xiaowei, short black hair, rounded rectangle black glasses, plain black T shirt and simple line trousers. He aligns TWO generic blank subscription offer cards on a desk with the same three horizontal guide rails; one card is blue and one orange. Each card has a generic price-tag shape with NO numerals and a calendar/tool shape, showing that comparison requires matching what is being purchased rather than selecting by the biggest price badge. Three guide rail labels on the left are EXACTLY \"最终金额\", \"计费周期\", \"实际权益\"; top headline EXACTLY \"价格比较，先对齐条件\". Illustrate currency/tax additions using a small coin stack beside the price tag, no equations, no claimed discount. Do not rank the offers, no ticks or winner, no guarantee, no brands, no real invoice or token data, no second person, no watermark."
+    }
+  ],
+  "visualQA": "Four images individually inspected; required Chinese labels correct, one character, meaningful relations, no real credentials or official UI. Mobile figures verified separately in publication receipt."
+}

@@ -1,0 +1,39 @@
+{
+  "state": "reviewed local drafts; publication receipt recorded after push",
+  "articles": [
+    {
+      "file": "docs/04-account-credentials-and-order-evidence.md",
+      "title": "免密代充要交什么？先把订单材料和账号钥匙分开",
+      "images": 2,
+      "targets": [
+        "https://payforgpt.com/ai-subscriptions/passwordless-recharge-credentials",
+        "https://nano-banana.lol/ai-subscriptions/passwordless-recharge-credentials"
+      ],
+      "sha256": "f0819566afadb6fef17523949e6e86d41b5a0cd203acfdf2a11b12f8b48a6cd8"
+    },
+    {
+      "file": "docs/05-payment-channels-and-billing-records.md",
+      "title": "ChatGPT 付款方式怎么核对：先认清买的是什么、谁在收款",
+      "images": 2,
+      "targets": [
+        "https://payforgpt.com/ai-subscriptions/chatgpt-payment-channels-guide",
+        "https://nano-banana.lol/ai-subscriptions/alipay-wechat-pay"
+      ],
+      "sha256": "a3af822a7bee448cb9405f51106c7c59da5d125a96331c0e7c43b6f4dc388eb8"
+    },
+    {
+      "file": "docs/06-renewal-and-price-comparison.md",
+      "title": "ChatGPT 续费前的三次核对：账号、原渠道、下一账期",
+      "images": 2,
+      "targets": [
+        "https://payforgpt.com/how-to/handle-payment-failed",
+        "https://nano-banana.lol/ai-subscriptions/chatgpt-plus-renewal",
+        "https://payforgpt.com/plus-price",
+        "https://nano-banana.lol/plus-price"
+      ],
+      "sha256": "d164ff49132e6de00a02a91e461f5dbf7106424b69a6cb58a0c7d1933537736e"
+    }
+  ],
+  "ownershipDisclosure": "Maintained by PayForGPT and Nano Banana operators; self-published distribution, not independent endorsement.",
+  "imageGeneration": "Built-in image_gen; prompts and hashes in illustrations-20261018.json"
+}
