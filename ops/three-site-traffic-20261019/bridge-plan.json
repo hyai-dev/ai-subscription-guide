@@ -1,6 +1,6 @@
 {
   "asOf": "2026-10-19",
-  "state": "proposed-not-deployed",
+  "state": "links-deployed-order-attribution-pending",
   "bridgeRules": [
     {
       "id": "grokguide-contact-nano",
@@ -9,7 +9,7 @@
       "exampleTrackedUrl": "https://nano-banana.lol/grok?utm_source=grokguide&utm_medium=referral&utm_campaign=grokguide_contact_nano",
       "label": "查看Grok方案与商品条件核对",
       "boundary": "No immediateGrok purchase promise; reflect current no-listedGrokSKU.",
-      "state": "pending-implementation"
+      "state": "deployed-public-readback-passed"
     },
     {
       "id": "grokguide-plan-pfg",
@@ -18,7 +18,7 @@
       "exampleTrackedUrl": "https://payforgpt.com/ai-subscriptions/grok-subscription-guide?utm_source=grokguide&utm_medium=referral&utm_campaign=grokguide_plan_payforgpt",
       "label": "核对账号、购买渠道与账单",
       "boundary": "Informationalownedcommercial guide; preserve officialpricing/help choice.",
-      "state": "pending-implementation"
+      "state": "deployed-public-readback-passed"
     },
     {
       "id": "grokguide-quota-pfg",
@@ -27,7 +27,7 @@
       "exampleTrackedUrl": "https://payforgpt.com/ai-subscriptions/grok-subscription-guide?utm_source=grokguide&utm_medium=referral&utm_campaign=grokguide_quota_payforgpt",
       "label": "分清订阅、额度与原付款渠道",
       "boundary": "Not anupsell or purchase used to test anoldpayment.",
-      "state": "pending-implementation"
+      "state": "deployed-public-readback-passed"
     },
     {
       "id": "nano-grok-plan-guide",
@@ -36,7 +36,7 @@
       "exampleTrackedUrl": "https://grokguide.si/topics/which-plan?utm_source=nano_banana&utm_medium=referral&utm_campaign=nano_grok_plan_guide",
       "label": "继续阅读GrokBot套餐与上手教程",
       "boundary": "Tutorial availability does not imply the merchant sells matchingplan.",
-      "state": "pending-implementation"
+      "state": "deployed-public-readback-passed"
     },
     {
       "id": "pfg-grok-quota-guide",
@@ -45,10 +45,10 @@
       "exampleTrackedUrl": "https://grokguide.si/qa/pricing-quota?utm_source=payforgpt&utm_medium=referral&utm_campaign=payforgpt_grok_quota_guide",
       "label": "查看GrokBot额度与账单操作说明",
       "boundary": "Returnaccount and refundissues tooriginalprovider; disclose sameoperator.",
-      "state": "pending-implementation"
+      "state": "deployed-public-readback-passed"
     }
   ],
-  "measurementBoundary": "UTM URLs describe source conventions only. They are not proof of events collected, orders persisted, revenue or improvedrankings.",
+  "measurementBoundary": "UTM describes fixed referral sources; optional GrokGuide click events require consent and respect DNT/GPC. Neither is proof of an order, confirmed payment/delivery or increased traffic. Server-side source persistence and paid/delivered attribution remain pending.",
   "releaseAcceptance": [
     "Only5intent-specific placements; readers keep officialsources andsameoperator disclosure.",
     "Each ordinarytarget returns200, expectedcanonical and relevantcontent; check redirectandstock state.",
@@ -56,5 +56,7 @@
     "Respect existingconsent/DNT/GPC; agreeevent/schema beforecollection.",
     "Implementservervalidatedsourceallowlist andorderpersistence; confirmedpayment/deliveryeventsneed independentacceptance.",
     "Build,test,push,deploy and publicreadback separately in all3repositories; thirdsite automaticdeploymentnot yetestablished."
-  ]
+  ],
+  "verifiedAtUtc": "2026-10-19T09:05:55.113322+00:00",
+  "releaseEvidence": "release-20261019.json"
 }

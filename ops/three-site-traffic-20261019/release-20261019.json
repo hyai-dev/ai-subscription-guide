@@ -1,0 +1,485 @@
+{
+  "asOf": "2026-10-19",
+  "verifiedAtUtc": "2026-10-19T09:05:55.113322+00:00",
+  "state": "first-implementation-batch-deployed",
+  "sourceVersions": [
+    {
+      "site": "nano",
+      "sourceCommit": "8c82bf925ec970c02697c6f78546998b47777519",
+      "siteUrl": "https://nano-banana.lol",
+      "sourceVisibility": "private",
+      "status": "deployed-public-readback-passed"
+    },
+    {
+      "site": "payforgpt",
+      "sourceCommit": "060dc7efaaf4b0247286192d396c1e274edc1600",
+      "siteUrl": "https://payforgpt.com",
+      "sourceVisibility": "private",
+      "status": "deployed-public-readback-passed"
+    },
+    {
+      "site": "grokguide",
+      "sourceCommit": "dac85cdc23029b1546af270016666ee9bd906ecd",
+      "siteUrl": "https://grokguide.si",
+      "sourceVisibility": "private",
+      "status": "deployed-public-readback-passed"
+    }
+  ],
+  "commerceDeployments": [
+    {
+      "conclusion": "success",
+      "databaseId": 39226636507,
+      "headSha": "8c82bf925ec970c02697c6f78546998b47777519",
+      "status": "completed",
+      "updatedAt": "2026-10-19T09:05:02Z",
+      "url": "https://github.com/hyai-dev/nano-banana-web/actions/runs/39226636507",
+      "repository": "hyai-dev/nano-banana-web"
+    },
+    {
+      "conclusion": "success",
+      "databaseId": 39226411880,
+      "headSha": "060dc7efaaf4b0247286192d396c1e274edc1600",
+      "status": "completed",
+      "updatedAt": "2026-10-19T09:04:35Z",
+      "url": "https://github.com/hyai-dev/payforgpt-web/actions/runs/39226411880",
+      "repository": "hyai-dev/payforgpt-web"
+    }
+  ],
+  "grokGuideDeployment": {
+    "sourceCommit": "dac85cdc23029b1546af270016666ee9bd906ecd",
+    "branch": "main",
+    "exitCode": 0,
+    "deploymentUrls": [
+      "https://62c09443.grokguide.pages.dev"
+    ],
+    "project": "grokguide"
+  },
+  "liveChecks": [
+    {
+      "kind": "bridge",
+      "id": "grokguide-contact-nano",
+      "sourcePage": "https://grokguide.si/contact",
+      "trackedUrl": "https://nano-banana.lol/grok?utm_source=grokguide&utm_medium=referral&utm_campaign=grokguide_contact_nano",
+      "checks": {
+        "source200": true,
+        "exactOrdinaryAnchor": true,
+        "sourceSelfCanonical": true,
+        "target200": true,
+        "targetPathNotRedirected": true,
+        "targetSelfCanonical": true,
+        "operatorDisclosure": true
+      }
+    },
+    {
+      "kind": "bridge",
+      "id": "grokguide-plan-pfg",
+      "sourcePage": "https://grokguide.si/topics/which-plan",
+      "trackedUrl": "https://payforgpt.com/ai-subscriptions/grok-subscription-guide?utm_source=grokguide&utm_medium=referral&utm_campaign=grokguide_plan_payforgpt",
+      "checks": {
+        "source200": true,
+        "exactOrdinaryAnchor": true,
+        "sourceSelfCanonical": true,
+        "target200": true,
+        "targetPathNotRedirected": true,
+        "targetSelfCanonical": true,
+        "operatorDisclosure": true
+      }
+    },
+    {
+      "kind": "bridge",
+      "id": "grokguide-quota-pfg",
+      "sourcePage": "https://grokguide.si/qa/pricing-quota",
+      "trackedUrl": "https://payforgpt.com/ai-subscriptions/grok-subscription-guide?utm_source=grokguide&utm_medium=referral&utm_campaign=grokguide_quota_payforgpt",
+      "checks": {
+        "source200": true,
+        "exactOrdinaryAnchor": true,
+        "sourceSelfCanonical": true,
+        "target200": true,
+        "targetPathNotRedirected": true,
+        "targetSelfCanonical": true,
+        "operatorDisclosure": true
+      }
+    },
+    {
+      "kind": "bridge",
+      "id": "nano-grok-plan-guide",
+      "sourcePage": "https://nano-banana.lol/grok",
+      "trackedUrl": "https://grokguide.si/topics/which-plan?utm_source=nano_banana&utm_medium=referral&utm_campaign=nano_grok_plan_guide",
+      "checks": {
+        "source200": true,
+        "exactOrdinaryAnchor": true,
+        "sourceSelfCanonical": true,
+        "target200": true,
+        "targetPathNotRedirected": true,
+        "targetSelfCanonical": true,
+        "operatorDisclosure": true
+      }
+    },
+    {
+      "kind": "bridge",
+      "id": "pfg-grok-quota-guide",
+      "sourcePage": "https://payforgpt.com/ai-subscriptions/grok-subscription-guide",
+      "trackedUrl": "https://grokguide.si/qa/pricing-quota?utm_source=payforgpt&utm_medium=referral&utm_campaign=payforgpt_grok_quota_guide",
+      "checks": {
+        "source200": true,
+        "exactOrdinaryAnchor": true,
+        "sourceSelfCanonical": true,
+        "target200": true,
+        "targetPathNotRedirected": true,
+        "targetSelfCanonical": true,
+        "operatorDisclosure": true
+      }
+    },
+    {
+      "kind": "product",
+      "url": "https://nano-banana.lol/product/10",
+      "checks": {
+        "http200": true,
+        "selfCanonical": true,
+        "specificationPrompt": true,
+        "noOldPaymentPromise": true,
+        "safeSupportPassword": true,
+        "noOldSessionAPIClaim": true,
+        "scopedSessionGuidance": true,
+        "alipayShown": true,
+        "formPresent": true
+      }
+    },
+    {
+      "kind": "product",
+      "url": "https://nano-banana.lol/product/11",
+      "checks": {
+        "http200": true,
+        "selfCanonical": true,
+        "specificationPrompt": true,
+        "noOldPaymentPromise": true,
+        "safeSupportPassword": true,
+        "noOldSessionAPIClaim": true,
+        "scopedSessionGuidance": true,
+        "alipayShown": true,
+        "formPresent": true
+      }
+    },
+    {
+      "kind": "product",
+      "url": "https://payforgpt.com/product/10",
+      "checks": {
+        "http200": true,
+        "selfCanonical": true,
+        "specificationPrompt": true,
+        "noOldPaymentPromise": true,
+        "safeSupportPassword": true,
+        "noOldSessionAPIClaim": true,
+        "scopedSessionGuidance": true,
+        "alipayShown": true,
+        "formPresent": true
+      }
+    },
+    {
+      "kind": "product",
+      "url": "https://payforgpt.com/product/11",
+      "checks": {
+        "http200": true,
+        "selfCanonical": true,
+        "specificationPrompt": true,
+        "noOldPaymentPromise": true,
+        "safeSupportPassword": true,
+        "noOldSessionAPIClaim": true,
+        "scopedSessionGuidance": true,
+        "alipayShown": true,
+        "formPresent": true
+      }
+    },
+    {
+      "kind": "trust",
+      "url": "https://nano-banana.lol/trust",
+      "checks": {
+        "http200": true,
+        "noOldUnsafeMaterial": true,
+        "privateLookupOnly": true,
+        "noSupportPassword": true
+      }
+    },
+    {
+      "kind": "trust",
+      "url": "https://payforgpt.com/trust",
+      "checks": {
+        "http200": true,
+        "noOldUnsafeMaterial": true,
+        "privateLookupOnly": true,
+        "noSupportPassword": true
+      }
+    }
+  ],
+  "httpResponses": [
+    {
+      "requestedUrl": "https://grokguide.si/contact",
+      "observedAtUtc": "2026-10-19T09:05:50.465829+00:00",
+      "status": 200,
+      "finalUrl": "https://grokguide.si/contact",
+      "canonical": [
+        "https://grokguide.si/contact"
+      ],
+      "sha256": "03e83f21ddaa56da96b2fed5d9429bdadd9d297b4e9cf61a757d7dbccc170bc5"
+    },
+    {
+      "requestedUrl": "https://grokguide.si/topics/which-plan",
+      "observedAtUtc": "2026-10-19T09:05:50.466149+00:00",
+      "status": 200,
+      "finalUrl": "https://grokguide.si/topics/which-plan",
+      "canonical": [
+        "https://grokguide.si/topics/which-plan"
+      ],
+      "sha256": "5639a44fd81528b5e8fb71ffd2a264ba61a6e5c585940c481b6e0f11f0e13385"
+    },
+    {
+      "requestedUrl": "https://grokguide.si/qa/pricing-quota",
+      "observedAtUtc": "2026-10-19T09:05:50.466229+00:00",
+      "status": 200,
+      "finalUrl": "https://grokguide.si/qa/pricing-quota",
+      "canonical": [
+        "https://grokguide.si/qa/pricing-quota"
+      ],
+      "sha256": "7b4e6ad8149f5ee11a016abc53133e9a6973bdb748ae71eda8fb0cedb4a409db"
+    },
+    {
+      "requestedUrl": "https://nano-banana.lol/grok",
+      "observedAtUtc": "2026-10-19T09:05:50.466278+00:00",
+      "status": 200,
+      "finalUrl": "https://nano-banana.lol/grok",
+      "canonical": [
+        "https://nano-banana.lol/grok"
+      ],
+      "sha256": "f4d7232fa942a1bd21555cd7ef7d7b9199d7425071f2f36a31a691703e078a70"
+    },
+    {
+      "requestedUrl": "https://payforgpt.com/ai-subscriptions/grok-subscription-guide",
+      "observedAtUtc": "2026-10-19T09:05:50.466320+00:00",
+      "status": 200,
+      "finalUrl": "https://payforgpt.com/ai-subscriptions/grok-subscription-guide",
+      "canonical": [
+        "https://payforgpt.com/ai-subscriptions/grok-subscription-guide"
+      ],
+      "sha256": "a5b596db31a77018fba793718e74b0ec5b12b5b779d99964efa9016f2286b0ed"
+    },
+    {
+      "requestedUrl": "https://nano-banana.lol/grok?utm_source=grokguide&utm_medium=referral&utm_campaign=grokguide_contact_nano",
+      "observedAtUtc": "2026-10-19T09:05:50.466355+00:00",
+      "status": 200,
+      "finalUrl": "https://nano-banana.lol/grok?utm_source=grokguide&utm_medium=referral&utm_campaign=grokguide_contact_nano",
+      "canonical": [
+        "https://nano-banana.lol/grok"
+      ],
+      "sha256": "359a8072216ccffb2796abdb8e1e0167a147bf9c4f16ffd512a51e125dd21921"
+    },
+    {
+      "requestedUrl": "https://payforgpt.com/ai-subscriptions/grok-subscription-guide?utm_source=grokguide&utm_medium=referral&utm_campaign=grokguide_plan_payforgpt",
+      "observedAtUtc": "2026-10-19T09:05:51.188355+00:00",
+      "status": 200,
+      "finalUrl": "https://payforgpt.com/ai-subscriptions/grok-subscription-guide?utm_source=grokguide&utm_medium=referral&utm_campaign=grokguide_plan_payforgpt",
+      "canonical": [
+        "https://payforgpt.com/ai-subscriptions/grok-subscription-guide"
+      ],
+      "sha256": "478c18101875a2b88aabfa004935b0e645eca835a316b47fabc1fffd8b8f5b7e"
+    },
+    {
+      "requestedUrl": "https://payforgpt.com/ai-subscriptions/grok-subscription-guide?utm_source=grokguide&utm_medium=referral&utm_campaign=grokguide_quota_payforgpt",
+      "observedAtUtc": "2026-10-19T09:05:51.238556+00:00",
+      "status": 200,
+      "finalUrl": "https://payforgpt.com/ai-subscriptions/grok-subscription-guide?utm_source=grokguide&utm_medium=referral&utm_campaign=grokguide_quota_payforgpt",
+      "canonical": [
+        "https://payforgpt.com/ai-subscriptions/grok-subscription-guide"
+      ],
+      "sha256": "a2c8e20b57ecee2408dd37f906623e768276142ed97b484ae6c2ebbcd8b1908c"
+    },
+    {
+      "requestedUrl": "https://grokguide.si/topics/which-plan?utm_source=nano_banana&utm_medium=referral&utm_campaign=nano_grok_plan_guide",
+      "observedAtUtc": "2026-10-19T09:05:51.257344+00:00",
+      "status": 200,
+      "finalUrl": "https://grokguide.si/topics/which-plan?utm_source=nano_banana&utm_medium=referral&utm_campaign=nano_grok_plan_guide",
+      "canonical": [
+        "https://grokguide.si/topics/which-plan"
+      ],
+      "sha256": "5639a44fd81528b5e8fb71ffd2a264ba61a6e5c585940c481b6e0f11f0e13385"
+    },
+    {
+      "requestedUrl": "https://grokguide.si/qa/pricing-quota?utm_source=payforgpt&utm_medium=referral&utm_campaign=payforgpt_grok_quota_guide",
+      "observedAtUtc": "2026-10-19T09:05:51.318050+00:00",
+      "status": 200,
+      "finalUrl": "https://grokguide.si/qa/pricing-quota?utm_source=payforgpt&utm_medium=referral&utm_campaign=payforgpt_grok_quota_guide",
+      "canonical": [
+        "https://grokguide.si/qa/pricing-quota"
+      ],
+      "sha256": "7b4e6ad8149f5ee11a016abc53133e9a6973bdb748ae71eda8fb0cedb4a409db"
+    },
+    {
+      "requestedUrl": "https://nano-banana.lol/product/10",
+      "observedAtUtc": "2026-10-19T09:05:51.959432+00:00",
+      "status": 200,
+      "finalUrl": "https://nano-banana.lol/product/10",
+      "canonical": [
+        "https://nano-banana.lol/product/10"
+      ],
+      "sha256": "4ebf840971145d464c9d1f820b99fc0df6a2c9c2e0ed2f15945ca7d953dff25a"
+    },
+    {
+      "requestedUrl": "https://nano-banana.lol/product/11",
+      "observedAtUtc": "2026-10-19T09:05:52.054495+00:00",
+      "status": 200,
+      "finalUrl": "https://nano-banana.lol/product/11",
+      "canonical": [
+        "https://nano-banana.lol/product/11"
+      ],
+      "sha256": "72f29d6071917426caeb02ced4fd6b5f5434f62099673935cbf764f1ce5eaebf"
+    },
+    {
+      "requestedUrl": "https://nano-banana.lol/trust",
+      "observedAtUtc": "2026-10-19T09:05:52.311934+00:00",
+      "status": 200,
+      "finalUrl": "https://nano-banana.lol/trust",
+      "canonical": [
+        "https://nano-banana.lol/trust"
+      ],
+      "sha256": "1598ed3cfc9cc5df7d7eb0bfd8a6368d880c14acc4b665e28b05ecd9bec34ab0"
+    },
+    {
+      "requestedUrl": "https://payforgpt.com/product/10",
+      "observedAtUtc": "2026-10-19T09:05:52.482658+00:00",
+      "status": 200,
+      "finalUrl": "https://payforgpt.com/product/10",
+      "canonical": [
+        "https://payforgpt.com/product/10"
+      ],
+      "sha256": "e9f3f0168b8b8b99b88b5fd0188c3294fd900077fa2681f40205f6316c3a5c40"
+    },
+    {
+      "requestedUrl": "https://payforgpt.com/product/11",
+      "observedAtUtc": "2026-10-19T09:05:52.535550+00:00",
+      "status": 200,
+      "finalUrl": "https://payforgpt.com/product/11",
+      "canonical": [
+        "https://payforgpt.com/product/11"
+      ],
+      "sha256": "fc5f953e0de2a2c523b07fa52fe9dc8c916bfa1feb18ff8815a3938141bbd7ef"
+    },
+    {
+      "requestedUrl": "https://payforgpt.com/trust",
+      "observedAtUtc": "2026-10-19T09:05:52.743555+00:00",
+      "status": 200,
+      "finalUrl": "https://payforgpt.com/trust",
+      "canonical": [
+        "https://payforgpt.com/trust"
+      ],
+      "sha256": "692324c37674ab28ae656b493ad2295226505f959a6d4e858a1d06fac2023d62"
+    },
+    {
+      "requestedUrl": "https://grokguide.si/analytics.js",
+      "observedAtUtc": "2026-10-19T09:05:54.442587+00:00",
+      "status": 200,
+      "finalUrl": "https://grokguide.si/analytics.js",
+      "canonical": [],
+      "sha256": "cfa03c04e7fe5c28a003a8420cbaea789268e983c64582b455adcee3a2fea350"
+    },
+    {
+      "requestedUrl": "https://grokguide.si/privacy",
+      "observedAtUtc": "2026-10-19T09:05:54.449185+00:00",
+      "status": 200,
+      "finalUrl": "https://grokguide.si/privacy",
+      "canonical": [
+        "https://grokguide.si/privacy"
+      ],
+      "sha256": "d15d4ebb0e84f1eef79c019681eb8cbcf9093921b9ef692be6d0f1f941a715a8"
+    }
+  ],
+  "indexNow": {
+    "method": "Existing per-domain public key verified; only changed ordinary200/indexable URLs submitted. No key values in this receipt.",
+    "sites": [
+      {
+        "site": "https://nano-banana.lol",
+        "submittedAtUtc": "2026-10-19T09:06:38.959082+00:00",
+        "urls": [
+          "https://nano-banana.lol/grok",
+          "https://nano-banana.lol/trust",
+          "https://nano-banana.lol/product/7",
+          "https://nano-banana.lol/product/10",
+          "https://nano-banana.lol/product/11",
+          "https://nano-banana.lol/codex"
+        ],
+        "count": 6,
+        "excluded": [],
+        "httpStatus": 200,
+        "accepted": true,
+        "publicKeyVerified": true,
+        "meaning": "notification accepted only; not indexed/ranked proof"
+      },
+      {
+        "site": "https://payforgpt.com",
+        "submittedAtUtc": "2026-10-19T09:06:46.549962+00:00",
+        "urls": [
+          "https://payforgpt.com/ai-subscriptions/grok-subscription-guide",
+          "https://payforgpt.com/trust",
+          "https://payforgpt.com/product/7",
+          "https://payforgpt.com/product/10",
+          "https://payforgpt.com/product/11",
+          "https://payforgpt.com/codex"
+        ],
+        "count": 6,
+        "excluded": [],
+        "httpStatus": 200,
+        "accepted": true,
+        "publicKeyVerified": true,
+        "meaning": "notification accepted only; not indexed/ranked proof"
+      },
+      {
+        "site": "https://grokguide.si",
+        "submittedAtUtc": "2026-10-19T09:06:51.202638+00:00",
+        "urls": [
+          "https://grokguide.si/contact",
+          "https://grokguide.si/topics/which-plan",
+          "https://grokguide.si/qa/pricing-quota",
+          "https://grokguide.si/privacy"
+        ],
+        "count": 4,
+        "excluded": [],
+        "httpStatus": 200,
+        "accepted": true,
+        "publicKeyVerified": true,
+        "meaning": "notification accepted only; not indexed/ranked proof"
+      }
+    ],
+    "submittedCount": 16,
+    "indexingOrRankingConfirmed": false
+  },
+  "completedImplementationTasks": [
+    "two-shop-payment-support-session-copy",
+    "five-contextual-links-across-three-sites"
+  ],
+  "partiallyImplemented": [
+    "SKU labels now show plan/delivery/term questions before purchase; own exact fulfillment mapping remains unconfirmed"
+  ],
+  "stillPending": [
+    "own per-SKU fulfillment and eligibility verification",
+    "authorized real interface screenshots/video and testimonial data integration",
+    "server-validated source fields persisted to orders and independently verified paid/delivered states",
+    "actual multi-site search/click/order/payment/delivery measurements"
+  ],
+  "localChecks": {
+    "nano": "mandatory contrast, copy safety, product delivery/checkout-first, internal links, Grok freshness, typecheck and build passed; follow-up trust regression/typecheck/build passed",
+    "payforgpt": "mandatory contrast/accessibility, product delivery/checkout-first, trust, internal links, copy, typecheck and build passed; independent review passed",
+    "grokguide": "39 tests including10 consent tests; build, reader and search-output checks passed; independent review consent wording fix included"
+  },
+  "limitations": [
+    "Public HTTP and HTML parsing, not browser layout or paid-checkout testing.",
+    "Local merchant product rendering used explicitly synthetic GET-only fixtures; production HTML was checked separately after release.",
+    "Nano additional commercial-privacy test could not run because a required parent compose file was absent; no test was weakened.",
+    "Deployed links and client clicks do not establish order persistence, paid attribution, traffic gain or ranking uplift.",
+    "No new article/image/keyword completion; no competitor internal API, real order, payment, refund or email was used.",
+    "Private GrokGuide source, raw deployment logs, private operations and Feishu document contents excluded."
+  ],
+  "remainingGapsAuditSummary": [
+    "本次完成关联阅读入口和取得同意后的点击统计；来源与服务端已付款、已交付结果的完整关联仍待接通及验收，不能据链接或点击宣称成交增长。",
+    "现有订单系统具备联盟推广关联和支付处理能力；当前购买流程尚未证明能将这次跨站来源持续关联到真实订单结果。",
+    "客户评价仍需核验旧接口兼容性以及真实授权、脱敏、审核素材；本次没有补造评价，也没有把评价接通标成完成。"
+  ],
+  "keywordCompletionsAdded": 0
+}
