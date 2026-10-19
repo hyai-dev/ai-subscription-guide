@@ -706,6 +706,63 @@
           "label": "Nano Banana对应任务帮助"
         }
       ]
+    },
+    {
+      "id": "getgpt-card-code-checklist",
+      "file": "docs/19-getgpt-card-code-checklist.md",
+      "title": "GETGPT Pro 购买前核对：官网、卡密兑换与原账号结果",
+      "topic": "getgpt-check",
+      "cluster": "平台选择",
+      "primaryQuery": "GETGPT Pro",
+      "secondaryQueries": [
+        "GETGPT",
+        "getgpt.pro官网",
+        "GETGPT靠谱吗",
+        "GETGPT卡密兑换"
+      ],
+      "keywordQueueRows": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "keywordQueueSite": "02 GETGPT Pro",
+      "websiteOwners": [
+        {
+          "site": "payforgpt",
+          "url": "https://payforgpt.com/ai-subscriptions/getgpt-review"
+        },
+        {
+          "site": "nano",
+          "url": "https://nano-banana.lol/ai-subscriptions/getgpt-alternative"
+        }
+      ],
+      "canonical": "https://github.com/hyai-dev/ai-subscription-guide/blob/main/docs/19-getgpt-card-code-checklist.md",
+      "publishedAt": "2026-10-19",
+      "reviewedAt": "2026-10-19",
+      "sources": [
+        "https://getgpt.pro/",
+        "https://getgpt.pro/guide",
+        "https://getgpt.pro/gptpro",
+        "https://getgpt.pro/faq",
+        "https://getgpt.pro/terms"
+      ],
+      "figures": [
+        "assets/getgpt-check-20261019/three-records.webp"
+      ],
+      "targets": [
+        {
+          "site": "payforgpt",
+          "url": "https://payforgpt.com/ai-subscriptions/getgpt-review",
+          "label": "PayForGPT对应购买核对"
+        },
+        {
+          "site": "nano",
+          "url": "https://nano-banana.lol/ai-subscriptions/getgpt-alternative",
+          "label": "Nano Banana对应购买核对"
+        }
+      ]
     }
   ]
 }

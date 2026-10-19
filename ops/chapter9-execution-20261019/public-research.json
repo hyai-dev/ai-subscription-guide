@@ -1,0 +1,1298 @@
+{
+  "schema_version": 1,
+  "generated_at_utc": "2026-10-19T10:38:59.017997+00:00",
+  "scope": "Four specified public GitHub repositories, pinned default-branch README and git-tree metadata, bounded README commit metadata, six linked commercial target HTTP GET samples, and current official Google Search Central documents.",
+  "method": "agent-reach GitHub CLI public REST GET plus public HTTP and web reader. No browser, scripts from websites, private endpoints, login, orders, messages, source edits or deployments.",
+  "repos": [
+    {
+      "repo": "jiangyy-1/gpt-chongzhi-guide",
+      "repo_url": "https://github.com/jiangyy-1/gpt-chongzhi-guide",
+      "read_at_utc": "2026-10-19T10:35:55.517344+00:00",
+      "public": true,
+      "head_sha": "0fd6589961ba7aad0dddaace6e74a4df5bfc68d4",
+      "head_committed_at": "2026-10-18T04:35:55Z",
+      "head_url": "https://github.com/jiangyy-1/gpt-chongzhi-guide/commit/0fd6589961ba7aad0dddaace6e74a4df5bfc68d4",
+      "repo_metadata_timestamps": {
+        "created_at": "2026-08-02T16:51:18Z",
+        "updated_at": "2026-10-18T04:36:20Z",
+        "pushed_at": "2026-10-18T04:36:17Z"
+      },
+      "readme": {
+        "path": "README.md",
+        "url": "https://github.com/jiangyy-1/gpt-chongzhi-guide/blob/0fd6589961ba7aad0dddaace6e74a4df5bfc68d4/README.md",
+        "content_sha256": "6ba316c1d8d0f9ba7c9c2a1039cd2194e819e6fe88b450f40c31930044b8f052",
+        "git_blob_sha": "4581a3db6a60cb9621be1d8bc6832c18f0e0f8c4",
+        "bytes": 8935,
+        "lines": 146,
+        "headings_count": 15,
+        "image_links_count": 0,
+        "relative_markdown_link_count": 0
+      },
+      "latest_readme_path_commits": [
+        {
+          "sha": "0fd6589961ba7aad0dddaace6e74a4df5bfc68d4",
+          "url": "https://github.com/jiangyy-1/gpt-chongzhi-guide/commit/0fd6589961ba7aad0dddaace6e74a4df5bfc68d4",
+          "date": "2026-10-18T04:35:55Z"
+        },
+        {
+          "sha": "cb6510be92b9bc31320ce9c5d8aa4074f10953ba",
+          "url": "https://github.com/jiangyy-1/gpt-chongzhi-guide/commit/cb6510be92b9bc31320ce9c5d8aa4074f10953ba",
+          "date": "2026-10-18T03:50:44Z"
+        },
+        {
+          "sha": "f5a831bd41ca5ba994ef5953d8338722a39e02c7",
+          "url": "https://github.com/jiangyy-1/gpt-chongzhi-guide/commit/f5a831bd41ca5ba994ef5953d8338722a39e02c7",
+          "date": "2026-10-15T06:14:30Z"
+        }
+      ],
+      "markdown_tree": {
+        "total_markdown_files": 62,
+        "groups": {
+          "[root]": 1,
+          "articles": 60,
+          "data": 1
+        },
+        "paths": [
+          "README.md",
+          "articles/2026-08-03-chatgpt-plus-zhifubao.md",
+          "articles/2026-08-03-chatgpt-team-duigong.md",
+          "articles/2026-08-03-supergrok-chongzhi.md",
+          "articles/2026-08-07-gpt-chongzhi-duoshaoqian.md",
+          "articles/2026-08-07-gpt-yuefu-nianfu.md",
+          "articles/2026-08-08-codex-chongzhi.md",
+          "articles/2026-08-08-xuni-ka-gpt.md",
+          "articles/2026-08-09-chatgpt-chengpin-hao.md",
+          "articles/2026-08-09-pinche-hezu-chatgpt.md",
+          "articles/2026-08-14-lipinka-chatgpt.md",
+          "articles/2026-08-14-plus-shengji-pro.md",
+          "articles/2026-08-16-chatgpt-fenghao-zijiu.md",
+          "articles/2026-08-16-chatgpt-xuesheng-youhui.md",
+          "articles/2026-08-16-chatgpt-xufei-diaodang.md",
+          "articles/2026-08-16-gpt-edu-yongwan.md",
+          "articles/2026-08-20-chatgpt-deep-research.md",
+          "articles/2026-08-20-chatgpt-sora-edu.md",
+          "articles/2026-08-20-chatgpt-team-vs-plus.md",
+          "articles/2026-08-20-chatgpt-zuotu.md",
+          "articles/2026-08-20-codex-dianshu.md",
+          "articles/2026-08-20-codex-shangshou.md",
+          "articles/2026-08-20-gpt-edu-duibi.md",
+          "articles/2026-08-20-token-shouquan-anquan.md",
+          "articles/2026-08-23-chatgpt-biaoge.md",
+          "articles/2026-08-23-gemini-chongzhi.md",
+          "articles/2026-08-23-sol-terra-luna.md",
+          "articles/2026-08-26-bangong-wenshu.md",
+          "articles/2026-08-26-chatgpt-pro-yongfa.md",
+          "articles/2026-08-26-chongzhi-fapiao.md",
+          "articles/2026-08-26-daichong-tuikuan.md",
+          "articles/2026-08-26-gptplus-daichong.md",
+          "articles/2026-08-30-chatgpt-fanyi.md",
+          "articles/2026-08-30-chatgpt-xuexi.md",
+          "articles/2026-08-30-excel-shuju.md",
+          "articles/2026-09-02-chatgpt-ppt.md",
+          "articles/2026-09-02-daima-rumen.md",
+          "articles/2026-09-02-jianli-qiuzhi.md",
+          "articles/2026-09-02-pro20x-zhinan.md",
+          "articles/2026-09-02-weixin-chongzhi.md",
+          "articles/2026-09-09-chatgpt-jiankang.md",
+          "articles/2026-09-09-chatgpt-lvxing.md",
+          "articles/2026-09-09-chatgpt-projects.md",
+          "articles/2026-09-09-daichong-pingtai-panding.md",
+          "articles/2026-09-13-chatgpt-memory.md",
+          "articles/2026-09-13-chatgpt-pro-20x-zanting.md",
+          "articles/2026-09-17-chatgpt-shouji.md",
+          "articles/2026-09-17-chatgpt-yuyin.md",
+          "articles/2026-09-17-claude-daichong.md",
+          "articles/2026-09-17-grok-daichong.md",
+          "articles/2026-09-20-chatgpt-canvas.md",
+          "articles/2026-09-20-chatgpt-zidingyi.md",
+          "articles/2026-09-22-selected-model-at-capacity-gpt6.md",
+          "articles/2026-09-23-chatgpt-gpts.md",
+          "articles/2026-09-23-chatgpt-tupian.md",
+          "articles/2026-09-27-chatgpt-du-pdf.md",
+          "articles/2026-09-27-guonei-kaitong-chatgpt-plus.md",
+          "articles/2026-09-30-chatgpt-chongzhi.md",
+          "articles/2026-09-30-chatgpt-pro-500.md",
+          "articles/2026-09-30-chatgpt-siwei-daotu.md",
+          "articles/2026-10-13-guonei-kaitong-chatgpt-plus.md",
+          "data/prices.md"
+        ],
+        "truncated": false
+      },
+      "rendered_external_links": {
+        "source": "https://api.github.com/repos/jiangyy-1/gpt-chongzhi-guide/readme?ref=0fd6589961ba7aad0dddaace6e74a4df5bfc68d4",
+        "method": "application/vnd.github.html+json",
+        "http_status": 200,
+        "read_at_utc": "2026-10-19T10:37:34.914492+00:00",
+        "response_sha256": "b3f700052587451c43c266741a6b3593413521c884adce197b0d032e1354c541",
+        "unique_count": 32,
+        "domain_counts": {
+          "gptpro20x.com": 25,
+          "gptpro5x.com": 7
+        },
+        "utm_links": [],
+        "all_sampled_external_links_have_nofollow": true,
+        "hrefs": [
+          {
+            "url": "https://gptpro20x.com/blog/guonei-kaitong-chatgpt-plus/",
+            "rel": "nofollow",
+            "domain": "gptpro20x.com"
+          },
+          {
+            "url": "https://gptpro20x.com/blog/chatgpt-pro-500/",
+            "rel": "nofollow",
+            "domain": "gptpro20x.com"
+          },
+          {
+            "url": "https://gptpro20x.com/blog/selected-model-at-capacity-gpt6/",
+            "rel": "nofollow",
+            "domain": "gptpro20x.com"
+          },
+          {
+            "url": "https://gptpro20x.com/blog/chatgpt-chongzhi/",
+            "rel": "nofollow",
+            "domain": "gptpro20x.com"
+          },
+          {
+            "url": "https://gptpro20x.com/blog/chatgpt-siwei-daotu/",
+            "rel": "nofollow",
+            "domain": "gptpro20x.com"
+          },
+          {
+            "url": "https://gptpro20x.com/blog/chatgpt-du-pdf/",
+            "rel": "nofollow",
+            "domain": "gptpro20x.com"
+          },
+          {
+            "url": "https://gptpro20x.com/blog/chatgpt-gpts/",
+            "rel": "nofollow",
+            "domain": "gptpro20x.com"
+          },
+          {
+            "url": "https://gptpro20x.com/blog/chatgpt-tupian/",
+            "rel": "nofollow",
+            "domain": "gptpro20x.com"
+          },
+          {
+            "url": "https://gptpro20x.com/blog/chatgpt-canvas/",
+            "rel": "nofollow",
+            "domain": "gptpro20x.com"
+          },
+          {
+            "url": "https://gptpro20x.com/blog/chatgpt-zidingyi/",
+            "rel": "nofollow",
+            "domain": "gptpro20x.com"
+          },
+          {
+            "url": "https://gptpro20x.com/blog/gpt-daichong-quanzhinan/",
+            "rel": "nofollow",
+            "domain": "gptpro20x.com"
+          },
+          {
+            "url": "https://gptpro20x.com/blog/gpt-chongzhi-duoshaoqian/",
+            "rel": "nofollow",
+            "domain": "gptpro20x.com"
+          },
+          {
+            "url": "https://gptpro20x.com/blog/gptpro-chongzhi/",
+            "rel": "nofollow",
+            "domain": "gptpro20x.com"
+          },
+          {
+            "url": "https://gptpro5x.com/gptpro-daichong",
+            "rel": "nofollow",
+            "domain": "gptpro5x.com"
+          },
+          {
+            "url": "https://gptpro20x.com/blog/chatgpt-pro-20x-zanting/",
+            "rel": "nofollow",
+            "domain": "gptpro20x.com"
+          },
+          {
+            "url": "https://gptpro20x.com/blog/gpt-edu-duibi/",
+            "rel": "nofollow",
+            "domain": "gptpro20x.com"
+          },
+          {
+            "url": "https://gptpro20x.com/chatgpt/",
+            "rel": "nofollow",
+            "domain": "gptpro20x.com"
+          },
+          {
+            "url": "https://gptpro5x.com/",
+            "rel": "nofollow",
+            "domain": "gptpro5x.com"
+          },
+          {
+            "url": "https://gptpro20x.com/",
+            "rel": "nofollow",
+            "domain": "gptpro20x.com"
+          },
+          {
+            "url": "https://gptpro20x.com/blog/guonei-gpt-daichong/",
+            "rel": "nofollow",
+            "domain": "gptpro20x.com"
+          },
+          {
+            "url": "https://gptpro20x.com/blog/chatgpt-plus-zhifubao/",
+            "rel": "nofollow",
+            "domain": "gptpro20x.com"
+          },
+          {
+            "url": "https://gptpro20x.com/blog/chatgpt-team-duigong/",
+            "rel": "nofollow",
+            "domain": "gptpro20x.com"
+          },
+          {
+            "url": "https://gptpro20x.com/blog/gpt-topup-guide/",
+            "rel": "nofollow",
+            "domain": "gptpro20x.com"
+          },
+          {
+            "url": "https://gptpro5x.com/guides/chatgpt-plus-self-recharge",
+            "rel": "nofollow",
+            "domain": "gptpro5x.com"
+          },
+          {
+            "url": "https://gptpro5x.com/guides/grok-recharge-china",
+            "rel": "nofollow",
+            "domain": "gptpro5x.com"
+          },
+          {
+            "url": "https://gptpro20x.com/blog/gpt-pro-guide/",
+            "rel": "nofollow",
+            "domain": "gptpro20x.com"
+          },
+          {
+            "url": "https://gptpro20x.com/blog/supergrok-chongzhi/",
+            "rel": "nofollow",
+            "domain": "gptpro20x.com"
+          },
+          {
+            "url": "https://gptpro20x.com/blog/model-compare/",
+            "rel": "nofollow",
+            "domain": "gptpro20x.com"
+          },
+          {
+            "url": "https://gptpro5x.com/compare/grok-vs-chatgpt",
+            "rel": "nofollow",
+            "domain": "gptpro5x.com"
+          },
+          {
+            "url": "https://gptpro5x.com/compare/grok-vs-claude",
+            "rel": "nofollow",
+            "domain": "gptpro5x.com"
+          },
+          {
+            "url": "https://gptpro20x.com/blog/",
+            "rel": "nofollow",
+            "domain": "gptpro20x.com"
+          },
+          {
+            "url": "https://gptpro5x.com/tutorials",
+            "rel": "nofollow",
+            "domain": "gptpro5x.com"
+          }
+        ],
+        "scope_note": "GitHub REST rendered README HTML; ordinary repository full-page HTML was not fetched."
+      },
+      "requests": [
+        {
+          "url": "https://api.github.com/repos/jiangyy-1/gpt-chongzhi-guide",
+          "read_at_utc": "2026-10-19T10:35:55.517483+00:00",
+          "http_status": 200,
+          "exit_code": 0,
+          "response_sha256": "b66546a6d2f74a82f1518787d160cb50112413207a567f37546a2ff2fb867819"
+        },
+        {
+          "url": "https://api.github.com/repos/jiangyy-1/gpt-chongzhi-guide/commits/main",
+          "read_at_utc": "2026-10-19T10:35:56.712311+00:00",
+          "http_status": 200,
+          "exit_code": 0,
+          "response_sha256": "ce2c17921ab36e5911d715b9712ec563ed3694574d5cef69f508e0dcc7a926b4"
+        },
+        {
+          "url": "https://api.github.com/repos/jiangyy-1/gpt-chongzhi-guide/readme?ref=0fd6589961ba7aad0dddaace6e74a4df5bfc68d4",
+          "read_at_utc": "2026-10-19T10:35:57.784447+00:00",
+          "http_status": 200,
+          "exit_code": 0,
+          "response_sha256": "02be4502b4ea156035ad1af58990f26af55fc7931337b744c154ae8536b7c7b8"
+        },
+        {
+          "url": "https://api.github.com/repos/jiangyy-1/gpt-chongzhi-guide/commits?path=README.md&per_page=3&sha=0fd6589961ba7aad0dddaace6e74a4df5bfc68d4",
+          "read_at_utc": "2026-10-19T10:35:58.802586+00:00",
+          "http_status": 200,
+          "exit_code": 0,
+          "response_sha256": "6f88b9097ae186d5805b20ba9217df3b2cede246ca55d3aee01d823f4438729e"
+        },
+        {
+          "url": "https://api.github.com/repos/jiangyy-1/gpt-chongzhi-guide/git/trees/0fd6589961ba7aad0dddaace6e74a4df5bfc68d4?recursive=1",
+          "read_at_utc": "2026-10-19T10:35:59.923438+00:00",
+          "http_status": 200,
+          "exit_code": 0,
+          "response_sha256": "59d9a0e063dcc7f4969e1167867b400bd360f048e162349d11e8575d6efa6ab2"
+        }
+      ],
+      "analysis": {
+        "observed_structure": "README 以付款失败、方式比较、会员档位、平台判断和 FAQ 组织问题，并把近期内容与热门指南链接到两处商业域名。",
+        "useful_pattern": "按意图组织入口并指向对应深层文章；维护真实新增/修订记录。",
+        "do_not_copy": "未经复核的商品档位、价格、可用性、成功率、安全或官方身份表述。"
+      }
+    },
+    {
+      "repo": "li13203140613/chatgpt-plus-chongzhi-tutorial",
+      "repo_url": "https://github.com/li13203140613/chatgpt-plus-chongzhi-tutorial",
+      "read_at_utc": "2026-10-19T10:35:55.517549+00:00",
+      "public": true,
+      "head_sha": "b64547625bf1d7fdbc6751b967e6893a11601e3c",
+      "head_committed_at": "2026-06-26T04:35:02Z",
+      "head_url": "https://github.com/li13203140613/chatgpt-plus-chongzhi-tutorial/commit/b64547625bf1d7fdbc6751b967e6893a11601e3c",
+      "repo_metadata_timestamps": {
+        "created_at": "2026-06-26T04:35:14Z",
+        "updated_at": "2026-10-01T13:44:42Z",
+        "pushed_at": "2026-06-26T04:35:18Z"
+      },
+      "readme": {
+        "path": "README.md",
+        "url": "https://github.com/li13203140613/chatgpt-plus-chongzhi-tutorial/blob/b64547625bf1d7fdbc6751b967e6893a11601e3c/README.md",
+        "content_sha256": "f6c1b28ef2792403ef0383b032f0ce1810e49bff4e351ef5c9a1d538e93131ec",
+        "git_blob_sha": "abb758080bd4f9eccaaa851a3a6c8904bd5df5f2",
+        "bytes": 20289,
+        "lines": 281,
+        "headings_count": 23,
+        "image_links_count": 0,
+        "relative_markdown_link_count": 0
+      },
+      "latest_readme_path_commits": [
+        {
+          "sha": "b64547625bf1d7fdbc6751b967e6893a11601e3c",
+          "url": "https://github.com/li13203140613/chatgpt-plus-chongzhi-tutorial/commit/b64547625bf1d7fdbc6751b967e6893a11601e3c",
+          "date": "2026-06-26T04:35:02Z"
+        }
+      ],
+      "markdown_tree": {
+        "total_markdown_files": 6,
+        "groups": {
+          "[root]": 1,
+          "distribution": 5
+        },
+        "paths": [
+          "README.md",
+          "distribution/README.md",
+          "distribution/reddit.md",
+          "distribution/x-thread.md",
+          "distribution/xiaohongshu.md",
+          "distribution/zhihu.md"
+        ],
+        "truncated": false
+      },
+      "rendered_external_links": {
+        "source": "https://api.github.com/repos/li13203140613/chatgpt-plus-chongzhi-tutorial/readme?ref=b64547625bf1d7fdbc6751b967e6893a11601e3c",
+        "method": "application/vnd.github.html+json",
+        "http_status": 200,
+        "read_at_utc": "2026-10-19T10:37:35.011529+00:00",
+        "response_sha256": "85a46971ca4d98e03745173233a7e606b76ede78080c17ab4735b27c1424bd60",
+        "unique_count": 2,
+        "domain_counts": {
+          "gpt-plus.ai": 2
+        },
+        "utm_links": [
+          {
+            "url": "https://gpt-plus.ai/?utm_source=github&utm_medium=readme&utm_campaign=tutorial",
+            "rel": "nofollow",
+            "domain": "gpt-plus.ai"
+          },
+          {
+            "url": "https://gpt-plus.ai/chatgpt-pro?utm_source=github&utm_medium=readme&utm_campaign=tutorial",
+            "rel": "nofollow",
+            "domain": "gpt-plus.ai"
+          }
+        ],
+        "all_sampled_external_links_have_nofollow": true,
+        "hrefs": [
+          {
+            "url": "https://gpt-plus.ai/?utm_source=github&utm_medium=readme&utm_campaign=tutorial",
+            "rel": "nofollow",
+            "domain": "gpt-plus.ai"
+          },
+          {
+            "url": "https://gpt-plus.ai/chatgpt-pro?utm_source=github&utm_medium=readme&utm_campaign=tutorial",
+            "rel": "nofollow",
+            "domain": "gpt-plus.ai"
+          }
+        ],
+        "scope_note": "GitHub REST rendered README HTML; ordinary repository full-page HTML was not fetched."
+      },
+      "requests": [
+        {
+          "url": "https://api.github.com/repos/li13203140613/chatgpt-plus-chongzhi-tutorial",
+          "read_at_utc": "2026-10-19T10:35:55.517552+00:00",
+          "http_status": 200,
+          "exit_code": 0,
+          "response_sha256": "28e27433079af43b03e37af352cd476c4ec20144c6d265a403ba647f75eb3d79"
+        },
+        {
+          "url": "https://api.github.com/repos/li13203140613/chatgpt-plus-chongzhi-tutorial/commits/main",
+          "read_at_utc": "2026-10-19T10:35:56.704119+00:00",
+          "http_status": 200,
+          "exit_code": 0,
+          "response_sha256": "6ba94f490d6ca3ec334bd69dcf119998eb581096ba8ada1029a78afc8f5622f9"
+        },
+        {
+          "url": "https://api.github.com/repos/li13203140613/chatgpt-plus-chongzhi-tutorial/readme?ref=b64547625bf1d7fdbc6751b967e6893a11601e3c",
+          "read_at_utc": "2026-10-19T10:35:57.814714+00:00",
+          "http_status": 200,
+          "exit_code": 0,
+          "response_sha256": "1347faf6830afd9cd2dd64bdba517f1d2def40b3d98c2bdf6136e461b7d57078"
+        },
+        {
+          "url": "https://api.github.com/repos/li13203140613/chatgpt-plus-chongzhi-tutorial/commits?path=README.md&per_page=3&sha=b64547625bf1d7fdbc6751b967e6893a11601e3c",
+          "read_at_utc": "2026-10-19T10:35:58.829416+00:00",
+          "http_status": 200,
+          "exit_code": 0,
+          "response_sha256": "6742cf8cf5fac6cc6bba8d3152900e53fe1fe7311373edde2cfa743a4e44f308"
+        },
+        {
+          "url": "https://api.github.com/repos/li13203140613/chatgpt-plus-chongzhi-tutorial/git/trees/b64547625bf1d7fdbc6751b967e6893a11601e3c?recursive=1",
+          "read_at_utc": "2026-10-19T10:35:59.847056+00:00",
+          "http_status": 200,
+          "exit_code": 0,
+          "response_sha256": "020a134acb35bf896e2cba05bd5f73290cecf4576fe04e5a2997ff7cc2c955d8"
+        }
+      ],
+      "analysis": {
+        "observed_structure": "单篇 README 串联方式比较、决策、购买步骤、套餐选择、故障与 FAQ；两个商业目的地带同组 UTM。仓树另有分发草稿文件。",
+        "useful_pattern": "完整新手路径加少量上下文入口；统一来源标记。",
+        "do_not_copy": "README 自称亲测或推荐不等于可核验的独立测评；分发草稿存在不等于已发布外链。"
+      }
+    },
+    {
+      "repo": "CZGPT/chatgpt-chongzhi-guide",
+      "repo_url": "https://github.com/CZGPT/chatgpt-chongzhi-guide",
+      "read_at_utc": "2026-10-19T10:35:55.517602+00:00",
+      "public": true,
+      "head_sha": "c07a22cba6638a3e08c2db5c1906741407f834b2",
+      "head_committed_at": "2026-08-17T17:39:18Z",
+      "head_url": "https://github.com/CZGPT/chatgpt-chongzhi-guide/commit/c07a22cba6638a3e08c2db5c1906741407f834b2",
+      "repo_metadata_timestamps": {
+        "created_at": "2026-08-09T06:26:01Z",
+        "updated_at": "2026-10-14T14:27:56Z",
+        "pushed_at": "2026-08-17T17:39:18Z"
+      },
+      "readme": {
+        "path": "README.md",
+        "url": "https://github.com/CZGPT/chatgpt-chongzhi-guide/blob/c07a22cba6638a3e08c2db5c1906741407f834b2/README.md",
+        "content_sha256": "993f19cea35978f44f618944ac4155e813713ff9107235651bee11a1328dba64",
+        "git_blob_sha": "d8e0015055d8a768d7755bb02af89a2bead7e32a",
+        "bytes": 11928,
+        "lines": 162,
+        "headings_count": 14,
+        "image_links_count": 0,
+        "relative_markdown_link_count": 4
+      },
+      "latest_readme_path_commits": [
+        {
+          "sha": "c07a22cba6638a3e08c2db5c1906741407f834b2",
+          "url": "https://github.com/CZGPT/chatgpt-chongzhi-guide/commit/c07a22cba6638a3e08c2db5c1906741407f834b2",
+          "date": "2026-08-17T17:39:18Z"
+        },
+        {
+          "sha": "e57bba4c02abc0fcde33fd060a7ee4a27ac6afe4",
+          "url": "https://github.com/CZGPT/chatgpt-chongzhi-guide/commit/e57bba4c02abc0fcde33fd060a7ee4a27ac6afe4",
+          "date": "2026-08-10T14:17:38Z"
+        },
+        {
+          "sha": "7675041344e43b44b08341d27f5276558a1e09fb",
+          "url": "https://github.com/CZGPT/chatgpt-chongzhi-guide/commit/7675041344e43b44b08341d27f5276558a1e09fb",
+          "date": "2026-08-09T06:56:33Z"
+        }
+      ],
+      "markdown_tree": {
+        "total_markdown_files": 5,
+        "groups": {
+          "[root]": 1,
+          "docs": 4
+        },
+        "paths": [
+          "README.md",
+          "docs/chatgpt-plus.md",
+          "docs/claude.md",
+          "docs/codex.md",
+          "docs/errors.md"
+        ],
+        "truncated": false
+      },
+      "rendered_external_links": {
+        "source": "https://api.github.com/repos/CZGPT/chatgpt-chongzhi-guide/readme?ref=c07a22cba6638a3e08c2db5c1906741407f834b2",
+        "method": "application/vnd.github.html+json",
+        "http_status": 200,
+        "read_at_utc": "2026-10-19T10:37:35.110658+00:00",
+        "response_sha256": "8965f085a5595693e596b840e09ed6199c56b07040b7c169a0aa3ed52dc281f8",
+        "unique_count": 1,
+        "domain_counts": {
+          "www.czgptai.com": 1
+        },
+        "utm_links": [],
+        "all_sampled_external_links_have_nofollow": true,
+        "hrefs": [
+          {
+            "url": "https://www.czgptai.com/",
+            "rel": "nofollow",
+            "domain": "www.czgptai.com"
+          }
+        ],
+        "scope_note": "GitHub REST rendered README HTML; ordinary repository full-page HTML was not fetched."
+      },
+      "requests": [
+        {
+          "url": "https://api.github.com/repos/CZGPT/chatgpt-chongzhi-guide",
+          "read_at_utc": "2026-10-19T10:35:55.517604+00:00",
+          "http_status": 200,
+          "exit_code": 0,
+          "response_sha256": "e6334498b03b86568fb1018a6e6e7020c2d69ebb7dd7070f41e967bae97711c6"
+        },
+        {
+          "url": "https://api.github.com/repos/CZGPT/chatgpt-chongzhi-guide/commits/main",
+          "read_at_utc": "2026-10-19T10:35:56.700847+00:00",
+          "http_status": 200,
+          "exit_code": 0,
+          "response_sha256": "0be61134e68293238fc8842822ddbbe734449b8f16fef0866e059757814f31d2"
+        },
+        {
+          "url": "https://api.github.com/repos/CZGPT/chatgpt-chongzhi-guide/readme?ref=c07a22cba6638a3e08c2db5c1906741407f834b2",
+          "read_at_utc": "2026-10-19T10:35:58.036862+00:00",
+          "http_status": 200,
+          "exit_code": 0,
+          "response_sha256": "27f868feb9afb95030b248c920a61b9356f782da77613b35cddc9d4a096bed7a"
+        },
+        {
+          "url": "https://api.github.com/repos/CZGPT/chatgpt-chongzhi-guide/commits?path=README.md&per_page=3&sha=c07a22cba6638a3e08c2db5c1906741407f834b2",
+          "read_at_utc": "2026-10-19T10:35:58.841934+00:00",
+          "http_status": 200,
+          "exit_code": 0,
+          "response_sha256": "a1301002dcf207b8aec760e4b0f67bf1f2da0c8ee3a985717b88051d5597786a"
+        },
+        {
+          "url": "https://api.github.com/repos/CZGPT/chatgpt-chongzhi-guide/git/trees/c07a22cba6638a3e08c2db5c1906741407f834b2?recursive=1",
+          "read_at_utc": "2026-10-19T10:35:59.864690+00:00",
+          "http_status": 200,
+          "exit_code": 0,
+          "response_sha256": "89891e02988cfebfcee819a502a1681e8743d1f6945d457ed1de007df2b12c20"
+        }
+      ],
+      "analysis": {
+        "observed_structure": "README 总览关联四个本地专题文档，覆盖 Plus、Claude、Codex 和错误排查；一个商业域名入口。",
+        "useful_pattern": "总览页到专题页形成清晰可浏览层级。",
+        "do_not_copy": "专题数量或 Google 验证文件存在不能证明索引、排名或访问量。"
+      }
+    },
+    {
+      "repo": "he20000405-pixel/chatgpt-plus-pro-china-guide",
+      "repo_url": "https://github.com/he20000405-pixel/chatgpt-plus-pro-china-guide",
+      "read_at_utc": "2026-10-19T10:35:55.520411+00:00",
+      "public": true,
+      "head_sha": "b87f44bc8f42550c75ccb1d230a9b801273968b1",
+      "head_committed_at": "2026-08-18T02:39:19Z",
+      "head_url": "https://github.com/he20000405-pixel/chatgpt-plus-pro-china-guide/commit/b87f44bc8f42550c75ccb1d230a9b801273968b1",
+      "repo_metadata_timestamps": {
+        "created_at": "2026-07-10T14:46:53Z",
+        "updated_at": "2026-08-18T02:40:47Z",
+        "pushed_at": "2026-08-18T02:40:15Z"
+      },
+      "readme": {
+        "path": "README.md",
+        "url": "https://github.com/he20000405-pixel/chatgpt-plus-pro-china-guide/blob/b87f44bc8f42550c75ccb1d230a9b801273968b1/README.md",
+        "content_sha256": "e773013e1077904650cc290b807872008d5607bfcfa1db7fe8a5e045d25fe27a",
+        "git_blob_sha": "38b5d8844dc93d8e18beb0f68abc81e7db4ca881",
+        "bytes": 14057,
+        "lines": 245,
+        "headings_count": 26,
+        "image_links_count": 0,
+        "relative_markdown_link_count": 15
+      },
+      "latest_readme_path_commits": [
+        {
+          "sha": "8b53590cabdfa13eaecf0f623c9e283e92d256b9",
+          "url": "https://github.com/he20000405-pixel/chatgpt-plus-pro-china-guide/commit/8b53590cabdfa13eaecf0f623c9e283e92d256b9",
+          "date": "2026-08-05T13:24:04Z"
+        },
+        {
+          "sha": "a37a1ec41234b705884b744fdd035a1eee47e0ff",
+          "url": "https://github.com/he20000405-pixel/chatgpt-plus-pro-china-guide/commit/a37a1ec41234b705884b744fdd035a1eee47e0ff",
+          "date": "2026-07-13T05:48:00Z"
+        },
+        {
+          "sha": "df1c5f7ac793efbe5c161a3a388cbc8b1a59896d",
+          "url": "https://github.com/he20000405-pixel/chatgpt-plus-pro-china-guide/commit/df1c5f7ac793efbe5c161a3a388cbc8b1a59896d",
+          "date": "2026-07-12T13:40:25Z"
+        }
+      ],
+      "markdown_tree": {
+        "total_markdown_files": 31,
+        "groups": {
+          "[root]": 5,
+          "assets": 1,
+          "en": 2,
+          "guides": 23
+        },
+        "paths": [
+          "404.md",
+          "PUBLISHING.md",
+          "README.md",
+          "README_EN.md",
+          "assets/images/README.md",
+          "en/guides/chatgpt-paid-but-still-free.md",
+          "en/guides/chatgpt-subscription-associated-with-another-account.md",
+          "guides/chatgpt-apps-connectors.md",
+          "guides/chatgpt-cancel-subscription-refund.md",
+          "guides/chatgpt-charged-twice.md",
+          "guides/chatgpt-cloud-browser-guide.md",
+          "guides/chatgpt-codex-app-cli-ide.md",
+          "guides/chatgpt-deep-research-guide.md",
+          "guides/chatgpt-images-2-guide.md",
+          "guides/chatgpt-login-verification-loop.md",
+          "guides/chatgpt-memory-temporary-chat.md",
+          "guides/chatgpt-paid-but-still-free.md",
+          "guides/chatgpt-payment-errors.md",
+          "guides/chatgpt-plus-auto-recharge.md",
+          "guides/chatgpt-plus-multiple-devices-account-sharing.md",
+          "guides/chatgpt-plus-vs-pro.md",
+          "guides/chatgpt-pro-100-200.md",
+          "guides/chatgpt-projects-guide.md",
+          "guides/chatgpt-renewal-failed-back-to-free.md",
+          "guides/chatgpt-subscription-associated-with-another-account.md",
+          "guides/chatgpt-usage-limit-model-unavailable.md",
+          "guides/chatgpt-work-guide.md",
+          "guides/codex-usage-limit-reached.md",
+          "guides/gpt-5-6-update.md",
+          "guides/index.md",
+          "index.md"
+        ],
+        "truncated": false
+      },
+      "rendered_external_links": {
+        "source": "https://api.github.com/repos/he20000405-pixel/chatgpt-plus-pro-china-guide/readme?ref=b87f44bc8f42550c75ccb1d230a9b801273968b1",
+        "method": "application/vnd.github.html+json",
+        "http_status": 200,
+        "read_at_utc": "2026-10-19T10:37:35.286299+00:00",
+        "response_sha256": "547e3f773a160459950c707ec682f8b87e240c0ded42da028f484a0c8445b0fb",
+        "unique_count": 13,
+        "domain_counts": {
+          "chonggrok.com": 5,
+          "he20000405-pixel.github.io": 1,
+          "openai.com": 1,
+          "help.openai.com": 5,
+          "chatgpt.com": 1
+        },
+        "utm_links": [],
+        "all_sampled_external_links_have_nofollow": true,
+        "hrefs": [
+          {
+            "url": "https://chonggrok.com/chatgpt",
+            "rel": "nofollow",
+            "domain": "chonggrok.com"
+          },
+          {
+            "url": "https://chonggrok.com/verify",
+            "rel": "nofollow",
+            "domain": "chonggrok.com"
+          },
+          {
+            "url": "https://chonggrok.com/blog/chatgpt-payment-not-approved",
+            "rel": "nofollow",
+            "domain": "chonggrok.com"
+          },
+          {
+            "url": "https://he20000405-pixel.github.io/chatgpt-plus-pro-china-guide/",
+            "rel": "nofollow",
+            "domain": "he20000405-pixel.github.io"
+          },
+          {
+            "url": "https://chonggrok.com/blog/chatgpt-taocan-free-go-plus-pro-2026",
+            "rel": "nofollow",
+            "domain": "chonggrok.com"
+          },
+          {
+            "url": "https://chonggrok.com/blog/chatgpt-plus-upgrade-guide",
+            "rel": "nofollow",
+            "domain": "chonggrok.com"
+          },
+          {
+            "url": "https://openai.com/index/gpt-5-6/",
+            "rel": "nofollow",
+            "domain": "openai.com"
+          },
+          {
+            "url": "https://help.openai.com/en/articles/9624314-model-release-notes",
+            "rel": "nofollow",
+            "domain": "help.openai.com"
+          },
+          {
+            "url": "https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus",
+            "rel": "nofollow",
+            "domain": "help.openai.com"
+          },
+          {
+            "url": "https://help.openai.com/en/articles/9793128-what-is-chatgpt-pro",
+            "rel": "nofollow",
+            "domain": "help.openai.com"
+          },
+          {
+            "url": "https://chatgpt.com/pricing/",
+            "rel": "nofollow",
+            "domain": "chatgpt.com"
+          },
+          {
+            "url": "https://help.openai.com/en/articles/7232916-why-was-my-credit-card-declined",
+            "rel": "nofollow",
+            "domain": "help.openai.com"
+          },
+          {
+            "url": "https://help.openai.com/en/articles/7242622-why-did-my-chatgpt-plus-or-chatgpt-pro-renewal-transaction-fail",
+            "rel": "nofollow",
+            "domain": "help.openai.com"
+          }
+        ],
+        "scope_note": "GitHub REST rendered README HTML; ordinary repository full-page HTML was not fetched."
+      },
+      "requests": [
+        {
+          "url": "https://api.github.com/repos/he20000405-pixel/chatgpt-plus-pro-china-guide",
+          "read_at_utc": "2026-10-19T10:35:55.520432+00:00",
+          "http_status": 200,
+          "exit_code": 0,
+          "response_sha256": "813fdd1f58b07954e495b22849cdf748f7467e0ef7732561cc79a5839fa8ccab"
+        },
+        {
+          "url": "https://api.github.com/repos/he20000405-pixel/chatgpt-plus-pro-china-guide/commits/main",
+          "read_at_utc": "2026-10-19T10:35:56.701200+00:00",
+          "http_status": 200,
+          "exit_code": 0,
+          "response_sha256": "60a6c794beb954e7cf50c1333ae1ec0faf543d630f6c83a2bdd3f255a0fd44df"
+        },
+        {
+          "url": "https://api.github.com/repos/he20000405-pixel/chatgpt-plus-pro-china-guide/readme?ref=b87f44bc8f42550c75ccb1d230a9b801273968b1",
+          "read_at_utc": "2026-10-19T10:35:57.997518+00:00",
+          "http_status": 200,
+          "exit_code": 0,
+          "response_sha256": "f7f9fc82c616d339055e4d45fa08bea13e822004db1704d76c480cfa7686ff14"
+        },
+        {
+          "url": "https://api.github.com/repos/he20000405-pixel/chatgpt-plus-pro-china-guide/commits?path=README.md&per_page=3&sha=b87f44bc8f42550c75ccb1d230a9b801273968b1",
+          "read_at_utc": "2026-10-19T10:35:58.821854+00:00",
+          "http_status": 200,
+          "exit_code": 0,
+          "response_sha256": "8bcfe47e1983c0478c727dbccd59afa66b77142ff7c7a2835d7cabdc0cb30810"
+        },
+        {
+          "url": "https://api.github.com/repos/he20000405-pixel/chatgpt-plus-pro-china-guide/git/trees/b87f44bc8f42550c75ccb1d230a9b801273968b1?recursive=1",
+          "read_at_utc": "2026-10-19T10:35:59.869939+00:00",
+          "http_status": 200,
+          "exit_code": 0,
+          "response_sha256": "215292632b8a129720d40be3a777baa57256beed15339234b928d0efc975b251"
+        }
+      ],
+      "analysis": {
+        "observed_structure": "README 区分方案、卡密与升级流程，解释免密码授权的权限边界，并关联本地指南、主站延伸文章及官方帮助。含中英文文档和 Pages 配置。",
+        "useful_pattern": "把授权风险、适用限制与交付验收写进流程；保留官方来源和与任务对应的延伸阅读。",
+        "do_not_copy": "不能将他站 session 流程当成自有后端已经支持的功能，不能把私密凭证放进公开指南。"
+      }
+    }
+  ],
+  "verified_readme_update_samples": [
+    {
+      "url": "https://github.com/jiangyy-1/gpt-chongzhi-guide/commit/0fd6589961ba7aad0dddaace6e74a4df5bfc68d4",
+      "api_url": "https://api.github.com/repos/jiangyy-1/gpt-chongzhi-guide/commits/0fd6589961ba7aad0dddaace6e74a4df5bfc68d4",
+      "read_at_utc": "2026-10-19T10:36:59.703776+00:00",
+      "http_status": 200,
+      "response_sha256": "ce2c17921ab36e5911d715b9712ec563ed3694574d5cef69f508e0dcc7a926b4",
+      "stats": {
+        "total": 4,
+        "additions": 2,
+        "deletions": 2
+      },
+      "files": [
+        {
+          "filename": "README.md",
+          "status": "modified",
+          "additions": 2,
+          "deletions": 2,
+          "changes": 4
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/jiangyy-1/gpt-chongzhi-guide/commit/cb6510be92b9bc31320ce9c5d8aa4074f10953ba",
+      "api_url": "https://api.github.com/repos/jiangyy-1/gpt-chongzhi-guide/commits/cb6510be92b9bc31320ce9c5d8aa4074f10953ba",
+      "read_at_utc": "2026-10-19T10:37:00.693501+00:00",
+      "http_status": 200,
+      "response_sha256": "874ed5d897f59d1c576cc51e589b162bb84f7c32310432d1f868425ab981b188",
+      "stats": {
+        "total": 101,
+        "additions": 100,
+        "deletions": 1
+      },
+      "files": [
+        {
+          "filename": "README.md",
+          "status": "modified",
+          "additions": 1,
+          "deletions": 1,
+          "changes": 2
+        },
+        {
+          "filename": "articles/2026-10-13-guonei-kaitong-chatgpt-plus.md",
+          "status": "added",
+          "additions": 99,
+          "deletions": 0,
+          "changes": 99
+        }
+      ]
+    }
+  ],
+  "public_http_checks": [
+    {
+      "kind": "competitor_target",
+      "requested_url": "https://gptpro20x.com/",
+      "read_at_utc": "2026-10-19T10:36:57.643589+00:00",
+      "method": "public HTTP GET, no webpage script execution",
+      "final_url": "https://gptpro20x.com/",
+      "http_status": 200,
+      "bytes_read": 37083,
+      "body_sha256": "76960be07cb98022d3cd8992401f4e076046b756ba4934ee846febda647e0311",
+      "content_type": "text/html; charset=utf-8",
+      "title": "GPT充值_GPT代充 - ChatGPT/Claude/Gemini/Grok 官方订阅直充 | 闪充AI",
+      "canonical_urls": [
+        "https://gptpro20x.com/"
+      ]
+    },
+    {
+      "kind": "competitor_target",
+      "requested_url": "https://gptpro5x.com/",
+      "read_at_utc": "2026-10-19T10:36:57.644183+00:00",
+      "method": "public HTTP GET, no webpage script execution",
+      "final_url": "https://gptpro5x.com/",
+      "http_status": 200,
+      "bytes_read": 136144,
+      "body_sha256": "57deabf2648637dd8e7b76c73fdc7003eb7d139045f00a4e0f8712c2b8f05255",
+      "content_type": "text/html; charset=utf-8",
+      "title": "ChatGPT充值_ChatGPT代充 - GPT会员订阅/升级 国内开通 人民币直付 | GPTPro",
+      "canonical_urls": [
+        "https://gptpro5x.com/"
+      ]
+    },
+    {
+      "kind": "competitor_target",
+      "requested_url": "https://gpt-plus.ai/?utm_source=github&utm_medium=readme&utm_campaign=tutorial",
+      "read_at_utc": "2026-10-19T10:36:57.644252+00:00",
+      "method": "public HTTP GET, no webpage script execution",
+      "final_url": "https://gpt-plus.ai/?utm_source=github&utm_medium=readme&utm_campaign=tutorial",
+      "http_status": 200,
+      "bytes_read": 83372,
+      "body_sha256": "e8b5cc631f202bbcd78d3dd77143cc77995f06eef3d025632b05578ebd3ca3d6",
+      "content_type": "text/html; charset=utf-8",
+      "title": "ChatGPT Plus 代充值会员订阅｜Codex PRO Plus 账户购买续费",
+      "canonical_urls": [
+        "https://gpt-plus.ai"
+      ]
+    },
+    {
+      "kind": "competitor_target",
+      "requested_url": "https://gpt-plus.ai/chatgpt-pro?utm_source=github&utm_medium=readme&utm_campaign=tutorial",
+      "read_at_utc": "2026-10-19T10:36:57.644301+00:00",
+      "method": "public HTTP GET, no webpage script execution",
+      "final_url": "https://gpt-plus.ai/chatgpt-pro?utm_source=github&utm_medium=readme&utm_campaign=tutorial",
+      "http_status": 200,
+      "bytes_read": 98378,
+      "body_sha256": "d2df1d63dec7d4e3fe390b5a79750f248c3182e0ffff395f4acc2b0406693543",
+      "content_type": "text/html; charset=utf-8",
+      "title": "ChatGPT Pro 代充值服务｜Pro $100/$200 套餐｜支持支付宝 | ChatGPT Plus 充值",
+      "canonical_urls": [
+        "https://gpt-plus.ai/chatgpt-pro"
+      ]
+    },
+    {
+      "kind": "competitor_target",
+      "requested_url": "https://www.czgptai.com/",
+      "read_at_utc": "2026-10-19T10:36:58.342528+00:00",
+      "method": "public HTTP GET, no webpage script execution",
+      "final_url": "https://www.czgptai.com/",
+      "http_status": 200,
+      "bytes_read": 128203,
+      "body_sha256": "c1356e57576ade41d9a363e3e01a8f1be2604ecb273930947693f461f9e0549f",
+      "content_type": "text/html; charset=utf-8",
+      "title": "ChatGPT Plus充值服务｜GPT充值 - GPTPro充值 - Codex充值 - Claude账号 - Claude充值 - Grok充值 - Grok代充服务 - CZGPT",
+      "canonical_urls": [
+        "https://www.czgptai.com"
+      ]
+    },
+    {
+      "kind": "competitor_target",
+      "requested_url": "https://chonggrok.com/chatgpt",
+      "read_at_utc": "2026-10-19T10:36:58.570991+00:00",
+      "method": "public HTTP GET, no webpage script execution",
+      "final_url": "https://chonggrok.com/chatgpt",
+      "http_status": 200,
+      "bytes_read": 104608,
+      "body_sha256": "9a7ddd3a5c80926c96d1982e69cd45d7d536f925fe916ae7368c6891e7bc21fc",
+      "content_type": "text/html; charset=utf-8",
+      "title": "ChatGPT Plus 充值｜GPT-6.1 Sol、Go / Plus / Pro 权益对比 | ChongGrok",
+      "canonical_urls": [
+        "https://chonggrok.com/chatgpt"
+      ]
+    },
+    {
+      "kind": "google_primary",
+      "requested_url": "https://developers.google.com/search/docs/essentials/spam-policies",
+      "read_at_utc": "2026-10-19T10:36:59.155277+00:00",
+      "method": "public HTTP GET, no webpage script execution",
+      "final_url": "https://developers.google.com/search/docs/essentials/spam-policies",
+      "http_status": 200,
+      "bytes_read": 211212,
+      "body_sha256": "25d66b762f0cbb139b28f6ddf3e4ccdd4ab2792a0fd3fd3ca516eb9a09efc3a3",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Spam Policies for Google Web Search | Google Search Central  |  Documentation  |  Google for Developers",
+      "canonical_urls": [
+        "https://developers.google.com/search/docs/essentials/spam-policies"
+      ],
+      "text_sha256": "180d3ae2b37e353aebf3294c8794fadeba34c93f9b4fabf675c64d720e3e20ca",
+      "text_character_count": 40016,
+      "last_updated_visible": [
+        "Last updated 2026-08-28 UTC",
+        "Last updated 2026-08-28 UTC"
+      ]
+    },
+    {
+      "kind": "google_primary",
+      "requested_url": "https://developers.google.com/search/docs/crawling-indexing/links-crawlable",
+      "read_at_utc": "2026-10-19T10:36:59.176399+00:00",
+      "method": "public HTTP GET, no webpage script execution",
+      "final_url": "https://developers.google.com/search/docs/crawling-indexing/links-crawlable",
+      "http_status": 200,
+      "bytes_read": 184568,
+      "body_sha256": "316599e1460d9f469745e12a05701382187e528ddb14595f0720ea3668a44202",
+      "content_type": "text/html; charset=utf-8",
+      "title": "SEO Link Best Practices for Google | Google Search Central  |  Documentation  |  Google for Developers",
+      "canonical_urls": [
+        "https://developers.google.com/search/docs/crawling-indexing/links-crawlable"
+      ],
+      "text_sha256": "7aab5df8bf06dd0dc911f4d7f3fb7bfc714aaca10a7b4f8a035152698e771e2f",
+      "text_character_count": 16472,
+      "last_updated_visible": [
+        "Last updated 2025-12-10 UTC",
+        "Last updated 2025-12-10 UTC"
+      ]
+    },
+    {
+      "kind": "google_primary",
+      "requested_url": "https://developers.google.com/search/docs/crawling-indexing/ask-google-to-recrawl",
+      "read_at_utc": "2026-10-19T10:36:59.199674+00:00",
+      "method": "public HTTP GET, no webpage script execution",
+      "final_url": "https://developers.google.com/search/docs/crawling-indexing/ask-google-to-recrawl",
+      "http_status": 200,
+      "bytes_read": 170761,
+      "body_sha256": "07c0ce498911bca0eb8d09fff4d2fe3b69d58abfcaecf21ed65c44bd7bcc7827",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Ask Google to Recrawl Your Website | Google Search Central  |  Documentation  |  Google for Developers",
+      "canonical_urls": [
+        "https://developers.google.com/search/docs/crawling-indexing/ask-google-to-recrawl"
+      ],
+      "text_sha256": "e4837c6fd82a71ae5f2be47c0742619ed75a2f26848ba4974c1e84992169bab4",
+      "text_character_count": 10148,
+      "last_updated_visible": [
+        "Last updated 2025-12-10 UTC",
+        "Last updated 2025-12-10 UTC"
+      ]
+    },
+    {
+      "kind": "google_primary",
+      "requested_url": "https://developers.google.com/search/docs/crawling-indexing/sitemaps/build-sitemap",
+      "read_at_utc": "2026-10-19T10:36:59.625395+00:00",
+      "method": "public HTTP GET, no webpage script execution",
+      "final_url": "https://developers.google.com/search/docs/crawling-indexing/sitemaps/build-sitemap",
+      "http_status": 200,
+      "bytes_read": 191331,
+      "body_sha256": "f0be31dee2792cfffda322769926d7a948355cd24789fcb57b94c21691f61f30",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Build and Submit a Sitemap | Google Search Central  |  Documentation  |  Google for Developers",
+      "canonical_urls": [
+        "https://developers.google.com/search/docs/crawling-indexing/sitemaps/build-sitemap"
+      ],
+      "text_sha256": "ea799b1d220cbec738a82872ea185ac109c3e99756ce0eba8f6b2506c020c595",
+      "text_character_count": 20257,
+      "last_updated_visible": [
+        "Last updated 2026-07-08 UTC",
+        "Last updated 2026-07-08 UTC"
+      ]
+    },
+    {
+      "kind": "google_primary",
+      "requested_url": "https://developers.google.com/search/docs/appearance/ranking-systems-guide",
+      "read_at_utc": "2026-10-19T10:36:59.896490+00:00",
+      "method": "public HTTP GET, no webpage script execution",
+      "final_url": "https://developers.google.com/search/docs/appearance/ranking-systems-guide",
+      "http_status": 200,
+      "bytes_read": 187974,
+      "body_sha256": "527a298378636f6b1f58b91c8e690fcc076f2d76a95d7082481afad7cdb80ce1",
+      "content_type": "text/html; charset=utf-8",
+      "title": "A Guide to Google Search Ranking Systems | Google Search Central  |  Documentation  |  Google for Developers",
+      "canonical_urls": [
+        "https://developers.google.com/search/docs/appearance/ranking-systems-guide"
+      ],
+      "text_sha256": "568fd6990b102ae84070507ca9c2e63a192ee8144de0a283bcea9201f25906af",
+      "text_character_count": 19818,
+      "last_updated_visible": [
+        "Last updated 2025-12-10 UTC",
+        "Last updated 2025-12-10 UTC"
+      ]
+    },
+    {
+      "kind": "google_primary",
+      "requested_url": "https://developers.google.com/search/docs/fundamentals/creating-helpful-content",
+      "read_at_utc": "2026-10-19T10:36:59.986163+00:00",
+      "method": "public HTTP GET, no webpage script execution",
+      "final_url": "https://developers.google.com/search/docs/fundamentals/creating-helpful-content",
+      "http_status": 200,
+      "bytes_read": 189814,
+      "body_sha256": "f4ab7ca1c13bc5fcf54aad0357d636869b3338eacee3e3d2d0792e2dc0543bdc",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Creating Helpful, Reliable, People-First Content | Google Search Central  |  Documentation  |  Google for Developers",
+      "canonical_urls": [
+        "https://developers.google.com/search/docs/fundamentals/creating-helpful-content"
+      ],
+      "text_sha256": "5bc355685dfc15462d01b2ea293a91464f287befb94a2832214f1a1f7be36c1e",
+      "text_character_count": 22924,
+      "last_updated_visible": [
+        "Last updated 2026-10-05 UTC",
+        "Last updated 2026-10-05 UTC"
+      ]
+    }
+  ],
+  "google_primary_evidence": [
+    {
+      "kind": "google_primary",
+      "requested_url": "https://developers.google.com/search/docs/essentials/spam-policies",
+      "read_at_utc": "2026-10-19T10:36:59.155277+00:00",
+      "method": "public HTTP GET, no webpage script execution",
+      "final_url": "https://developers.google.com/search/docs/essentials/spam-policies",
+      "http_status": 200,
+      "bytes_read": 211212,
+      "body_sha256": "25d66b762f0cbb139b28f6ddf3e4ccdd4ab2792a0fd3fd3ca516eb9a09efc3a3",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Spam Policies for Google Web Search | Google Search Central  |  Documentation  |  Google for Developers",
+      "canonical_urls": [
+        "https://developers.google.com/search/docs/essentials/spam-policies"
+      ],
+      "text_sha256": "180d3ae2b37e353aebf3294c8794fadeba34c93f9b4fabf675c64d720e3e20ca",
+      "text_character_count": 40016,
+      "last_updated_visible": [
+        "Last updated 2026-08-28 UTC",
+        "Last updated 2026-08-28 UTC"
+      ]
+    },
+    {
+      "kind": "google_primary",
+      "requested_url": "https://developers.google.com/search/docs/crawling-indexing/links-crawlable",
+      "read_at_utc": "2026-10-19T10:36:59.176399+00:00",
+      "method": "public HTTP GET, no webpage script execution",
+      "final_url": "https://developers.google.com/search/docs/crawling-indexing/links-crawlable",
+      "http_status": 200,
+      "bytes_read": 184568,
+      "body_sha256": "316599e1460d9f469745e12a05701382187e528ddb14595f0720ea3668a44202",
+      "content_type": "text/html; charset=utf-8",
+      "title": "SEO Link Best Practices for Google | Google Search Central  |  Documentation  |  Google for Developers",
+      "canonical_urls": [
+        "https://developers.google.com/search/docs/crawling-indexing/links-crawlable"
+      ],
+      "text_sha256": "7aab5df8bf06dd0dc911f4d7f3fb7bfc714aaca10a7b4f8a035152698e771e2f",
+      "text_character_count": 16472,
+      "last_updated_visible": [
+        "Last updated 2025-12-10 UTC",
+        "Last updated 2025-12-10 UTC"
+      ]
+    },
+    {
+      "kind": "google_primary",
+      "requested_url": "https://developers.google.com/search/docs/crawling-indexing/ask-google-to-recrawl",
+      "read_at_utc": "2026-10-19T10:36:59.199674+00:00",
+      "method": "public HTTP GET, no webpage script execution",
+      "final_url": "https://developers.google.com/search/docs/crawling-indexing/ask-google-to-recrawl",
+      "http_status": 200,
+      "bytes_read": 170761,
+      "body_sha256": "07c0ce498911bca0eb8d09fff4d2fe3b69d58abfcaecf21ed65c44bd7bcc7827",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Ask Google to Recrawl Your Website | Google Search Central  |  Documentation  |  Google for Developers",
+      "canonical_urls": [
+        "https://developers.google.com/search/docs/crawling-indexing/ask-google-to-recrawl"
+      ],
+      "text_sha256": "e4837c6fd82a71ae5f2be47c0742619ed75a2f26848ba4974c1e84992169bab4",
+      "text_character_count": 10148,
+      "last_updated_visible": [
+        "Last updated 2025-12-10 UTC",
+        "Last updated 2025-12-10 UTC"
+      ]
+    },
+    {
+      "kind": "google_primary",
+      "requested_url": "https://developers.google.com/search/docs/crawling-indexing/sitemaps/build-sitemap",
+      "read_at_utc": "2026-10-19T10:36:59.625395+00:00",
+      "method": "public HTTP GET, no webpage script execution",
+      "final_url": "https://developers.google.com/search/docs/crawling-indexing/sitemaps/build-sitemap",
+      "http_status": 200,
+      "bytes_read": 191331,
+      "body_sha256": "f0be31dee2792cfffda322769926d7a948355cd24789fcb57b94c21691f61f30",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Build and Submit a Sitemap | Google Search Central  |  Documentation  |  Google for Developers",
+      "canonical_urls": [
+        "https://developers.google.com/search/docs/crawling-indexing/sitemaps/build-sitemap"
+      ],
+      "text_sha256": "ea799b1d220cbec738a82872ea185ac109c3e99756ce0eba8f6b2506c020c595",
+      "text_character_count": 20257,
+      "last_updated_visible": [
+        "Last updated 2026-07-08 UTC",
+        "Last updated 2026-07-08 UTC"
+      ]
+    },
+    {
+      "kind": "google_primary",
+      "requested_url": "https://developers.google.com/search/docs/appearance/ranking-systems-guide",
+      "read_at_utc": "2026-10-19T10:36:59.896490+00:00",
+      "method": "public HTTP GET, no webpage script execution",
+      "final_url": "https://developers.google.com/search/docs/appearance/ranking-systems-guide",
+      "http_status": 200,
+      "bytes_read": 187974,
+      "body_sha256": "527a298378636f6b1f58b91c8e690fcc076f2d76a95d7082481afad7cdb80ce1",
+      "content_type": "text/html; charset=utf-8",
+      "title": "A Guide to Google Search Ranking Systems | Google Search Central  |  Documentation  |  Google for Developers",
+      "canonical_urls": [
+        "https://developers.google.com/search/docs/appearance/ranking-systems-guide"
+      ],
+      "text_sha256": "568fd6990b102ae84070507ca9c2e63a192ee8144de0a283bcea9201f25906af",
+      "text_character_count": 19818,
+      "last_updated_visible": [
+        "Last updated 2025-12-10 UTC",
+        "Last updated 2025-12-10 UTC"
+      ]
+    },
+    {
+      "kind": "google_primary",
+      "requested_url": "https://developers.google.com/search/docs/fundamentals/creating-helpful-content",
+      "read_at_utc": "2026-10-19T10:36:59.986163+00:00",
+      "method": "public HTTP GET, no webpage script execution",
+      "final_url": "https://developers.google.com/search/docs/fundamentals/creating-helpful-content",
+      "http_status": 200,
+      "bytes_read": 189814,
+      "body_sha256": "f4ab7ca1c13bc5fcf54aad0357d636869b3338eacee3e3d2d0792e2dc0543bdc",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Creating Helpful, Reliable, People-First Content | Google Search Central  |  Documentation  |  Google for Developers",
+      "canonical_urls": [
+        "https://developers.google.com/search/docs/fundamentals/creating-helpful-content"
+      ],
+      "text_sha256": "5bc355685dfc15462d01b2ea293a91464f287befb94a2832214f1a1f7be36c1e",
+      "text_character_count": 22924,
+      "last_updated_visible": [
+        "Last updated 2026-10-05 UTC",
+        "Last updated 2026-10-05 UTC"
+      ]
+    }
+  ],
+  "chapter9_corrections": [
+    {
+      "claim": "新站必经固定 3–6 个月沙盒，借 GitHub 可直接跳过",
+      "assessment": "本次查到的官方依据不支持固定等待期或跳过承诺。官方说明重新抓取可能需要数天到数周，申请也不保证收录。",
+      "source_url": "https://developers.google.com/search/docs/crawling-indexing/ask-google-to-recrawl",
+      "implementation": "发布可访问的有效内容，提交真实 sitemap，并用站长工具核验抓取/索引。"
+    },
+    {
+      "claim": "GitHub 的 DA 95+ 可 100% 继承给仓库或主站",
+      "assessment": "官方说明排名同时采用页面及网站信号，强网站信号不保证每页高排名。四个样本渲染的站外链接均带 nofollow，不能描述为已验证的 dofollow 权重传递；nofollow 也不等于链接没有读者价值。",
+      "source_url": "https://developers.google.com/search/docs/appearance/ranking-systems-guide",
+      "implementation": "以读者访问、上下文相关和真实内容价值评估指南，不承诺权重比例。"
+    },
+    {
+      "claim": "每天空提交或只刷新日期能促进排名",
+      "assessment": "未发现支持 Git 空提交直接改善 Google 排名的官方依据。官方 lastmod 指南要求日期对应可验证的重大页面更新。",
+      "source_url": "https://developers.google.com/search/docs/crawling-indexing/sitemaps/build-sitemap",
+      "implementation": "只有正文、结构化数据或相关链接真正修订才更新页面核验日期；保留首次发布与修订日志。"
+    },
+    {
+      "claim": "发布虚假优惠券截流",
+      "assessment": "不采用不存在的优惠。官方对许诺实际无法提供的功能/权益、误导导流有明确限制；真实优惠也要写明适用条件与期限。此处是将通用误导规则应用于虚假权益的判断，不声称官方单列了所有优惠券情形。",
+      "source_url": "https://developers.google.com/search/docs/essentials/spam-policies#misleading-functionality",
+      "implementation": "仅发布已确认可用优惠；没有活动则明确无已核实优惠。"
+    },
+    {
+      "claim": "自动铺大量近似指南、论坛签名、互链或买旧域能保证外链收益",
+      "assessment": "官方将以操纵排名为目的的自动建链、低价值链接内容和过度交换列为链接垃圾；低价值规模内容及过期域名滥用另有规定。",
+      "source_url": "https://developers.google.com/search/docs/essentials/spam-policies#link-spam",
+      "implementation": "内容分工、原创实用说明和少量相关链接；付费推广使用适当 sponsored/nofollow，不自动灌水。"
+    }
+  ],
+  "implementation_insights": [
+    {
+      "priority": 1,
+      "action": "先完善公共指南 README 的任务导航",
+      "details": "按选套餐、付款失败、到账验收、续费、Codex、企业票据等任务指向真实存在的专题；每个问题写直接答案、适用条件和下一步，避免堆砌词库。",
+      "evidence_repos": [
+        "https://github.com/jiangyy-1/gpt-chongzhi-guide",
+        "https://github.com/CZGPT/chatgpt-chongzhi-guide"
+      ]
+    },
+    {
+      "priority": 2,
+      "action": "两个商业站按已确定的主题所有者接流量",
+      "details": "PayForGPT 负责对应订阅/排错/企业说明，Nano 对应多品类与实体卡需求。公共指南只在相关段落放对应深层链接，说明同作者或关联运营关系，保留官方直接订阅选择。不要复制两套近似文章。",
+      "evidence_repos": [
+        "https://github.com/jiangyy-1/gpt-chongzhi-guide",
+        "https://github.com/he20000405-pixel/chatgpt-plus-pro-china-guide"
+      ]
+    },
+    {
+      "priority": 3,
+      "action": "使用真实 UTM 追踪少量上下文入口",
+      "details": "固定来源 github、媒介 guide/readme 和可读 campaign；参数不含账号、订单或凭证。UTM 与点击仅代表来源线索，不能当作付费/交付归因。",
+      "evidence_repos": [
+        "https://github.com/li13203140613/chatgpt-plus-chongzhi-tutorial"
+      ]
+    },
+    {
+      "priority": 4,
+      "action": "提供原创步骤图、决策表与错误分支",
+      "details": "以自己当前可验流程作图，图下有可访问文字说明和结果验收。四份样本 README 没有观察到内嵌图片，图文是值得补齐的体验方向，而非已经证实能提升 CTR 的承诺。",
+      "evidence_repos": [
+        "https://github.com/jiangyy-1/gpt-chongzhi-guide",
+        "https://github.com/li13203140613/chatgpt-plus-chongzhi-tutorial",
+        "https://github.com/CZGPT/chatgpt-chongzhi-guide",
+        "https://github.com/he20000405-pixel/chatgpt-plus-pro-china-guide"
+      ]
+    },
+    {
+      "priority": 5,
+      "action": "只把可公开资料放公共指南",
+      "details": "保留官方来源、事实复核日期、首次发布日期和真实修订说明。商品可用性与交付能力以自有线上行为为准，网站/后端源码与凭证不因做 SEO 而公开。",
+      "evidence_repos": [
+        "https://github.com/he20000405-pixel/chatgpt-plus-pro-china-guide"
+      ]
+    },
+    {
+      "priority": 6,
+      "action": "分开验收发布、索引与成交",
+      "details": "GitHub/站点可读和目标 200 是发布验收；索引、曝光与点击需站长工具数据；成交与交付来源需完成服务器归因。不能把 stars、提交次数、UTM 或链接数量当成绩效。",
+      "evidence_repos": []
+    }
+  ],
+  "what_cannot_be_proved": [
+    "Traffic, search rankings, impressions, conversions, advertising budget or CAC of these repositories or sites.",
+    "Merchant ownership, affiliation or independence from the existence of a domain link alone.",
+    "Every article is original or factual, all linked pages work, or a directory file was actually distributed.",
+    "A README date, recent commit or GitHub verification file demonstrates indexing or SEO benefit.",
+    "A nofollow link has no referral value, or conversely carries a guaranteed measurable amount of search ranking credit.",
+    "Current own merchant fulfillment, inventory, prices, authorization behavior or invoice eligibility from competitor copy."
+  ],
+  "counts_caveats": [
+    "Markdown tree counts include README, index, distribution, asset and data documents; they are not article counts.",
+    "README external-link counts are deduplicated hrefs observed in GitHub REST rendered HTML, not backlink counts to the site.",
+    "Only six selected commercial URLs were requested, all returned HTTP 200 at read time; this does not verify their promises or all external targets.",
+    "Repository metadata updated_at/pushed_at, head commit and README path commit dates are separate measurements."
+  ],
+  "source_integrity": "No full README prose, snapshots, customer data, credentials, private Feishu text or private backend details are included."
+}

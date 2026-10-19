@@ -1,0 +1,230 @@
+{
+  "result": "pass",
+  "verifiedAtUtc": "2026-10-19T10:52:53.607419+00:00",
+  "scope": "GETGPT Pro first five related editorial queries; one owner per merchant site plus one new public tutorial. This is not a five-new-article batch or observed ranking-keyword report.",
+  "keywords": [
+    "GETGPT Pro",
+    "GETGPT",
+    "getgpt.pro官网",
+    "GETGPT靠谱吗",
+    "GETGPT卡密兑换"
+  ],
+  "sourceReleases": [
+    {
+      "repository": "hyai-dev/payforgpt-web",
+      "commit": "097eaa30487657ac80078503b8809fa3da1ae157",
+      "sourceFiles": [
+        "app/ai-subscriptions/[slug]/page.tsx",
+        "app/llms.txt/route.ts",
+        "components/merchant-guide-hub.tsx",
+        "lib/merchant-guide-paths.ts",
+        "lib/merchant-guides.ts",
+        "lib/nano-seo-content.ts",
+        "docs/research/chapter9-getgpt-implementation-2026-10-19.md",
+        "public/images/guides/getgpt-activation-pfg-20261019.svg",
+        "public/images/guides/getgpt-activation-pfg-20261019.webp"
+      ],
+      "pushedTo": "main",
+      "deployStatus": "success",
+      "productionWorkflow": "https://github.com/hyai-dev/payforgpt-web/actions/runs/39239535156",
+      "ordinaryPublicReadback": "pass"
+    },
+    {
+      "repository": "hyai-dev/nano-banana-web",
+      "commit": "9e69527e9a80c490698a4f7f95dd28e3f10dd570",
+      "sourceFiles": [
+        "app/ai-subscriptions/page.tsx",
+        "app/llms.txt/route.ts",
+        "lib/nano-seo-content.ts",
+        "docs/research/chapter9-getgpt-implementation-2026-10-19.md",
+        "public/images/guides/getgpt-activation-nano-20261019.svg",
+        "public/images/guides/getgpt-activation-nano-20261019.webp"
+      ],
+      "pushedTo": "main",
+      "deployStatus": "success",
+      "productionWorkflow": "https://github.com/hyai-dev/nano-banana-web/actions/runs/39239737861",
+      "ordinaryPublicReadback": "pass"
+    }
+  ],
+  "workflows": [
+    {
+      "conclusion": "success",
+      "databaseId": 39239535156,
+      "headSha": "097eaa30487657ac80078503b8809fa3da1ae157",
+      "status": "completed",
+      "url": "https://github.com/hyai-dev/payforgpt-web/actions/runs/39239535156",
+      "workflowName": "Build and Push Docker Image",
+      "repository": "hyai-dev/payforgpt-web"
+    },
+    {
+      "conclusion": "success",
+      "databaseId": 39239737861,
+      "headSha": "9e69527e9a80c490698a4f7f95dd28e3f10dd570",
+      "status": "completed",
+      "url": "https://github.com/hyai-dev/nano-banana-web/actions/runs/39239737861",
+      "workflowName": "Build and Push Docker Image",
+      "repository": "hyai-dev/nano-banana-web"
+    }
+  ],
+  "nano": {
+    "change": "Update existing owner",
+    "url": "https://nano-banana.lol/ai-subscriptions/getgpt-alternative",
+    "publishedAt": "2026-07-30",
+    "reviewedAt": "2026-10-19",
+    "sourceHashes": {
+      "lib/nano-seo-content.ts": "a9a28bc39d59c31db93269b73f654fa9aa9cb2b4d59c8ccb918007f8ab32ae30",
+      "app/ai-subscriptions/page.tsx": "8573a98af8adeae686451fa15996b94d16e70f1a2051ad052912ccb1271a74f6",
+      "app/llms.txt/route.ts": "a5739a32e27214cd7f7d117b8b77b3e6f4073bf0e069ad1990e94c7ce5614cc6",
+      "public/images/guides/getgpt-activation-nano-20261019.svg": "804b6975e7e03096c230d900bb8465895311cd739a1beabea41e4cf1c23285ff",
+      "public/images/guides/getgpt-activation-nano-20261019.webp": "56893a7679f43ef7a5b1d65ec944e56efd613ae0ee0631f1e43321f02d09247e"
+    },
+    "checks": [
+      {
+        "command": "npm run check:seo-title-style",
+        "exitCode": 0
+      },
+      {
+        "command": "npm run test:seo-internal-links",
+        "exitCode": 0
+      },
+      {
+        "command": "npm run test:nano-link-integrity-p1",
+        "exitCode": 0
+      },
+      {
+        "command": "npm run test:guide-truthful-order-state",
+        "exitCode": 0
+      },
+      {
+        "command": "npm run test:json-ld-serialization",
+        "exitCode": 0
+      },
+      {
+        "command": "./node_modules/.bin/tsc --noEmit --incremental false",
+        "exitCode": 0
+      },
+      {
+        "command": "npm run check:copy-safety",
+        "exitCode": 0
+      },
+      {
+        "command": "npm run check:contrast",
+        "exitCode": 0
+      },
+      {
+        "command": "git diff --check",
+        "exitCode": 0
+      },
+      {
+        "command": "npm run build",
+        "exitCode": 0
+      },
+      {
+        "command": "GET-only local production HTML and asset readback",
+        "exitCode": 0
+      }
+    ],
+    "buildExit": 0,
+    "localRuntimeChecks": {
+      "owner200": true,
+      "selfCanonical": true,
+      "indexableRobots": true,
+      "sourceNoteVisible": true,
+      "distinctMerchantIdentity": true,
+      "datesPreservedAndReviewed": true,
+      "uniqueStableAnchors": 7,
+      "faqTextVisible": 6,
+      "articleCitationUrls": 8,
+      "figureAltDimensionsAndCaption": true,
+      "assetsByteMatchSource": true,
+      "merchantTopCTA": true,
+      "hubDiscovery": true,
+      "compareDiscovery": true,
+      "llmsDiscovery": true,
+      "sitemapUniqueUrls": 442,
+      "ownerUrlOccurrence": 1,
+      "ownerLastmod": "2026-10-19T00:00:00.000Z"
+    }
+  },
+  "payforgpt": {
+    "change": "One new owner",
+    "url": "https://payforgpt.com/ai-subscriptions/getgpt-review",
+    "publishedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "sourceHashes": {
+      "app/ai-subscriptions/[slug]/page.tsx": "585e97435aaa77c8d6172d24b38d5918138e1e4745af6b4ec621cf602a970eba",
+      "app/llms.txt/route.ts": "a57e707a762aabdf60a23ce18d074969ba64ea67b5c5dd1b9820846dcded0ee3",
+      "components/merchant-guide-hub.tsx": "8ac53634fe7938e222b66eb545183eaeebef451bb9cfb05fc984650dd4c90110",
+      "lib/merchant-guide-paths.ts": "20a1926c71bfe2f6a9197d0a868b439521e3c0081e54cbf52b78bdb93a1b087f",
+      "lib/merchant-guides.ts": "856022136051c5fda32245b1be387b235b9bc8fafb0d10b667717eb490ebe305",
+      "lib/nano-seo-content.ts": "28ca7b93de2c1ef675aef2481c2e53324ddcff58b69f231cce39005aeb405441",
+      "public/images/guides/getgpt-activation-pfg-20261019.svg": "50dbbed0e9a15d371653efadb2ddb449d76f19a73dffc50dca5e97f5874f2030",
+      "public/images/guides/getgpt-activation-pfg-20261019.webp": "31f4b92db5bfc31aed18e0bf9e9b94c6a0a43b6deeb1e798a434ef6a91ddabfb"
+    },
+    "checks": [
+      {
+        "command": "npm run check:contrast-safety",
+        "exitCode": 0
+      },
+      {
+        "command": "npm run test:blind-accessibility-contracts",
+        "exitCode": 0
+      },
+      {
+        "command": "npm run check:copy-safety",
+        "exitCode": 0
+      },
+      {
+        "command": "npm run check:seo-title-style",
+        "exitCode": 0
+      },
+      {
+        "command": "npm run test:seo-internal-links",
+        "exitCode": 0
+      },
+      {
+        "command": "npm run test:commercial-brand-isolation",
+        "exitCode": 0
+      },
+      {
+        "command": "npm run test:guide-truthful-order-state",
+        "exitCode": 0
+      },
+      {
+        "command": "npm run test:search-snippet-truthfulness",
+        "exitCode": 0
+      },
+      {
+        "command": "npx tsc --noEmit --incremental false",
+        "exitCode": 0
+      },
+      {
+        "command": "git diff --check",
+        "exitCode": 0
+      }
+    ],
+    "buildExit": 0,
+    "localRuntimeResult": "passed",
+    "oldOwnersPreserved": true
+  },
+  "independentReview": {
+    "result": "PASS",
+    "blockingFindings": [],
+    "method": "Source/manifest/intent/links/claims/assets check; not browser or search-performance audit."
+  },
+  "publicGuide": {
+    "primaryArticleCount": 19,
+    "assignedCandidateQueries": 75,
+    "topicClusters": 9,
+    "newPrimaryFile": "docs/19-getgpt-card-code-checklist.md",
+    "stableArchiveNotCountedAgain": true,
+    "illustration": "One original explanatory concept, adapted for Nano, PayForGPT and neutral public guide; editable SVG and WebP.",
+    "referralBoundary": "github/referral campaign labels are not server-side payment/delivery attribution."
+  },
+  "limitations": [
+    "Public HTTP and inert DOM/XML validation; no browser viewport, real-device clipboard or checkout test.",
+    "Merchant pages establish what they publish; no purchase, redemption, token submission or refund was performed.",
+    "IndexNow acceptance is not proof of indexing, ranking, traffic or conversion.",
+    "SKU fulfillment, authorized screenshots/reviews, server-side paid/delivered source attribution and actual performance remain separate unfinished work."
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "method": "Existing per-domain public key verified; only changed ordinary200/indexable URLs submitted. No key values in this receipt.",
+  "sites": [
+    {
+      "site": "https://nano-banana.lol",
+      "submittedAtUtc": "2026-10-19T10:52:24.466177+00:00",
+      "urls": [
+        "https://nano-banana.lol/ai-subscriptions/getgpt-alternative",
+        "https://nano-banana.lol/ai-subscriptions",
+        "https://nano-banana.lol/ai-subscriptions/getgpt-payforchat-compare"
+      ],
+      "count": 3,
+      "excluded": [],
+      "httpStatus": 200,
+      "accepted": true,
+      "publicKeyVerified": true,
+      "meaning": "notification accepted only; not indexed/ranked proof"
+    },
+    {
+      "site": "https://payforgpt.com",
+      "submittedAtUtc": "2026-10-19T10:52:29.310008+00:00",
+      "urls": [
+        "https://payforgpt.com/ai-subscriptions/getgpt-review",
+        "https://payforgpt.com/ai-subscriptions"
+      ],
+      "count": 2,
+      "excluded": [],
+      "httpStatus": 200,
+      "accepted": true,
+      "publicKeyVerified": true,
+      "meaning": "notification accepted only; not indexed/ranked proof"
+    }
+  ],
+  "submittedCount": 5,
+  "indexingOrRankingConfirmed": false
+}

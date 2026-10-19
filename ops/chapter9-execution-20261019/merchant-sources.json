@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://getgpt.pro/",
+    "status": 200,
+    "finalUrl": "https://getgpt.pro/",
+    "title": "ChatGPT充值｜ChatGPT Plus/Pro国内购买·支付宝微信支付｜ChatGPT代充服务 - GETGPT Pro",
+    "observedAt": "2026-10-19T10:35:32.081278+00:00",
+    "rawHTMLSha256": "1622bbfe92f8375f29fa326b9f93aaccd135291559f7d40467f8e941b779515c",
+    "rawHTMLBytes": 292709,
+    "readerSha256": "0e2b2ecbbb99b8a78c8a0186e9a87c743c85f83260adc6b91ca48edeed79c070"
+  },
+  {
+    "url": "https://getgpt.pro/guide",
+    "status": 200,
+    "finalUrl": "https://getgpt.pro/guide",
+    "title": "ChatGPT 充值和代充教程｜支持国内支付宝、微信支付 ｜ GETGPT Pro",
+    "observedAt": "2026-10-19T10:35:33.702542+00:00",
+    "rawHTMLSha256": "eb71b29a6dff0eec016961953bf435e662495069aacdc89e2c75864c5629c14d",
+    "rawHTMLBytes": 145615,
+    "readerSha256": "05813da03663a440f751acd983c2903ce121a064cec6071b52baeede352e84c0"
+  },
+  {
+    "url": "https://getgpt.pro/gptpro",
+    "status": 200,
+    "finalUrl": "https://getgpt.pro/gptpro",
+    "title": "ChatGPT Pro 充值｜ChatGPT Pro国内购买·支付宝微信支付｜GPT Pro 代充服务",
+    "observedAt": "2026-10-19T10:35:34.720721+00:00",
+    "rawHTMLSha256": "251c8f19b71b7a820f68220d86a29d82cd49a43d25a9536c7977057ce4b07171",
+    "rawHTMLBytes": 151230,
+    "readerSha256": "15c8a4afb04c424bc4d3236af55d0a5c5d334e83e321f499a38903e14dbd9584"
+  },
+  {
+    "url": "https://getgpt.pro/faq",
+    "status": 200,
+    "finalUrl": "https://getgpt.pro/faq",
+    "title": "ChatGPT Plus / Pro 与 Codex 常见问题 | 充值、额度与售后 - GETGPT Pro",
+    "observedAt": "2026-10-19T10:35:33.658446+00:00",
+    "rawHTMLSha256": "5c4ce99b9bddd785ae0f6b72499a6fc1b81e9dc679e08f65e9e79418728790d1",
+    "rawHTMLBytes": 135535,
+    "readerSha256": "1d9ccf9f9db4757f5e0a3bcca2f223e1f5532061b619c54e3e063cc310bfd5bd"
+  },
+  {
+    "url": "https://getgpt.pro/terms",
+    "status": 200,
+    "finalUrl": "https://getgpt.pro/terms",
+    "title": "服务条款 | GETGPT Pro",
+    "observedAt": "2026-10-19T10:35:33.629072+00:00",
+    "rawHTMLSha256": "8e9d64f9bf50cf5cd559bae649d580761286f433f198a6e64b057679a6ee1b6e",
+    "rawHTMLBytes": 92447,
+    "readerSha256": "7850f7221199fe07bf94dfd6f978904af087119150c30fb98c450d2070108b3c"
+  },
+  {
+    "url": "https://getgpt.pro/privacy",
+    "status": 200,
+    "finalUrl": "https://getgpt.pro/privacy",
+    "title": "隐私政策 | GETGPT Pro",
+    "observedAt": "2026-10-19T10:35:32.813925+00:00",
+    "rawHTMLSha256": "efdc27b07cd9759c51a11ce89655c19a0e5c3737226674ba6e16fc8f70e4aa2d",
+    "rawHTMLBytes": 66023,
+    "readerSha256": "da689054d9ed8fee893a031f870b4d4adfa767ae4ae97dec3ef2ff5054bb0a06"
+  }
+]

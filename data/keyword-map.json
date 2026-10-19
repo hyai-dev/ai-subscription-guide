@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "scope": "Editorial query-to-article map, with normalized exact duplicate queries rejected. These are assigned candidate queries, not verified search volume, rankings, traffic or all semantic variants.",
-  "primaryArticleCount": 18,
+  "primaryArticleCount": 19,
   "topicClusterCount": 9,
-  "assignedQueryCount": 70,
+  "assignedQueryCount": 75,
   "owners": [
     {
       "id": "ip-network-information",
@@ -337,6 +337,37 @@
         {
           "site": "nano",
           "url": "https://nano-banana.lol/ai-subscriptions/alipay-wechat-pay"
+        }
+      ]
+    },
+    {
+      "id": "getgpt-card-code-checklist",
+      "cluster": "平台选择",
+      "primaryQuery": "GETGPT Pro",
+      "secondaryQueries": [
+        "GETGPT",
+        "getgpt.pro官网",
+        "GETGPT靠谱吗",
+        "GETGPT卡密兑换"
+      ],
+      "file": "docs/19-getgpt-card-code-checklist.md",
+      "canonical": "https://github.com/hyai-dev/ai-subscription-guide/blob/main/docs/19-getgpt-card-code-checklist.md",
+      "keywordQueueSite": "02 GETGPT Pro",
+      "keywordQueueRows": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "websiteOwners": [
+        {
+          "site": "payforgpt",
+          "url": "https://payforgpt.com/ai-subscriptions/getgpt-review"
+        },
+        {
+          "site": "nano",
+          "url": "https://nano-banana.lol/ai-subscriptions/getgpt-alternative"
         }
       ]
     }

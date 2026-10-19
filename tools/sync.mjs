@@ -36,7 +36,7 @@ export function planSync(root = ROOT) {
     primaryArticleCount: catalog.articles.length,
     topicClusterCount: clusters.size,
     assignedQueryCount: catalog.articles.reduce((n, a) => n + (a.primaryQuery ? 1 + a.secondaryQueries.length : 0), 0),
-    owners: catalog.articles.filter(a => a.primaryQuery).map(a => ({ id: a.id, cluster: a.cluster, primaryQuery: a.primaryQuery, secondaryQueries: a.secondaryQueries, file: a.file, canonical: a.canonical, keywordQueueRows: a.keywordQueueRows ?? [], websiteOwners: a.websiteOwners ?? [] }))
+    owners: catalog.articles.filter(a => a.primaryQuery).map(a => ({ id: a.id, cluster: a.cluster, primaryQuery: a.primaryQuery, secondaryQueries: a.secondaryQueries, file: a.file, canonical: a.canonical, ...(a.keywordQueueSite ? { keywordQueueSite: a.keywordQueueSite } : {}), keywordQueueRows: a.keywordQueueRows ?? [], websiteOwners: a.websiteOwners ?? [] }))
   }, null, 2) + '\n');
   for (const a of catalog.articles) {
     const text = fs.readFileSync(path.join(root, a.file), 'utf8');

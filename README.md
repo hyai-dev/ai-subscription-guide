@@ -9,6 +9,7 @@
 | 选方案、确认买的是什么 | [平台怎么选](docs/15-provider-selection.md) → [会员与API账单](docs/18-membership-api-wallet.md) → [购买资格](docs/03-plus-without-card.md) |
 | 无法绑卡、付款或续费异常 | [国内信用卡条件](docs/11-domestic-card-payment.md) → [绑卡失败分流](docs/12-card-binding-failed.md) → [原续费状态](docs/06-renewal-and-price-comparison.md) |
 | 已经付款，想查交付和权益 | [已付仍是Free](docs/14-paid-but-still-free.md) → [工单与客服模板](docs/13-support-ticket-query.md) → [账号材料](docs/04-account-credentials-and-order-evidence.md) |
+| 找GETGPT官网、核对卡密兑换 | [商家入口与三份记录](docs/19-getgpt-card-code-checklist.md) → [平台比较清单](docs/15-provider-selection.md) |
 | 用工具完成具体任务 | [Codex小改动](docs/07-codex-first-task.md) · [PDF证据表](docs/08-pdf-evidence-workflow.md) · [CSV核算](docs/09-spreadsheet-audit-workflow.md) · [PPT大纲](docs/10-presentation-outline-workflow.md) |
 
 ![用证据组织任务：检查材料、定位证据、回原文复核](assets/practical-20261019/pdf-evidence-loop.webp)
@@ -29,7 +30,7 @@
 | 续费与交付 | [ChatGPT续费怎么核对](docs/06-renewal-and-price-comparison.md) · [ChatGPT代充工单查询](docs/13-support-ticket-query.md) · [ChatGPT充值后依然显示Free](docs/14-paid-but-still-free.md) |
 | 实用工作流 | [ChatGPT读PDF怎么核对页码](docs/08-pdf-evidence-workflow.md) · [ChatGPT分析CSV怎么核对](docs/09-spreadsheet-audit-workflow.md) · [ChatGPT怎么写PPT大纲](docs/10-presentation-outline-workflow.md) |
 | 购买与付款 | [国内信用卡支付ChatGPT](docs/11-domestic-card-payment.md) · [ChatGPT无法绑卡代付](docs/12-card-binding-failed.md) |
-| 平台选择 | [ChatGPT充值哪个平台好](docs/15-provider-selection.md) |
+| 平台选择 | [ChatGPT充值哪个平台好](docs/15-provider-selection.md) · [GETGPT Pro](docs/19-getgpt-card-code-checklist.md) |
 | 教程索引 | [awesome-chatgpt-plus-guide](docs/17-guide-reading-map.md) |
 <!-- END TOPIC MAP -->
 
@@ -40,6 +41,7 @@
 <!-- BEGIN LATEST -->
 | 复核日期 | 教程 |
 | --- | --- |
+| 2026-10-19 | [GETGPT Pro 购买前核对：官网、卡密兑换与原账号结果](docs/19-getgpt-card-code-checklist.md) |
 | 2026-10-19 | [ChatGPT会员、API余额和用量点数：购买前找对账单](docs/18-membership-api-wallet.md) |
 | 2026-10-19 | [awesome ChatGPT Plus guide阅读地图：从问题找到来源和下一步](docs/17-guide-reading-map.md) |
 | 2026-10-19 | [ChatGPT代充安全不封号可信吗：先检查账号权限和承诺边界](docs/16-account-risk-claims.md) |
@@ -49,7 +51,6 @@
 | 2026-10-19 | [ChatGPT无法绑卡怎么办：从失败位置判断下一步](docs/12-card-binding-failed.md) |
 | 2026-10-19 | [国内信用卡支付ChatGPT：地区、发卡行与付款渠道怎么核对](docs/11-domestic-card-payment.md) |
 | 2026-10-19 | [用 ChatGPT 写 PPT 大纲：先核对结论，再安排每一页](docs/10-presentation-outline-workflow.md) |
-| 2026-10-19 | [用 ChatGPT 核对 CSV：先定口径，再查重复、缺失与合计](docs/09-spreadsheet-audit-workflow.md) |
 <!-- END LATEST -->
 
 复核日是编辑读取来源与修订的日期，不代表所有产品或交易已实测。CSV、页码练习和小任务均为合成示例，文内分别说明验算与未验证部分。
@@ -81,6 +82,7 @@
 - [ChatGPT代充安全不封号可信吗：先检查账号权限和承诺边界](docs/16-account-risk-claims.md) · [稳定归档](articles/account-risk-claims.md)
 - [awesome ChatGPT Plus guide阅读地图：从问题找到来源和下一步](docs/17-guide-reading-map.md) · [稳定归档](articles/guide-reading-map.md)
 - [ChatGPT会员、API余额和用量点数：购买前找对账单](docs/18-membership-api-wallet.md) · [稳定归档](articles/membership-api-wallet.md)
+- [GETGPT Pro 购买前核对：官网、卡密兑换与原账号结果](docs/19-getgpt-card-code-checklist.md) · [稳定归档](articles/getgpt-card-code-checklist.md)
 <!-- END ARCHIVE -->
 
 每篇主稿只有一个稳定归档，副本不另算新文章。网络排查见 [IP、ASN与标签](docs/01-ip-check-tutorial.md)，网络属性不能证明账号或付款资格。

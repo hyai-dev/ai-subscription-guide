@@ -1,0 +1,172 @@
+{
+  "result": "pass",
+  "observedAtUtc": "2026-10-19T10:52:02.738Z",
+  "method": "Ordinary public HTTP GET; inert HTML/XML parsing, no webpage scripts or browser; no query cache bust, customer/order lookup or transaction.",
+  "checks": [
+    {
+      "name": "nano article",
+      "checks": {
+        "http200": true,
+        "noRedirect": true,
+        "selfCanonical": true,
+        "oneH1": true,
+        "exactFiveQueries": true,
+        "uniqueSevenAnchors": true,
+        "articleSchema": true,
+        "datePublishedPreserved": true,
+        "actualReview": true,
+        "sourced": true,
+        "sourcesVisible": true,
+        "originalDiagram": true,
+        "explanatoryCaption": true,
+        "noCredentialForm": true,
+        "originalMerchantBoundary": true,
+        "codeNotUpgrade": true,
+        "noindexAbsent": true
+      }
+    },
+    {
+      "name": "nano discovery and final asset",
+      "checks": {
+        "hubOwnerLink": true,
+        "oneSitemapOwner": true,
+        "sitemapLastmod": true,
+        "llmsOwner": true,
+        "asset200": true,
+        "assetFinalHash": true
+      }
+    },
+    {
+      "name": "payforgpt article",
+      "checks": {
+        "http200": true,
+        "noRedirect": true,
+        "selfCanonical": true,
+        "oneH1": true,
+        "exactFiveQueries": true,
+        "uniqueSevenAnchors": true,
+        "articleSchema": true,
+        "datePublishedPreserved": true,
+        "actualReview": true,
+        "sourced": true,
+        "sourcesVisible": true,
+        "originalDiagram": true,
+        "explanatoryCaption": true,
+        "noCredentialForm": true,
+        "originalMerchantBoundary": true,
+        "codeNotUpgrade": true,
+        "noindexAbsent": true
+      }
+    },
+    {
+      "name": "payforgpt discovery and final asset",
+      "checks": {
+        "hubOwnerLink": true,
+        "oneSitemapOwner": true,
+        "sitemapLastmod": true,
+        "llmsOwner": true,
+        "asset200": true,
+        "assetFinalHash": true
+      }
+    },
+    {
+      "name": "All ordinary URLs",
+      "checks": {
+        "all200": true,
+        "noUnexpectedRedirects": true
+      }
+    }
+  ],
+  "responses": [
+    {
+      "url": "https://nano-banana.lol/ai-subscriptions/getgpt-alternative",
+      "status": 200,
+      "finalUrl": "https://nano-banana.lol/ai-subscriptions/getgpt-alternative",
+      "sha256": "7133854fc67329fe6e34fe9ec59d27e290c8fde5ad1d2fba7a70ac8d50449671",
+      "bytes": 126597,
+      "contentType": "text/html; charset=utf-8",
+      "cache": "DYNAMIC"
+    },
+    {
+      "url": "https://nano-banana.lol/ai-subscriptions",
+      "status": 200,
+      "finalUrl": "https://nano-banana.lol/ai-subscriptions",
+      "sha256": "f66878588d6999061ab88feb96b39ced7b2854e1a08f1c6be532f1c98584d9f5",
+      "bytes": 282604,
+      "contentType": "text/html; charset=utf-8",
+      "cache": "DYNAMIC"
+    },
+    {
+      "url": "https://nano-banana.lol/sitemap.xml",
+      "status": 200,
+      "finalUrl": "https://nano-banana.lol/sitemap.xml",
+      "sha256": "6014fd7bc5ed98a826725473d019aa58440a7b67456d6fccfa0265e3b7ebb143",
+      "bytes": 159672,
+      "contentType": "application/xml",
+      "cache": "DYNAMIC"
+    },
+    {
+      "url": "https://nano-banana.lol/llms.txt",
+      "status": 200,
+      "finalUrl": "https://nano-banana.lol/llms.txt",
+      "sha256": "177c284e00524ab19a903aee27547fe91a092d760b383760834ead3ffa553850",
+      "bytes": 140625,
+      "contentType": "text/plain; charset=utf-8",
+      "cache": "DYNAMIC"
+    },
+    {
+      "url": "https://nano-banana.lol/images/guides/getgpt-activation-nano-20261019.webp",
+      "status": 200,
+      "finalUrl": "https://nano-banana.lol/images/guides/getgpt-activation-nano-20261019.webp",
+      "sha256": "56893a7679f43ef7a5b1d65ec944e56efd613ae0ee0631f1e43321f02d09247e",
+      "bytes": 117476,
+      "contentType": "image/webp",
+      "cache": "REVALIDATED"
+    },
+    {
+      "url": "https://payforgpt.com/ai-subscriptions/getgpt-review",
+      "status": 200,
+      "finalUrl": "https://payforgpt.com/ai-subscriptions/getgpt-review",
+      "sha256": "5159541375f0d63e00d97fa24d9c5acf82dbde4edb0a033c16b01e260c614262",
+      "bytes": 113479,
+      "contentType": "text/html; charset=utf-8",
+      "cache": "DYNAMIC"
+    },
+    {
+      "url": "https://payforgpt.com/ai-subscriptions",
+      "status": 200,
+      "finalUrl": "https://payforgpt.com/ai-subscriptions",
+      "sha256": "429ed6f09e07c4390ce3bf0bbbff0e688681fbd5e217f401addd54b635270604",
+      "bytes": 72906,
+      "contentType": "text/html; charset=utf-8",
+      "cache": "DYNAMIC"
+    },
+    {
+      "url": "https://payforgpt.com/sitemap.xml",
+      "status": 200,
+      "finalUrl": "https://payforgpt.com/sitemap.xml",
+      "sha256": "73e6cbaabc4f05e90e8f6ebb75cf6ace10af24d10533d0ce532a648836654b4a",
+      "bytes": 187689,
+      "contentType": "application/xml",
+      "cache": "HIT"
+    },
+    {
+      "url": "https://payforgpt.com/llms.txt",
+      "status": 200,
+      "finalUrl": "https://payforgpt.com/llms.txt",
+      "sha256": "f5a939396162c0bec6ae3b90e1541127ed5710d23bc4e6fffe2b2f67051b7f59",
+      "bytes": 33565,
+      "contentType": "text/plain; charset=utf-8",
+      "cache": "DYNAMIC"
+    },
+    {
+      "url": "https://payforgpt.com/images/guides/getgpt-activation-pfg-20261019.webp",
+      "status": 200,
+      "finalUrl": "https://payforgpt.com/images/guides/getgpt-activation-pfg-20261019.webp",
+      "sha256": "31f4b92db5bfc31aed18e0bf9e9b94c6a0a43b6deeb1e798a434ef6a91ddabfb",
+      "bytes": 117574,
+      "contentType": "image/webp",
+      "cache": "REVALIDATED"
+    }
+  ]
+}

@@ -832,6 +832,70 @@
       ],
       "sha256": "a8548b081fc5b2f097731bec680559c012986e990050f923bd8348da821698b2",
       "archive": "articles/membership-api-wallet.md"
+    },
+    {
+      "id": "getgpt-card-code-checklist",
+      "file": "docs/19-getgpt-card-code-checklist.md",
+      "title": "GETGPT Pro 购买前核对：官网、卡密兑换与原账号结果",
+      "topic": "getgpt-check",
+      "cluster": "平台选择",
+      "primaryQuery": "GETGPT Pro",
+      "secondaryQueries": [
+        "GETGPT",
+        "getgpt.pro官网",
+        "GETGPT靠谱吗",
+        "GETGPT卡密兑换"
+      ],
+      "keywordQueueRows": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "keywordQueueSite": "02 GETGPT Pro",
+      "websiteOwners": [
+        {
+          "site": "payforgpt",
+          "url": "https://payforgpt.com/ai-subscriptions/getgpt-review"
+        },
+        {
+          "site": "nano",
+          "url": "https://nano-banana.lol/ai-subscriptions/getgpt-alternative"
+        }
+      ],
+      "canonical": "https://github.com/hyai-dev/ai-subscription-guide/blob/main/docs/19-getgpt-card-code-checklist.md",
+      "publishedAt": "2026-10-19",
+      "reviewedAt": "2026-10-19",
+      "sources": [
+        "https://getgpt.pro/",
+        "https://getgpt.pro/guide",
+        "https://getgpt.pro/gptpro",
+        "https://getgpt.pro/faq",
+        "https://getgpt.pro/terms"
+      ],
+      "figures": [
+        {
+          "file": "assets/getgpt-check-20261019/three-records.webp",
+          "sha256": "b8ff010ca287ae991f715ffd735fd34afa397190a85057e5df2ab656a5d10029"
+        }
+      ],
+      "targets": [
+        {
+          "site": "payforgpt",
+          "url": "https://payforgpt.com/ai-subscriptions/getgpt-review",
+          "label": "PayForGPT对应购买核对",
+          "trackedUrl": "https://payforgpt.com/ai-subscriptions/getgpt-review?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide_getgpt_check_payforgpt"
+        },
+        {
+          "site": "nano",
+          "url": "https://nano-banana.lol/ai-subscriptions/getgpt-alternative",
+          "label": "Nano Banana对应购买核对",
+          "trackedUrl": "https://nano-banana.lol/ai-subscriptions/getgpt-alternative?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide_getgpt_check_nano"
+        }
+      ],
+      "sha256": "859e4320e66c6949d03ef40b69a458a491cecf3bdad803bc5df819cfd4155b4f",
+      "archive": "articles/getgpt-card-code-checklist.md"
     }
   ]
 }

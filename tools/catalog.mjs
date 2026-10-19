@@ -63,6 +63,7 @@ export function loadCatalog(root = ROOT, relative = 'content/publication-manifes
     }
     if (!Array.isArray(a.targets)) throw new Error('Targets must be an array; pure task tutorials may have no commercial target');
     for (const t of a.targets) trackedUrl(t.site, t.url, a.topic);
+    if (a.keywordQueueSite !== undefined && !isEditorialLabel(a.keywordQueueSite)) throw new Error('Invalid keyword queue site label');
     if (a.primaryQuery !== undefined) {
       if (!isEditorialLabel(a.cluster) || !Array.isArray(a.secondaryQueries)) throw new Error('Query owners need a literal topic cluster and secondary query array');
       for (const query of [a.primaryQuery, ...a.secondaryQueries]) {
