@@ -1,0 +1,73 @@
+{
+  "batch": "keywords-43-50-20261019",
+  "status": "published-and-verified",
+  "recordedAtUtc": "2026-10-19T08:17:33.794582+00:00",
+  "guide": {
+    "repository": "hyai-dev/ai-subscription-guide",
+    "sourceCommit": "09cf4349dd37ec31b4625e43b0184b775025a098",
+    "newPrimaryArticles": 8,
+    "totalPrimaryArticles": 18,
+    "assignedCandidateQueries": 70,
+    "topicClusters": 9,
+    "newDiagrams": 8,
+    "anonymousHttpItems": 58,
+    "immutableSourceAndImageHashItems": 36,
+    "relatedSiteRequests": 22,
+    "relatedSiteRequestsWithFragments": 11,
+    "sourceActionsUrl": "https://github.com/hyai-dev/ai-subscription-guide/actions/runs/39220579591"
+  },
+  "websites": {
+    "owners": 10,
+    "newOwners": 1,
+    "updatedOwners": 9,
+    "newDiagrams": 10,
+    "wholePageFigurePlacements": 16,
+    "sourceCommits": {
+      "payforgpt": "ddd8d2b1a051834ac168f91e8cb7285a300b0d0c",
+      "nano": "137e1f5c4e1f47522f1db3ab993e2f55df17acc5"
+    },
+    "deployment": "both existing automatic main-push build/deploy workflows succeeded; full image SHAs pulled",
+    "publicReadback": "passed ordinary canonical URL HTTP/HTML/image checks; initial old cache naturally converged",
+    "browserVisualVerification": false
+  },
+  "indexNow": {
+    "acceptedUrls": 12,
+    "siteStatuses": [
+      200,
+      200
+    ],
+    "meaning": "Update notifications accepted; not evidence of search indexing, rankings or AI citation."
+  },
+  "keywordQueue": {
+    "url": "https://vi8r050ecuz.feishu.cn/docx/M3iDdYCNFo9C3RxHBEXc1Rrpn9f",
+    "beforeRevision": 160,
+    "afterRevision": 169,
+    "oldDonePreserved": 43,
+    "newDone": 7,
+    "completed": 50,
+    "pending": 2450,
+    "additionalCodexTopicsPreserved": 6,
+    "allOtherRowsAndCellsUnchanged": true,
+    "row46WholeCellPreserved": true,
+    "next": {
+      "siteNumber": 2,
+      "siteName": "GETGPT Pro",
+      "row": 1,
+      "keyword": "GETGPT Pro"
+    }
+  },
+  "feishuExecutionLog": {
+    "url": "https://vi8r050ecuz.feishu.cn/docx/MD4NdOO12oKnHwxlMNVc9aHQn3f#doxcnoQ3qWmFMW2Z25iIC0NdOcc",
+    "beforeRevision": 11,
+    "afterRevision": 12,
+    "originalTopLevelBlocksPreserved": 188,
+    "existingAttributionTodoStillPending": true
+  },
+  "limitations": [
+    "Editorial candidate queries are not measured search volume, ranked keywords, traffic or conversion.",
+    "No real purchase, private order lookup, code redemption, refund, model-output or browser flow test.",
+    "End-to-end referral-to-paid/delivered-order attribution remains pending.",
+    "Price observation not rerun; earlier observations retain original timestamps.",
+    "Full private Feishu documents and raw deployment logs are excluded."
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "result": "passed",
+  "documentId": "MD4NdOO12oKnHwxlMNVc9aHQn3f",
+  "baselineRevision": 11,
+  "finalRevision": 12,
+  "insertedEntryTitle": "执行更新｜关键词与图文专题｜2026-10-19（第43—50条批次已发布）",
+  "insertedHeadingId": "doxcnoQ3qWmFMW2Z25iIC0NdOcc",
+  "entryUrl": "https://vi8r050ecuz.feishu.cn/docx/MD4NdOO12oKnHwxlMNVc9aHQn3f#doxcnoQ3qWmFMW2Z25iIC0NdOcc",
+  "newCompletedChecks": 6,
+  "allOriginalTopLevelBlocksPreserved": 188,
+  "oldAttributionPendingPreserved": true,
+  "keywordQueueCompleted": 50,
+  "keywordQueuePending": 2450,
+  "keywordQueueRevision": 169,
+  "entryXmlSha256": "efadcd0d1119830d2e90e84850777dffcc1fc68e5a3e3206a3407e2f145ceafe",
+  "fullReadbackSha256": "b6b02ec3e128512b60391d391d10ba2ca2ffb26598f096dbaabed3c7ada63054",
+  "verifiedAtUtc": "2026-10-19T08:16:36.694884+00:00",
+  "scope": "One authorized local insertion; full readback confirms all historical blocks and the uncompleted attribution checkbox unchanged. Private document content not included."
+}

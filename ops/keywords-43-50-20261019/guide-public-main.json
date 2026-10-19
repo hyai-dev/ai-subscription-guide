@@ -1,0 +1,11 @@
+{
+  "repository": "hyai-dev/ai-subscription-guide",
+  "mainSha": "09cf4349dd37ec31b4625e43b0184b775025a098",
+  "visibility": "public",
+  "sourcePushConfirmed": true,
+  "primaryArticleCount": 18,
+  "assignedQueryCount": 70,
+  "topicClusterCount": 9,
+  "checkedAtUtc": "2026-10-19T08:10:52.263954+00:00",
+  "method": "GitHub commits/main and repository APIs; keyword counts read from exact source commit data/keyword-map.json."
+}

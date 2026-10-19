@@ -1,0 +1,423 @@
+{
+  "repository": "hyai-dev/ai-subscription-guide",
+  "commit": "09cf4349dd37ec31b4625e43b0184b775025a098",
+  "checkedAtUtc": "2026-10-19T08:08:58.757Z",
+  "status": "pass",
+  "primaryArticles": 18,
+  "records": [
+    {
+      "requestedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/README.md",
+      "resolvedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/README.md",
+      "status": 200,
+      "bytes": 10362,
+      "sha256": "df101209165a83636e97851ca42cf960d39393e30c9ef64a35ce8e99d4a92394"
+    },
+    {
+      "requestedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/docs/01-ip-check-tutorial.md",
+      "resolvedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/docs/01-ip-check-tutorial.md",
+      "status": 200,
+      "bytes": 3521,
+      "sha256": "d13efa7bebe50f114e68c7efe3bfd617e4cdc689fd6638ee0388b18d549fbf66"
+    },
+    {
+      "requestedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/assets/network-review-20261019/network-check.webp",
+      "resolvedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/assets/network-review-20261019/network-check.webp",
+      "status": 200,
+      "bytes": 46280,
+      "sha256": "975d92b8ea073350a6822f40aaa44486cff18ccb2074a668e189672dffc7b509"
+    },
+    {
+      "requestedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/docs/02-codex-topup-guide.md",
+      "resolvedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/docs/02-codex-topup-guide.md",
+      "status": 200,
+      "bytes": 4065,
+      "sha256": "3bf2734a0f60d330d713c2cf94deb3aebd6ee50c45299ce21482de10fb3c0135"
+    },
+    {
+      "requestedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/assets/illustrated-20261018/renewal-v1.webp",
+      "resolvedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/assets/illustrated-20261018/renewal-v1.webp",
+      "status": 200,
+      "bytes": 89694,
+      "sha256": "4199289ce3567a5f92ff37efd1543bbd3a8bc02b0918f5728b36c398f51396e0"
+    },
+    {
+      "requestedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/docs/03-plus-without-card.md",
+      "resolvedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/docs/03-plus-without-card.md",
+      "status": 200,
+      "bytes": 2473,
+      "sha256": "d064f6d5b3c8105c6a9f7b5ba6ee9223eeeb622b8be9d52c6b60d645bee259be"
+    },
+    {
+      "requestedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/assets/illustrated-20261018/channels-v1.webp",
+      "resolvedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/assets/illustrated-20261018/channels-v1.webp",
+      "status": 200,
+      "bytes": 115936,
+      "sha256": "be3060fa5ad3f83dbc4fe5f2f59d3fbd6325c353b620735f96f09657511df5e1"
+    },
+    {
+      "requestedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/docs/04-account-credentials-and-order-evidence.md",
+      "resolvedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/docs/04-account-credentials-and-order-evidence.md",
+      "status": 200,
+      "bytes": 4907,
+      "sha256": "f0819566afadb6fef17523949e6e86d41b5a0cd203acfdf2a11b12f8b48a6cd8"
+    },
+    {
+      "requestedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/assets/illustrated-20261018/credentials-v1.webp",
+      "resolvedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/assets/illustrated-20261018/credentials-v1.webp",
+      "status": 200,
+      "bytes": 84870,
+      "sha256": "539505083aeb9411a53c82200ab07d0aac9aa5f14df6fc2e93e5867a4463f353"
+    },
+    {
+      "requestedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/docs/05-payment-channels-and-billing-records.md",
+      "resolvedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/docs/05-payment-channels-and-billing-records.md",
+      "status": 200,
+      "bytes": 5123,
+      "sha256": "a3af822a7bee448cb9405f51106c7c59da5d125a96331c0e7c43b6f4dc388eb8"
+    },
+    {
+      "requestedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/assets/illustrated-20261018/price-v1.webp",
+      "resolvedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/assets/illustrated-20261018/price-v1.webp",
+      "status": 200,
+      "bytes": 72744,
+      "sha256": "a26ac48087ceaa286c7ca936348cdeec90bcb1d5289488c0646e666000181025"
+    },
+    {
+      "requestedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/docs/06-renewal-and-price-comparison.md",
+      "resolvedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/docs/06-renewal-and-price-comparison.md",
+      "status": 200,
+      "bytes": 5595,
+      "sha256": "d164ff49132e6de00a02a91e461f5dbf7106424b69a6cb58a0c7d1933537736e"
+    },
+    {
+      "requestedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/docs/07-codex-first-task.md",
+      "resolvedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/docs/07-codex-first-task.md",
+      "status": 200,
+      "bytes": 6760,
+      "sha256": "7a7043d7611aee7ee0e551654002dc4947acc3acc52adbb65c54be6fadf481f3"
+    },
+    {
+      "requestedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/assets/practical-20261019/codex-small-change.webp",
+      "resolvedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/assets/practical-20261019/codex-small-change.webp",
+      "status": 200,
+      "bytes": 79602,
+      "sha256": "43e737ce07c228432bcc129dec97e5d3ea3d3c1897ea344e392ccefb35ce981f"
+    },
+    {
+      "requestedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/docs/08-pdf-evidence-workflow.md",
+      "resolvedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/docs/08-pdf-evidence-workflow.md",
+      "status": 200,
+      "bytes": 6151,
+      "sha256": "a4c4dda1e7ce85ea93ab0a424fd6623f8bcb2e93a74e7c7250933c9dffd57198"
+    },
+    {
+      "requestedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/assets/practical-20261019/pdf-evidence-loop.webp",
+      "resolvedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/assets/practical-20261019/pdf-evidence-loop.webp",
+      "status": 200,
+      "bytes": 74638,
+      "sha256": "f7e89205a3deddfb25f11926e3e72d6e0e8fe7b6ebeae2cf919865ad494e8d93"
+    },
+    {
+      "requestedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/docs/09-spreadsheet-audit-workflow.md",
+      "resolvedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/docs/09-spreadsheet-audit-workflow.md",
+      "status": 200,
+      "bytes": 5882,
+      "sha256": "7f389aa0116348f731022d5f58ee8d062636892d85e7c479578f06bfbbf515a0"
+    },
+    {
+      "requestedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/assets/practical-20261019/csv-audit-flow.webp",
+      "resolvedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/assets/practical-20261019/csv-audit-flow.webp",
+      "status": 200,
+      "bytes": 72496,
+      "sha256": "398eb2584daab5ed66e21c7cda4cef9edc1c82bcb1360f526cdc01b7ebfca8d1"
+    },
+    {
+      "requestedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/docs/10-presentation-outline-workflow.md",
+      "resolvedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/docs/10-presentation-outline-workflow.md",
+      "status": 200,
+      "bytes": 6598,
+      "sha256": "f719403ab08ee0e01d7447a81318561d1b3394d06005a1129c12a7712c9abaa0"
+    },
+    {
+      "requestedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/assets/practical-20261019/presentation-evidence-plan.webp",
+      "resolvedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/assets/practical-20261019/presentation-evidence-plan.webp",
+      "status": 200,
+      "bytes": 77374,
+      "sha256": "a52ffbddf82c203c782cc9e35cc8341a730550925ddb55c91d5ba623ba02a28b"
+    },
+    {
+      "requestedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/docs/11-domestic-card-payment.md",
+      "resolvedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/docs/11-domestic-card-payment.md",
+      "status": 200,
+      "bytes": 3722,
+      "sha256": "7245694a30fa408567dba944b8f209d8af3f7fe3213811e31cf922569fac8ab7"
+    },
+    {
+      "requestedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/assets/keyword-tasks-20261019/domestic-card-check.webp",
+      "resolvedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/assets/keyword-tasks-20261019/domestic-card-check.webp",
+      "status": 200,
+      "bytes": 49478,
+      "sha256": "fe64f41c29c2ad46b75f3ab965721a053cc925a7a54127d83676e5b63ac4a5d3"
+    },
+    {
+      "requestedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/docs/12-card-binding-failed.md",
+      "resolvedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/docs/12-card-binding-failed.md",
+      "status": 200,
+      "bytes": 3902,
+      "sha256": "a35230ea1275f8e7d761ad5c5e7fc5ca691763815fe48e545214683b67a4220b"
+    },
+    {
+      "requestedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/assets/keyword-tasks-20261019/card-failure-branches.webp",
+      "resolvedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/assets/keyword-tasks-20261019/card-failure-branches.webp",
+      "status": 200,
+      "bytes": 49024,
+      "sha256": "63bd26cf8a3ee38324807a32919959d2673dcb740b987b299f9989fa662dac34"
+    },
+    {
+      "requestedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/docs/13-support-ticket-query.md",
+      "resolvedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/docs/13-support-ticket-query.md",
+      "status": 200,
+      "bytes": 3980,
+      "sha256": "b597ea61f839380dca7afb078314be6dc0607dd5bc1bc9dc27d2f1fea4b7f56c"
+    },
+    {
+      "requestedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/assets/keyword-tasks-20261019/support-ticket-timeline.webp",
+      "resolvedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/assets/keyword-tasks-20261019/support-ticket-timeline.webp",
+      "status": 200,
+      "bytes": 43562,
+      "sha256": "ff39187ab0330be0891fb49b340a54b421b11c6a32d75e897e045b76f85fdc3c"
+    },
+    {
+      "requestedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/docs/14-paid-but-still-free.md",
+      "resolvedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/docs/14-paid-but-still-free.md",
+      "status": 200,
+      "bytes": 3776,
+      "sha256": "6769645bc391a3afac083aa7353869b8dadab08fd5ac2ceab22002d0a8d3b511"
+    },
+    {
+      "requestedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/assets/keyword-tasks-20261019/paid-free-states.webp",
+      "resolvedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/assets/keyword-tasks-20261019/paid-free-states.webp",
+      "status": 200,
+      "bytes": 50110,
+      "sha256": "333eeec932536f41993e8723ab800817b673c7148445c2d7b29800b06492ec5f"
+    },
+    {
+      "requestedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/docs/15-provider-selection.md",
+      "resolvedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/docs/15-provider-selection.md",
+      "status": 200,
+      "bytes": 3756,
+      "sha256": "38f9f2e0cd2b49f8e0866db8cfcce1e51e7d5cf478cf6817bbcc8b785f8490da"
+    },
+    {
+      "requestedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/assets/keyword-tasks-20261019/provider-evidence-grid.webp",
+      "resolvedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/assets/keyword-tasks-20261019/provider-evidence-grid.webp",
+      "status": 200,
+      "bytes": 61818,
+      "sha256": "659d8ce6aeb39adefd357672d2574c6615e138630d1137798a4370dd60b6067e"
+    },
+    {
+      "requestedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/docs/16-account-risk-claims.md",
+      "resolvedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/docs/16-account-risk-claims.md",
+      "status": 200,
+      "bytes": 3946,
+      "sha256": "a06aa7ecbb924f14f35f04775463b384fef7e5c3be1beed8f2dae14e7dc4249e"
+    },
+    {
+      "requestedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/assets/keyword-tasks-20261019/account-risk-check.webp",
+      "resolvedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/assets/keyword-tasks-20261019/account-risk-check.webp",
+      "status": 200,
+      "bytes": 46714,
+      "sha256": "fb7bc06842e6a256735f760b3ff00a8056d70b32de0ffcc7fceed5b4f0d37da9"
+    },
+    {
+      "requestedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/docs/17-guide-reading-map.md",
+      "resolvedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/docs/17-guide-reading-map.md",
+      "status": 200,
+      "bytes": 3849,
+      "sha256": "0fee26354e93ff1edcd94161a704bed1b78a3bb87a3425abdad8afdc702a980b"
+    },
+    {
+      "requestedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/assets/keyword-tasks-20261019/guide-task-routes.webp",
+      "resolvedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/assets/keyword-tasks-20261019/guide-task-routes.webp",
+      "status": 200,
+      "bytes": 41364,
+      "sha256": "c4cadd11dfba990e22d2d11cca75ce4c7d2305593934b9f8c0a7b7451c613db0"
+    },
+    {
+      "requestedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/docs/18-membership-api-wallet.md",
+      "resolvedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/docs/18-membership-api-wallet.md",
+      "status": 200,
+      "bytes": 4153,
+      "sha256": "a8548b081fc5b2f097731bec680559c012986e990050f923bd8348da821698b2"
+    },
+    {
+      "requestedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/assets/keyword-tasks-20261019/billing-object-map.webp",
+      "resolvedUrl": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/09cf4349dd37ec31b4625e43b0184b775025a098/assets/keyword-tasks-20261019/billing-object-map.webp",
+      "status": 200,
+      "bytes": 49658,
+      "sha256": "be4af033e2a13dab6b1e999c2ff37d56117c03b464ae08375c07a4aca9968eae"
+    },
+    {
+      "requestedUrl": "https://nano-banana.lol/ip",
+      "resolvedUrl": "https://nano-banana.lol/ip",
+      "status": 200,
+      "bytes": 64445,
+      "sha256": "568a48f5e4d78d0edcb70da56eecd62abfdd08ee6eca62d4b8b652ffe61617ad"
+    },
+    {
+      "requestedUrl": "https://payforgpt.com/faq",
+      "resolvedUrl": "https://payforgpt.com/faq",
+      "status": 200,
+      "bytes": 72461,
+      "sha256": "4bf205e01bcdd2ec521ec2ad53167a8b56cddba57403b92cb121faccf45898fe"
+    },
+    {
+      "requestedUrl": "https://nano-banana.lol/faq",
+      "resolvedUrl": "https://nano-banana.lol/faq",
+      "status": 200,
+      "bytes": 63028,
+      "sha256": "c98ee0b11545b62400817366fb3c28ba89431e18d13da5f7dfb8c0ef33c406a5"
+    },
+    {
+      "requestedUrl": "https://payforgpt.com/ai-subscriptions/passwordless-recharge-credentials",
+      "resolvedUrl": "https://payforgpt.com/ai-subscriptions/passwordless-recharge-credentials",
+      "status": 200,
+      "bytes": 152752,
+      "sha256": "ea1a3807738e4598a4bee7ace789c40dff18540bc1fe491df645bbad580740e6"
+    },
+    {
+      "requestedUrl": "https://nano-banana.lol/ai-subscriptions/passwordless-recharge-credentials",
+      "resolvedUrl": "https://nano-banana.lol/ai-subscriptions/passwordless-recharge-credentials",
+      "status": 200,
+      "bytes": 125551,
+      "sha256": "985c9536d4c5a693197514602d2b079982a98cc263eaa316962e5b5f7add52d5"
+    },
+    {
+      "requestedUrl": "https://payforgpt.com/ai-subscriptions/chatgpt-payment-channels-guide",
+      "resolvedUrl": "https://payforgpt.com/ai-subscriptions/chatgpt-payment-channels-guide",
+      "status": 200,
+      "bytes": 150343,
+      "sha256": "6ef8afa153c5df7d309836c05f7ae86515e483f1cad89fa1e6b807016ef54356"
+    },
+    {
+      "requestedUrl": "https://nano-banana.lol/ai-subscriptions/alipay-wechat-pay",
+      "resolvedUrl": "https://nano-banana.lol/ai-subscriptions/alipay-wechat-pay",
+      "status": 200,
+      "bytes": 139677,
+      "sha256": "843f754a6a651958c01bb2bedfd026589adc915775f5ea3085ba165ba97392ea"
+    },
+    {
+      "requestedUrl": "https://payforgpt.com/how-to/handle-payment-failed",
+      "resolvedUrl": "https://payforgpt.com/how-to/handle-payment-failed",
+      "status": 200,
+      "bytes": 153897,
+      "sha256": "1a4599b297badb7093f2def3eacea9a15d52e049b9e9b2f93fc95bced8a9ff51"
+    },
+    {
+      "requestedUrl": "https://nano-banana.lol/ai-subscriptions/chatgpt-plus-renewal",
+      "resolvedUrl": "https://nano-banana.lol/ai-subscriptions/chatgpt-plus-renewal",
+      "status": 200,
+      "bytes": 113564,
+      "sha256": "433fd548134ca41af6b6e2ca0cf2e750ee15d927b227349a05b74064b82d36b0"
+    },
+    {
+      "requestedUrl": "https://payforgpt.com/ai-subscriptions/chatgpt-payment-channels-guide#bank-card-payment",
+      "resolvedUrl": "https://payforgpt.com/ai-subscriptions/chatgpt-payment-channels-guide#bank-card-payment",
+      "status": 200,
+      "bytes": 150343,
+      "sha256": "721f16061ffc49ba893a96925bf81974ce5b64cb60c6f94e10d63138c348f234"
+    },
+    {
+      "requestedUrl": "https://nano-banana.lol/ai-subscriptions/alipay-wechat-pay#domestic-card-eligibility",
+      "resolvedUrl": "https://nano-banana.lol/ai-subscriptions/alipay-wechat-pay#domestic-card-eligibility",
+      "status": 200,
+      "bytes": 139677,
+      "sha256": "07357dc79ac17d76b027529fa4cceff6efe777e951d7f501172da0b581955383"
+    },
+    {
+      "requestedUrl": "https://nano-banana.lol/ai-subscriptions/alipay-wechat-pay#card-binding-help",
+      "resolvedUrl": "https://nano-banana.lol/ai-subscriptions/alipay-wechat-pay#card-binding-help",
+      "status": 200,
+      "bytes": 139677,
+      "sha256": "70a20832374eec677fa7f800487aef43298a8f6179fe160a97d7b9bac83b7479"
+    },
+    {
+      "requestedUrl": "https://payforgpt.com/how-to/payment-success-not-delivered#support-ticket-query",
+      "resolvedUrl": "https://payforgpt.com/how-to/payment-success-not-delivered#support-ticket-query",
+      "status": 200,
+      "bytes": 121635,
+      "sha256": "42fa149dad715b998756527572d848b4df7531dc9ee3324649830e6bc2fc801d"
+    },
+    {
+      "requestedUrl": "https://nano-banana.lol/ai-subscriptions/delivery#support-ticket-check",
+      "resolvedUrl": "https://nano-banana.lol/ai-subscriptions/delivery#support-ticket-check",
+      "status": 200,
+      "bytes": 106915,
+      "sha256": "87818578375c10409237c4acac2b3c5f673919f611955d750010b4622c4f3c5a"
+    },
+    {
+      "requestedUrl": "https://payforgpt.com/how-to/payment-success-not-delivered",
+      "resolvedUrl": "https://payforgpt.com/how-to/payment-success-not-delivered",
+      "status": 200,
+      "bytes": 121635,
+      "sha256": "42fa149dad715b998756527572d848b4df7531dc9ee3324649830e6bc2fc801d"
+    },
+    {
+      "requestedUrl": "https://nano-banana.lol/how-to/payment-success-not-delivered",
+      "resolvedUrl": "https://nano-banana.lol/how-to/payment-success-not-delivered",
+      "status": 200,
+      "bytes": 108656,
+      "sha256": "4cb461d1096f12353e763b695e8d03391a8146b99be35ed8fff0b006d2fcdab0"
+    },
+    {
+      "requestedUrl": "https://payforgpt.com/ai-subscriptions/chatgpt-recharge-platform-selection#platform-comparison-checklist",
+      "resolvedUrl": "https://payforgpt.com/ai-subscriptions/chatgpt-recharge-platform-selection#platform-comparison-checklist",
+      "status": 200,
+      "bytes": 116037,
+      "sha256": "d46abb147901d95d8149c92372e935e1ea0c43a692a42083ee005b6f0d4ca7b9"
+    },
+    {
+      "requestedUrl": "https://nano-banana.lol/ai-subscriptions/compare#recharge-platform-choice",
+      "resolvedUrl": "https://nano-banana.lol/ai-subscriptions/compare#recharge-platform-choice",
+      "status": 200,
+      "bytes": 115612,
+      "sha256": "eba53b9032d01262954632e4c34298d8704812fcbeaed6d6489d42a50ac7c91d"
+    },
+    {
+      "requestedUrl": "https://payforgpt.com/ai-subscriptions/passwordless-recharge-credentials#account-safety-check",
+      "resolvedUrl": "https://payforgpt.com/ai-subscriptions/passwordless-recharge-credentials#account-safety-check",
+      "status": 200,
+      "bytes": 152752,
+      "sha256": "da1ac54b21c789a372506285e1b523e8d5478888a91391ecfbd14165ec62ef19"
+    },
+    {
+      "requestedUrl": "https://nano-banana.lol/ai-subscriptions/claim-checklist#no-ban-claim",
+      "resolvedUrl": "https://nano-banana.lol/ai-subscriptions/claim-checklist#no-ban-claim",
+      "status": 200,
+      "bytes": 109300,
+      "sha256": "69fb18f9bd40c9820e61d56cd4b74ff41ca219f98c6812dde63d296099c6f987"
+    },
+    {
+      "requestedUrl": "https://payforgpt.com/how-to#open-source-recharge-guides",
+      "resolvedUrl": "https://payforgpt.com/how-to#open-source-recharge-guides",
+      "status": 200,
+      "bytes": 93026,
+      "sha256": "21bbbb2213bb37cede6bba3048541a244d8400a775ed25f8238ec6757730f903"
+    },
+    {
+      "requestedUrl": "https://nano-banana.lol/ai-subscriptions/search-intent#github-guide-index",
+      "resolvedUrl": "https://nano-banana.lol/ai-subscriptions/search-intent#github-guide-index",
+      "status": 200,
+      "bytes": 117341,
+      "sha256": "93eb4ff0a05ba9510f07837a48dba8a93230a8a0086854c9199f2110f53cbd9d"
+    }
+  ],
+  "boundary": "Anonymous GET and immutable source/image byte checks only. No real transaction, product UI or model output tested; no indexing, ranking or conversion established.",
+  "httpItemCount": 58,
+  "verifiedItemCounts": {
+    "README": 1,
+    "primaryMarkdown": 18,
+    "WebP": 17,
+    "relatedSiteEntrypoints": 22
+  }
+}

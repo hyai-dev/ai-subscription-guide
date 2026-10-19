@@ -1,0 +1,42 @@
+[
+  {
+    "site": "pfg",
+    "host": "payforgpt.com",
+    "submittedAtUtc": "2026-10-19T08:10:35.404Z",
+    "endpoint": "https://api.indexnow.org/indexnow",
+    "keyFileStatus": 200,
+    "urlCount": 6,
+    "urls": [
+      "https://payforgpt.com/ai-subscriptions/chatgpt-payment-channels-guide",
+      "https://payforgpt.com/how-to/payment-success-not-delivered",
+      "https://payforgpt.com/ai-subscriptions/chatgpt-recharge-platform-selection",
+      "https://payforgpt.com/ai-subscriptions/passwordless-recharge-credentials",
+      "https://payforgpt.com/how-to",
+      "https://payforgpt.com/ai-subscriptions"
+    ],
+    "httpStatus": 200,
+    "responseBytes": 0,
+    "responseSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "meaning": "URL update notification accepted only when HTTP200/202; not proof of indexing, rankings, traffic or AI citation."
+  },
+  {
+    "site": "nano",
+    "host": "nano-banana.lol",
+    "submittedAtUtc": "2026-10-19T08:10:37.388Z",
+    "endpoint": "https://api.indexnow.org/indexnow",
+    "keyFileStatus": 200,
+    "urlCount": 6,
+    "urls": [
+      "https://nano-banana.lol/ai-subscriptions/alipay-wechat-pay",
+      "https://nano-banana.lol/ai-subscriptions/delivery",
+      "https://nano-banana.lol/ai-subscriptions/compare",
+      "https://nano-banana.lol/ai-subscriptions/claim-checklist",
+      "https://nano-banana.lol/ai-subscriptions/search-intent",
+      "https://nano-banana.lol/ai-subscriptions"
+    ],
+    "httpStatus": 200,
+    "responseBytes": 0,
+    "responseSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "meaning": "URL update notification accepted only when HTTP200/202; not proof of indexing, rankings, traffic or AI citation."
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "result": "passed",
+  "documentId": "M3iDdYCNFo9C3RxHBEXc1Rrpn9f",
+  "baselineRevision": 160,
+  "finalRevision": 169,
+  "keywordTables": 50,
+  "totalKeywords": 2500,
+  "oldDonePreserved": 43,
+  "newDone": 7,
+  "completed": 50,
+  "pending": 2450,
+  "targetRows": [
+    43,
+    44,
+    45,
+    47,
+    48,
+    49,
+    50
+  ],
+  "preservedRow46EntireCell": true,
+  "allOtherRowsAndCellsUnchanged": true,
+  "allOriginalTopLevelBlocksPreservedExceptTargetTableAndCursor": true,
+  "codexTopicsPreserved": 6,
+  "next": {
+    "siteNumber": 2,
+    "siteName": "GETGPT Pro",
+    "row": 1,
+    "keyword": "GETGPT Pro"
+  },
+  "readbackXmlSha256": "3d1c9b2e793cf95d07f35d844da4c0875cdca84c8a28dbcbbd0eaacfc1ef40a6",
+  "readbackJsonSha256": "ec352b00dcc9d0a8ff7d088731c6915b6fe3820b08e392defcf94159dcff3ae2",
+  "verifiedAtUtc": "2026-10-19T08:16:33.945791+00:00",
+  "scope": "Full fresh readback audit only; no Feishu mutation performed by thisauditor."
+}

@@ -1,0 +1,1343 @@
+{
+  "batch": "keywords-43-50",
+  "result": "passed",
+  "verifiedAt": "2026-10-19T08:09:38.308350+00:00",
+  "sites": [
+    {
+      "site": "pfg",
+      "origin": "https://payforgpt.com",
+      "sourceCommit": "ddd8d2b1a051834ac168f91e8cb7285a300b0d0c",
+      "verificationMethod": "Read-only public HTTP and HTML parsing; local expected checksums from accepted production runtime receipts. No browser automation or visual layout claim.",
+      "pages": [
+        {
+          "path": "/ai-subscriptions/chatgpt-payment-channels-guide",
+          "url": "https://payforgpt.com/ai-subscriptions/chatgpt-payment-channels-guide",
+          "status": 200,
+          "canonical": "https://payforgpt.com/ai-subscriptions/chatgpt-payment-channels-guide",
+          "h1": [
+            "国内信用卡支付ChatGPT：先判断资格，再处理绑卡失败"
+          ],
+          "robotsMeta": [
+            "index, follow"
+          ],
+          "xRobotsTag": null,
+          "schemaTypes": [
+            "Article",
+            "BreadcrumbList",
+            "ContactPoint",
+            "ImageObject",
+            "ListItem",
+            "Organization",
+            "WebPage",
+            "WebSite"
+          ],
+          "expectedOriginalPublishedAt": "2026-10-18",
+          "schemaPublishedAt": [
+            "2026-10-18"
+          ],
+          "ogPublishedAt": [
+            "2026-10-18"
+          ],
+          "schemaModifiedAt": [
+            "2026-10-19"
+          ],
+          "ogModifiedAt": [
+            "2026-10-19"
+          ],
+          "publicationDateCheck": "preserved-original",
+          "visibleReviewedAt": "2026-10-19",
+          "anchors": [
+            {
+              "id": "bank-card-payment",
+              "count": 1,
+              "rows": [
+                43,
+                44
+              ]
+            }
+          ],
+          "figureCount": 3,
+          "figures": [
+            {
+              "path": "/images/guides/illustrated-20261018/channels-v1.webp",
+              "status": 200,
+              "bytes": 115936,
+              "sha256": "be3060fa5ad3f83dbc4fe5f2f59d3fbd6325c353b620735f96f09657511df5e1",
+              "alt": "三条独立路径分别展示网页订阅、应用商店和第三方商家，以及对应账单、收据和订单记录。",
+              "caption": "图解一：先把付款对象与凭证配对。网站下单、应用商店购买与官方网页订阅应分别保留记录，不能拿另一条路径的状态解释本单。",
+              "width": 1672,
+              "height": 941,
+              "contentType": "image/webp"
+            },
+            {
+              "path": "/images/guides/decision-guides-20261019/bank-card-route.webp",
+              "status": 200,
+              "bytes": 49192,
+              "sha256": "d6fb56a6d286f3566a15849576c3e4dc9f7f17e423f21b88a75d110bc5e84766",
+              "alt": "先核对实际所在地和发卡地区，再按未扣款或已有交易记录分流；未完成的银行验证由本人在原流程处理。",
+              "caption": "原创分流图：先判断是否适用，再判断交易处于哪一步。图示不提供可用银行卡名单，也不是支付成功证明。",
+              "width": 640,
+              "height": 1050,
+              "contentType": "image/webp"
+            },
+            {
+              "path": "/images/guides/illustrated-20261018/price-v1.webp",
+              "status": 200,
+              "bytes": 72744,
+              "sha256": "a26ac48087ceaa286c7ca936348cdeec90bcb1d5289488c0646e666000181025",
+              "alt": "一个价格核对板将标价与币种、税费、服务周期和权益范围并列，提醒只比较相同条件。",
+              "caption": "图解二：把币种、税费、周期和权益放到同一张清单。图示不提供报价，实际费用以对应结账与银行记录为准。",
+              "width": 1672,
+              "height": 941,
+              "contentType": "image/webp"
+            }
+          ],
+          "sitemapLastmod": "2026-10-19T00:00:00.000Z",
+          "crawlableHubLinks": [
+            {
+              "hub": "https://payforgpt.com/ai-subscriptions",
+              "href": "/ai-subscriptions/chatgpt-payment-channels-guide",
+              "text": "国内信用卡能支付ChatGPT吗？绑卡失败与代付选择国内银行卡带有Visa或Mastercard标志，仍可能无法给ChatGPT付款。先辨认是地区不适用、卡片交易限制、银行验证未完成，还是已经扣款但页面没更新；原因不同，下一步也不同。找代付之前，把自己要买的账号、套餐和原订阅状态写清楚，比反复换卡或下单更有用。阅读本站说明 →"
+            }
+          ],
+          "taskActions": [],
+          "checks": {
+            "http200": true,
+            "noRedirect": true,
+            "selfCanonical": true,
+            "indexable": true,
+            "singleExpectedH1": true,
+            "visibleReviewedDate": true,
+            "originalPublishedDate": true,
+            "schemaModifiedDate": true,
+            "anchor:bank-card-payment": true,
+            "figureCount": true,
+            "figure-present:/images/guides/illustrated-20261018/channels-v1.webp": true,
+            "figure-alt:/images/guides/illustrated-20261018/channels-v1.webp": true,
+            "figure-caption:/images/guides/illustrated-20261018/channels-v1.webp": true,
+            "figure-dimensions:/images/guides/illustrated-20261018/channels-v1.webp": true,
+            "asset-http:/images/guides/illustrated-20261018/channels-v1.webp": true,
+            "asset-bytes:/images/guides/illustrated-20261018/channels-v1.webp": true,
+            "asset-sha256:/images/guides/illustrated-20261018/channels-v1.webp": true,
+            "asset-content-type:/images/guides/illustrated-20261018/channels-v1.webp": true,
+            "figure-present:/images/guides/decision-guides-20261019/bank-card-route.webp": true,
+            "figure-alt:/images/guides/decision-guides-20261019/bank-card-route.webp": true,
+            "figure-caption:/images/guides/decision-guides-20261019/bank-card-route.webp": true,
+            "figure-dimensions:/images/guides/decision-guides-20261019/bank-card-route.webp": true,
+            "asset-http:/images/guides/decision-guides-20261019/bank-card-route.webp": true,
+            "asset-bytes:/images/guides/decision-guides-20261019/bank-card-route.webp": true,
+            "asset-sha256:/images/guides/decision-guides-20261019/bank-card-route.webp": true,
+            "asset-content-type:/images/guides/decision-guides-20261019/bank-card-route.webp": true,
+            "figure-present:/images/guides/illustrated-20261018/price-v1.webp": true,
+            "figure-alt:/images/guides/illustrated-20261018/price-v1.webp": true,
+            "figure-caption:/images/guides/illustrated-20261018/price-v1.webp": true,
+            "figure-dimensions:/images/guides/illustrated-20261018/price-v1.webp": true,
+            "asset-http:/images/guides/illustrated-20261018/price-v1.webp": true,
+            "asset-bytes:/images/guides/illustrated-20261018/price-v1.webp": true,
+            "asset-sha256:/images/guides/illustrated-20261018/price-v1.webp": true,
+            "asset-content-type:/images/guides/illustrated-20261018/price-v1.webp": true,
+            "sitemapPresent": true,
+            "sitemapLastmod": true,
+            "llmsLink": true,
+            "crawlableHubLink": true
+          },
+          "failures": [],
+          "cacheHeaders": {
+            "date": "Mon, 19 Oct 2026 08:09:33 GMT",
+            "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
+            "cf-cache-status": "DYNAMIC"
+          },
+          "responseSha256": "06af0316eab12cffe1cd3ec772cc67f5e14ec475588b3b70b363ae528fe77e72",
+          "result": "passed"
+        },
+        {
+          "path": "/how-to/payment-success-not-delivered",
+          "url": "https://payforgpt.com/how-to/payment-success-not-delivered",
+          "status": 200,
+          "canonical": "https://payforgpt.com/how-to/payment-success-not-delivered",
+          "h1": [
+            "支付成功但未发货 / 没收到卡密怎么办"
+          ],
+          "robotsMeta": [
+            "index, follow"
+          ],
+          "xRobotsTag": null,
+          "schemaTypes": [
+            "BreadcrumbList",
+            "ContactPoint",
+            "HowTo",
+            "HowToStep",
+            "HowToSupply",
+            "HowToTool",
+            "ImageObject",
+            "ListItem",
+            "Organization",
+            "WebSite"
+          ],
+          "expectedOriginalPublishedAt": null,
+          "schemaPublishedAt": [],
+          "ogPublishedAt": [],
+          "schemaModifiedAt": [],
+          "ogModifiedAt": [
+            "2026-10-19"
+          ],
+          "publicationDateCheck": "not-defined-before-update; no date invented",
+          "visibleReviewedAt": "2026-10-19",
+          "anchors": [
+            {
+              "id": "support-ticket-query",
+              "count": 1,
+              "rows": [
+                45
+              ]
+            }
+          ],
+          "figureCount": 1,
+          "figures": [
+            {
+              "path": "/images/guides/decision-guides-20261019/ticket-followup.webp",
+              "status": 200,
+              "bytes": 53136,
+              "sha256": "9f6139da45fa815a808d8807f10c7001dd15b0953bcb1700197e96ce0c801bb2",
+              "alt": "先用订单号查交易，再沿同一客服对话看回复，只补缺失脱敏材料，最后分别核对交付与账号套餐。",
+              "caption": "原创工单回访图：订单状态、客服回复和账号权益各有记录。图示说明查询顺序，不是实际工单后台或处理时效承诺。",
+              "width": 640,
+              "height": 1050,
+              "contentType": "image/webp"
+            }
+          ],
+          "sitemapLastmod": "2026-10-19T00:00:00.000Z",
+          "crawlableHubLinks": [
+            {
+              "hub": "https://payforgpt.com/how-to",
+              "href": "/how-to/payment-success-not-delivered#support-ticket-query",
+              "text": "已经下单：订单与工单怎样继续查用原订单看状态，再沿同一客服对话补材料。"
+            },
+            {
+              "hub": "https://payforgpt.com/how-to",
+              "href": "/how-to/payment-success-not-delivered",
+              "text": "支付成功但未发货处理支付成功后未收到卡密时的核单流程。"
+            }
+          ],
+          "taskActions": [],
+          "checks": {
+            "http200": true,
+            "noRedirect": true,
+            "selfCanonical": true,
+            "indexable": true,
+            "singleExpectedH1": true,
+            "visibleReviewedDate": true,
+            "modifiedDateMetadata": true,
+            "anchor:support-ticket-query": true,
+            "figureCount": true,
+            "figure-present:/images/guides/decision-guides-20261019/ticket-followup.webp": true,
+            "figure-alt:/images/guides/decision-guides-20261019/ticket-followup.webp": true,
+            "figure-caption:/images/guides/decision-guides-20261019/ticket-followup.webp": true,
+            "figure-dimensions:/images/guides/decision-guides-20261019/ticket-followup.webp": true,
+            "asset-http:/images/guides/decision-guides-20261019/ticket-followup.webp": true,
+            "asset-bytes:/images/guides/decision-guides-20261019/ticket-followup.webp": true,
+            "asset-sha256:/images/guides/decision-guides-20261019/ticket-followup.webp": true,
+            "asset-content-type:/images/guides/decision-guides-20261019/ticket-followup.webp": true,
+            "sitemapPresent": true,
+            "sitemapLastmod": true,
+            "llmsLink": true,
+            "crawlableHubLink": true
+          },
+          "failures": [],
+          "cacheHeaders": {
+            "date": "Mon, 19 Oct 2026 08:09:32 GMT",
+            "last-modified": "Mon, 19 Oct 2026 08:07:37 GMT",
+            "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
+            "age": "115",
+            "cf-cache-status": "HIT"
+          },
+          "responseSha256": "2a36897f7f6f92bcff8e144f0ec03bdf6d8a2515ad99c0ca90942955a51bbec1",
+          "result": "passed"
+        },
+        {
+          "path": "/ai-subscriptions/chatgpt-recharge-platform-selection",
+          "url": "https://payforgpt.com/ai-subscriptions/chatgpt-recharge-platform-selection",
+          "status": 200,
+          "canonical": "https://payforgpt.com/ai-subscriptions/chatgpt-recharge-platform-selection",
+          "h1": [
+            "ChatGPT充值哪个平台好？用这张清单选择代付服务"
+          ],
+          "robotsMeta": [
+            "index, follow"
+          ],
+          "xRobotsTag": null,
+          "schemaTypes": [
+            "Article",
+            "BreadcrumbList",
+            "ContactPoint",
+            "ImageObject",
+            "ListItem",
+            "Organization",
+            "WebPage",
+            "WebSite"
+          ],
+          "expectedOriginalPublishedAt": "2026-10-19",
+          "schemaPublishedAt": [
+            "2026-10-19"
+          ],
+          "ogPublishedAt": [
+            "2026-10-19"
+          ],
+          "schemaModifiedAt": [
+            "2026-10-19"
+          ],
+          "ogModifiedAt": [
+            "2026-10-19"
+          ],
+          "publicationDateCheck": "preserved-original",
+          "visibleReviewedAt": "2026-10-19",
+          "anchors": [
+            {
+              "id": "platform-comparison-checklist",
+              "count": 1,
+              "rows": [
+                47,
+                49
+              ]
+            }
+          ],
+          "figureCount": 1,
+          "figures": [
+            {
+              "path": "/images/guides/decision-guides-20261019/platform-scorecard.webp",
+              "status": 200,
+              "bytes": 53726,
+              "sha256": "0cb7ab5c404615d571b8c85cc906b90952659894710752106ba3f58598d53ee6",
+              "alt": "平台选择先对齐账号套餐周期，再比较实际应付和资料条件，随后确认订单售后，最后回原账号验收。",
+              "caption": "原创选择流程：四步是比较顺序，不是商家排名或安全评分。等价检查项与提问模板见正文。",
+              "width": 640,
+              "height": 1050,
+              "contentType": "image/webp"
+            }
+          ],
+          "sitemapLastmod": "2026-10-19T00:00:00.000Z",
+          "crawlableHubLinks": [
+            {
+              "hub": "https://payforgpt.com/ai-subscriptions",
+              "href": "/ai-subscriptions/chatgpt-recharge-platform-selection",
+              "text": "ChatGPT充值哪个平台好？代付平台选择清单看过几家充值平台，价格差几十元，但不知道买到的是否一样？先别按“推荐榜第一名”付款。把账号归属、套餐周期、交付方式和异常处理放到同一张表，才能判断哪项商品适合自己。本文由PayForGPT内容运营方编写，本站链接属于自有商业入口；下面提供比较方法和可记录的问题，不把本站排成未经实测的第一名。阅读本站说明 →"
+            }
+          ],
+          "taskActions": [],
+          "checks": {
+            "http200": true,
+            "noRedirect": true,
+            "selfCanonical": true,
+            "indexable": true,
+            "singleExpectedH1": true,
+            "visibleReviewedDate": true,
+            "originalPublishedDate": true,
+            "schemaModifiedDate": true,
+            "anchor:platform-comparison-checklist": true,
+            "figureCount": true,
+            "figure-present:/images/guides/decision-guides-20261019/platform-scorecard.webp": true,
+            "figure-alt:/images/guides/decision-guides-20261019/platform-scorecard.webp": true,
+            "figure-caption:/images/guides/decision-guides-20261019/platform-scorecard.webp": true,
+            "figure-dimensions:/images/guides/decision-guides-20261019/platform-scorecard.webp": true,
+            "asset-http:/images/guides/decision-guides-20261019/platform-scorecard.webp": true,
+            "asset-bytes:/images/guides/decision-guides-20261019/platform-scorecard.webp": true,
+            "asset-sha256:/images/guides/decision-guides-20261019/platform-scorecard.webp": true,
+            "asset-content-type:/images/guides/decision-guides-20261019/platform-scorecard.webp": true,
+            "sitemapPresent": true,
+            "sitemapLastmod": true,
+            "llmsLink": true,
+            "crawlableHubLink": true
+          },
+          "failures": [],
+          "cacheHeaders": {
+            "date": "Mon, 19 Oct 2026 08:09:33 GMT",
+            "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
+            "cf-cache-status": "DYNAMIC"
+          },
+          "responseSha256": "1f4700d929115201145cc1971abac0cedaa5f412ae2555c4bd517bece9c8409d",
+          "result": "passed"
+        },
+        {
+          "path": "/ai-subscriptions/passwordless-recharge-credentials",
+          "url": "https://payforgpt.com/ai-subscriptions/passwordless-recharge-credentials",
+          "status": 200,
+          "canonical": "https://payforgpt.com/ai-subscriptions/passwordless-recharge-credentials",
+          "h1": [
+            "ChatGPT代充安全吗？先看凭证和账号控制权"
+          ],
+          "robotsMeta": [
+            "index, follow"
+          ],
+          "xRobotsTag": null,
+          "schemaTypes": [
+            "Article",
+            "BreadcrumbList",
+            "ContactPoint",
+            "ImageObject",
+            "ListItem",
+            "Organization",
+            "WebPage",
+            "WebSite"
+          ],
+          "expectedOriginalPublishedAt": "2026-10-18",
+          "schemaPublishedAt": [
+            "2026-10-18"
+          ],
+          "ogPublishedAt": [
+            "2026-10-18"
+          ],
+          "schemaModifiedAt": [
+            "2026-10-19"
+          ],
+          "ogModifiedAt": [
+            "2026-10-19"
+          ],
+          "publicationDateCheck": "preserved-original",
+          "visibleReviewedAt": "2026-10-19",
+          "anchors": [
+            {
+              "id": "account-safety-check",
+              "count": 1,
+              "rows": [
+                48
+              ]
+            }
+          ],
+          "figureCount": 3,
+          "figures": [
+            {
+              "path": "/images/guides/decision-guides-20261019/account-access.webp",
+              "status": 200,
+              "bytes": 49230,
+              "sha256": "4757fb9cefd98ea077afe774cfa3aae4ec0adf11c5b713ede052ef23ca391806",
+              "alt": "安全判断分成使用资格、本人账号控制、访问资料和交易结果四项；订单完成不代表其他三项自动成立。",
+              "caption": "原创检查图：每一格对应不同证据。“免密”“原号”或订单完成，都不能替代全部检查。",
+              "width": 640,
+              "height": 1050,
+              "contentType": "image/webp"
+            },
+            {
+              "path": "/images/guides/illustrated-20261018/credentials-v1.webp",
+              "status": 200,
+              "bytes": 84870,
+              "sha256": "539505083aeb9411a53c82200ab07d0aac9aa5f14df6fc2e93e5867a4463f353",
+              "alt": "普通订单材料放在票据夹中，密码、验证码和会话资料作为账号钥匙由本人保管。",
+              "caption": "图解一：订单号和脱敏付款记录用于核单；账号密码、验证码、恢复材料与会话资料属于另一层访问权限，不能混装进客服材料。",
+              "width": 1672,
+              "height": 941,
+              "contentType": "image/webp"
+            },
+            {
+              "path": "/images/guides/illustrated-20261018/channels-v1.webp",
+              "status": 200,
+              "bytes": 115936,
+              "sha256": "be3060fa5ad3f83dbc4fe5f2f59d3fbd6325c353b620735f96f09657511df5e1",
+              "alt": "网页订阅、应用商店订阅与独立商家订单分别连接各自的付款凭证和支持入口。",
+              "caption": "图解二：支付争议先回到原收款方核对；商家订单、应用商店收据和官方网页账单各有对应记录，账号钥匙不是它们的替代材料。",
+              "width": 1672,
+              "height": 941,
+              "contentType": "image/webp"
+            }
+          ],
+          "sitemapLastmod": "2026-10-19T00:00:00.000Z",
+          "crawlableHubLinks": [
+            {
+              "hub": "https://payforgpt.com/ai-subscriptions",
+              "href": "/ai-subscriptions/passwordless-recharge-credentials",
+              "text": "ChatGPT代充安全吗？凭证、账号控制权与异常处置购买时要求账号密码，办理页要求 Session JSON，客服又要求验证码：这些都不能当作普通核单材料。先分清谁在接收什么、可能涉及哪一层访问，再决定是否继续。下面的图解用于解释关系，不是实际订单、授权界面或安全审计结果。阅读本站说明 →"
+            }
+          ],
+          "taskActions": [],
+          "checks": {
+            "http200": true,
+            "noRedirect": true,
+            "selfCanonical": true,
+            "indexable": true,
+            "singleExpectedH1": true,
+            "visibleReviewedDate": true,
+            "originalPublishedDate": true,
+            "schemaModifiedDate": true,
+            "anchor:account-safety-check": true,
+            "figureCount": true,
+            "figure-present:/images/guides/decision-guides-20261019/account-access.webp": true,
+            "figure-alt:/images/guides/decision-guides-20261019/account-access.webp": true,
+            "figure-caption:/images/guides/decision-guides-20261019/account-access.webp": true,
+            "figure-dimensions:/images/guides/decision-guides-20261019/account-access.webp": true,
+            "asset-http:/images/guides/decision-guides-20261019/account-access.webp": true,
+            "asset-bytes:/images/guides/decision-guides-20261019/account-access.webp": true,
+            "asset-sha256:/images/guides/decision-guides-20261019/account-access.webp": true,
+            "asset-content-type:/images/guides/decision-guides-20261019/account-access.webp": true,
+            "figure-present:/images/guides/illustrated-20261018/credentials-v1.webp": true,
+            "figure-alt:/images/guides/illustrated-20261018/credentials-v1.webp": true,
+            "figure-caption:/images/guides/illustrated-20261018/credentials-v1.webp": true,
+            "figure-dimensions:/images/guides/illustrated-20261018/credentials-v1.webp": true,
+            "asset-http:/images/guides/illustrated-20261018/credentials-v1.webp": true,
+            "asset-bytes:/images/guides/illustrated-20261018/credentials-v1.webp": true,
+            "asset-sha256:/images/guides/illustrated-20261018/credentials-v1.webp": true,
+            "asset-content-type:/images/guides/illustrated-20261018/credentials-v1.webp": true,
+            "figure-present:/images/guides/illustrated-20261018/channels-v1.webp": true,
+            "figure-alt:/images/guides/illustrated-20261018/channels-v1.webp": true,
+            "figure-caption:/images/guides/illustrated-20261018/channels-v1.webp": true,
+            "figure-dimensions:/images/guides/illustrated-20261018/channels-v1.webp": true,
+            "asset-http:/images/guides/illustrated-20261018/channels-v1.webp": true,
+            "asset-bytes:/images/guides/illustrated-20261018/channels-v1.webp": true,
+            "asset-sha256:/images/guides/illustrated-20261018/channels-v1.webp": true,
+            "asset-content-type:/images/guides/illustrated-20261018/channels-v1.webp": true,
+            "sitemapPresent": true,
+            "sitemapLastmod": true,
+            "llmsLink": true,
+            "crawlableHubLink": true
+          },
+          "failures": [],
+          "cacheHeaders": {
+            "date": "Mon, 19 Oct 2026 08:09:35 GMT",
+            "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
+            "cf-cache-status": "DYNAMIC"
+          },
+          "responseSha256": "ead6290582561f0803f29d44533caf65ca7ececcee2894d39d3e2056e705a539",
+          "result": "passed"
+        },
+        {
+          "path": "/how-to",
+          "url": "https://payforgpt.com/how-to",
+          "status": 200,
+          "canonical": "https://payforgpt.com/how-to",
+          "h1": [
+            "Codex 与 AI 订阅教程索引"
+          ],
+          "robotsMeta": [
+            "index, follow"
+          ],
+          "xRobotsTag": null,
+          "schemaTypes": [
+            "BreadcrumbList",
+            "ContactPoint",
+            "ImageObject",
+            "ItemList",
+            "ListItem",
+            "Organization",
+            "WebSite"
+          ],
+          "expectedOriginalPublishedAt": null,
+          "schemaPublishedAt": [],
+          "ogPublishedAt": [],
+          "schemaModifiedAt": [],
+          "ogModifiedAt": [],
+          "publicationDateCheck": "not-defined-before-update; no date invented",
+          "visibleReviewedAt": "2026-10-19",
+          "anchors": [
+            {
+              "id": "open-source-recharge-guides",
+              "count": 1,
+              "rows": [
+                50
+              ]
+            }
+          ],
+          "figureCount": 1,
+          "figures": [
+            {
+              "path": "/images/guides/decision-guides-20261019/guide-routes.webp",
+              "status": 200,
+              "bytes": 54872,
+              "sha256": "ea96a60df3994225090965f2a8631d1a7baec625904324ee4ce40bf238d45b51",
+              "alt": "公开指南按选商品、付款交付、账号材料和工具任务四类分流，每类回到对应专题与检查结果。",
+              "caption": "原创阅读路线图：先找眼下的问题，再进入对应教程。图示不是搜索排名或充值成功率证明。",
+              "width": 640,
+              "height": 1050,
+              "contentType": "image/webp"
+            }
+          ],
+          "sitemapLastmod": "2026-10-19T00:00:00.000Z",
+          "crawlableHubLinks": [
+            {
+              "hub": "https://payforgpt.com/how-to/codex-china-start-guide",
+              "href": "/how-to",
+              "text": "教程"
+            }
+          ],
+          "taskActions": [],
+          "checks": {
+            "http200": true,
+            "noRedirect": true,
+            "selfCanonical": true,
+            "indexable": true,
+            "singleExpectedH1": true,
+            "visibleReviewedDate": true,
+            "anchor:open-source-recharge-guides": true,
+            "figureCount": true,
+            "figure-present:/images/guides/decision-guides-20261019/guide-routes.webp": true,
+            "figure-alt:/images/guides/decision-guides-20261019/guide-routes.webp": true,
+            "figure-caption:/images/guides/decision-guides-20261019/guide-routes.webp": true,
+            "figure-dimensions:/images/guides/decision-guides-20261019/guide-routes.webp": true,
+            "asset-http:/images/guides/decision-guides-20261019/guide-routes.webp": true,
+            "asset-bytes:/images/guides/decision-guides-20261019/guide-routes.webp": true,
+            "asset-sha256:/images/guides/decision-guides-20261019/guide-routes.webp": true,
+            "asset-content-type:/images/guides/decision-guides-20261019/guide-routes.webp": true,
+            "sitemapPresent": true,
+            "sitemapLastmod": true,
+            "llmsLink": true,
+            "crawlableHubLink": true
+          },
+          "failures": [],
+          "cacheHeaders": {
+            "date": "Mon, 19 Oct 2026 08:09:35 GMT",
+            "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
+            "cf-cache-status": "DYNAMIC"
+          },
+          "responseSha256": "5290d8363664fc770f9107275d45caa74f982c9d287470c1695b5b18a9ad083e",
+          "result": "passed"
+        }
+      ],
+      "failures": [],
+      "indexNowSubmitted": false,
+      "discoveryDocuments": [
+        {
+          "url": "https://payforgpt.com/",
+          "status": 200,
+          "responseSha256": "196dd29f24970e34b01a93fbf4e1ae65651c76ed66c1a1cdb5db6dc3f47e7621"
+        },
+        {
+          "url": "https://payforgpt.com/ai-subscriptions",
+          "status": 200,
+          "responseSha256": "77b119db3e3044e331821326e31a473518e9981c61fd16dbd1aef1d07f0764f0"
+        },
+        {
+          "url": "https://payforgpt.com/how-to",
+          "status": 200,
+          "responseSha256": "2d2bedba25d67472979d62ff2e78ff58a0308b77d176bbd572ef7541d2b8fb3a"
+        },
+        {
+          "url": "https://payforgpt.com/how-to/codex-china-start-guide",
+          "status": 200,
+          "responseSha256": "7fa6d65d3f1abdc07c5bfe0bf6fbbb7baaca2d7f594a781d2f74224668cbea62"
+        },
+        {
+          "url": "https://payforgpt.com/llms.txt",
+          "status": 200,
+          "responseSha256": "4a44d57d44ff9ac678246b96aae90238b10e22741d7c625288f70ae063cb0f41"
+        },
+        {
+          "url": "https://payforgpt.com/sitemap.xml",
+          "status": 200,
+          "responseSha256": "291713577515cb3b69e5830d0bcf139a9cfacaa821ccc9da83f0192e75e1cb1a"
+        }
+      ],
+      "oldComparisonGate": {
+        "path": "/blog/2026-chatgpt-plus-recharge-platforms-comparison",
+        "status": 200,
+        "robotsMeta": [
+          "noindex, follow"
+        ],
+        "xRobotsTag": null,
+        "sitemapPresent": false,
+        "h1": [
+          "历史文章正在重新审核"
+        ],
+        "result": "passed"
+      },
+      "result": "passed",
+      "verifiedAt": "2026-10-19T08:09:38.304594+00:00"
+    },
+    {
+      "site": "nano",
+      "origin": "https://nano-banana.lol",
+      "sourceCommit": "137e1f5c4e1f47522f1db3ab993e2f55df17acc5",
+      "verificationMethod": "Read-only public HTTP and HTML parsing; local expected checksums from accepted production runtime receipts. No browser automation or visual layout claim.",
+      "pages": [
+        {
+          "path": "/ai-subscriptions/alipay-wechat-pay",
+          "url": "https://nano-banana.lol/ai-subscriptions/alipay-wechat-pay",
+          "status": 200,
+          "canonical": "https://nano-banana.lol/ai-subscriptions/alipay-wechat-pay",
+          "h1": [
+            "国内信用卡能支付 ChatGPT 吗？绑卡失败后先看这几步"
+          ],
+          "robotsMeta": [
+            "index, follow"
+          ],
+          "xRobotsTag": null,
+          "schemaTypes": [
+            "Article",
+            "BreadcrumbList",
+            "ContactPoint",
+            "ImageObject",
+            "ListItem",
+            "Organization",
+            "WebPage",
+            "WebSite"
+          ],
+          "expectedOriginalPublishedAt": "2026-07-30",
+          "schemaPublishedAt": [
+            "2026-07-30"
+          ],
+          "ogPublishedAt": [
+            "2026-07-30"
+          ],
+          "schemaModifiedAt": [
+            "2026-10-19"
+          ],
+          "ogModifiedAt": [
+            "2026-10-19"
+          ],
+          "publicationDateCheck": "preserved-original",
+          "visibleReviewedAt": "2026-10-19",
+          "anchors": [
+            {
+              "id": "domestic-card-eligibility",
+              "count": 1,
+              "rows": [
+                43
+              ]
+            },
+            {
+              "id": "card-binding-help",
+              "count": 1,
+              "rows": [
+                44
+              ]
+            }
+          ],
+          "figureCount": 3,
+          "figures": [
+            {
+              "path": "/images/guides/illustrated-20261018/channels-v1.webp",
+              "status": 200,
+              "bytes": 115936,
+              "sha256": "be3060fa5ad3f83dbc4fe5f2f59d3fbd6325c353b620735f96f09657511df5e1",
+              "alt": "网页订阅、手机应用商店和独立商城分成三条账单路径，每条对应自己的收款记录和支持入口",
+              "caption": "图解是账单归属示意，不是支付页面截图。先确认实际收款方，再到同一渠道查看订阅、收据和后续处理。",
+              "width": 1672,
+              "height": 941,
+              "contentType": "image/webp"
+            },
+            {
+              "path": "/images/guides/keywords-43-50-20261019/card-eligibility.webp",
+              "status": 200,
+              "bytes": 62680,
+              "sha256": "fc3b84d21c5ed9a27f0dec12099787dbf0912155f37227521d94c3a71f19d196",
+              "alt": "付款前依次核对本人地区、发卡地区和真实账单；不符合资格时停止重试，已扣款则回原单查账",
+              "caption": "先确认能否使用这条路径，再检查银行卡；更换工具不自动改变资格。本图为原创流程示意，不是产品界面或真实交易截图。",
+              "width": 640,
+              "height": 1140,
+              "contentType": "image/webp"
+            },
+            {
+              "path": "/images/guides/illustrated-20261018/price-v1.webp",
+              "status": 200,
+              "bytes": 72744,
+              "sha256": "a26ac48087ceaa286c7ca936348cdeec90bcb1d5289488c0646e666000181025",
+              "alt": "比较订阅总价时，先统一币种税费，再核对商品周期、实际权益和办理条件",
+              "caption": "图解把标价、币种税费、周期和权益分开。任何静态图都不能替代本人当次结账金额或商品可售状态。",
+              "width": 1672,
+              "height": 941,
+              "contentType": "image/webp"
+            }
+          ],
+          "sitemapLastmod": "2026-10-19T00:00:00.000Z",
+          "crawlableHubLinks": [
+            {
+              "hub": "https://nano-banana.lol/ai-subscriptions",
+              "href": "/ai-subscriptions/alipay-wechat-pay#domestic-card-eligibility",
+              "text": "国内信用卡与付款资格"
+            },
+            {
+              "hub": "https://nano-banana.lol/ai-subscriptions",
+              "href": "/ai-subscriptions/alipay-wechat-pay#card-binding-help",
+              "text": "无法绑卡与代付核对"
+            },
+            {
+              "hub": "https://nano-banana.lol/ai-subscriptions",
+              "href": "/ai-subscriptions/alipay-wechat-pay",
+              "text": "Alipay / WeChat国内信用卡能支付 ChatGPT 吗？绑卡失败与代付核对国内信用卡支付 ChatGPT 为什么失败，无法绑卡后能否找人代付？Nano Banana 将本人所在地、发卡地区、账单资料和银行验证分开检查，并说明已有扣款、亲友代付、商家收款和 API 账单的处理顺序。附付款资格图解、材料清单与异常下一步，避免重复扣费或买错账号。继续阅读"
+            }
+          ],
+          "taskActions": [
+            {
+              "href": "/how-to/handle-payment-failed#decline-errors",
+              "text": "排查银行卡错误"
+            },
+            {
+              "href": "/order",
+              "text": "已有扣款先查单"
+            }
+          ],
+          "checks": {
+            "http200": true,
+            "noRedirect": true,
+            "selfCanonical": true,
+            "indexable": true,
+            "singleExpectedH1": true,
+            "visibleReviewedDate": true,
+            "originalPublishedDate": true,
+            "schemaModifiedDate": true,
+            "anchor:domestic-card-eligibility": true,
+            "anchor:card-binding-help": true,
+            "figureCount": true,
+            "figure-present:/images/guides/illustrated-20261018/channels-v1.webp": true,
+            "figure-alt:/images/guides/illustrated-20261018/channels-v1.webp": true,
+            "figure-caption:/images/guides/illustrated-20261018/channels-v1.webp": true,
+            "figure-dimensions:/images/guides/illustrated-20261018/channels-v1.webp": true,
+            "asset-http:/images/guides/illustrated-20261018/channels-v1.webp": true,
+            "asset-bytes:/images/guides/illustrated-20261018/channels-v1.webp": true,
+            "asset-sha256:/images/guides/illustrated-20261018/channels-v1.webp": true,
+            "asset-content-type:/images/guides/illustrated-20261018/channels-v1.webp": true,
+            "figure-present:/images/guides/keywords-43-50-20261019/card-eligibility.webp": true,
+            "figure-alt:/images/guides/keywords-43-50-20261019/card-eligibility.webp": true,
+            "figure-caption:/images/guides/keywords-43-50-20261019/card-eligibility.webp": true,
+            "figure-dimensions:/images/guides/keywords-43-50-20261019/card-eligibility.webp": true,
+            "asset-http:/images/guides/keywords-43-50-20261019/card-eligibility.webp": true,
+            "asset-bytes:/images/guides/keywords-43-50-20261019/card-eligibility.webp": true,
+            "asset-sha256:/images/guides/keywords-43-50-20261019/card-eligibility.webp": true,
+            "asset-content-type:/images/guides/keywords-43-50-20261019/card-eligibility.webp": true,
+            "figure-present:/images/guides/illustrated-20261018/price-v1.webp": true,
+            "figure-alt:/images/guides/illustrated-20261018/price-v1.webp": true,
+            "figure-caption:/images/guides/illustrated-20261018/price-v1.webp": true,
+            "figure-dimensions:/images/guides/illustrated-20261018/price-v1.webp": true,
+            "asset-http:/images/guides/illustrated-20261018/price-v1.webp": true,
+            "asset-bytes:/images/guides/illustrated-20261018/price-v1.webp": true,
+            "asset-sha256:/images/guides/illustrated-20261018/price-v1.webp": true,
+            "asset-content-type:/images/guides/illustrated-20261018/price-v1.webp": true,
+            "sitemapPresent": true,
+            "sitemapLastmod": true,
+            "llmsLink": true,
+            "crawlableHubLink": true,
+            "taskAction:/how-to/handle-payment-failed#decline-errors": true,
+            "taskAction:/order": true
+          },
+          "failures": [],
+          "responseSha256": "661b5aa59fb1b917814e3e73668750fd773a0a365d90b0553db92213cfbbca3a",
+          "result": "passed"
+        },
+        {
+          "path": "/ai-subscriptions/delivery",
+          "url": "https://nano-banana.lol/ai-subscriptions/delivery",
+          "status": 200,
+          "canonical": "https://nano-banana.lol/ai-subscriptions/delivery",
+          "h1": [
+            "ChatGPT 代充工单怎么查？先找到原订单和处理记录"
+          ],
+          "robotsMeta": [
+            "index, follow"
+          ],
+          "xRobotsTag": null,
+          "schemaTypes": [
+            "Article",
+            "BreadcrumbList",
+            "ContactPoint",
+            "ImageObject",
+            "ListItem",
+            "Organization",
+            "WebPage",
+            "WebSite"
+          ],
+          "expectedOriginalPublishedAt": "2026-07-30",
+          "schemaPublishedAt": [
+            "2026-07-30"
+          ],
+          "ogPublishedAt": [
+            "2026-07-30"
+          ],
+          "schemaModifiedAt": [
+            "2026-10-19"
+          ],
+          "ogModifiedAt": [
+            "2026-10-19"
+          ],
+          "publicationDateCheck": "preserved-original",
+          "visibleReviewedAt": "2026-10-19",
+          "anchors": [
+            {
+              "id": "support-ticket-check",
+              "count": 1,
+              "rows": [
+                45
+              ]
+            }
+          ],
+          "figureCount": 1,
+          "figures": [
+            {
+              "path": "/images/guides/keywords-43-50-20261019/order-support-trace.webp",
+              "status": 200,
+              "bytes": 60062,
+              "sha256": "b1687e56e1a27c02d751df3c1b834a41535f43cba25d6c50b2473b2044091544",
+              "alt": "原商家订单连接付款交易、交付结果和同一条客服反馈；不同记录号分别保存，先看实际状态再决定行动",
+              "caption": "用同一条记录持续补充证据，比重复建单更容易跟踪。本图为原创流程示意，不是产品界面或真实交易截图。",
+              "width": 640,
+              "height": 1140,
+              "contentType": "image/webp"
+            }
+          ],
+          "sitemapLastmod": "2026-10-19T00:00:00.000Z",
+          "crawlableHubLinks": [
+            {
+              "hub": "https://nano-banana.lol/ai-subscriptions",
+              "href": "/ai-subscriptions/delivery#support-ticket-check",
+              "text": "订单、工单与交付进度"
+            },
+            {
+              "hub": "https://nano-banana.lol/ai-subscriptions",
+              "href": "/ai-subscriptions/delivery",
+              "text": "购买与使用指南ChatGPT 代充工单查询：订单进度、客服反馈与交付核验ChatGPT 代充工单查询不等于再下一单。Nano Banana 说明如何用原商家订单查付款、交付与售后进度，订单号、支付交易号、客服记录号分别有什么用，以及邮件没到、账号未升级、补充材料和重复反馈该怎么处理。附可直接整理的脱敏反馈模板与状态核验图。继续阅读"
+            }
+          ],
+          "taskActions": [
+            {
+              "href": "/order",
+              "text": "查询本站原订单"
+            },
+            {
+              "href": "/help",
+              "text": "查看帮助入口"
+            }
+          ],
+          "checks": {
+            "http200": true,
+            "noRedirect": true,
+            "selfCanonical": true,
+            "indexable": true,
+            "singleExpectedH1": true,
+            "visibleReviewedDate": true,
+            "originalPublishedDate": true,
+            "schemaModifiedDate": true,
+            "anchor:support-ticket-check": true,
+            "figureCount": true,
+            "figure-present:/images/guides/keywords-43-50-20261019/order-support-trace.webp": true,
+            "figure-alt:/images/guides/keywords-43-50-20261019/order-support-trace.webp": true,
+            "figure-caption:/images/guides/keywords-43-50-20261019/order-support-trace.webp": true,
+            "figure-dimensions:/images/guides/keywords-43-50-20261019/order-support-trace.webp": true,
+            "asset-http:/images/guides/keywords-43-50-20261019/order-support-trace.webp": true,
+            "asset-bytes:/images/guides/keywords-43-50-20261019/order-support-trace.webp": true,
+            "asset-sha256:/images/guides/keywords-43-50-20261019/order-support-trace.webp": true,
+            "asset-content-type:/images/guides/keywords-43-50-20261019/order-support-trace.webp": true,
+            "sitemapPresent": true,
+            "sitemapLastmod": true,
+            "llmsLink": true,
+            "crawlableHubLink": true,
+            "taskAction:/order": true,
+            "taskAction:/help": true
+          },
+          "failures": [],
+          "responseSha256": "3e7935bc6221b59737f8e92f9074c3752a0a4aa0a37736aafdbe7ea15aa606ab",
+          "result": "passed"
+        },
+        {
+          "path": "/ai-subscriptions/compare",
+          "url": "https://nano-banana.lol/ai-subscriptions/compare",
+          "status": 200,
+          "canonical": "https://nano-banana.lol/ai-subscriptions/compare",
+          "h1": [
+            "ChatGPT 充值哪个平台好？把这六项放在一起比较"
+          ],
+          "robotsMeta": [
+            "index, follow"
+          ],
+          "xRobotsTag": null,
+          "schemaTypes": [
+            "Article",
+            "BreadcrumbList",
+            "ContactPoint",
+            "ImageObject",
+            "ListItem",
+            "Organization",
+            "WebPage",
+            "WebSite"
+          ],
+          "expectedOriginalPublishedAt": "2026-07-30",
+          "schemaPublishedAt": [
+            "2026-07-30"
+          ],
+          "ogPublishedAt": [
+            "2026-07-30"
+          ],
+          "schemaModifiedAt": [
+            "2026-10-19"
+          ],
+          "ogModifiedAt": [
+            "2026-10-19"
+          ],
+          "publicationDateCheck": "preserved-original",
+          "visibleReviewedAt": "2026-10-19",
+          "anchors": [
+            {
+              "id": "recharge-platform-choice",
+              "count": 1,
+              "rows": [
+                47
+              ]
+            },
+            {
+              "id": "payment-assistance-platform",
+              "count": 1,
+              "rows": [
+                49
+              ]
+            }
+          ],
+          "figureCount": 1,
+          "figures": [
+            {
+              "path": "/images/guides/keywords-43-50-20261019/platform-choice.webp",
+              "status": 200,
+              "bytes": 69638,
+              "sha256": "273cf3330976ee5a66df2d4639653bf544908d24938cf4fce3e68898a90ac847",
+              "alt": "比较候选平台时先确认商品和账号，再填写费用、验收、记录及售后；条件未知时询问，满足后才进入下单",
+              "caption": "同口径比较，才能判断哪条路径适合自己的任务。本图为原创流程示意，不是产品界面或真实交易截图。",
+              "width": 640,
+              "height": 1140,
+              "contentType": "image/webp"
+            }
+          ],
+          "sitemapLastmod": "2026-10-19T00:00:00.000Z",
+          "crawlableHubLinks": [
+            {
+              "hub": "https://nano-banana.lol/ai-subscriptions",
+              "href": "/ai-subscriptions/compare#recharge-platform-choice",
+              "text": "充值平台怎么选"
+            },
+            {
+              "hub": "https://nano-banana.lol/ai-subscriptions",
+              "href": "/ai-subscriptions/compare#payment-assistance-platform",
+              "text": "自助、代付与商家服务"
+            },
+            {
+              "hub": "https://nano-banana.lol/ai-subscriptions",
+              "href": "/ai-subscriptions/compare",
+              "text": "购买与使用指南ChatGPT 充值哪个平台好？代付方式与购买选择清单寻找 ChatGPT 代付平台推荐时，先明确自己要官方订阅、本人账号服务还是共享访问。Nano Banana 按账号归属、购买资格、总费用、交付内容、记录与售后六项说明怎么选，提供可填写的比较模板，区分自助付款、亲友代付、第三方商城与共享账号，不用未经核验的排名替代购买判断。继续阅读"
+            }
+          ],
+          "taskActions": [
+            {
+              "href": "/#products",
+              "text": "核对本站当前商品"
+            },
+            {
+              "href": "/ai-subscriptions/checklist",
+              "text": "查看买前清单"
+            }
+          ],
+          "checks": {
+            "http200": true,
+            "noRedirect": true,
+            "selfCanonical": true,
+            "indexable": true,
+            "singleExpectedH1": true,
+            "visibleReviewedDate": true,
+            "originalPublishedDate": true,
+            "schemaModifiedDate": true,
+            "anchor:recharge-platform-choice": true,
+            "anchor:payment-assistance-platform": true,
+            "figureCount": true,
+            "figure-present:/images/guides/keywords-43-50-20261019/platform-choice.webp": true,
+            "figure-alt:/images/guides/keywords-43-50-20261019/platform-choice.webp": true,
+            "figure-caption:/images/guides/keywords-43-50-20261019/platform-choice.webp": true,
+            "figure-dimensions:/images/guides/keywords-43-50-20261019/platform-choice.webp": true,
+            "asset-http:/images/guides/keywords-43-50-20261019/platform-choice.webp": true,
+            "asset-bytes:/images/guides/keywords-43-50-20261019/platform-choice.webp": true,
+            "asset-sha256:/images/guides/keywords-43-50-20261019/platform-choice.webp": true,
+            "asset-content-type:/images/guides/keywords-43-50-20261019/platform-choice.webp": true,
+            "sitemapPresent": true,
+            "sitemapLastmod": true,
+            "llmsLink": true,
+            "crawlableHubLink": true,
+            "taskAction:/#products": true,
+            "taskAction:/ai-subscriptions/checklist": true
+          },
+          "failures": [],
+          "responseSha256": "8c8df48cce0a2e32a805126a4beb02bbb6043f3596af0611866e39992bdbec84",
+          "result": "passed"
+        },
+        {
+          "path": "/ai-subscriptions/claim-checklist",
+          "url": "https://nano-banana.lol/ai-subscriptions/claim-checklist",
+          "status": 200,
+          "canonical": "https://nano-banana.lol/ai-subscriptions/claim-checklist",
+          "h1": [
+            "ChatGPT 代充安全吗？看到“不封号”先检查这些风险"
+          ],
+          "robotsMeta": [
+            "index, follow"
+          ],
+          "xRobotsTag": null,
+          "schemaTypes": [
+            "Article",
+            "BreadcrumbList",
+            "ContactPoint",
+            "ImageObject",
+            "ListItem",
+            "Organization",
+            "WebPage",
+            "WebSite"
+          ],
+          "expectedOriginalPublishedAt": "2026-07-30",
+          "schemaPublishedAt": [
+            "2026-07-30"
+          ],
+          "ogPublishedAt": [
+            "2026-07-30"
+          ],
+          "schemaModifiedAt": [
+            "2026-10-19"
+          ],
+          "ogModifiedAt": [
+            "2026-10-19"
+          ],
+          "publicationDateCheck": "preserved-original",
+          "visibleReviewedAt": "2026-10-19",
+          "anchors": [
+            {
+              "id": "no-ban-claim",
+              "count": 1,
+              "rows": [
+                48
+              ]
+            }
+          ],
+          "figureCount": 1,
+          "figures": [
+            {
+              "path": "/images/guides/keywords-43-50-20261019/account-risk-check.webp",
+              "status": 200,
+              "bytes": 65476,
+              "sha256": "165de4cc7f11a8bfacd572ce66a00b80f99958a797560e528fb5c65c946c91b1",
+              "alt": "账号风险分四层核对：控制权、敏感资料、费用与交付；出现异常回对应入口处理，而非靠不封号承诺决策",
+              "caption": "风险可以逐项检查，无法用一个营销标签消除。本图为原创流程示意，不是产品界面或真实交易截图。",
+              "width": 640,
+              "height": 1140,
+              "contentType": "image/webp"
+            }
+          ],
+          "sitemapLastmod": "2026-10-19T00:00:00.000Z",
+          "crawlableHubLinks": [
+            {
+              "hub": "https://nano-banana.lol/ai-subscriptions",
+              "href": "/ai-subscriptions/claim-checklist#no-ban-claim",
+              "text": "代充安全与不封号说法"
+            },
+            {
+              "hub": "https://nano-banana.lol/ai-subscriptions",
+              "href": "/ai-subscriptions/claim-checklist",
+              "text": "购买与使用指南ChatGPT 代充安全吗？不封号承诺与账号风险排查ChatGPT 代充安全不封号并不是可直接兑现的商品属性。Nano Banana 将账号控制、会话凭证、付款与重复订阅、交付结果和商家售后分开说明，给出付款前检查及异常后的处理顺序。免密码、本人原号、实体手机号或一次成功截图，都不能单独证明长期账号安全。继续阅读"
+            }
+          ],
+          "taskActions": [
+            {
+              "href": "/ai-subscriptions/checklist",
+              "text": "付款前逐项核对"
+            },
+            {
+              "href": "/help",
+              "text": "已有异常看帮助"
+            }
+          ],
+          "checks": {
+            "http200": true,
+            "noRedirect": true,
+            "selfCanonical": true,
+            "indexable": true,
+            "singleExpectedH1": true,
+            "visibleReviewedDate": true,
+            "originalPublishedDate": true,
+            "schemaModifiedDate": true,
+            "anchor:no-ban-claim": true,
+            "figureCount": true,
+            "figure-present:/images/guides/keywords-43-50-20261019/account-risk-check.webp": true,
+            "figure-alt:/images/guides/keywords-43-50-20261019/account-risk-check.webp": true,
+            "figure-caption:/images/guides/keywords-43-50-20261019/account-risk-check.webp": true,
+            "figure-dimensions:/images/guides/keywords-43-50-20261019/account-risk-check.webp": true,
+            "asset-http:/images/guides/keywords-43-50-20261019/account-risk-check.webp": true,
+            "asset-bytes:/images/guides/keywords-43-50-20261019/account-risk-check.webp": true,
+            "asset-sha256:/images/guides/keywords-43-50-20261019/account-risk-check.webp": true,
+            "asset-content-type:/images/guides/keywords-43-50-20261019/account-risk-check.webp": true,
+            "sitemapPresent": true,
+            "sitemapLastmod": true,
+            "llmsLink": true,
+            "crawlableHubLink": true,
+            "taskAction:/ai-subscriptions/checklist": true,
+            "taskAction:/help": true
+          },
+          "failures": [],
+          "responseSha256": "f86be433c5d8cf27990a39c8911066f6119d094cce7675d14e800d20f3467a8e",
+          "result": "passed"
+        },
+        {
+          "path": "/ai-subscriptions/search-intent",
+          "url": "https://nano-banana.lol/ai-subscriptions/search-intent",
+          "status": 200,
+          "canonical": "https://nano-banana.lol/ai-subscriptions/search-intent",
+          "h1": [
+            "ChatGPT 教程导航：从购买排查到 Codex、PDF 和表格任务"
+          ],
+          "robotsMeta": [
+            "index, follow"
+          ],
+          "xRobotsTag": null,
+          "schemaTypes": [
+            "Article",
+            "BreadcrumbList",
+            "ContactPoint",
+            "ImageObject",
+            "ListItem",
+            "Organization",
+            "WebPage",
+            "WebSite"
+          ],
+          "expectedOriginalPublishedAt": "2026-07-30",
+          "schemaPublishedAt": [
+            "2026-07-30"
+          ],
+          "ogPublishedAt": [
+            "2026-07-30"
+          ],
+          "schemaModifiedAt": [
+            "2026-10-19"
+          ],
+          "ogModifiedAt": [
+            "2026-10-19"
+          ],
+          "publicationDateCheck": "preserved-original",
+          "visibleReviewedAt": "2026-10-19",
+          "anchors": [
+            {
+              "id": "github-guide-index",
+              "count": 1,
+              "rows": [
+                50
+              ]
+            }
+          ],
+          "figureCount": 1,
+          "figures": [
+            {
+              "path": "/images/guides/keywords-43-50-20261019/tutorial-task-map.webp",
+              "status": 200,
+              "bytes": 67694,
+              "sha256": "54819b50ae417927e2f56c8a09c5f323e545773cabf657ef10fd43e409886ca0",
+              "alt": "教程按选方案、付款排查、订单反馈和工具任务四路阅读；每路先确认资料，再完成一步并验收结果",
+              "caption": "从当前任务出发，避免在大量关键词页面之间来回跳转。本图为原创流程示意，不是产品界面或真实交易截图。",
+              "width": 640,
+              "height": 1140,
+              "contentType": "image/webp"
+            }
+          ],
+          "sitemapLastmod": "2026-10-19T00:00:00.000Z",
+          "crawlableHubLinks": [
+            {
+              "hub": "https://nano-banana.lol/ai-subscriptions",
+              "href": "/ai-subscriptions/search-intent#github-guide-index",
+              "text": "GitHub 与图文教程导航"
+            },
+            {
+              "hub": "https://nano-banana.lol/ai-subscriptions",
+              "href": "/ai-subscriptions/search-intent",
+              "text": "购买与使用指南ChatGPT 教程怎么找？GitHub 指南、购买与使用导航搜索 awesome-chatgpt-plus-guide、ChatGPT Plus 教程或 Codex 中文指南时，先按任务选择内容。Nano Banana 整理公开 GitHub 指南的检查方法，以及购买资格、付款失败、工单查询和实际使用教程的阅读顺序；提供可执行的小任务与验收方法，区分运营方资料、官方事实和未经验证的推荐。继续阅读"
+            }
+          ],
+          "taskActions": [
+            {
+              "href": "/topics",
+              "text": "阅读实际使用专题"
+            },
+            {
+              "href": "/ai-subscriptions/delivery#support-ticket-check",
+              "text": "已有订单查进度"
+            }
+          ],
+          "checks": {
+            "http200": true,
+            "noRedirect": true,
+            "selfCanonical": true,
+            "indexable": true,
+            "singleExpectedH1": true,
+            "visibleReviewedDate": true,
+            "originalPublishedDate": true,
+            "schemaModifiedDate": true,
+            "anchor:github-guide-index": true,
+            "figureCount": true,
+            "figure-present:/images/guides/keywords-43-50-20261019/tutorial-task-map.webp": true,
+            "figure-alt:/images/guides/keywords-43-50-20261019/tutorial-task-map.webp": true,
+            "figure-caption:/images/guides/keywords-43-50-20261019/tutorial-task-map.webp": true,
+            "figure-dimensions:/images/guides/keywords-43-50-20261019/tutorial-task-map.webp": true,
+            "asset-http:/images/guides/keywords-43-50-20261019/tutorial-task-map.webp": true,
+            "asset-bytes:/images/guides/keywords-43-50-20261019/tutorial-task-map.webp": true,
+            "asset-sha256:/images/guides/keywords-43-50-20261019/tutorial-task-map.webp": true,
+            "asset-content-type:/images/guides/keywords-43-50-20261019/tutorial-task-map.webp": true,
+            "sitemapPresent": true,
+            "sitemapLastmod": true,
+            "llmsLink": true,
+            "crawlableHubLink": true,
+            "taskAction:/topics": true,
+            "taskAction:/ai-subscriptions/delivery#support-ticket-check": true
+          },
+          "failures": [],
+          "responseSha256": "c966206864b2f702cb0f9a6f5986ba865b983a0848fd64643357422b8d1a97ca",
+          "result": "passed"
+        }
+      ],
+      "failures": [],
+      "indexNowSubmitted": false,
+      "discoveryDocuments": [
+        {
+          "url": "https://nano-banana.lol/ai-subscriptions",
+          "status": 200,
+          "responseSha256": "e3b9cfb17368edda99922ec7e920e458d1b9b37bb5b1741e1bbaaccc55ac7158"
+        },
+        {
+          "url": "https://nano-banana.lol/ai-subscriptions/checklist",
+          "status": 200,
+          "responseSha256": "6cdb3d9705282d43477c301c32c548f7a13d60363192aadd39d761afbe098fce"
+        },
+        {
+          "url": "https://nano-banana.lol/llms.txt",
+          "status": 200,
+          "responseSha256": "05ec43fcf436d1f426fd960c3e3f667339c88a2d8704f6425732d7debcf49b18"
+        },
+        {
+          "url": "https://nano-banana.lol/sitemap.xml",
+          "status": 200,
+          "responseSha256": "9c9b72c8d9eadcfd67cdf1610754d578d3844f577c26206087c0f240e6d3c4a2"
+        }
+      ],
+      "defaultOwnerCtaCheck": {
+        "path": "/ai-subscriptions/checklist",
+        "result": "passed",
+        "actions": [
+          {
+            "href": "/#products",
+            "text": "查看商品"
+          },
+          {
+            "href": "/order",
+            "text": "查询订单"
+          }
+        ]
+      },
+      "result": "passed",
+      "verifiedAt": "2026-10-19T08:08:14.177479+00:00"
+    }
+  ],
+  "pageCount": 10,
+  "fullPageFigurePlacements": 16,
+  "browserVisualVerification": false,
+  "newScreenshotsSaved": false,
+  "indexNowSubmitted": false,
+  "limitations": "Public read-only HTTP, HTML, schema, discovery and asset integrity checks only. No browser visual/viewport verification, search indexing/ranking/citation confirmation, real account/order access, payment, redemption, refund or model task test.",
+  "initialCacheObservation": {
+    "site": "pfg",
+    "initialOrdinaryRequestResult": "failed-stale-public-content",
+    "affectedPaths": [
+      "/ai-subscriptions/chatgpt-payment-channels-guide",
+      "/how-to/payment-success-not-delivered",
+      "/ai-subscriptions/chatgpt-recharge-platform-selection",
+      "/ai-subscriptions/passwordless-recharge-credentials",
+      "/how-to"
+    ],
+    "resolvedBy": "Later ordinary canonical-URL requests returned updated content and all original checks passed. No cache-busting query, forced purge, redeployment or test relaxation.",
+    "diagnosticOnlyNoCacheRequests": 1,
+    "noCacheDiagnosticCountedAsAcceptance": false,
+    "sourceDiscoveryNote": "The /how-to index has a real inbound breadcrumb navigation link from the existing published Codex start guide; the report names that page, without claiming a homepage or global navigation link."
+  },
+  "cacheDiagnosticSha256": "44eb3060875d5882f6233fe13b3107b5a3ad92a98273ba2d5c34135f47c31b14",
+  "finalizedAt": "2026-10-19T08:09:56.417045+00:00"
+}

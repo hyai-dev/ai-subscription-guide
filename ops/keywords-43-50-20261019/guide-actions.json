@@ -1,0 +1,98 @@
+{
+  "schema_version": 1,
+  "repository": "hyai-dev/ai-subscription-guide",
+  "commit": "09cf4349dd37ec31b4625e43b0184b775025a098",
+  "checked_at": "2026-10-19T08:09:36.608870+00:00",
+  "run_id": 39220579591,
+  "url": "https://github.com/hyai-dev/ai-subscription-guide/actions/runs/39220579591",
+  "event": "push",
+  "branch": "main",
+  "status": "completed",
+  "conclusion": "success",
+  "validate_job_id": 117954669119,
+  "validate_job_conclusion": "success",
+  "validate_started_at": "2026-10-19T08:07:57Z",
+  "validate_completed_at": "2026-10-19T08:08:03Z",
+  "steps": [
+    {
+      "name": "Set up job",
+      "status": "completed",
+      "conclusion": "success"
+    },
+    {
+      "name": "Run actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1",
+      "status": "completed",
+      "conclusion": "success"
+    },
+    {
+      "name": "Run actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1",
+      "status": "completed",
+      "conclusion": "success"
+    },
+    {
+      "name": "Run npm test",
+      "status": "completed",
+      "conclusion": "success"
+    },
+    {
+      "name": "Run npm run check",
+      "status": "completed",
+      "conclusion": "success"
+    },
+    {
+      "name": "Post Run actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1",
+      "status": "completed",
+      "conclusion": "success"
+    },
+    {
+      "name": "Post Run actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1",
+      "status": "completed",
+      "conclusion": "success"
+    },
+    {
+      "name": "Complete job",
+      "status": "completed",
+      "conclusion": "success"
+    }
+  ],
+  "tests": {
+    "tests": 26,
+    "pass": 26,
+    "fail": 0
+  },
+  "npm_test_success": true,
+  "npm_check_success": true,
+  "check_reports": [
+    {
+      "articles": 18,
+      "checkedMarkdownFiles": 48,
+      "localLinks": 285,
+      "syntheticCsvRecalculation": "pass",
+      "result": "pass"
+    },
+    {
+      "mode": "check",
+      "primaryArticles": 18,
+      "changedFiles": [],
+      "gitOrRemoteWrites": false
+    }
+  ],
+  "observe_and_sync": {
+    "job_id": 117954729256,
+    "conclusion": "skipped",
+    "reason": "Expected skipped for push event; configured only for schedule/workflow_dispatch."
+  },
+  "log_sha256": "3e4b60fd8bb16f010e6ad23240444ddb0b929ed6107889332c312de8afe97133",
+  "public_repository_snapshot": {
+    "main_sha": "09cf4349dd37ec31b4625e43b0184b775025a098",
+    "visibility": "public",
+    "private": false,
+    "default_branch": "main",
+    "pushed_at": "2026-10-19T08:07:52Z",
+    "secret_scanning": "enabled",
+    "secret_scanning_push_protection": "enabled"
+  },
+  "mutations_performed": false,
+  "workflow_dispatched": false,
+  "limitations": "Read-only GitHub Actions metadata and completed validate-job logs. Push validates reviewed guides; daily price observation was not dispatched and did not run during this push."
+}
