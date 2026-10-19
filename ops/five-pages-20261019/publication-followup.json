@@ -1,0 +1,145 @@
+{
+  "recordedAtUtc": "2026-10-19T12:59:42.335191+00:00",
+  "scope": "Fixed publication snapshot: the same ten illustrated task guides, subsequent friend-link directories, one reachable Grok tutorial-link correction and the subsequently merged PayForGPT footer badge. No new keyword batch.",
+  "sourceCommits": {
+    "nano": "d7117ff355ad84bcec803d04a04511a0418c99c2",
+    "payforgpt": "c120d86dfc2d9eeabfc631642cfce60660c4ff55",
+    "payforgptReachableGrokLinkFix": "5c61e4f1930d7598879329ccec297c565a17d6c5"
+  },
+  "deployments": {
+    "nano": {
+      "conclusion": "success",
+      "created_at": "2026-10-19T11:54:39Z",
+      "head_sha": "d7117ff355ad84bcec803d04a04511a0418c99c2",
+      "html_url": "https://github.com/hyai-dev/nano-banana-web/actions/runs/39248057318",
+      "id": 39248057318,
+      "status": "completed",
+      "updated_at": "2026-10-19T12:24:55Z"
+    },
+    "payforgpt": {
+      "buildStage": {
+        "status": "completed",
+        "conclusion": "cancelled",
+        "headSha": "c120d86dfc2d9eeabfc631642cfce60660c4ff55",
+        "url": "https://github.com/hyai-dev/payforgpt-web/actions/runs/39254729751",
+        "jobs": [
+          {
+            "name": "build",
+            "status": "completed",
+            "conclusion": "success"
+          },
+          {
+            "name": "deploy",
+            "status": "completed",
+            "conclusion": "cancelled"
+          }
+        ]
+      },
+      "deployWorkflow": {
+        "status": "completed",
+        "conclusion": "success",
+        "headSha": "195b30d145b931f503b4496d02c6bc61d2283d8c",
+        "url": "https://github.com/hyai-dev/payforgpt-web/actions/runs/39255638215",
+        "jobs": [
+          {
+            "name": "deploy",
+            "status": "completed",
+            "conclusion": "success"
+          }
+        ]
+      },
+      "imageTagDispatched": "c120d86dfc2d9eeabfc631642cfce60660c4ff55",
+      "dispatchTagEvidence": "The owned workflow dispatch command supplied this exact 40-character image_tag. The workflow definition commit differs from the shop image commit.",
+      "note": "The hosted image-build job succeeded. Its queued self-hosted deployment was cancelled, then the existing pinned-SSH hosted deployment workflow succeeded. The full image-build run is cancelled, not success."
+    }
+  },
+  "tenGuideReadback": {
+    "observedAtUtc": "2026-10-19T12:55:45.224Z",
+    "result": "pass",
+    "ordinaryPublicURLs": 41,
+    "articles": 10,
+    "figureVersions": 10,
+    "figureConcepts": 5,
+    "failedChecks": []
+  },
+  "friendLinkReadback": {
+    "observedAtUtc": "2026-10-19T12:33:31.238363+00:00",
+    "result": "pass",
+    "assertions": {
+      "total": 57,
+      "passed": 57,
+      "failed": []
+    },
+    "directoryItemsPerSite": 26,
+    "categoriesPerSite": 6,
+    "scope": [
+      "Both /links pages, self-canonical and indexability",
+      "Homepage and shared footer navigation",
+      "PayForGPT navigation in four languages",
+      "Two Nano in-content links and PayForGPT Codex link",
+      "One /links entry per sitemap and crawler rules",
+      "Preserved PayForGPT /grok 308 redirect to /price"
+    ]
+  },
+  "activeGrokOwnerReadback": {
+    "observedAtUtc": "2026-10-19T12:34:40.049Z",
+    "url": "https://payforgpt.com/ai-subscriptions/grok-subscription-guide",
+    "status": 200,
+    "finalUrl": "https://payforgpt.com/ai-subscriptions/grok-subscription-guide",
+    "cache": "DYNAMIC",
+    "age": null,
+    "lastModified": null,
+    "checks": {
+      "http200": true,
+      "selfCanonical": true,
+      "beginnerLink": true,
+      "oldQuotaLink": true,
+      "operatorDisclosure": true,
+      "officialSources": true
+    },
+    "result": "pass"
+  },
+  "grokLinkFix": {
+    "file": "lib/subscription-buyer-guides.ts",
+    "change": "Added the beginner tutorial link on the reachable guide; retained official sources, the quota link, dates, associated-operator disclosure and existing old-route redirect.",
+    "relevantChecksPassed": 7,
+    "unrelatedGuidesPreserved": true
+  },
+  "badgeReadback": {
+    "observedAtUtc": "2026-10-19T12:56:54.910821+00:00",
+    "result": "pass",
+    "assertions": {
+      "total": 44,
+      "passed": 44,
+      "failed": []
+    },
+    "pages": [
+      "https://payforgpt.com/",
+      "https://payforgpt.com/help",
+      "https://payforgpt.com/links",
+      "https://payforgpt.com/es"
+    ],
+    "scope": "Server HTML anchor/image attributes, footer navigation, response-header CSP and indexability; no browser layout test.",
+    "externalTarget": {
+      "url": "https://auraplusplus.com/projects/payforgpt",
+      "observedAtUtc": "2026-10-19T12:38:53.159312+00:00",
+      "status": 404,
+      "state": "Pending a valid public destination; not a verified listing or earned backlink."
+    },
+    "externalBadgeAsset": {
+      "url": "https://auraplusplus.com/images/badges/featured-on-light.svg",
+      "status": 200,
+      "intrinsicSize": "150x44",
+      "htmlAttributes": "265x58",
+      "limitation": "Aspect ratios differ. CSS h-auto layout and layout shift were not measured in a browser."
+    }
+  },
+  "keywordProgress": "Unchanged at 60/2500. Next original entry: site 02, row 11, Codex充值. No keyword completion added for this deployment follow-up.",
+  "limitations": [
+    "Ordinary public HTTP and inert HTML/XML parsing only. No customer orders, payments or account authorizations tested.",
+    "Workflow success and public content markers are separate evidence; public HTML does not independently prove the entire running container commit.",
+    "No search indexing, ranking, traffic or conversion gains claimed.",
+    "Normal homepage URLs naturally updated old cached HTML; no cache-busting query, purge or extra source change was used.",
+    "The 26 external directory destinations per site were not all fetched."
+  ]
+}

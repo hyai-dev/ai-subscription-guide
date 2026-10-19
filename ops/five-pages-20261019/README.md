@@ -33,3 +33,11 @@
 第九章新增5组双站文章的完成标记，执行看板追加本轮记录；原4项待办及原服务器归因勾选继续保留未完成，见[报告写入回执](feishu-receipt.json)。[公开发布文件回读](public-report-readback.json)与[首次云端检查](public-initial-ci.json)另存；发布、通知受理与完成标记不代表搜索排名或转化效果。
 
 源码提交：[payforgpt-web c90db31](https://github.com/hyai-dev/payforgpt-web/commit/c90db3166f6e189e5c74213bf6f95d08a92c8b62) · [nano-banana-web 24aa6f4](https://github.com/hyai-dev/nano-banana-web/commit/24aa6f47ff73674254db1ed882cebc39be254f9b)。两站商业源码仓库的访问权限保持原状。
+
+## 最新上线复核
+
+2026-10-19，本批10篇文章、20个SVG/WebP资产及发现入口的41个普通URL再次检查通过。随后合入的两站友情链接目录也已发布，各26项、6类，页脚、正文与sitemap/robots检查通过。PayForGPT 新手教程入口已补到当前可访问的 Grok 订阅教程页，原 `/grok` 跳转保留。
+
+本次验收的发布源码：[Nano Banana d7117ff](https://github.com/hyai-dev/nano-banana-web/commit/d7117ff355ad84bcec803d04a04511a0418c99c2)（[部署](https://github.com/hyai-dev/nano-banana-web/actions/runs/39248057318)）；[PayForGPT c120d86](https://github.com/hyai-dev/payforgpt-web/commit/c120d86dfc2d9eeabfc631642cfce60660c4ff55)（[部署](https://github.com/hyai-dev/payforgpt-web/actions/runs/39255638215)）。PayForGPT 的托管构建阶段成功，随后自托管部署队列被取消，既有备用发布流程完成上线，不能把已取消的整个构建运行写成成功。
+
+页脚新徽章在四个公开页面的HTML检查通过，但其 Aura 项目目标仍返回404，暂不算有效收录或外链。图片固有比例与HTML宽高属性的差异也单独保留，未冒称浏览器布局已验收。[本次发布回执](publication-followup.json)记录完整范围和限制；此前五篇批次及飞书标记记录作为历史保留，本次未新增关键词勾选。
