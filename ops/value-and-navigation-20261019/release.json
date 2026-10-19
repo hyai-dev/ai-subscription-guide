@@ -1,0 +1,272 @@
+{
+  "verifiedAtUtc": "2026-10-19T09:41:36.910Z",
+  "state": "deployed-public-readback-passed",
+  "sourceVersions": [
+    {
+      "site": "nano-banana",
+      "sourceCommit": "3eb77f2cffef6e7bb8bcd5610309e018e3f2157e",
+      "sourceVisibility": "private",
+      "status": "deployed-public-readback-passed"
+    },
+    {
+      "site": "payforgpt",
+      "sourceCommit": "627fe3ba0dc68b22bfa688f3e2426a2625e47260",
+      "sourceVisibility": "private",
+      "status": "deployed-public-readback-passed"
+    }
+  ],
+  "deployments": [
+    {
+      "conclusion": "success",
+      "databaseId": 39230980571,
+      "headSha": "3eb77f2cffef6e7bb8bcd5610309e018e3f2157e",
+      "status": "completed",
+      "updatedAt": "2026-10-19T09:39:27Z",
+      "url": "https://github.com/hyai-dev/nano-banana-web/actions/runs/39230980571",
+      "repository": "hyai-dev/nano-banana-web"
+    },
+    {
+      "conclusion": "success",
+      "databaseId": 39231080450,
+      "headSha": "627fe3ba0dc68b22bfa688f3e2426a2625e47260",
+      "status": "completed",
+      "updatedAt": "2026-10-19T09:39:57Z",
+      "url": "https://github.com/hyai-dev/payforgpt-web/actions/runs/39231080450",
+      "repository": "hyai-dev/payforgpt-web"
+    }
+  ],
+  "changes": {
+    "nano-banana": "Existing4 homepage service cells are now task navigation: choose, current catalog, payment-error help and existing order. Mobile2column/desktop4column CSS with44px+targets/focus; recommendation and catalog logic unchanged.",
+    "payforgpt": "Existing4 service cards now have direct actions; team CTA targets actualinvoice section.6blank-field request template supports copy/pending/error/manualselection and doesnot submit or createorders."
+  },
+  "publicReadback": {
+    "result": "pass",
+    "observedAtUtc": "2026-10-19T09:41:36.910Z",
+    "method": "Ordinary public GET + inert static DOM/XML parsing; no scripts, browser, clipboard or order requests",
+    "checks": [
+      {
+        "name": "Nano four task paths",
+        "checks": {
+          "home200": true,
+          "rootCanonical": true,
+          "oneTaskNav": true,
+          "exactLinks": true,
+          "labels": true,
+          "advisorUnique": true,
+          "productsUnique": true,
+          "declineAnchor": true
+        }
+      },
+      {
+        "name": "PayForGPT actionable service cards",
+        "checks": {
+          "home200": true,
+          "rootCanonical": true,
+          "fourActions": true,
+          "exactHrefs": true,
+          "labels": true,
+          "currentCatalogAnchor": true,
+          "invoiceCTA": true,
+          "invoiceAnchor": true,
+          "actionsAccessibleTarget": true
+        }
+      },
+      {
+        "name": "Procurement template and boundaries",
+        "checks": {
+          "team200": true,
+          "selfCanonical": true,
+          "oneTemplate": true,
+          "sixBlankFields": true,
+          "copyButton": true,
+          "manualFallback": true,
+          "noInputOrForm": true,
+          "noSubmissionPromise": true,
+          "manualInvoiceRetained": true,
+          "perOrderConfirmationRetained": true
+        }
+      },
+      {
+        "name": "Actual review date https://nano-banana.lol/",
+        "checks": {
+          "lastmod": true
+        }
+      },
+      {
+        "name": "Actual review date https://payforgpt.com/",
+        "checks": {
+          "lastmod": true
+        }
+      },
+      {
+        "name": "Actual review date https://payforgpt.com/team",
+        "checks": {
+          "lastmod": true
+        }
+      },
+      {
+        "name": "All ordinary reads",
+        "checks": {
+          "all200": true,
+          "noUnexpectedRedirects": true
+        }
+      }
+    ],
+    "responses": [
+      {
+        "url": "https://nano-banana.lol/",
+        "status": 200,
+        "finalUrl": "https://nano-banana.lol/",
+        "sha256": "bd40e6d98e01e3ba0a02b247a2fc1e9d048a3c3c4fba4148ad5cd557368604f9",
+        "canonical": [
+          "https://nano-banana.lol"
+        ]
+      },
+      {
+        "url": "https://nano-banana.lol/how-to/handle-payment-failed",
+        "status": 200,
+        "finalUrl": "https://nano-banana.lol/how-to/handle-payment-failed",
+        "sha256": "aa7aba1c88d5ab727f9a948da683a6ceae929564f48572ce542bc9b11292108d",
+        "canonical": [
+          "https://nano-banana.lol/how-to/handle-payment-failed"
+        ]
+      },
+      {
+        "url": "https://nano-banana.lol/order",
+        "status": 200,
+        "finalUrl": "https://nano-banana.lol/order",
+        "sha256": "96b279eb3158cf94cbcd2220cfc9c6152b137c3262102c7f69337f6733b77365",
+        "canonical": [
+          "https://nano-banana.lol/order"
+        ]
+      },
+      {
+        "url": "https://nano-banana.lol/sitemap.xml",
+        "status": 200,
+        "finalUrl": "https://nano-banana.lol/sitemap.xml",
+        "sha256": "e986ca8f66726760b484aaaba5708c16f5733fa0b51c0dfc7e90a8a1af6e8d80",
+        "canonical": []
+      },
+      {
+        "url": "https://payforgpt.com/",
+        "status": 200,
+        "finalUrl": "https://payforgpt.com/",
+        "sha256": "e1c5ee1769034e9f11b8bd0a2e11af5b27519bc1a870c7a665d255569ebe81a9",
+        "canonical": [
+          "https://payforgpt.com"
+        ]
+      },
+      {
+        "url": "https://payforgpt.com/price",
+        "status": 200,
+        "finalUrl": "https://payforgpt.com/price",
+        "sha256": "53fa8ca291005158e0f511230c28f7757c0f13703713af198ca675854d7204d7",
+        "canonical": [
+          "https://payforgpt.com/price"
+        ]
+      },
+      {
+        "url": "https://payforgpt.com/trust",
+        "status": 200,
+        "finalUrl": "https://payforgpt.com/trust",
+        "sha256": "3092601386685db3189fb1d01d99b234d2e945c54228b2814051a071bfb8779b",
+        "canonical": [
+          "https://payforgpt.com/trust"
+        ]
+      },
+      {
+        "url": "https://payforgpt.com/help",
+        "status": 200,
+        "finalUrl": "https://payforgpt.com/help",
+        "sha256": "14ecf21b5a6feb33123d7e551ee02858cc912603cf1766d8c92851d19b19df3e",
+        "canonical": [
+          "https://payforgpt.com/help"
+        ]
+      },
+      {
+        "url": "https://payforgpt.com/order",
+        "status": 200,
+        "finalUrl": "https://payforgpt.com/order",
+        "sha256": "ffd231927d3225e8f5a85784df4ac59a7a68aac571f6ee5ef176ad958c54fe20",
+        "canonical": [
+          "https://payforgpt.com/order"
+        ]
+      },
+      {
+        "url": "https://payforgpt.com/team",
+        "status": 200,
+        "finalUrl": "https://payforgpt.com/team",
+        "sha256": "72b7afd7bafe2f4d8a2fee3195cc1bdc4658091ade44dc3c7e4149e803fc2da2",
+        "canonical": [
+          "https://payforgpt.com/team"
+        ]
+      },
+      {
+        "url": "https://payforgpt.com/sitemap.xml",
+        "status": 200,
+        "finalUrl": "https://payforgpt.com/sitemap.xml",
+        "sha256": "efbac7e8b8022b8dffb0f741caeb4851366a42c670076c6d2ebc66ae6f37f08a",
+        "canonical": []
+      }
+    ]
+  },
+  "localChecks": {
+    "nano": "7 source/type/regression checks and production build passed; local4URL HTML/CSS/XML checks passed, public catalogGET only. Initial crosspage-anchor lint resolved usingexistingNextLink without disablinglint.",
+    "payforgpt": "Mandatorycontrast/accessibility, copy/internal links/brand/team contracts/typecheck/build passed;7localproductionHTML/XMLpaths passed. Product catalog locally used explicitlysyntheticGET-only fixture; realproductionHTML checked separately.",
+    "independentReview": "PASS, no blockingfindings.2old tests updated for actual /team#invoice-support target and target-anchor assertion; othergates retained.",
+    "clipboardDOM": {
+      "result": "pass",
+      "method": "Node React + JSDOM local DOM simulation with stubbed clipboard, no browser/network/real clipboard; not a responsive-layout or real-user-device check",
+      "checks": [
+        "six blank fields render without input/form or request submission",
+        "pending copy disables button; exact blank template copied; success never claims sent/order",
+        "clipboard rejection exposes truthful failure and selectable manual template",
+        "clipboard exception is contained; no network request"
+      ],
+      "networkCalls": 0
+    }
+  },
+  "indexNow": {
+    "method": "Existing per-domain public key verified; only changed ordinary200/indexable URLs submitted. No key values in this receipt.",
+    "sites": [
+      {
+        "site": "https://nano-banana.lol",
+        "submittedAtUtc": "2026-10-19T09:41:54.898649+00:00",
+        "urls": [
+          "https://nano-banana.lol/"
+        ],
+        "count": 1,
+        "excluded": [],
+        "httpStatus": 200,
+        "accepted": true,
+        "publicKeyVerified": true,
+        "meaning": "notification accepted only; not indexed/ranked proof"
+      },
+      {
+        "site": "https://payforgpt.com",
+        "submittedAtUtc": "2026-10-19T09:41:58.044069+00:00",
+        "urls": [
+          "https://payforgpt.com/",
+          "https://payforgpt.com/team"
+        ],
+        "count": 2,
+        "excluded": [],
+        "httpStatus": 200,
+        "accepted": true,
+        "publicKeyVerified": true,
+        "meaning": "notification accepted only; not indexed/ranked proof"
+      }
+    ],
+    "submittedCount": 3,
+    "indexingOrRankingConfirmed": false
+  },
+  "boundaries": [
+    "No browser layout, real device keyboard/screen reader or real clipboard verification; staticHTML/source and localDOM simulation are distinct.",
+    "No real order,payment,private lookup,customer or invoice information processed.",
+    "No conversionincrease,lowestprice,fastestdelivery,trafficor ranking advantage established.",
+    "Existing per-SKU fulfillment verification, authorized screenshots/video/testimonial integration, server-side source-to-paid/delivered attribution and actual effect data remain pending.",
+    "No newarticle,image,keywordcompletion or GrokGuide site changes in thisbatch.",
+    "Private source,rawdeploylogs,private Feishu contents andoperations excluded."
+  ],
+  "keywordCompletionsAdded": 0
+}
