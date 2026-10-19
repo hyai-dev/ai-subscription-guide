@@ -49,3 +49,25 @@ test('real manifest produces stable single archives and an idempotent preview', 
     for (const a of manifest.articles) assert.ok(fs.readFileSync(path.join(root, `articles/${a.id}.md`), 'utf8').includes(a.canonical));
   } finally { fs.rmSync(root, { recursive: true }); }
 });
+
+test('query ownership rejects duplicates and Markdown structures before README generation', () => {
+  const root = fs.mkdtempSync(path.join(os.tmpdir(), 'guide-query-'));
+  try {
+    for (const entry of ['README.md', 'content', 'docs', 'assets']) fs.cpSync(path.join(ROOT, entry), path.join(root, entry), { recursive: true });
+    const manifestPath = path.join(root, 'content/publication-manifest.json');
+    const baseline = JSON.parse(fs.readFileSync(manifestPath, 'utf8'));
+    const tryMutation = mutate => {
+      const changed = structuredClone(baseline); mutate(changed);
+      fs.writeFileSync(manifestPath, JSON.stringify(changed));
+      assert.throws(() => planSync(root));
+    };
+    tryMutation(m => { m.articles[1].primaryQuery = m.articles[0].primaryQuery.toUpperCase(); });
+    for (const text of ['](https://example.com)', '[label]', 'a\\b', '| table |', 'line\nbreak', '<img>', '`code`']) {
+      tryMutation(m => { m.articles[0].primaryQuery = text; });
+      tryMutation(m => { m.articles[0].cluster = text; });
+      tryMutation(m => { m.articles[0].secondaryQueries = [text]; });
+    }
+    fs.writeFileSync(manifestPath, JSON.stringify(baseline));
+    assert.equal(loadCatalog(root).articles.length, baseline.articles.length);
+  } finally { fs.rmSync(root, { recursive: true }); }
+});

@@ -1,0 +1,185 @@
+{
+  "schema_version": 1,
+  "as_of": "2026-10-19",
+  "competitor_pin": "0fd6589961ba7aad0dddaace6e74a4df5bfc68d4",
+  "method": "Latest GitHub main verified through gh; reused title inventory of 60 archives/59 distinct source URLs, current own README and all ten primary-doc heading structures read. Not a semantic reread of all competitor articles.",
+  "measurement_scope": "Editorial candidate queries based on observed titles and task gaps. Search volume, rankings, traffic and conversion are not verified. Secondary candidates are meaningfully distinct questions, not multiplied spelling variants.",
+  "gaps": [
+    {
+      "id": "query-entry",
+      "finding": "Current titles favor broad explanatory phrasing; explicit card-decline, ticket, paid-but-Free and provider-decision entries are sparse.",
+      "fix": "Use plain query-matching task titles plus first-screen answer and next-step links."
+    },
+    {
+      "id": "post-purchase",
+      "finding": "Current docs04 explains materials, but separate ticket progress, evidence timeline and acceptance conditions are not a complete reader path.",
+      "fix": "Add safe evidence template, stage/action table and original-order route."
+    },
+    {
+      "id": "provider-selection",
+      "finding": "A price observation table is not enough to choose between different deliverables, account rights, eligibility and support.",
+      "fix": "Normalize deliverable/cycle/currency/tax/conditions and mark unknowns; preserve operator disclosure."
+    },
+    {
+      "id": "ownership",
+      "finding": "47 and49 overlap the same platform-choice intent.",
+      "fix": "One primary editorial owner and one substantive comparison article, no duplicate recommendation list."
+    },
+    {
+      "id": "navigation",
+      "finding": "Recent ten and full list are available, but query-based paths and topic map are not deep enough.",
+      "fix": "Keep task navigation and add linked topical index; archives are copies, not counted as new pieces."
+    },
+    {
+      "id": "evidence-quality",
+      "finding": "Competitor article count and stars do not establish superior traffic or results.",
+      "fix": "Improve sources, actual task utility and attributable clicks/orders; do not promise ranking effects."
+    }
+  ],
+  "proposals": [
+    {
+      "doc_number": "11",
+      "title": "国内信用卡支付ChatGPT：地区、发卡行与付款渠道怎么核对",
+      "primary_candidate": "国内信用卡支付ChatGPT",
+      "secondary_candidates": [
+        "国内银行卡为什么付不了ChatGPT",
+        "ChatGPT支持哪些发卡地区",
+        "ChatGPT国内信用卡被拒绝",
+        "ChatGPT账单地址怎么填写"
+      ],
+      "feishu_rows": [
+        43
+      ],
+      "distinct_intent": "资格与收款方识别；03/05概览保留，细节导向本稿。"
+    },
+    {
+      "doc_number": "12",
+      "title": "ChatGPT无法绑卡怎么办：从失败位置判断下一步",
+      "primary_candidate": "ChatGPT无法绑卡代付",
+      "secondary_candidates": [
+        "ChatGPT绑卡失败怎么办",
+        "ChatGPT 3DS验证失败",
+        "ChatGPT付款一直转圈",
+        "ChatGPT绑卡失败要不要重新付款"
+      ],
+      "feishu_rows": [
+        44
+      ],
+      "distinct_intent": "错误原文→地区/资料→银行认证→原单核对；不提供风控绕过。"
+    },
+    {
+      "doc_number": "13",
+      "title": "ChatGPT代充工单查询：按原订单整理证据和回复",
+      "primary_candidate": "ChatGPT代充工单查询",
+      "secondary_candidates": [
+        "ChatGPT代充售后怎么联系",
+        "ChatGPT订单查不到怎么办",
+        "ChatGPT充值工单需要什么材料",
+        "ChatGPT客服核单要发什么"
+      ],
+      "feishu_rows": [
+        45
+      ],
+      "distinct_intent": "工单与回复生命周期；区分查单密码与可公开脱敏材料。"
+    },
+    {
+      "doc_number": "14",
+      "title": "ChatGPT已付款仍显示Free：分开核对付款、交付与权益",
+      "primary_candidate": "ChatGPT充值后依然显示Free",
+      "secondary_candidates": [
+        "ChatGPT已扣款没有Plus",
+        "ChatGPT已发货没升级",
+        "ChatGPT恢复购买还是Free",
+        "ChatGPT充值到账怎么确认"
+      ],
+      "feishu_rows": [],
+      "distinct_intent": "46已完成不重复勾选；补充权益验收与原账单平台分支。"
+    },
+    {
+      "doc_number": "15",
+      "title": "ChatGPT充值哪个平台好：按交付类型、条件和售后比较",
+      "primary_candidate": "ChatGPT充值哪个平台好",
+      "secondary_candidates": [
+        "ChatGPT代付平台推荐",
+        "ChatGPT代充平台怎么选",
+        "ChatGPT卡密和原号充值区别",
+        "ChatGPT平台价格怎么对比"
+      ],
+      "feishu_rows": [
+        47,
+        49
+      ],
+      "distinct_intent": "47/49同意图共用一篇，采用证据比较表；不制造独立第三方榜单。"
+    },
+    {
+      "doc_number": "16",
+      "title": "ChatGPT代充安全不封号可信吗：先检查账号权限和承诺边界",
+      "primary_candidate": "ChatGPT代充安全不封号",
+      "secondary_candidates": [
+        "ChatGPT代充会封号吗",
+        "ChatGPT免密代充安全吗",
+        "ChatGPT Session JSON有风险吗",
+        "ChatGPT独享账号和共享账号区别"
+      ],
+      "feishu_rows": [
+        48
+      ],
+      "distinct_intent": "“不封号”为待审查营销说法，不能当事实；04材料分级进一步链接本稿。"
+    },
+    {
+      "doc_number": "17",
+      "title": "ChatGPT会员、API余额和用量点数：购买前找对账单",
+      "primary_candidate": "ChatGPT会员和API余额区别",
+      "secondary_candidates": [
+        "ChatGPT Plus包含API吗",
+        "ChatGPT充值充到哪里",
+        "ChatGPT钱包余额等于会员吗",
+        "ChatGPT点数和订阅区别"
+      ],
+      "feishu_rows": [],
+      "distinct_intent": "防止买错对象；保留当前合资格SIWC按计划用量的例外边界，不说所有API形式请求都独立收费。"
+    },
+    {
+      "doc_number": "18",
+      "title": "awesome ChatGPT Plus guide阅读地图：从问题找到来源和下一步",
+      "primary_candidate": "awesome-chatgpt-plus-guide",
+      "secondary_candidates": [
+        "ChatGPT Plus指南目录",
+        "ChatGPT付款问题教程汇总",
+        "ChatGPT订单售后指南",
+        "ChatGPT官方帮助在哪里找"
+      ],
+      "feishu_rows": [
+        50
+      ],
+      "distinct_intent": "目录解读，与README分工：README短入口，本稿展开阅读次序/来源核对/停止条件。"
+    }
+  ],
+  "manual_read_sample": [
+    "2026-09-09-daichong-pingtai-panding.md",
+    "2026-08-08-xuni-ka-gpt.md",
+    "2026-08-26-daichong-tuikuan.md",
+    "2026-08-09-chatgpt-chengpin-hao.md",
+    "2026-08-09-pinche-hezu-chatgpt.md",
+    "2026-10-13-guonei-kaitong-chatgpt-plus.md"
+  ],
+  "scope_detail": "All 60 archive titles and ten own primary-doc heading structures compared; own docs03–06 and six representative competitor articles read in full this subtask. Prior inspection of README/sync/price architecture reused. No claim of fresh semantic reading all sixty.",
+  "selected_sample_findings": [
+    {
+      "observation": "Competitor old virtual-card article answers the search question immediately, lists three concrete frictions, and routes to a specific buyer page.",
+      "takeaway": "Use the direct opening and branch table; do not copy unmeasured80%/BIN blacklist/20s fulfillment assertions."
+    },
+    {
+      "observation": "Competitor comparison article normalizes Plus/5X/20X columns and repeatedly links price/support; its comparative assertions are not independently verified in this task.",
+      "takeaway": "Keep reader-friendly comparison but normalize deliverable, validity, tax, currency, account conditions, observation time and unknowns; disclose operator identity."
+    },
+    {
+      "observation": "Competitor refund article offers a concrete state/action table and evidence path.",
+      "takeaway": "Create post-purchase state guidance and a reusable safe ticket template, without universal refund rules/timelines/success percentages."
+    },
+    {
+      "observation": "Competitor current10-13 guide is substantially more source-backed and qualified than its older virtual-card/shared-account copy.",
+      "takeaway": "Learn the latest source-backed structure rather than treating every historical archive claim as a current best practice."
+    }
+  ]
+}

@@ -12,18 +12,32 @@ export function replaceSection(text, name, content) {
 export function planSync(root = ROOT) {
   const catalog = loadCatalog(root);
   const index = publicationIndex(catalog, root);
-  const sorted = [...catalog.articles].sort((a, b) => b.reviewedAt.localeCompare(a.reviewedAt) || a.id.localeCompare(b.id));
+  const sorted = catalog.articles.map((a, i) => ({ ...a, editorialOrder: i })).sort((a, b) => b.reviewedAt.localeCompare(a.reviewedAt) || b.publishedAt.localeCompare(a.publishedAt) || b.editorialOrder - a.editorialOrder);
   const latest = ['| 复核日期 | 教程 |', '| --- | --- |', ...sorted.slice(0, 10).map(a => `| ${a.reviewedAt} | [${a.title}](${a.file}) |`)].join('\n');
   const archiveIndex = catalog.articles.map(a => `- [${a.title}](${a.file}) · [稳定归档](articles/${a.id}.md)`).join('\n');
   let readme = fs.readFileSync(path.join(root, 'README.md'), 'utf8');
   readme = replaceSection(readme, 'LATEST', latest);
   readme = replaceSection(readme, 'ARCHIVE', archiveIndex);
+  const clusters = new Map();
+  for (const a of catalog.articles) {
+    if (!a.primaryQuery) continue;
+    if (!clusters.has(a.cluster)) clusters.set(a.cluster, []);
+    clusters.get(a.cluster).push(`[${a.primaryQuery}](${a.file})`);
+  }
+  readme = replaceSection(readme, 'TOPIC MAP', ['| 主题 | 从搜索问题进入教程 |', '| --- | --- |', ...[...clusters].map(([cluster, entries]) => `| ${cluster} | ${entries.join(' · ')} |`)].join('\n'));
   const outputs = new Map([['README.md', readme], ['data/publication-index.json', JSON.stringify(index, null, 2) + '\n']]);
   const links = { schemaVersion: 1, source: 'github', medium: 'referral',
     measurementBoundary: 'Campaign URLs identify topic and site. Current site code does not yet establish end-to-end attribution to confirmed payment/delivery; links and source parameters alone do not prove collection or conversion.',
     links: index.articles.flatMap(a => a.targets.map(t => ({ article: a.id, topic: a.topic, site: t.site, canonical: t.url, url: t.trackedUrl })))
   };
   outputs.set('data/tracking-links.json', JSON.stringify(links, null, 2) + '\n');
+  outputs.set('data/keyword-map.json', JSON.stringify({ schemaVersion: 1,
+    scope: 'Editorial query-to-article map, with normalized exact duplicate queries rejected. These are assigned candidate queries, not verified search volume, rankings, traffic or all semantic variants.',
+    primaryArticleCount: catalog.articles.length,
+    topicClusterCount: clusters.size,
+    assignedQueryCount: catalog.articles.reduce((n, a) => n + (a.primaryQuery ? 1 + a.secondaryQueries.length : 0), 0),
+    owners: catalog.articles.filter(a => a.primaryQuery).map(a => ({ id: a.id, cluster: a.cluster, primaryQuery: a.primaryQuery, secondaryQueries: a.secondaryQueries, file: a.file, canonical: a.canonical, keywordQueueRows: a.keywordQueueRows ?? [], websiteOwners: a.websiteOwners ?? [] }))
+  }, null, 2) + '\n');
   for (const a of catalog.articles) {
     const text = fs.readFileSync(path.join(root, a.file), 'utf8');
     const body = text.replace(/\]\((?!https?:|#|\.\.\/)([^)]+\.md(?:#[^)]*)?)\)/g, ']\(../docs/$1)');

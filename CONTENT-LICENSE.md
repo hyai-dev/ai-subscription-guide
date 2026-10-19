@@ -4,7 +4,7 @@
 
 `assets/illustrated-20261018/` 为生成式工具制作的概念图，制作记录在 [原图记录](docs/illustrations-20261018.json)；同样只许可我们拥有的权利，不保证 AI 输出享有独占版权。图不是实际付款、账号或后台截图。
 
-`assets/practical-20261019/` 与 `assets/network-review-20261019/` 的图示为本仓库原创流程图；教程中的 CSV、任务与输出为合成教学示例，不含客户资料。Python 校验器是软件，适用 MIT；不按图文许可重新归类。素材位置、尺寸与哈希见[素材清单](assets/manifest.json)。旧图片记录中的 `path` 是当时主站路径，补充的 `repositoryPath` 是本公开仓库实际位置。
+`assets/practical-20261019/`、`assets/network-review-20261019/` 与 `assets/keyword-tasks-20261019/` 的图示为本仓库原创流程图；教程中的 CSV、任务与输出为合成教学示例，不含客户资料。Python 校验器是软件，适用 MIT；不按图文许可重新归类。素材位置、尺寸与哈希见[素材清单](assets/manifest.json)。旧图片记录中的 `path` 是当时主站路径，补充的 `repositoryPath` 是本公开仓库实际位置。
 
 平台名称、品牌标志、外部网页、官方资料、第三方引用及可能包含的商标仍归各自权利人；本仓库的许可不重新授权这些材料，也不表示相关平台认可我们的商家或教程。引用来源请沿用原链接，不能把我们的文章署名改成独立测评或平台官方说明。
 

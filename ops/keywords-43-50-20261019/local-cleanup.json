@@ -1,0 +1,37 @@
+{
+  "batch": "keywords-43-50",
+  "result": "passed",
+  "finishedAt": "2026-10-19T08:01:27.840715+00:00",
+  "remoteWrites": false,
+  "branchMoved": false,
+  "sites": [
+    {
+      "site": "pfg",
+      "listenerGone": true,
+      "processGone": true,
+      "buildDirectoryWasNotSymlink": true,
+      "trackedBuildFiles": 0,
+      "removedSizeKiB": 374676,
+      "buildDirectoryRemoved": true,
+      "nodeModulesSymlinkPreserved": true,
+      "nodeModulesIgnored": true,
+      "gitStatusClean": true,
+      "sourceHead": "ddd8d2b1a051834ac168f91e8cb7285a300b0d0c",
+      "headAndBranchPreserved": true
+    },
+    {
+      "site": "nano",
+      "listenerGone": true,
+      "processGone": true,
+      "buildDirectoryWasNotSymlink": true,
+      "trackedBuildFiles": 0,
+      "removedSizeKiB": 367564,
+      "buildDirectoryRemoved": true,
+      "nodeModulesSymlinkPreserved": true,
+      "nodeModulesIgnored": true,
+      "gitStatusClean": true,
+      "sourceHead": "137e1f5c4e1f47522f1db3ab993e2f55df17acc5",
+      "headAndBranchPreserved": true
+    }
+  ]
+}

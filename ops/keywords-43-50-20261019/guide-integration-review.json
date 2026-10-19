@@ -1,0 +1,87 @@
+{
+  "schema_version": 1,
+  "reviewed_at": "2026-10-19T08:04:58.809651+00:00",
+  "status": "PASS",
+  "blocking_findings": [],
+  "scope": "Read-only review of public guide integration, current query metadata, generated navigation and smallest workflow change. No remote write orFeishu update performed by reviewer.",
+  "counts": {
+    "primary_articles": 18,
+    "new_primary_articles": 8,
+    "assigned_candidate_queries": 70,
+    "normalized_exact_unique_queries": 70,
+    "topic_clusters": 9,
+    "older_primary_bodies_and_dates_unchanged": 10
+  },
+  "reviewed_changes": [
+    "Literal primary/secondary/cluster labelvalidation and NFKC/lowercase/whitespace exact-query uniqueness",
+    "README TOPIC MAP generation with one primary article per assigned query",
+    "Keyword owner metadata generation with explicit editorial candidate scope and counts",
+    "Reviewed-date descending, published-date descending, manifest-order descending latest10 selection; does not alter source dates",
+    "Workflow only stages generateddata/keyword-map.json additionally; existing trigger, permissions and fixed actionpins retained"
+  ],
+  "checks": {
+    "editorial_not_ranking": "PASS: README andkeyword-map scope explicitly deny verified search-volume/ranking/traffic interpretation. Seventy is assigned candidatequeries, not observed ranking terms or semantic coverage guarantee.",
+    "unique_current_query_owners": "PASS:18 owners/70 query strings; independentPython NFKC/lowercase/whitespace normalization found70 unique;47 and49 shareprovider-selection owner.",
+    "current_label_safety": "PASS: Currentlabels are literal text and pass validation; no Markdown/HTML structures injected into generated topic table.",
+    "negative_label_and_duplicate_cases": "PASS: Five independent offlinefixtures rejected link-label structure, cluster table/newline, cluster HTML, secondary markup and normalized duplicate; validcurrentcatalog accepted.",
+    "tests_independently_run": "PASS node --test tests/sync.test.mjs:5/5. Parent separately reports fullnpm test26/26 andnpmruncheck18 primary/46Markdown/276local links; reviewerdoes not present parentrun as own full rerun.",
+    "generated_idempotence": "PASS node tools/sync.mjs --check:changedFiles empty",
+    "publication_index_integrity": "PASS all18 metadata canonical URLs andsourceSHA256 match current primary drafts.",
+    "history_preservation": "PASS ten prior primary docbodies andpublished/revieweddates identical toHEAD; eight new drafts stillmatch previous independent contentreview hashes.",
+    "workflow_scope": "PASS one generatedfile added toexistinggitadd allowlist; no newcredential permission orunreviewed codeexecution introduced.",
+    "publication_boundary": "PASS query/websiteowner metadata is editorialinventory; it is notdeployment, publicreadback, indexation orFeishucompletion receipt."
+  },
+  "resolved_finding": {
+    "description": "Initial added primaryQuery/cluster validation permitted Markdown link/table structures.",
+    "repair": "Shared literal-label guard now rejects controls and Markdown/HTML metacharacters forprimary, secondary andcluster; regressiontests added.",
+    "resolution": "Independent negative fixtures reject allfive cases; no active blockers."
+  },
+  "negative_fixture_receipt": {
+    "file": "guide-query-validation-43-50-final-20261019.json",
+    "sha256": "a41f854aa451800e76ab9b42a8fd54424583a66ab6396de974f664bffeabb6cc"
+  },
+  "files": [
+    {
+      "path": "tools/catalog.mjs",
+      "sha256": "0c632d3e3215684268a62d21cf8fb0ee771408add5b27f80901468ada94a62db"
+    },
+    {
+      "path": "tools/sync.mjs",
+      "sha256": "b9f89357beaeb4b57505db8832ab2b9693f1c762fdd77de819757d23beb57769"
+    },
+    {
+      "path": "tests/sync.test.mjs",
+      "sha256": "fc624756698542dcc99ee846f192cbc1202beefebf34b5a26fba8ac7ed6ff7d4"
+    },
+    {
+      "path": ".github/workflows/daily-sync.yml",
+      "sha256": "13f05913b949d9b62a23a031f19b08279e77a6f9c6f17deaf16cf7187f76fb48"
+    },
+    {
+      "path": "README.md",
+      "sha256": "df101209165a83636e97851ca42cf960d39393e30c9ef64a35ce8e99d4a92394"
+    },
+    {
+      "path": "content/publication-manifest.json",
+      "sha256": "993f66687ce2f6c9ca6dd59ee1b4a03bbba9e521e1d76ca8405acdfc22486f7f"
+    },
+    {
+      "path": "data/publication-index.json",
+      "sha256": "e91bff247b639413f1d04cf3881d099aab97f0bdf3a5729fcebe66d991cadf47"
+    },
+    {
+      "path": "data/keyword-map.json",
+      "sha256": "c66d48fc9cb91068a901882592a45f241ab6056a723239f87e182da2f6b4bcf5"
+    },
+    {
+      "path": "data/tracking-links.json",
+      "sha256": "51f26fc891f249d6fd2cf21fa5289f80af6f5ff5bc248d290797c52bd487625c"
+    }
+  ],
+  "limitations": [
+    "Exact normalized duplicate rejection does not establish semantic keywordcannibalization detection, rankings or searchvolume.",
+    "No productiondeployment, hostedGitHubHTML rendering, merchantpayment, order conversion orFeishucheckbox acceptance wasperformed in this integrationreview.",
+    "Candidatewebsiteowners may include the newPayForGPT platform-selection owner; publicavailability is separately verified by publisher.",
+    "Eight explanatory images were reviewed as illustrations; they are not freshbrowser page screenshots."
+  ]
+}

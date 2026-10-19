@@ -80,6 +80,118 @@
       "site": "nano",
       "canonical": "https://nano-banana.lol/ai-subscriptions/chatgpt-plus-renewal",
       "url": "https://nano-banana.lol/ai-subscriptions/chatgpt-plus-renewal?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide_renewal_check_nano"
+    },
+    {
+      "article": "domestic-card-payment",
+      "topic": "domestic-card-payment",
+      "site": "payforgpt",
+      "canonical": "https://payforgpt.com/ai-subscriptions/chatgpt-payment-channels-guide#bank-card-payment",
+      "url": "https://payforgpt.com/ai-subscriptions/chatgpt-payment-channels-guide?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide_domestic_card_payment_payforgpt#bank-card-payment"
+    },
+    {
+      "article": "domestic-card-payment",
+      "topic": "domestic-card-payment",
+      "site": "nano",
+      "canonical": "https://nano-banana.lol/ai-subscriptions/alipay-wechat-pay#domestic-card-eligibility",
+      "url": "https://nano-banana.lol/ai-subscriptions/alipay-wechat-pay?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide_domestic_card_payment_nano#domestic-card-eligibility"
+    },
+    {
+      "article": "card-binding-failed",
+      "topic": "card-binding-failed",
+      "site": "payforgpt",
+      "canonical": "https://payforgpt.com/ai-subscriptions/chatgpt-payment-channels-guide#bank-card-payment",
+      "url": "https://payforgpt.com/ai-subscriptions/chatgpt-payment-channels-guide?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide_card_binding_failed_payforgpt#bank-card-payment"
+    },
+    {
+      "article": "card-binding-failed",
+      "topic": "card-binding-failed",
+      "site": "nano",
+      "canonical": "https://nano-banana.lol/ai-subscriptions/alipay-wechat-pay#card-binding-help",
+      "url": "https://nano-banana.lol/ai-subscriptions/alipay-wechat-pay?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide_card_binding_failed_nano#card-binding-help"
+    },
+    {
+      "article": "support-ticket-query",
+      "topic": "support-ticket-query",
+      "site": "payforgpt",
+      "canonical": "https://payforgpt.com/how-to/payment-success-not-delivered#support-ticket-query",
+      "url": "https://payforgpt.com/how-to/payment-success-not-delivered?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide_support_ticket_query_payforgpt#support-ticket-query"
+    },
+    {
+      "article": "support-ticket-query",
+      "topic": "support-ticket-query",
+      "site": "nano",
+      "canonical": "https://nano-banana.lol/ai-subscriptions/delivery#support-ticket-check",
+      "url": "https://nano-banana.lol/ai-subscriptions/delivery?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide_support_ticket_query_nano#support-ticket-check"
+    },
+    {
+      "article": "paid-but-still-free",
+      "topic": "paid-but-still-free",
+      "site": "payforgpt",
+      "canonical": "https://payforgpt.com/how-to/payment-success-not-delivered",
+      "url": "https://payforgpt.com/how-to/payment-success-not-delivered?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide_paid_but_still_free_payforgpt"
+    },
+    {
+      "article": "paid-but-still-free",
+      "topic": "paid-but-still-free",
+      "site": "nano",
+      "canonical": "https://nano-banana.lol/how-to/payment-success-not-delivered",
+      "url": "https://nano-banana.lol/how-to/payment-success-not-delivered?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide_paid_but_still_free_nano"
+    },
+    {
+      "article": "provider-selection",
+      "topic": "provider-selection",
+      "site": "payforgpt",
+      "canonical": "https://payforgpt.com/ai-subscriptions/chatgpt-recharge-platform-selection#platform-comparison-checklist",
+      "url": "https://payforgpt.com/ai-subscriptions/chatgpt-recharge-platform-selection?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide_provider_selection_payforgpt#platform-comparison-checklist"
+    },
+    {
+      "article": "provider-selection",
+      "topic": "provider-selection",
+      "site": "nano",
+      "canonical": "https://nano-banana.lol/ai-subscriptions/compare#recharge-platform-choice",
+      "url": "https://nano-banana.lol/ai-subscriptions/compare?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide_provider_selection_nano#recharge-platform-choice"
+    },
+    {
+      "article": "account-risk-claims",
+      "topic": "account-risk-claims",
+      "site": "payforgpt",
+      "canonical": "https://payforgpt.com/ai-subscriptions/passwordless-recharge-credentials#account-safety-check",
+      "url": "https://payforgpt.com/ai-subscriptions/passwordless-recharge-credentials?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide_account_risk_claims_payforgpt#account-safety-check"
+    },
+    {
+      "article": "account-risk-claims",
+      "topic": "account-risk-claims",
+      "site": "nano",
+      "canonical": "https://nano-banana.lol/ai-subscriptions/claim-checklist#no-ban-claim",
+      "url": "https://nano-banana.lol/ai-subscriptions/claim-checklist?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide_account_risk_claims_nano#no-ban-claim"
+    },
+    {
+      "article": "guide-reading-map",
+      "topic": "guide-reading-map",
+      "site": "payforgpt",
+      "canonical": "https://payforgpt.com/how-to#open-source-recharge-guides",
+      "url": "https://payforgpt.com/how-to?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide_guide_reading_map_payforgpt#open-source-recharge-guides"
+    },
+    {
+      "article": "guide-reading-map",
+      "topic": "guide-reading-map",
+      "site": "nano",
+      "canonical": "https://nano-banana.lol/ai-subscriptions/search-intent#github-guide-index",
+      "url": "https://nano-banana.lol/ai-subscriptions/search-intent?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide_guide_reading_map_nano#github-guide-index"
+    },
+    {
+      "article": "membership-api-wallet",
+      "topic": "membership-api-wallet",
+      "site": "payforgpt",
+      "canonical": "https://payforgpt.com/ai-subscriptions/chatgpt-payment-channels-guide",
+      "url": "https://payforgpt.com/ai-subscriptions/chatgpt-payment-channels-guide?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide_membership_api_wallet_payforgpt"
+    },
+    {
+      "article": "membership-api-wallet",
+      "topic": "membership-api-wallet",
+      "site": "nano",
+      "canonical": "https://nano-banana.lol/ai-subscriptions/alipay-wechat-pay",
+      "url": "https://nano-banana.lol/ai-subscriptions/alipay-wechat-pay?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide_membership_api_wallet_nano"
     }
   ]
 }

@@ -1,0 +1,74 @@
+[
+  {
+    "name": "domestic-card-check",
+    "width": 640,
+    "height": 944,
+    "coreFontPx": 34,
+    "at306pxCoreEstimate": 16.25625,
+    "webpSha256": "fe64f41c29c2ad46b75f3ab965721a053cc925a7a54127d83676e5b63ac4a5d3",
+    "bytes": 49478
+  },
+  {
+    "name": "card-failure-branches",
+    "width": 640,
+    "height": 944,
+    "coreFontPx": 34,
+    "at306pxCoreEstimate": 16.25625,
+    "webpSha256": "63bd26cf8a3ee38324807a32919959d2673dcb740b987b299f9989fa662dac34",
+    "bytes": 49024
+  },
+  {
+    "name": "support-ticket-timeline",
+    "width": 640,
+    "height": 944,
+    "coreFontPx": 34,
+    "at306pxCoreEstimate": 16.25625,
+    "webpSha256": "ff39187ab0330be0891fb49b340a54b421b11c6a32d75e897e045b76f85fdc3c",
+    "bytes": 43562
+  },
+  {
+    "name": "paid-free-states",
+    "width": 640,
+    "height": 1110,
+    "coreFontPx": 34,
+    "at306pxCoreEstimate": 16.25625,
+    "webpSha256": "333eeec932536f41993e8723ab800817b673c7148445c2d7b29800b06492ec5f",
+    "bytes": 50110
+  },
+  {
+    "name": "provider-evidence-grid",
+    "width": 640,
+    "height": 1132,
+    "coreFontPx": 34,
+    "at306pxCoreEstimate": 16.25625,
+    "webpSha256": "659d8ce6aeb39adefd357672d2574c6615e138630d1137798a4370dd60b6067e",
+    "bytes": 61818
+  },
+  {
+    "name": "account-risk-check",
+    "width": 640,
+    "height": 944,
+    "coreFontPx": 34,
+    "at306pxCoreEstimate": 16.25625,
+    "webpSha256": "fb7bc06842e6a256735f760b3ff00a8056d70b32de0ffcc7fceed5b4f0d37da9",
+    "bytes": 46714
+  },
+  {
+    "name": "guide-task-routes",
+    "width": 640,
+    "height": 944,
+    "coreFontPx": 34,
+    "at306pxCoreEstimate": 16.25625,
+    "webpSha256": "c4cadd11dfba990e22d2d11cca75ce4c7d2305593934b9f8c0a7b7451c613db0",
+    "bytes": 41364
+  },
+  {
+    "name": "billing-object-map",
+    "width": 640,
+    "height": 1110,
+    "coreFontPx": 34,
+    "at306pxCoreEstimate": 16.25625,
+    "webpSha256": "be4af033e2a13dab6b1e999c2ff37d56117c03b464ae08375c07a4aca9968eae",
+    "bytes": 49658
+  }
+]

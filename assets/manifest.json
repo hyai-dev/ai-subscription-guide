@@ -39,6 +39,134 @@
       "height": 941
     },
     {
+      "path": "assets/keyword-tasks-20261019/account-risk-check.svg",
+      "sha256": "4bf7ba3473da0ca6af218d0fd37966f39db13dac9f93e9eb7c73caa0fe5fff56",
+      "bytes": 1892,
+      "kind": "original-explanatory-diagram",
+      "sourceOrScreenshot": "Not a product UI, account or transaction screenshot."
+    },
+    {
+      "path": "assets/keyword-tasks-20261019/account-risk-check.webp",
+      "sha256": "fb7bc06842e6a256735f760b3ff00a8056d70b32de0ffcc7fceed5b4f0d37da9",
+      "bytes": 46714,
+      "kind": "original-explanatory-diagram",
+      "sourceOrScreenshot": "Not a product UI, account or transaction screenshot.",
+      "width": 640,
+      "height": 944
+    },
+    {
+      "path": "assets/keyword-tasks-20261019/billing-object-map.svg",
+      "sha256": "7bce54a79ac4ab401f169b8e05ee22a345fea9f93b46f5db6eccd8db13c4dd68",
+      "bytes": 2238,
+      "kind": "original-explanatory-diagram",
+      "sourceOrScreenshot": "Not a product UI, account or transaction screenshot."
+    },
+    {
+      "path": "assets/keyword-tasks-20261019/billing-object-map.webp",
+      "sha256": "be4af033e2a13dab6b1e999c2ff37d56117c03b464ae08375c07a4aca9968eae",
+      "bytes": 49658,
+      "kind": "original-explanatory-diagram",
+      "sourceOrScreenshot": "Not a product UI, account or transaction screenshot.",
+      "width": 640,
+      "height": 1110
+    },
+    {
+      "path": "assets/keyword-tasks-20261019/card-failure-branches.svg",
+      "sha256": "5cf1896e6e2ee5d34eff721afb19d87b039dde859ac17f1977662ed8bf8e9c18",
+      "bytes": 1907,
+      "kind": "original-explanatory-diagram",
+      "sourceOrScreenshot": "Not a product UI, account or transaction screenshot."
+    },
+    {
+      "path": "assets/keyword-tasks-20261019/card-failure-branches.webp",
+      "sha256": "63bd26cf8a3ee38324807a32919959d2673dcb740b987b299f9989fa662dac34",
+      "bytes": 49024,
+      "kind": "original-explanatory-diagram",
+      "sourceOrScreenshot": "Not a product UI, account or transaction screenshot.",
+      "width": 640,
+      "height": 944
+    },
+    {
+      "path": "assets/keyword-tasks-20261019/domestic-card-check.svg",
+      "sha256": "2197fcb41f76aa7c2d642219548076e32394d6b7eed61d3826c9be3fe8eb531c",
+      "bytes": 1925,
+      "kind": "original-explanatory-diagram",
+      "sourceOrScreenshot": "Not a product UI, account or transaction screenshot."
+    },
+    {
+      "path": "assets/keyword-tasks-20261019/domestic-card-check.webp",
+      "sha256": "fe64f41c29c2ad46b75f3ab965721a053cc925a7a54127d83676e5b63ac4a5d3",
+      "bytes": 49478,
+      "kind": "original-explanatory-diagram",
+      "sourceOrScreenshot": "Not a product UI, account or transaction screenshot.",
+      "width": 640,
+      "height": 944
+    },
+    {
+      "path": "assets/keyword-tasks-20261019/guide-task-routes.svg",
+      "sha256": "05b4e7ce0659d14f031ed01c15e3db4a47cc49d09aedf23d23e00556862bcadc",
+      "bytes": 1899,
+      "kind": "original-explanatory-diagram",
+      "sourceOrScreenshot": "Not a product UI, account or transaction screenshot."
+    },
+    {
+      "path": "assets/keyword-tasks-20261019/guide-task-routes.webp",
+      "sha256": "c4cadd11dfba990e22d2d11cca75ce4c7d2305593934b9f8c0a7b7451c613db0",
+      "bytes": 41364,
+      "kind": "original-explanatory-diagram",
+      "sourceOrScreenshot": "Not a product UI, account or transaction screenshot.",
+      "width": 640,
+      "height": 944
+    },
+    {
+      "path": "assets/keyword-tasks-20261019/paid-free-states.svg",
+      "sha256": "6af6f4f956059e1ffcfee0445e866614e16ef978bf2be28b9acb7f9e48d2bce5",
+      "bytes": 2227,
+      "kind": "original-explanatory-diagram",
+      "sourceOrScreenshot": "Not a product UI, account or transaction screenshot."
+    },
+    {
+      "path": "assets/keyword-tasks-20261019/paid-free-states.webp",
+      "sha256": "333eeec932536f41993e8723ab800817b673c7148445c2d7b29800b06492ec5f",
+      "bytes": 50110,
+      "kind": "original-explanatory-diagram",
+      "sourceOrScreenshot": "Not a product UI, account or transaction screenshot.",
+      "width": 640,
+      "height": 1110
+    },
+    {
+      "path": "assets/keyword-tasks-20261019/provider-evidence-grid.svg",
+      "sha256": "f03684636f3dba6ce00be74a1fcc14c8753f9e0f4ce543a98f2d1dfbf49d100d",
+      "bytes": 2587,
+      "kind": "original-explanatory-diagram",
+      "sourceOrScreenshot": "Not a product UI, account or transaction screenshot."
+    },
+    {
+      "path": "assets/keyword-tasks-20261019/provider-evidence-grid.webp",
+      "sha256": "659d8ce6aeb39adefd357672d2574c6615e138630d1137798a4370dd60b6067e",
+      "bytes": 61818,
+      "kind": "original-explanatory-diagram",
+      "sourceOrScreenshot": "Not a product UI, account or transaction screenshot.",
+      "width": 640,
+      "height": 1132
+    },
+    {
+      "path": "assets/keyword-tasks-20261019/support-ticket-timeline.svg",
+      "sha256": "1f6a45d92a2863724b7420d95b92f87376aa978f1992dded7f158b978eb40585",
+      "bytes": 1910,
+      "kind": "original-explanatory-diagram",
+      "sourceOrScreenshot": "Not a product UI, account or transaction screenshot."
+    },
+    {
+      "path": "assets/keyword-tasks-20261019/support-ticket-timeline.webp",
+      "sha256": "ff39187ab0330be0891fb49b340a54b421b11c6a32d75e897e045b76f85fdc3c",
+      "bytes": 43562,
+      "kind": "original-explanatory-diagram",
+      "sourceOrScreenshot": "Not a product UI, account or transaction screenshot.",
+      "width": 640,
+      "height": 944
+    },
+    {
       "path": "assets/network-review-20261019/network-check.svg",
       "sha256": "4095bc9bd41046f3bc4dcfd8191f839900ef60954d616e9529f963f4cdfcd671",
       "bytes": 1841,

@@ -1,0 +1,344 @@
+{
+  "schemaVersion": 1,
+  "scope": "Editorial query-to-article map, with normalized exact duplicate queries rejected. These are assigned candidate queries, not verified search volume, rankings, traffic or all semantic variants.",
+  "primaryArticleCount": 18,
+  "topicClusterCount": 9,
+  "assignedQueryCount": 70,
+  "owners": [
+    {
+      "id": "ip-network-information",
+      "cluster": "网络排查",
+      "primaryQuery": "IP网络信息查询",
+      "secondaryQueries": [
+        "IP的ASN是什么意思",
+        "IP机房标签代表什么"
+      ],
+      "file": "docs/01-ip-check-tutorial.md",
+      "canonical": "https://github.com/hyai-dev/ai-subscription-guide/blob/main/docs/01-ip-check-tutorial.md",
+      "keywordQueueRows": [],
+      "websiteOwners": []
+    },
+    {
+      "id": "codex-access-and-usage",
+      "cluster": "Codex使用",
+      "primaryQuery": "Codex怎么购买",
+      "secondaryQueries": [
+        "Codex登录方式区别",
+        "Codex额度不够怎么办"
+      ],
+      "file": "docs/02-codex-topup-guide.md",
+      "canonical": "https://github.com/hyai-dev/ai-subscription-guide/blob/main/docs/02-codex-topup-guide.md",
+      "keywordQueueRows": [],
+      "websiteOwners": []
+    },
+    {
+      "id": "subscription-eligibility",
+      "cluster": "选购与账单",
+      "primaryQuery": "没有海外信用卡怎么订阅ChatGPT",
+      "secondaryQueries": [
+        "ChatGPT购买资格",
+        "ChatGPT购买渠道区别"
+      ],
+      "file": "docs/03-plus-without-card.md",
+      "canonical": "https://github.com/hyai-dev/ai-subscription-guide/blob/main/docs/03-plus-without-card.md",
+      "keywordQueueRows": [],
+      "websiteOwners": []
+    },
+    {
+      "id": "account-credentials-and-order-evidence",
+      "cluster": "账号与材料",
+      "primaryQuery": "ChatGPT免密代充要交什么",
+      "secondaryQueries": [
+        "ChatGPT订单材料怎么脱敏",
+        "查单密码能发给客服吗"
+      ],
+      "file": "docs/04-account-credentials-and-order-evidence.md",
+      "canonical": "https://github.com/hyai-dev/ai-subscription-guide/blob/main/docs/04-account-credentials-and-order-evidence.md",
+      "keywordQueueRows": [],
+      "websiteOwners": []
+    },
+    {
+      "id": "payment-channels-and-billing-records",
+      "cluster": "选购与账单",
+      "primaryQuery": "ChatGPT付款渠道怎么区分",
+      "secondaryQueries": [
+        "ChatGPT网页和应用商店账单区别",
+        "ChatGPT订阅收据在哪里找"
+      ],
+      "file": "docs/05-payment-channels-and-billing-records.md",
+      "canonical": "https://github.com/hyai-dev/ai-subscription-guide/blob/main/docs/05-payment-channels-and-billing-records.md",
+      "keywordQueueRows": [],
+      "websiteOwners": []
+    },
+    {
+      "id": "renewal-and-price-comparison",
+      "cluster": "续费与交付",
+      "primaryQuery": "ChatGPT续费怎么核对",
+      "secondaryQueries": [
+        "ChatGPT续费失败会再扣款吗",
+        "ChatGPT切换订阅渠道"
+      ],
+      "file": "docs/06-renewal-and-price-comparison.md",
+      "canonical": "https://github.com/hyai-dev/ai-subscription-guide/blob/main/docs/06-renewal-and-price-comparison.md",
+      "keywordQueueRows": [],
+      "websiteOwners": []
+    },
+    {
+      "id": "codex-first-task",
+      "cluster": "Codex使用",
+      "primaryQuery": "Codex第一个任务怎么做",
+      "secondaryQueries": [
+        "Codex怎么验收代码改动",
+        "Codex修改前检查什么"
+      ],
+      "file": "docs/07-codex-first-task.md",
+      "canonical": "https://github.com/hyai-dev/ai-subscription-guide/blob/main/docs/07-codex-first-task.md",
+      "keywordQueueRows": [],
+      "websiteOwners": []
+    },
+    {
+      "id": "pdf-evidence-workflow",
+      "cluster": "实用工作流",
+      "primaryQuery": "ChatGPT读PDF怎么核对页码",
+      "secondaryQueries": [
+        "PDF摘要引用怎么检查",
+        "扫描PDF数字如何复核"
+      ],
+      "file": "docs/08-pdf-evidence-workflow.md",
+      "canonical": "https://github.com/hyai-dev/ai-subscription-guide/blob/main/docs/08-pdf-evidence-workflow.md",
+      "keywordQueueRows": [],
+      "websiteOwners": []
+    },
+    {
+      "id": "spreadsheet-audit-workflow",
+      "cluster": "实用工作流",
+      "primaryQuery": "ChatGPT分析CSV怎么核对",
+      "secondaryQueries": [
+        "CSV重复记录怎么处理",
+        "ChatGPT表格合计不对怎么办"
+      ],
+      "file": "docs/09-spreadsheet-audit-workflow.md",
+      "canonical": "https://github.com/hyai-dev/ai-subscription-guide/blob/main/docs/09-spreadsheet-audit-workflow.md",
+      "keywordQueueRows": [],
+      "websiteOwners": []
+    },
+    {
+      "id": "presentation-outline-workflow",
+      "cluster": "实用工作流",
+      "primaryQuery": "ChatGPT怎么写PPT大纲",
+      "secondaryQueries": [
+        "PPT图表来源怎么标",
+        "ChatGPT生成演示大纲提示词"
+      ],
+      "file": "docs/10-presentation-outline-workflow.md",
+      "canonical": "https://github.com/hyai-dev/ai-subscription-guide/blob/main/docs/10-presentation-outline-workflow.md",
+      "keywordQueueRows": [],
+      "websiteOwners": []
+    },
+    {
+      "id": "domestic-card-payment",
+      "cluster": "购买与付款",
+      "primaryQuery": "国内信用卡支付ChatGPT",
+      "secondaryQueries": [
+        "国内银行卡为什么付不了ChatGPT",
+        "ChatGPT支持哪些发卡地区",
+        "ChatGPT国内信用卡被拒绝",
+        "ChatGPT账单地址怎么填写"
+      ],
+      "file": "docs/11-domestic-card-payment.md",
+      "canonical": "https://github.com/hyai-dev/ai-subscription-guide/blob/main/docs/11-domestic-card-payment.md",
+      "keywordQueueRows": [
+        43
+      ],
+      "websiteOwners": [
+        {
+          "site": "payforgpt",
+          "url": "https://payforgpt.com/ai-subscriptions/chatgpt-payment-channels-guide#bank-card-payment"
+        },
+        {
+          "site": "nano",
+          "url": "https://nano-banana.lol/ai-subscriptions/alipay-wechat-pay#domestic-card-eligibility"
+        }
+      ]
+    },
+    {
+      "id": "card-binding-failed",
+      "cluster": "购买与付款",
+      "primaryQuery": "ChatGPT无法绑卡代付",
+      "secondaryQueries": [
+        "ChatGPT绑卡失败怎么办",
+        "ChatGPT 3DS验证失败",
+        "ChatGPT付款一直转圈",
+        "ChatGPT绑卡失败要不要重新付款"
+      ],
+      "file": "docs/12-card-binding-failed.md",
+      "canonical": "https://github.com/hyai-dev/ai-subscription-guide/blob/main/docs/12-card-binding-failed.md",
+      "keywordQueueRows": [
+        44
+      ],
+      "websiteOwners": [
+        {
+          "site": "payforgpt",
+          "url": "https://payforgpt.com/ai-subscriptions/chatgpt-payment-channels-guide#bank-card-payment"
+        },
+        {
+          "site": "nano",
+          "url": "https://nano-banana.lol/ai-subscriptions/alipay-wechat-pay#card-binding-help"
+        }
+      ]
+    },
+    {
+      "id": "support-ticket-query",
+      "cluster": "续费与交付",
+      "primaryQuery": "ChatGPT代充工单查询",
+      "secondaryQueries": [
+        "ChatGPT代充售后怎么联系",
+        "ChatGPT订单查不到怎么办",
+        "ChatGPT充值工单需要什么材料",
+        "ChatGPT客服核单要发什么"
+      ],
+      "file": "docs/13-support-ticket-query.md",
+      "canonical": "https://github.com/hyai-dev/ai-subscription-guide/blob/main/docs/13-support-ticket-query.md",
+      "keywordQueueRows": [
+        45
+      ],
+      "websiteOwners": [
+        {
+          "site": "payforgpt",
+          "url": "https://payforgpt.com/how-to/payment-success-not-delivered#support-ticket-query"
+        },
+        {
+          "site": "nano",
+          "url": "https://nano-banana.lol/ai-subscriptions/delivery#support-ticket-check"
+        }
+      ]
+    },
+    {
+      "id": "paid-but-still-free",
+      "cluster": "续费与交付",
+      "primaryQuery": "ChatGPT充值后依然显示Free",
+      "secondaryQueries": [
+        "ChatGPT已扣款没有Plus",
+        "ChatGPT已发货没升级",
+        "ChatGPT恢复购买还是Free",
+        "ChatGPT充值到账怎么确认"
+      ],
+      "file": "docs/14-paid-but-still-free.md",
+      "canonical": "https://github.com/hyai-dev/ai-subscription-guide/blob/main/docs/14-paid-but-still-free.md",
+      "keywordQueueRows": [],
+      "websiteOwners": [
+        {
+          "site": "payforgpt",
+          "url": "https://payforgpt.com/how-to/payment-success-not-delivered"
+        },
+        {
+          "site": "nano",
+          "url": "https://nano-banana.lol/how-to/payment-success-not-delivered"
+        }
+      ]
+    },
+    {
+      "id": "provider-selection",
+      "cluster": "平台选择",
+      "primaryQuery": "ChatGPT充值哪个平台好",
+      "secondaryQueries": [
+        "ChatGPT代付平台推荐",
+        "ChatGPT代充平台怎么选",
+        "ChatGPT卡密和原号充值区别",
+        "ChatGPT平台价格怎么对比"
+      ],
+      "file": "docs/15-provider-selection.md",
+      "canonical": "https://github.com/hyai-dev/ai-subscription-guide/blob/main/docs/15-provider-selection.md",
+      "keywordQueueRows": [
+        47,
+        49
+      ],
+      "websiteOwners": [
+        {
+          "site": "payforgpt",
+          "url": "https://payforgpt.com/ai-subscriptions/chatgpt-recharge-platform-selection#platform-comparison-checklist"
+        },
+        {
+          "site": "nano",
+          "url": "https://nano-banana.lol/ai-subscriptions/compare#recharge-platform-choice"
+        }
+      ]
+    },
+    {
+      "id": "account-risk-claims",
+      "cluster": "账号与材料",
+      "primaryQuery": "ChatGPT代充安全不封号",
+      "secondaryQueries": [
+        "ChatGPT代充会封号吗",
+        "ChatGPT免密代充安全吗",
+        "ChatGPT Session JSON有风险吗",
+        "ChatGPT独享账号和共享账号区别"
+      ],
+      "file": "docs/16-account-risk-claims.md",
+      "canonical": "https://github.com/hyai-dev/ai-subscription-guide/blob/main/docs/16-account-risk-claims.md",
+      "keywordQueueRows": [
+        48
+      ],
+      "websiteOwners": [
+        {
+          "site": "payforgpt",
+          "url": "https://payforgpt.com/ai-subscriptions/passwordless-recharge-credentials#account-safety-check"
+        },
+        {
+          "site": "nano",
+          "url": "https://nano-banana.lol/ai-subscriptions/claim-checklist#no-ban-claim"
+        }
+      ]
+    },
+    {
+      "id": "guide-reading-map",
+      "cluster": "教程索引",
+      "primaryQuery": "awesome-chatgpt-plus-guide",
+      "secondaryQueries": [
+        "ChatGPT Plus指南目录",
+        "ChatGPT付款问题教程汇总",
+        "ChatGPT订单售后指南",
+        "ChatGPT官方帮助在哪里找"
+      ],
+      "file": "docs/17-guide-reading-map.md",
+      "canonical": "https://github.com/hyai-dev/ai-subscription-guide/blob/main/docs/17-guide-reading-map.md",
+      "keywordQueueRows": [
+        50
+      ],
+      "websiteOwners": [
+        {
+          "site": "payforgpt",
+          "url": "https://payforgpt.com/how-to#open-source-recharge-guides"
+        },
+        {
+          "site": "nano",
+          "url": "https://nano-banana.lol/ai-subscriptions/search-intent#github-guide-index"
+        }
+      ]
+    },
+    {
+      "id": "membership-api-wallet",
+      "cluster": "选购与账单",
+      "primaryQuery": "ChatGPT会员和API余额区别",
+      "secondaryQueries": [
+        "ChatGPT Plus包含API吗",
+        "ChatGPT充值充到哪里",
+        "ChatGPT钱包余额等于会员吗",
+        "ChatGPT点数和订阅区别"
+      ],
+      "file": "docs/18-membership-api-wallet.md",
+      "canonical": "https://github.com/hyai-dev/ai-subscription-guide/blob/main/docs/18-membership-api-wallet.md",
+      "keywordQueueRows": [],
+      "websiteOwners": [
+        {
+          "site": "payforgpt",
+          "url": "https://payforgpt.com/ai-subscriptions/chatgpt-payment-channels-guide"
+        },
+        {
+          "site": "nano",
+          "url": "https://nano-banana.lol/ai-subscriptions/alipay-wechat-pay"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://help.openai.com/en/articles/8304786-keeping-your-openai-account-secure",
+    "title": "Keeping your OpenAI account secure",
+    "supports": "Protect account credentials, review active sessions and follow credential-specific compromise response.",
+    "readMethod": "web.open primary source; actual readable page text",
+    "readStatus": "readable",
+    "reviewedAtUtc": "2026-10-19T07:59:35.415235+00:00",
+    "rawHttpAttempt": "separate urllib request returned 403; no raw HTML hash claimed"
+  },
+  {
+    "url": "https://help.openai.com/en/articles/5112595-best-practices-for-api-key-safety",
+    "title": "Best Practices for API Key Safety",
+    "supports": "Protect, revoke and review compromised keys; do not publish or share keys as ordinary support materials.",
+    "readMethod": "web.open primary source; actual readable page text",
+    "readStatus": "readable",
+    "reviewedAtUtc": "2026-10-19T07:59:35.415459+00:00",
+    "rawHttpAttempt": "separate urllib request returned 403; no raw HTML hash claimed"
+  }
+]

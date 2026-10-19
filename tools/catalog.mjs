@@ -7,6 +7,11 @@ export const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '
 export const REPO = 'hyai-dev/ai-subscription-guide';
 export const SITE_ORIGINS = { payforgpt: 'https://payforgpt.com', nano: 'https://nano-banana.lol' };
 export const sha256 = value => crypto.createHash('sha256').update(value).digest('hex');
+const EDITORIAL_MARKUP = new Set('|<>\r\n\\[]()!`*_#~{}&'.split(''));
+function isEditorialLabel(value) {
+  return typeof value === 'string' && value.trim().length > 0 && value.length <= 120
+    && !/[\u0000-\u001f\u007f]/.test(value) && ![...value].some(c => EDITORIAL_MARKUP.has(c));
+}
 
 export function localFile(relative, root = ROOT, prefix) {
   if (typeof relative !== 'string' || relative.includes('\\') || path.isAbsolute(relative) || relative.split('/').includes('..')) throw new Error('Only repository-relative paths are allowed');
@@ -30,7 +35,7 @@ export function trackedUrl(site, target, topic) {
 export function loadCatalog(root = ROOT, relative = 'content/publication-manifest.json') {
   const data = JSON.parse(fs.readFileSync(localFile(relative, root, 'content/'), 'utf8'));
   if (data.schemaVersion !== 1 || data.repository !== REPO || !Array.isArray(data.articles) || !data.articles.length) throw new Error('Invalid publication manifest');
-  const ids = new Set(), files = new Set(), canonicals = new Set();
+  const ids = new Set(), files = new Set(), canonicals = new Set(), queries = new Set();
   for (const a of data.articles) {
     if (!/^[a-z0-9-]+$/.test(a.id) || ids.has(a.id)) throw new Error('Duplicate or invalid article id');
     ids.add(a.id);
@@ -58,6 +63,15 @@ export function loadCatalog(root = ROOT, relative = 'content/publication-manifes
     }
     if (!Array.isArray(a.targets)) throw new Error('Targets must be an array; pure task tutorials may have no commercial target');
     for (const t of a.targets) trackedUrl(t.site, t.url, a.topic);
+    if (a.primaryQuery !== undefined) {
+      if (!isEditorialLabel(a.cluster) || !Array.isArray(a.secondaryQueries)) throw new Error('Query owners need a literal topic cluster and secondary query array');
+      for (const query of [a.primaryQuery, ...a.secondaryQueries]) {
+        if (!isEditorialLabel(query)) throw new Error('Invalid editorial query');
+        const normalized = query.normalize('NFKC').toLowerCase().replace(/\s+/g, ' ').trim();
+        if (queries.has(normalized)) throw new Error('A query must have one primary article owner');
+        queries.add(normalized);
+      }
+    }
   }
   return data;
 }

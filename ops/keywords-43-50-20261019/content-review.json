@@ -1,0 +1,352 @@
+{
+  "schema_version": 1,
+  "reviewed_at": "2026-10-19T07:58:08.590925+00:00",
+  "status": "content-review-pass",
+  "blocking_findings": [],
+  "scope": {
+    "public_primary_drafts": 8,
+    "site_owner_pages": 10,
+    "payforgpt": {
+      "existing_owner_updates": 4,
+      "new_owner_candidates": 1,
+      "new_owner_path": "/ai-subscriptions/chatgpt-recharge-platform-selection",
+      "publication_scope": "Source-level candidate during this review. Deployment/public HTTP acceptance are separate receipts; not claimed published by this review."
+    },
+    "nano": {
+      "existing_owner_updates": 5,
+      "new_owner_candidates": 0
+    },
+    "pending_keyword_rows": [
+      43,
+      44,
+      45,
+      47,
+      48,
+      49,
+      50
+    ],
+    "already_completed_row_preserved": 46
+  },
+  "source_package": {
+    "file": "sources-keywords-43-50-20261019.json",
+    "sha256": "7c80287d16702ad8601df95b8e0f842c066f54f6c8fb233612af440a99c0318e",
+    "source_count": 14,
+    "network_body_retrievals_this_task": 3,
+    "same_day_snapshot_reuses": 11
+  },
+  "manual_review": [
+    "All eight new public primary drafts read in full after the11/13 wording clarifications and18 exactSIWC source links.",
+    "All five PayForGPT owner article contents or changed static-page sections read; three substantive buyer-guide objects and order/nav additions reviewed with fiveSVG text semantics.",
+    "All five Nano owner full payloads read and every literal payload string checked against current edited source; fiveSVG text semantics and five-image contact sheet inspected.",
+    "Current own README/all ten baseline doc heading structures, baseline docs03–06 and six selected competitor articles read for concrete query-gap comparison. Competitor full60archive semantic reread not claimed."
+  ],
+  "quality_checks": {
+    "query_intent_ownership": "PASS: 43/44 qualification+failure coverage;45 original-order/support record;47/49 one platform-decision owner;48 risk-claim owner;50 task directory. Public eight drafts have distinct useful questions and internal navigation.",
+    "reader_actions": "PASS: templates, state/action branches, matching original channel and acceptance criteria. No duplicate payment used as a state refresh.",
+    "official_facts": "PASS: current location and bank issuance region separate, unknown decline reasons preserved, authentication/setup/payment/fulfillment/entitlement separate.",
+    "billing_exception": "PASS: API Platform/API key project ledger separate from ChatGPT; eligible authorizedSIWC plan-usage exception expressly preserved in public18 and no inconsistent new absolutist statement found in two siteowners.",
+    "privacy": "PASS: no password/OTP/fullSession/Cookie/API key collection for ordinary support; order lookup secret restricted to verified original private form.",
+    "commercial_relationship": "PASS: own-site/operator relationship disclosed; no fake independent ranking, fabricated success rate or no-ban guarantee.",
+    "dates_and_originality": "PASS at source level: original publication dates retained for updatedowners and new public drafts date10-19; original explanatory figures identified, no real transaction or screenshot claim.",
+    "local_markdown_references": "PASS all eight new primary drafts; archives/nav generation and hosted URL checks separate.",
+    "nano_review_payload_matches_source": "PASS every stringliteral from five reviewed payloads found in current editedsource.",
+    "images": "PASS semantic equivalence and18WebP container/dimension metadata. Visual-sample limits stated below."
+  },
+  "resolved_review_notes": [
+    {
+      "owner": "public11",
+      "change": "Eligibility template now distinguishes eligible/ineligible/unconfirmed rather than checked/unconfirmed."
+    },
+    {
+      "owner": "public13",
+      "change": "Order lookup secret explicitly only entered in verified original merchant private lookupform."
+    },
+    {
+      "owner": "public18",
+      "change": "Exact officialSIWC overview/session source links added; API-form requests not universally categorized as separate billing."
+    },
+    {
+      "owner": "pfg_credentials",
+      "change": "Four risk/control layers now consistently labeled four rather than three."
+    },
+    {
+      "owner": "pfg_platform_selection",
+      "change": "Comparison claim now fulfilled by actual optional section.template rendered as readable preformatted A/B record template."
+    },
+    {
+      "owner": "pfg_support",
+      "change": "Support FAQ specifiesPayForGPT support rather than ambiguous officialsupport."
+    },
+    {
+      "owner": "nano_platform_selection",
+      "change": "Final source includes an explicit six-item blank comparison record line and task-specificCTA, reread and matched to actual exported source."
+    }
+  ],
+  "illustration_review": {
+    "new_asset_pairs": 18,
+    "public_pairs": 8,
+    "pfg_pairs": 5,
+    "nano_pairs": 5,
+    "svg_semantics_read": 18,
+    "bitmap_visual_scope": "Nano five-image contact sheet; individual public billing-object-map/provider-evidence-grid andPFG platform-scorecard examined. Not a fresh full-page/browser screenshot audit.",
+    "core_instruction_font_px": 34,
+    "secondary_caption_note": "Small numbering/brand/subtitle/footer text may be22–30px;34px refers to core instructional text, not everyglyph.",
+    "assets": {
+      "public": [
+        {
+          "file": "account-risk-check.webp",
+          "dimensions": [
+            640,
+            944
+          ],
+          "bytes": 46714,
+          "sha256": "fb7bc06842e6a256735f760b3ff00a8056d70b32de0ffcc7fceed5b4f0d37da9"
+        },
+        {
+          "file": "billing-object-map.webp",
+          "dimensions": [
+            640,
+            1110
+          ],
+          "bytes": 49658,
+          "sha256": "be4af033e2a13dab6b1e999c2ff37d56117c03b464ae08375c07a4aca9968eae"
+        },
+        {
+          "file": "card-failure-branches.webp",
+          "dimensions": [
+            640,
+            944
+          ],
+          "bytes": 49024,
+          "sha256": "63bd26cf8a3ee38324807a32919959d2673dcb740b987b299f9989fa662dac34"
+        },
+        {
+          "file": "domestic-card-check.webp",
+          "dimensions": [
+            640,
+            944
+          ],
+          "bytes": 49478,
+          "sha256": "fe64f41c29c2ad46b75f3ab965721a053cc925a7a54127d83676e5b63ac4a5d3"
+        },
+        {
+          "file": "guide-task-routes.webp",
+          "dimensions": [
+            640,
+            944
+          ],
+          "bytes": 41364,
+          "sha256": "c4cadd11dfba990e22d2d11cca75ce4c7d2305593934b9f8c0a7b7451c613db0"
+        },
+        {
+          "file": "paid-free-states.webp",
+          "dimensions": [
+            640,
+            1110
+          ],
+          "bytes": 50110,
+          "sha256": "333eeec932536f41993e8723ab800817b673c7148445c2d7b29800b06492ec5f"
+        },
+        {
+          "file": "provider-evidence-grid.webp",
+          "dimensions": [
+            640,
+            1132
+          ],
+          "bytes": 61818,
+          "sha256": "659d8ce6aeb39adefd357672d2574c6615e138630d1137798a4370dd60b6067e"
+        },
+        {
+          "file": "support-ticket-timeline.webp",
+          "dimensions": [
+            640,
+            944
+          ],
+          "bytes": 43562,
+          "sha256": "ff39187ab0330be0891fb49b340a54b421b11c6a32d75e897e045b76f85fdc3c"
+        }
+      ],
+      "pfg": [
+        {
+          "file": "account-access.webp",
+          "dimensions": [
+            640,
+            1050
+          ],
+          "bytes": 49230,
+          "sha256": "4757fb9cefd98ea077afe774cfa3aae4ec0adf11c5b713ede052ef23ca391806"
+        },
+        {
+          "file": "bank-card-route.webp",
+          "dimensions": [
+            640,
+            1050
+          ],
+          "bytes": 49192,
+          "sha256": "d6fb56a6d286f3566a15849576c3e4dc9f7f17e423f21b88a75d110bc5e84766"
+        },
+        {
+          "file": "guide-routes.webp",
+          "dimensions": [
+            640,
+            1050
+          ],
+          "bytes": 54872,
+          "sha256": "ea96a60df3994225090965f2a8631d1a7baec625904324ee4ce40bf238d45b51"
+        },
+        {
+          "file": "platform-scorecard.webp",
+          "dimensions": [
+            640,
+            1050
+          ],
+          "bytes": 53726,
+          "sha256": "0cb7ab5c404615d571b8c85cc906b90952659894710752106ba3f58598d53ee6"
+        },
+        {
+          "file": "ticket-followup.webp",
+          "dimensions": [
+            640,
+            1050
+          ],
+          "bytes": 53136,
+          "sha256": "9f6139da45fa815a808d8807f10c7001dd15b0953bcb1700197e96ce0c801bb2"
+        }
+      ],
+      "nano": [
+        {
+          "file": "account-risk-check.webp",
+          "dimensions": [
+            640,
+            1140
+          ],
+          "bytes": 65476,
+          "sha256": "165de4cc7f11a8bfacd572ce66a00b80f99958a797560e528fb5c65c946c91b1"
+        },
+        {
+          "file": "card-eligibility.webp",
+          "dimensions": [
+            640,
+            1140
+          ],
+          "bytes": 62680,
+          "sha256": "fc3b84d21c5ed9a27f0dec12099787dbf0912155f37227521d94c3a71f19d196"
+        },
+        {
+          "file": "order-support-trace.webp",
+          "dimensions": [
+            640,
+            1140
+          ],
+          "bytes": 60062,
+          "sha256": "b1687e56e1a27c02d751df3c1b834a41535f43cba25d6c50b2473b2044091544"
+        },
+        {
+          "file": "platform-choice.webp",
+          "dimensions": [
+            640,
+            1140
+          ],
+          "bytes": 69638,
+          "sha256": "273cf3330976ee5a66df2d4639653bf544908d24938cf4fce3e68898a90ac847"
+        },
+        {
+          "file": "tutorial-task-map.webp",
+          "dimensions": [
+            640,
+            1140
+          ],
+          "bytes": 67694,
+          "sha256": "54819b50ae417927e2f56c8a09c5f323e545773cabf657ef10fd43e409886ca0"
+        }
+      ]
+    }
+  },
+  "reviewed_files": {
+    "public": [
+      {
+        "path": "docs/11-domestic-card-payment.md",
+        "sha256": "7245694a30fa408567dba944b8f209d8af3f7fe3213811e31cf922569fac8ab7"
+      },
+      {
+        "path": "docs/12-card-binding-failed.md",
+        "sha256": "a35230ea1275f8e7d761ad5c5e7fc5ca691763815fe48e545214683b67a4220b"
+      },
+      {
+        "path": "docs/13-support-ticket-query.md",
+        "sha256": "b597ea61f839380dca7afb078314be6dc0607dd5bc1bc9dc27d2f1fea4b7f56c"
+      },
+      {
+        "path": "docs/14-paid-but-still-free.md",
+        "sha256": "6769645bc391a3afac083aa7353869b8dadab08fd5ac2ceab22002d0a8d3b511"
+      },
+      {
+        "path": "docs/15-provider-selection.md",
+        "sha256": "38f9f2e0cd2b49f8e0866db8cfcce1e51e7d5cf478cf6817bbcc8b785f8490da"
+      },
+      {
+        "path": "docs/16-account-risk-claims.md",
+        "sha256": "a06aa7ecbb924f14f35f04775463b384fef7e5c3be1beed8f2dae14e7dc4249e"
+      },
+      {
+        "path": "docs/17-guide-reading-map.md",
+        "sha256": "0fee26354e93ff1edcd94161a704bed1b78a3bb87a3425abdad8afdc702a980b"
+      },
+      {
+        "path": "docs/18-membership-api-wallet.md",
+        "sha256": "a8548b081fc5b2f097731bec680559c012986e990050f923bd8348da821698b2"
+      }
+    ],
+    "payforgpt": [
+      {
+        "path": "lib/subscription-buyer-guides.ts",
+        "sha256": "3a04c381ef4a350df1defae6536c4e408082f40263c90e4c6d735cd4d1229efa"
+      },
+      {
+        "path": "lib/nano-seo-content.ts",
+        "sha256": "0fce790b550f51e20c2594dd3e10773978399eac4f07bdb3690130ea2757856b"
+      },
+      {
+        "path": "app/ai-subscriptions/[slug]/page.tsx",
+        "sha256": "c7fdf335da8c6143cbf86f512829b7875830b1a26bec299b672b4a8e7d5fcff7"
+      },
+      {
+        "path": "app/how-to/payment-success-not-delivered/page.tsx",
+        "sha256": "b439fd0c95006f3718391db9818a20311e8c7ed4491ab9f323df9246026de6e9"
+      },
+      {
+        "path": "app/how-to/page.tsx",
+        "sha256": "cf3280c7e3bcb586b4a662b253f97748ea87ea925fbcd105e463903e3527cd15"
+      }
+    ],
+    "nano": [
+      {
+        "path": "lib/nano-seo-content.ts",
+        "sha256": "56b88ff3003c516bb2197102f5bc549dd41df264c5c422544d44ef9cfd12eb61"
+      },
+      {
+        "path": "app/ai-subscriptions/[slug]/page.tsx",
+        "sha256": "3290dc0c14e0f1496f1df7884a1b2e54570e3f836e5b1046c2263315d87873cb"
+      },
+      {
+        "path": "app/ai-subscriptions/page.tsx",
+        "sha256": "3a3f6988a8d7bf62412f2d3c1e4d5116ca84e2cfcf11acdd7d8037b6dea90aaf"
+      },
+      {
+        "path": "app/llms.txt/route.ts",
+        "sha256": "00b04e428116dc5b771a7b9a5ee9c66559969eeca1a92ad99f6ef9c080b39917"
+      }
+    ]
+  },
+  "excluded_claims": [
+    "No source deployment, GitHub publishing, Feishu write or marking was performed by this read-only reviewer.",
+    "No production/full-page desktop/mobile screenshot acceptance, real purchase, order lookup, card redemption, account authorization, refund or support response measurement.",
+    "Candidate keyword map is editorial, not verified ranking query/search volume/traffic dataset.",
+    "No attempt to resume or bypass the stopped Computer Use session."
+  ],
+  "source_commits_at_readonly_acceptance": {
+    "payforgpt": "ddd8d2b1a051834ac168f91e8cb7285a300b0d0c",
+    "public": "uncommitted integration at review; seeintegrationreceipt filehashes",
+    "nano": "sourceaccepted; deployment handledseparately"
+  }
+}
