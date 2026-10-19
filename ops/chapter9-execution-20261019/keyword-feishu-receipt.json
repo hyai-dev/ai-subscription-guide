@@ -1,0 +1,52 @@
+{
+  "result": "pass",
+  "verifiedAtUtc": "2026-10-19T10:55:58.765710+00:00",
+  "beforeRevision": 169,
+  "afterRevision": 176,
+  "newKeywordChecks": 5,
+  "completedInOriginalQueue": 55,
+  "totalOriginalQueue": 2500,
+  "pending": 2445,
+  "next": {
+    "site": "02 GETGPT Pro",
+    "row": 6,
+    "keyword": "ChatGPT代充"
+  },
+  "originalCompleted50Preserved": true,
+  "other49KeywordTablesPreserved": true,
+  "untargeted45RowsAndOtherColumnsPreserved": true,
+  "allOtherOriginalTopLevelBlocksPreservedInOrder": true,
+  "codexSpecialEntriesPreserved": true,
+  "url": "https://vi8r050ecuz.feishu.cn/docx/M3iDdYCNFo9C3RxHBEXc1Rrpn9f#doxcnkdKgo26B9gFfKOMblZOQ3f",
+  "mutations": [
+    {
+      "operation": "complete-getgpt-row-1",
+      "revision": 170
+    },
+    {
+      "operation": "complete-getgpt-row-2",
+      "revision": 171
+    },
+    {
+      "operation": "complete-getgpt-row-3",
+      "revision": 172
+    },
+    {
+      "operation": "complete-getgpt-row-4",
+      "revision": 173
+    },
+    {
+      "operation": "complete-getgpt-row-5",
+      "revision": 174
+    },
+    {
+      "operation": "insert-getgpt-summary",
+      "revision": 175
+    },
+    {
+      "operation": "replace-getgpt-cursor",
+      "revision": 176
+    }
+  ],
+  "meaning": "Writing and bilateral release complete; no claim of indexing, ranking or conversions."
+}

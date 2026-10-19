@@ -36,3 +36,11 @@
 IndexNow接受5个更新HTML URL的通知，不等于Bing或Google已收录。公开HTTP与静态解析不冒充浏览器排版或交易实测；本轮没有网站流量、排名、真实付款或交付归因数据。
 
 飞书的5个关键词完成标记另行验收，本目录随后补充写入与保全回执。SKU履约、授权真实界面与评价、服务端来源到付款/交付归因、实际效果数据仍分别待验收。
+
+## 飞书完成标记与保全
+
+本轮5个关键词已在原表逐条勾选，累计55/2500，2445待处理。下一条为第02站GETGPT Pro第6条「ChatGPT代充」。原50个完成标记、其他49张关键词表、目标表其余45行及其他列、原有历史块和另6个Codex专题保留。详见[关键词写入与保全回执](keyword-feishu-receipt.json)。
+
+第九章已补显著核验更正、双站图文与公开指南的完成条目；执行看板追加本批记录。原4项未完成任务及原端到端归因勾选均保持未完成，见[飞书报告回执](feishu-receipt.json)。[公开指南18项固定提交匿名回读](public-guide-readback.json)及[首次云端检查](public-initial-ci.json)另存。没有用文章发布、通知受理或完成勾选代替收录与成交数据。
+
+源码提交：[payforgpt-web 097eaa3](https://github.com/hyai-dev/payforgpt-web/commit/097eaa30487657ac80078503b8809fa3da1ae157) · [nano-banana-web 9e69527](https://github.com/hyai-dev/nano-banana-web/commit/9e69527e9a80c490698a4f7f95dd28e3f10dd570)。两站商业源码仓库的访问权限保持原状。

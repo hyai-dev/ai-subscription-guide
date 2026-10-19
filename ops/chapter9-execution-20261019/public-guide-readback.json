@@ -1,0 +1,136 @@
+{
+  "result": "pass",
+  "commit": "861cde622c97b96105e16f6f4482af1da139cf56",
+  "verifiedAtUtc": "2026-10-19T10:53:26.390211+00:00",
+  "method": "Unauthenticated fixed-commit public raw HTTP GET and byte comparison; Git main confirmed separately.",
+  "checkedFiles": 18,
+  "files": [
+    {
+      "file": "README.md",
+      "url": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/861cde622c97b96105e16f6f4482af1da139cf56/README.md",
+      "status": 200,
+      "sha256": "1f0a643346d3927e1c7cfd07044bb100472f165af2f78a73eb64db060f72941f",
+      "matchesCommittedLocalBytes": true
+    },
+    {
+      "file": "CHANGELOG.md",
+      "url": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/861cde622c97b96105e16f6f4482af1da139cf56/CHANGELOG.md",
+      "status": 200,
+      "sha256": "ac9097e388bfb5141deabf5cd390154a1a4994f07ec39585e056045769d3f62d",
+      "matchesCommittedLocalBytes": true
+    },
+    {
+      "file": "content/publication-manifest.json",
+      "url": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/861cde622c97b96105e16f6f4482af1da139cf56/content/publication-manifest.json",
+      "status": 200,
+      "sha256": "4ff293846d083e550ed48c301d2d6abf99aa8f1835c1d5152033cb5f7d0d615e",
+      "matchesCommittedLocalBytes": true
+    },
+    {
+      "file": "data/publication-index.json",
+      "url": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/861cde622c97b96105e16f6f4482af1da139cf56/data/publication-index.json",
+      "status": 200,
+      "sha256": "f54c2ba974c2f0132561c9cefb7d25a5c85c3c48757c5ce93ca1da2cbd8f5c6c",
+      "matchesCommittedLocalBytes": true
+    },
+    {
+      "file": "data/keyword-map.json",
+      "url": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/861cde622c97b96105e16f6f4482af1da139cf56/data/keyword-map.json",
+      "status": 200,
+      "sha256": "6b91bbe5d1e323564acda2e741a7e1a5f94c4353ec015c97689bd9abfcf56d14",
+      "matchesCommittedLocalBytes": true
+    },
+    {
+      "file": "data/tracking-links.json",
+      "url": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/861cde622c97b96105e16f6f4482af1da139cf56/data/tracking-links.json",
+      "status": 200,
+      "sha256": "20364134b0be4cb2e2e4bed4d0815cc03dc08427e3ed86a88dba07f0155861bd",
+      "matchesCommittedLocalBytes": true
+    },
+    {
+      "file": "tools/catalog.mjs",
+      "url": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/861cde622c97b96105e16f6f4482af1da139cf56/tools/catalog.mjs",
+      "status": 200,
+      "sha256": "7423c9c99fba81fd8b080888db7951fa8750121a6c4a30011cb5d572f538e49b",
+      "matchesCommittedLocalBytes": true
+    },
+    {
+      "file": "tools/sync.mjs",
+      "url": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/861cde622c97b96105e16f6f4482af1da139cf56/tools/sync.mjs",
+      "status": 200,
+      "sha256": "7e4678c1060fb8d60f936a96712df6b4834edd4df93ccee4f1f7ae94309552b4",
+      "matchesCommittedLocalBytes": true
+    },
+    {
+      "file": "docs/19-getgpt-card-code-checklist.md",
+      "url": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/861cde622c97b96105e16f6f4482af1da139cf56/docs/19-getgpt-card-code-checklist.md",
+      "status": 200,
+      "sha256": "859e4320e66c6949d03ef40b69a458a491cecf3bdad803bc5df819cfd4155b4f",
+      "matchesCommittedLocalBytes": true
+    },
+    {
+      "file": "articles/getgpt-card-code-checklist.md",
+      "url": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/861cde622c97b96105e16f6f4482af1da139cf56/articles/getgpt-card-code-checklist.md",
+      "status": 200,
+      "sha256": "e858f518775cbe96d49e143606fe3521f6d6738eb59aaa23592183f39fa022b2",
+      "matchesCommittedLocalBytes": true
+    },
+    {
+      "file": "assets/getgpt-check-20261019/three-records.svg",
+      "url": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/861cde622c97b96105e16f6f4482af1da139cf56/assets/getgpt-check-20261019/three-records.svg",
+      "status": 200,
+      "sha256": "3d09c280a12cba64a3f559998b5c065a9c97f3347c52083af9a29706a4b18b1b",
+      "matchesCommittedLocalBytes": true
+    },
+    {
+      "file": "assets/getgpt-check-20261019/three-records.webp",
+      "url": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/861cde622c97b96105e16f6f4482af1da139cf56/assets/getgpt-check-20261019/three-records.webp",
+      "status": 200,
+      "sha256": "b8ff010ca287ae991f715ffd735fd34afa397190a85057e5df2ab656a5d10029",
+      "matchesCommittedLocalBytes": true
+    },
+    {
+      "file": "ops/chapter9-execution-20261019/README.md",
+      "url": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/861cde622c97b96105e16f6f4482af1da139cf56/ops/chapter9-execution-20261019/README.md",
+      "status": 200,
+      "sha256": "033ad6e06a471b94229a783cf587a6d8644da45d9252f3267c7f20503249b18b",
+      "matchesCommittedLocalBytes": true
+    },
+    {
+      "file": "ops/chapter9-execution-20261019/public-research.json",
+      "url": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/861cde622c97b96105e16f6f4482af1da139cf56/ops/chapter9-execution-20261019/public-research.json",
+      "status": 200,
+      "sha256": "0e06feb75cff620f7a8443a8320b7da1cce75184cfe3114b1938ca3803f2cdf7",
+      "matchesCommittedLocalBytes": true
+    },
+    {
+      "file": "ops/chapter9-execution-20261019/merchant-sources.json",
+      "url": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/861cde622c97b96105e16f6f4482af1da139cf56/ops/chapter9-execution-20261019/merchant-sources.json",
+      "status": 200,
+      "sha256": "0b5ac658fcd5b11d7007dbb596f2c356e8881cd73b94da1b8e27114f61f843c7",
+      "matchesCommittedLocalBytes": true
+    },
+    {
+      "file": "ops/chapter9-execution-20261019/release.json",
+      "url": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/861cde622c97b96105e16f6f4482af1da139cf56/ops/chapter9-execution-20261019/release.json",
+      "status": 200,
+      "sha256": "5a968479c3dfad19ec30bdaeaa6c39982fd2d309a682b2b4ff416e3627d963e7",
+      "matchesCommittedLocalBytes": true
+    },
+    {
+      "file": "ops/chapter9-execution-20261019/live-readback.json",
+      "url": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/861cde622c97b96105e16f6f4482af1da139cf56/ops/chapter9-execution-20261019/live-readback.json",
+      "status": 200,
+      "sha256": "28d748aece916029e342447d1237e0c457b389910c9126f7f4389c349b7b37bf",
+      "matchesCommittedLocalBytes": true
+    },
+    {
+      "file": "ops/chapter9-execution-20261019/indexnow.json",
+      "url": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/861cde622c97b96105e16f6f4482af1da139cf56/ops/chapter9-execution-20261019/indexnow.json",
+      "status": 200,
+      "sha256": "459d0b918b8d211175dd94cc61203e82ad1e44af72384f736f88ecfbf34da276",
+      "matchesCommittedLocalBytes": true
+    }
+  ],
+  "indexingOrTrafficProved": false
+}
