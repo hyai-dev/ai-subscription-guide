@@ -1,0 +1,135 @@
+{
+  "asOf": "2026-10-19",
+  "method": "Read-only publicHTML,static link/schema parsing,sitemapXML and selected article reading through documentedagent-reach JinaReader/publicHTTP andweb.open. No login,purchase,private dashboard,internalAPI orbrowserautomation.",
+  "observations": [
+    {
+      "url": "https://www.payforchat.com/sitemap.xml",
+      "status": 200,
+      "finding": "292 unique URLs; 212 main article details and54 Grok article details. Direct snapshot, not indexed-page/ranking count."
+    },
+    {
+      "url": "https://www.payforchat.com/articles",
+      "status": 200,
+      "finding": "Direct origin directory lists212:129 guides and83 briefs; reader cache showed208. Counts are timestamped directory observations."
+    },
+    {
+      "url": "https://www.payforchat.com/articles/codex-phone-verification-giffgaff-guide-2026",
+      "status": 200,
+      "finding": "Detailed giffgaff tutorial with18 images and tracked LarkSIM links. Offering a tutorial/referral is not proof of direct SIM fulfillment."
+    },
+    {
+      "url": "https://www.payforchat.com/articles/chatgpt-plus-2",
+      "status": 200,
+      "finding": "Homepage tutorial target has placeholder body in this sample. Sitewide page count is not a quality guarantee."
+    },
+    {
+      "url": "https://getgpt.pro/sitemap.xml",
+      "status": 200,
+      "finding": "94 unique URLs:31 article details,39 tag pages,24 other entrances/index/pagination/product pages."
+    },
+    {
+      "url": "https://getgpt.pro/blog",
+      "status": 200,
+      "finding": "Public directory independently lists31 articles over4 pages and task-oriented common guides."
+    },
+    {
+      "url": "https://getgpt.pro/guide",
+      "status": 200,
+      "finding": "Stepwise interface screenshots and accessible MP4 link; video was not played or treated as a successful purchase."
+    },
+    {
+      "url": "https://getgpt.pro/feedback",
+      "status": 200,
+      "finding": "18 feedback summaries in4 categories. Authenticity, permission, representativeness and fulfillment outcome rates not established."
+    },
+    {
+      "url": "https://getgpt.pro/blog/gpt-ip-quality-detection",
+      "status": 200,
+      "finding": "Its IP article qualifies network labels and says a detection site cannot identify the backend model."
+    },
+    {
+      "url": "https://payforgpt.com/",
+      "status": 200,
+      "finding": "Live catalog,Alipay,order lookup and manual corporate invoicing are already visible; they are existing capabilities."
+    },
+    {
+      "url": "https://payforgpt.com/product/10",
+      "status": 200,
+      "finding": "5x product form offersAlipay while a comparison block listsAlipay/WeChat/USDT; support-material wording mentions lookup password while another block warns against sending it."
+    },
+    {
+      "url": "https://nano-banana.lol/product/11",
+      "status": 200,
+      "finding": "Same public product copy inconsistencies independently observed; 20x entitlement/deliverable mapping needs clearer product-specific specification."
+    },
+    {
+      "url": "https://payforgpt.com/sitemap.xml",
+      "status": 200,
+      "finding": "275 uniqueURLs, including176 in four translated route families. Not275 original articles or indexed pages."
+    },
+    {
+      "url": "https://nano-banana.lol/sitemap.xml",
+      "status": 200,
+      "finding": "442 uniqueURLs, including120 in four translated route families. Not442 original articles or indexed pages."
+    },
+    {
+      "url": "https://grokguide.si/sitemap.xml",
+      "status": 200,
+      "finding": "365 uniqueURLs, including45 translatedURLs and many hubs/template/series pages. Not365 independently evaluated articles."
+    },
+    {
+      "url": "https://grokguide.si/contact",
+      "status": 200,
+      "finding": "Primary commercial next-step is the authorWeChat contact; no link to the two owned shops in this read."
+    },
+    {
+      "url": "https://grokguide.si/topics/which-plan",
+      "status": 200,
+      "finding": "Task-based plan comparison, official sources and selfcanonical; no owned-shop link in this read."
+    },
+    {
+      "url": "https://grokguide.si/qa/pricing-quota",
+      "status": 200,
+      "finding": "Quota/billing tutorial and official sources; no owned-shop link in this read."
+    },
+    {
+      "url": "https://grokguide.si/tutorials/file-delivery",
+      "status": 200,
+      "finding": "Worked practice, copyable instruction, acceptance checklist and revision steps; no owned-shop link in this read."
+    },
+    {
+      "url": "https://grokguide.si/partners",
+      "status": 200,
+      "finding": "DisclosedPay2.House sponsored link; no two-shop link in this sample."
+    },
+    {
+      "url": "https://nano-banana.lol/grok",
+      "status": 200,
+      "finding": "CurrentGrok guidance explicitly says no currently listed matching saleableGrok item."
+    },
+    {
+      "url": "https://payforgpt.com/grok",
+      "status": 200,
+      "finalUrl": "https://payforgpt.com/price",
+      "finding": "Redirects to generic price page, not aGrok-specific article or verifiedGrok purchase."
+    },
+    {
+      "url": "https://payforgpt.com/ai-subscriptions/grok-subscription-guide",
+      "status": 200,
+      "finding": "Actual indexed informationalGrok owner with selfcanonical. Suitable for purchase-channel/billing clarification, not aGrok SKU checkout."
+    }
+  ],
+  "sampleBoundary": "GrokGuide:7HTML pages plus sitemap, including3 selected articles. No owned-shop links found in that sample; no claim that all365URLs were examined. Competitor article and landing-page samples are bounded; not a full backlink/ranking audit.",
+  "unknown": [
+    "Monthlytraffic and source shares",
+    "Indexed/ranked queries, impressions,CTR and positions",
+    "Paid ad campaigns/spend/CPC/CAC/ROAS",
+    "Truecustomer counts/refund/fulfillment rates",
+    "Competitor backend payment failover and token retry outcomes",
+    "True attribution to confirmedpaid/deliveredorders",
+    "Actual business demand created by proposed crosslinks"
+  ],
+  "ourImplementationEvidence": "Existing source inspection found consent-gatedsource tracking but no verified source-to-order-to-confirmedpayment/delivery closure. Manualinvoice support confirmed; automaticPDFinvoice generation not established. No source dumps/private operational paths in this public file.",
+  "siteChangesMade": false,
+  "keywordQueueNewCompletions": 0
+}
