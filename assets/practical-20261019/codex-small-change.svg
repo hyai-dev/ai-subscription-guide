@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="1200" viewBox="0 0 640 1200" role="img" aria-labelledby="title desc"><title id="title">一个小改动，也要能验收</title><desc id="desc">固定边界，写清输入与期望输出，五个案例先留在任务里；阅读相关代码，找到函数、调用方和指引，确认当前分支与检查命令；修改并验证，先复现，再检查修复结果，不能执行就标明未验证；审查差异，逐行看 diff 和检查记录，理解改动后再决定提交</desc><rect width="640" height="1200" rx="28" fill="#FFFFFF"/><g font-family="PingFang SC, Microsoft YaHei, sans-serif">
+<rect x="28" y="28" width="584" height="146" rx="24" fill="#EDF3FF"/>
+<text x="52" y="80" font-size="30" font-weight="650" fill="#245BBD" text-anchor="start">Codex 第一个任务</text>
+<text x="52" y="136" font-size="38" font-weight="700" fill="#172B3A" text-anchor="start">一个小改动，也要能验收</text>
+<rect x="28" y="204" width="584" height="163" rx="22" fill="#FFFFFF" stroke="#D8E2E9" stroke-width="2"/>
+<circle cx="65" cy="248" r="22" fill="#245BBD"/>
+<text x="65" y="260" font-size="31" font-weight="700" fill="#FFFFFF" text-anchor="middle">1</text>
+<text x="103" y="261" font-size="36" font-weight="700" fill="#245BBD" text-anchor="start">固定边界</text>
+<text x="52" y="310" font-size="34" font-weight="500" fill="#172B3A" text-anchor="start">写清输入与期望输出</text>
+<text x="52" y="350" font-size="32" font-weight="500" fill="#42596A" text-anchor="start">五个案例先留在任务里</text>
+<path d="M320 374 v13 m-7 -6 7 7 7 -7" fill="none" stroke="#245BBD" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="28" y="395" width="584" height="163" rx="22" fill="#FFFFFF" stroke="#D8E2E9" stroke-width="2"/>
+<circle cx="65" cy="439" r="22" fill="#245BBD"/>
+<text x="65" y="451" font-size="31" font-weight="700" fill="#FFFFFF" text-anchor="middle">2</text>
+<text x="103" y="452" font-size="36" font-weight="700" fill="#245BBD" text-anchor="start">阅读相关代码</text>
+<text x="52" y="501" font-size="34" font-weight="500" fill="#172B3A" text-anchor="start">找到函数、调用方和指引</text>
+<text x="52" y="541" font-size="32" font-weight="500" fill="#42596A" text-anchor="start">确认当前分支与检查命令</text>
+<path d="M320 565 v13 m-7 -6 7 7 7 -7" fill="none" stroke="#245BBD" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="28" y="586" width="584" height="163" rx="22" fill="#FFFFFF" stroke="#D8E2E9" stroke-width="2"/>
+<circle cx="65" cy="630" r="22" fill="#245BBD"/>
+<text x="65" y="642" font-size="31" font-weight="700" fill="#FFFFFF" text-anchor="middle">3</text>
+<text x="103" y="643" font-size="36" font-weight="700" fill="#245BBD" text-anchor="start">修改并验证</text>
+<text x="52" y="692" font-size="34" font-weight="500" fill="#172B3A" text-anchor="start">先复现，再检查修复结果</text>
+<text x="52" y="732" font-size="32" font-weight="500" fill="#42596A" text-anchor="start">不能执行就标明未验证</text>
+<path d="M320 756 v13 m-7 -6 7 7 7 -7" fill="none" stroke="#245BBD" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="28" y="777" width="584" height="163" rx="22" fill="#FFFFFF" stroke="#D8E2E9" stroke-width="2"/>
+<circle cx="65" cy="821" r="22" fill="#245BBD"/>
+<text x="65" y="833" font-size="31" font-weight="700" fill="#FFFFFF" text-anchor="middle">4</text>
+<text x="103" y="834" font-size="36" font-weight="700" fill="#245BBD" text-anchor="start">审查差异</text>
+<text x="52" y="883" font-size="34" font-weight="500" fill="#172B3A" text-anchor="start">逐行看 diff 和检查记录</text>
+<text x="52" y="923" font-size="32" font-weight="500" fill="#42596A" text-anchor="start">理解改动后再决定提交</text>
+<rect x="28" y="994" width="584" height="136" rx="22" fill="#EDF3FF"/>
+<text x="52" y="1046" font-size="34" font-weight="700" fill="#245BBD" text-anchor="start">有效值 0 → 显示 0</text>
+<text x="52" y="1095" font-size="32" font-weight="600" fill="#245BBD" text-anchor="start">空值 → 显示“未填写”</text>
+<text x="320" y="1171" font-size="26" font-weight="500" fill="#536A7B" text-anchor="middle">示意流程 · 原创合成练习</text>
+</g></svg>

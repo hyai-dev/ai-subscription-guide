@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "public-price-observation-v1",
+  "generatedAt": "2026-10-19T07:30:14.530Z",
+  "scope": "Public advertised source claims only; not checkout totals, independent product verification or a cheapest-price ranking.",
+  "automaticComparison": false,
+  "humanReviewRequired": true,
+  "pages": [
+    {
+      "sourceId": "gptpro20x",
+      "sourceName": "GPTPro20x",
+      "requestedUrl": "https://gptpro20x.com/chatgpt/",
+      "sourceUrl": "https://gptpro20x.com/chatgpt/",
+      "observedAt": "2026-10-19T07:30:14.383Z",
+      "httpStatus": null,
+      "status": "unavailable",
+      "reason": "NON_PUBLIC_DNS_ADDRESS",
+      "priceWhenUnavailable": null,
+      "offers": [],
+      "warnings": []
+    },
+    {
+      "sourceId": "gptpro5x",
+      "sourceName": "GPTPro5x",
+      "requestedUrl": "https://gptpro5x.com/",
+      "sourceUrl": "https://gptpro5x.com/",
+      "observedAt": "2026-10-19T07:30:14.492Z",
+      "httpStatus": null,
+      "status": "unavailable",
+      "reason": "NON_PUBLIC_DNS_ADDRESS",
+      "priceWhenUnavailable": null,
+      "offers": [],
+      "warnings": []
+    },
+    {
+      "sourceId": "gptcz",
+      "sourceName": "GPTCZ",
+      "requestedUrl": "https://gptcz.pro/plus",
+      "sourceUrl": "https://gptcz.pro/plus",
+      "observedAt": "2026-10-19T07:30:14.498Z",
+      "httpStatus": null,
+      "status": "unavailable",
+      "reason": "NON_PUBLIC_DNS_ADDRESS",
+      "priceWhenUnavailable": null,
+      "offers": [],
+      "warnings": []
+    },
+    {
+      "sourceId": "aichongzhi",
+      "sourceName": "AIchongzhi",
+      "requestedUrl": "https://aichongzhi.org/chatgpt/",
+      "sourceUrl": "https://aichongzhi.org/chatgpt/",
+      "observedAt": "2026-10-19T07:30:14.505Z",
+      "httpStatus": null,
+      "status": "unavailable",
+      "reason": "NON_PUBLIC_DNS_ADDRESS",
+      "priceWhenUnavailable": null,
+      "offers": [],
+      "warnings": []
+    },
+    {
+      "sourceId": "getgpt",
+      "sourceName": "GETGPT Pro",
+      "requestedUrl": "https://getgpt.pro/plus-price",
+      "sourceUrl": "https://getgpt.pro/plus-price",
+      "observedAt": "2026-10-19T07:30:14.512Z",
+      "httpStatus": null,
+      "status": "unavailable",
+      "reason": "NON_PUBLIC_DNS_ADDRESS",
+      "priceWhenUnavailable": null,
+      "offers": [],
+      "warnings": []
+    },
+    {
+      "sourceId": "payforchat",
+      "sourceName": "PayForChat",
+      "requestedUrl": "https://www.payforchat.com/",
+      "sourceUrl": "https://www.payforchat.com/",
+      "observedAt": "2026-10-19T07:30:14.517Z",
+      "httpStatus": null,
+      "status": "unavailable",
+      "reason": "NON_PUBLIC_DNS_ADDRESS",
+      "priceWhenUnavailable": null,
+      "offers": [],
+      "warnings": []
+    },
+    {
+      "sourceId": "nano-banana",
+      "sourceName": "Nano Banana",
+      "requestedUrl": "https://nano-banana.lol/",
+      "sourceUrl": "https://nano-banana.lol/",
+      "observedAt": "2026-10-19T07:30:14.521Z",
+      "httpStatus": null,
+      "status": "unavailable",
+      "reason": "NON_PUBLIC_DNS_ADDRESS",
+      "priceWhenUnavailable": null,
+      "offers": [],
+      "warnings": []
+    },
+    {
+      "sourceId": "payforgpt",
+      "sourceName": "PayForGPT",
+      "requestedUrl": "https://payforgpt.com/",
+      "sourceUrl": "https://payforgpt.com/",
+      "observedAt": "2026-10-19T07:30:14.526Z",
+      "httpStatus": null,
+      "status": "unavailable",
+      "reason": "NON_PUBLIC_DNS_ADDRESS",
+      "priceWhenUnavailable": null,
+      "offers": [],
+      "warnings": []
+    }
+  ]
+}

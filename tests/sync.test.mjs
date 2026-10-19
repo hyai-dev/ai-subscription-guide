@@ -1,0 +1,51 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import fs from 'node:fs';
+import os from 'node:os';
+import path from 'node:path';
+import { ROOT, localFile, loadCatalog, trackedUrl } from '../tools/catalog.mjs';
+import { replaceSection, planSync, writePlan } from '../tools/sync.mjs';
+
+test('topic attribution stays on the selected site and uses fields the sites preserve', () => {
+  const u = new URL(trackedUrl('nano', 'https://nano-banana.lol/faq#orders', 'codex-first-task'));
+  assert.equal(u.searchParams.get('utm_campaign'), 'ai_subscription_guide_codex_first_task_nano');
+  assert.equal(u.searchParams.get('utm_source'), 'github');
+  assert.equal(u.searchParams.get('utm_medium'), 'referral');
+  assert.equal(u.searchParams.has('utm_content'), false);
+  assert.equal(u.hash, '#orders');
+  assert.throws(() => trackedUrl('nano', 'https://example.com/faq', 'codex'));
+  assert.throws(() => trackedUrl('nano', 'https://nano-banana.lol@evil.example/faq', 'codex'));
+  assert.throws(() => trackedUrl('unknown', 'https://nano-banana.lol/faq', 'codex'));
+});
+
+test('README generation refuses missing, duplicate or inverted markers', () => {
+  assert.throws(() => replaceSection('content', 'LATEST', 'new'));
+  assert.throws(() => replaceSection('<!-- END LATEST --><!-- BEGIN LATEST -->', 'LATEST', 'new'));
+  assert.throws(() => replaceSection('<!-- BEGIN LATEST --><!-- BEGIN LATEST --><!-- END LATEST -->', 'LATEST', 'new'));
+  assert.equal(replaceSection('a<!-- BEGIN LATEST -->old<!-- END LATEST -->z', 'LATEST', 'new'), 'a<!-- BEGIN LATEST -->\nnew\n<!-- END LATEST -->z');
+});
+
+test('repository paths reject traversal and symlink escape', () => {
+  assert.throws(() => localFile('../outside.md'));
+  assert.throws(() => localFile('/absolute.md'));
+  const tmp = fs.mkdtempSync(path.join(os.tmpdir(), 'guide-path-'));
+  try {
+    fs.symlinkSync(path.join(ROOT, 'README.md'), path.join(tmp, 'escape.md'));
+    assert.throws(() => localFile('escape.md', tmp));
+  } finally { fs.rmSync(tmp, { recursive: true }); }
+});
+
+test('real manifest produces stable single archives and an idempotent preview', () => {
+  const root = fs.mkdtempSync(path.join(os.tmpdir(), 'guide-sync-'));
+  try {
+    for (const entry of ['README.md', 'content', 'docs', 'assets']) fs.cpSync(path.join(ROOT, entry), path.join(root, entry), { recursive: true });
+    const manifest = loadCatalog(root);
+    const first = planSync(root);
+    assert.equal([...first.outputs.keys()].filter(f => f.startsWith('articles/')).length, manifest.articles.length);
+    const oldReadme = fs.readFileSync(path.join(root, 'README.md'), 'utf8');
+    assert.equal(fs.readFileSync(path.join(root, 'README.md'), 'utf8'), oldReadme);
+    writePlan(first, root);
+    assert.equal(planSync(root).changes.length, 0);
+    for (const a of manifest.articles) assert.ok(fs.readFileSync(path.join(root, `articles/${a.id}.md`), 'utf8').includes(a.canonical));
+  } finally { fs.rmSync(root, { recursive: true }); }
+});

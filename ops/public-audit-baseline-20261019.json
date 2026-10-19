@@ -1,0 +1,347 @@
+{
+  "audited_at_utc": "2026-10-19T07:00:13.641677+00:00",
+  "repository": "hyai-dev/ai-subscription-guide",
+  "baseline_commit": "2baf9abfca23ace1129b0501cfdabf9c4f8b1b00",
+  "history_commit_count": 6,
+  "unique_blob_count": 17,
+  "utf8_blob_count": 13,
+  "binary_blob_count": 4,
+  "scope": "All 17 unique blobs reachable across all six local history commits (13 UTF-8 text and four images); all current tracked text and historical unique text versions manually read; all four images visually inspected. Anonymous repository/API/raw access tested without credentials. Pattern scan plus manual review is bounded and does not guarantee absence of all sensitive information.",
+  "findings_redacted": [],
+  "blobs": [
+    {
+      "sha": "942e13e73eeabb95e832f9be6d285a0cce93667b",
+      "paths": [
+        "README.md"
+      ],
+      "commits": [
+        "2018bb4287e366e9c73abced1b2a175f117981a9",
+        "2baf9abfca23ace1129b0501cfdabf9c4f8b1b00"
+      ],
+      "bytes": 2791
+    },
+    {
+      "sha": "2e2fc163901e8ddcd4cd99e44eb96f7ce0729b08",
+      "paths": [
+        "docs/01-ip-check-tutorial.md"
+      ],
+      "commits": [
+        "2018bb4287e366e9c73abced1b2a175f117981a9",
+        "2baf9abfca23ace1129b0501cfdabf9c4f8b1b00",
+        "820b7d60d542e933e6ede8d53a000d0839f85f1e",
+        "e8d576ddac532ee9e7d638e8bfa171d746481712",
+        "fc38117a3839a9167c018a2e81f93cfcee53a724"
+      ],
+      "bytes": 5362
+    },
+    {
+      "sha": "29747dcc82a010f1e95f1883557e85b60da5b5f3",
+      "paths": [
+        "docs/02-codex-topup-guide.md"
+      ],
+      "commits": [
+        "2018bb4287e366e9c73abced1b2a175f117981a9",
+        "2baf9abfca23ace1129b0501cfdabf9c4f8b1b00",
+        "e8d576ddac532ee9e7d638e8bfa171d746481712",
+        "fc38117a3839a9167c018a2e81f93cfcee53a724"
+      ],
+      "bytes": 5391
+    },
+    {
+      "sha": "dba11fef9cad23458aed708978917dd732af15e7",
+      "paths": [
+        "docs/03-plus-without-card.md"
+      ],
+      "commits": [
+        "2018bb4287e366e9c73abced1b2a175f117981a9",
+        "2baf9abfca23ace1129b0501cfdabf9c4f8b1b00"
+      ],
+      "bytes": 2473
+    },
+    {
+      "sha": "8f8b2f398a05ae300bd4c2ceadb8b5e941bbedab",
+      "paths": [
+        "docs/04-account-credentials-and-order-evidence.md"
+      ],
+      "commits": [
+        "2018bb4287e366e9c73abced1b2a175f117981a9",
+        "2baf9abfca23ace1129b0501cfdabf9c4f8b1b00"
+      ],
+      "bytes": 4907
+    },
+    {
+      "sha": "c4045cc5344e88b99784b3428c6ff19942c15086",
+      "paths": [
+        "docs/05-payment-channels-and-billing-records.md"
+      ],
+      "commits": [
+        "2018bb4287e366e9c73abced1b2a175f117981a9",
+        "2baf9abfca23ace1129b0501cfdabf9c4f8b1b00"
+      ],
+      "bytes": 5123
+    },
+    {
+      "sha": "c24fc7c921055e65294c7aaa5fd909e07711beb6",
+      "paths": [
+        "docs/06-renewal-and-price-comparison.md"
+      ],
+      "commits": [
+        "2018bb4287e366e9c73abced1b2a175f117981a9",
+        "2baf9abfca23ace1129b0501cfdabf9c4f8b1b00"
+      ],
+      "bytes": 5595
+    },
+    {
+      "sha": "9e06b9c00bfb1e8c19b77206ce8144f4e2888d7e",
+      "paths": [
+        "docs/illustrations-20261018.json"
+      ],
+      "commits": [
+        "2018bb4287e366e9c73abced1b2a175f117981a9",
+        "2baf9abfca23ace1129b0501cfdabf9c4f8b1b00"
+      ],
+      "bytes": 9521
+    },
+    {
+      "sha": "27710ff373d27518d135d3359af4db18be1d80eb",
+      "paths": [
+        "docs/publication-manifest-20261018.json"
+      ],
+      "commits": [
+        "2baf9abfca23ace1129b0501cfdabf9c4f8b1b00"
+      ],
+      "bytes": 1913
+    },
+    {
+      "sha": "82a4c220dab712c3fcb09a34d1215fb8733e8f32",
+      "paths": [
+        "docs/publication-receipt-20261018.json"
+      ],
+      "commits": [
+        "2baf9abfca23ace1129b0501cfdabf9c4f8b1b00"
+      ],
+      "bytes": 3778
+    },
+    {
+      "sha": "4706975ba6e3e3d1b49d00d1479b0e03d50bcbd4",
+      "paths": [
+        "docs/publication-manifest-20261018.json"
+      ],
+      "commits": [
+        "2018bb4287e366e9c73abced1b2a175f117981a9"
+      ],
+      "bytes": 1757
+    },
+    {
+      "sha": "c8e520465de92f27c4046cb33b2380f289b27c1a",
+      "paths": [
+        "README.md"
+      ],
+      "commits": [
+        "67e099849a0bbd6f3ce8456d03578b7cfc19ca11",
+        "820b7d60d542e933e6ede8d53a000d0839f85f1e",
+        "e8d576ddac532ee9e7d638e8bfa171d746481712",
+        "fc38117a3839a9167c018a2e81f93cfcee53a724"
+      ],
+      "bytes": 1369
+    },
+    {
+      "sha": "3a4fa4b40b6936a6c95e33bcdda486d16e2b070b",
+      "paths": [
+        "docs/03-plus-without-card.md"
+      ],
+      "commits": [
+        "e8d576ddac532ee9e7d638e8bfa171d746481712"
+      ],
+      "bytes": 5267
+    },
+    {
+      "sha": "b67ef4bda8b027bf80787e571c758cdecda73607",
+      "paths": [
+        "assets/illustrated-20261018/channels-v1.webp"
+      ],
+      "commits": [
+        "2018bb4287e366e9c73abced1b2a175f117981a9",
+        "2baf9abfca23ace1129b0501cfdabf9c4f8b1b00"
+      ],
+      "bytes": 115936
+    },
+    {
+      "sha": "0da86cd332b3677fd7bcbb6b4444dcfbbb928c60",
+      "paths": [
+        "assets/illustrated-20261018/credentials-v1.webp"
+      ],
+      "commits": [
+        "2018bb4287e366e9c73abced1b2a175f117981a9",
+        "2baf9abfca23ace1129b0501cfdabf9c4f8b1b00"
+      ],
+      "bytes": 84870
+    },
+    {
+      "sha": "f37d8a0f2af0d184bca8f706ec7f03c228bf1246",
+      "paths": [
+        "assets/illustrated-20261018/price-v1.webp"
+      ],
+      "commits": [
+        "2018bb4287e366e9c73abced1b2a175f117981a9",
+        "2baf9abfca23ace1129b0501cfdabf9c4f8b1b00"
+      ],
+      "bytes": 72744
+    },
+    {
+      "sha": "468f392dc7bd8efb6d7c42509f0ceb15396013e3",
+      "paths": [
+        "assets/illustrated-20261018/renewal-v1.webp"
+      ],
+      "commits": [
+        "2018bb4287e366e9c73abced1b2a175f117981a9",
+        "2baf9abfca23ace1129b0501cfdabf9c4f8b1b00"
+      ],
+      "bytes": 89694
+    }
+  ],
+  "anonymous_access": [
+    {
+      "url": "https://api.github.com/repos/hyai-dev/ai-subscription-guide",
+      "status": 200,
+      "bytes": 6624,
+      "sha256": "1f6538db322cc4d291d4cf153d39d4bb1083c4dc0a405332fac35829861004a6",
+      "authentication_sent": false,
+      "private": false,
+      "visibility": "public",
+      "default_branch": "main",
+      "has_pages": false
+    },
+    {
+      "url": "https://github.com/hyai-dev/ai-subscription-guide",
+      "status": 200,
+      "bytes": 250074,
+      "sha256": "797089dcb86fc9ab378be935bf4d4d6f91d5ba84e0507873ed739eb4aca83fb4",
+      "authentication_sent": false
+    },
+    {
+      "url": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/main/README.md",
+      "status": 200,
+      "bytes": 2791,
+      "sha256": "0f62e7a50b9670c8704118c79553702e85f982839b8c2367b65e259425c1085d",
+      "authentication_sent": false
+    }
+  ],
+  "license_file_present": false,
+  "current_tracked_file_count": 14,
+  "images": [
+    {
+      "path": "assets/illustrated-20261018/channels-v1.webp",
+      "format": "WebP",
+      "riff_chunks": [
+        "VP8 "
+      ],
+      "has_exif_or_xmp_metadata": false,
+      "visual_review": "One generated teaching cartoon, short labels and abstract objects only. No actual QR, invoice, payment account, bank data, credential or real person screenshot observed."
+    },
+    {
+      "path": "assets/illustrated-20261018/credentials-v1.webp",
+      "format": "WebP",
+      "riff_chunks": [
+        "VP8 "
+      ],
+      "has_exif_or_xmp_metadata": false,
+      "visual_review": "One generated teaching cartoon, short labels and abstract objects only. No actual QR, invoice, payment account, bank data, credential or real person screenshot observed."
+    },
+    {
+      "path": "assets/illustrated-20261018/price-v1.webp",
+      "format": "WebP",
+      "riff_chunks": [
+        "VP8 "
+      ],
+      "has_exif_or_xmp_metadata": false,
+      "visual_review": "One generated teaching cartoon, short labels and abstract objects only. No actual QR, invoice, payment account, bank data, credential or real person screenshot observed."
+    },
+    {
+      "path": "assets/illustrated-20261018/renewal-v1.webp",
+      "format": "WebP",
+      "riff_chunks": [
+        "VP8 "
+      ],
+      "has_exif_or_xmp_metadata": false,
+      "visual_review": "One generated teaching cartoon, short labels and abstract objects only. No actual QR, invoice, payment account, bank data, credential or real person screenshot observed."
+    }
+  ],
+  "commit_metadata_summary": {
+    "distinct_email_count": 2,
+    "github_noreply_email_count": 1,
+    "ordinary_email_count": 1,
+    "email_values_omitted": true
+  },
+  "manual_review_completed": true,
+  "historical_unique_text_versions_read": true,
+  "assessment": "Already public; suitable as a public tutorial distribution repository after correcting current legacy network/Codex overclaims and adding explicit license/source attribution. No detected secret or live payment material in reviewed tracked blobs/history; this is not permission or advice to make either application source repository public.",
+  "remediation": [
+    {
+      "priority": "before-public-operation-update",
+      "paths": [
+        "docs/01-ip-check-tutorial.md"
+      ],
+      "issue": "Current copy labels residential IP as cleanest and suggests network labels predict account first impression; no proof.",
+      "action": "Rewrite as network diagnostics, no risk score or approval promise; official region eligibility separate; redact results/screenshots before sharing."
+    },
+    {
+      "priority": "before-public-operation-update",
+      "paths": [
+        "docs/02-codex-topup-guide.md"
+      ],
+      "issue": "Current copy oversimplifies Codex payment to ChatGPT subscription and claims stable geography reduces risk without evidence; calls untested process practical.",
+      "action": "Separate ChatGPT plan inclusion, usage credits and API billing based on fresh official sources; remove unsupported risk claims; distinguish visible checkout/order flow from real transaction validation."
+    },
+    {
+      "priority": "before-reuse-invitation",
+      "paths": [
+        "LICENSE",
+        "README.md",
+        "assets/illustrated-20261018/"
+      ],
+      "issue": "No LICENSE; content public visibility does not establish reuse permissions. Existing four images have generation prompts/hash attribution but no explicit reuse boundary.",
+      "action": "Add clear terms for owner-authored text/scripts and separate generated-image/third-party brand exclusions, attribution and contribution terms; do not imply third-party materials have been relicensed."
+    },
+    {
+      "priority": "maintenance",
+      "paths": [
+        "README.md",
+        "docs/03-plus-without-card.md"
+      ],
+      "issue": "Earlier public versions contain unverified transaction and lower-risk claims, corrected on main in 2018bb4.",
+      "action": "Keep factual correction notice and link current pages; do not silently rewrite full history unless separately needed for a real secret."
+    }
+  ],
+  "limitations": [
+    "No standalone gitleaks executable available; audited with explicit key/token/private-path/PII/payment-endpoint patterns and manual content review.",
+    "No real transaction, credential redemption, account access or legal rights verification performed.",
+    "Image generator attribution is recorded by repository receipts; authorship/third-party right clearance is not independently provable from pixels.",
+    "Repository/settings endpoints not exposing private GitHub secrets or removed unreferenced history were outside scope."
+  ],
+  "repository_security_settings_readback": {
+    "observed_at_utc": "2026-10-19T07:02:13.055948+00:00",
+    "endpoint": "GET /repos/hyai-dev/ai-subscription-guide",
+    "secret_scanning": "disabled",
+    "secret_scanning_push_protection": "disabled",
+    "mutation_performed": false
+  },
+  "license_recommendation": {
+    "original_code": "MIT, scoped to owner-authored tools/scripts, include full license text.",
+    "original_text": "CC BY 4.0, scoped to owner-authored tutorials; preserve attribution and mark changes.",
+    "generated_images": "Separate disclosure: CC BY 4.0 only to extent of licensor-held rights; no promise of exclusive AI-output copyright or third-party right clearance.",
+    "third_party_material": "Third-party quotations, logos, platform screenshots and linked resources retain their own terms; not relicensed by repository license.",
+    "references": [
+      "https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository",
+      "https://creativecommons.org/licenses/by/4.0/legalcode.en"
+    ]
+  },
+  "security_recommendation": {
+    "action": "Enable basic repository secret scanning alerts and push protection if the public repository entitlement supports them, then GET-readback. Do not enable paid advanced security or organization-wide settings as a side effect.",
+    "basis": "Reasonable reversible leak prevention for a public documentation repository; not an assurance of exhaustive detection.",
+    "references": [
+      "https://docs.github.com/en/code-security/concepts/secret-security/push-protection",
+      "https://docs.github.com/en/code-security/how-tos/secure-your-secrets/detect-secret-leaks/enable-secret-scanning"
+    ]
+  }
+}

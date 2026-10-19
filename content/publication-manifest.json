@@ -1,0 +1,255 @@
+{
+  "schemaVersion": 1,
+  "repository": "hyai-dev/ai-subscription-guide",
+  "ownership": "Maintained by operators of PayForGPT and Nano Banana; self-published educational distribution.",
+  "articles": [
+    {
+      "id": "ip-network-information",
+      "file": "docs/01-ip-check-tutorial.md",
+      "title": "IP 网络信息怎么读：地区、ASN 与第三方标签分别核对",
+      "topic": "network-check",
+      "canonical": "https://github.com/hyai-dev/ai-subscription-guide/blob/main/docs/01-ip-check-tutorial.md",
+      "publishedAt": "2026-10-14",
+      "reviewedAt": "2026-10-19",
+      "sources": [
+        "https://ip-api.com/docs/api:json"
+      ],
+      "figures": [
+        "assets/network-review-20261019/network-check.webp"
+      ],
+      "targets": [
+        {
+          "site": "nano",
+          "url": "https://nano-banana.lol/ip",
+          "label": "Nano Banana网络信息工具"
+        }
+      ]
+    },
+    {
+      "id": "codex-access-and-usage",
+      "file": "docs/02-codex-topup-guide.md",
+      "title": "Codex 购买前先核对：登录方式、当前可用功能与实际用量",
+      "topic": "codex-access",
+      "canonical": "https://github.com/hyai-dev/ai-subscription-guide/blob/main/docs/02-codex-topup-guide.md",
+      "publishedAt": "2026-10-14",
+      "reviewedAt": "2026-10-19",
+      "sources": [
+        "https://learn.chatgpt.com/docs/auth",
+        "https://learn.chatgpt.com/docs/pricing"
+      ],
+      "figures": [
+        "assets/illustrated-20261018/renewal-v1.webp"
+      ],
+      "targets": [
+        {
+          "site": "payforgpt",
+          "url": "https://payforgpt.com/faq",
+          "label": "PayForGPT账号与购买帮助"
+        },
+        {
+          "site": "nano",
+          "url": "https://nano-banana.lol/faq",
+          "label": "Nano Banana账号与购买帮助"
+        }
+      ]
+    },
+    {
+      "id": "subscription-eligibility",
+      "file": "docs/03-plus-without-card.md",
+      "title": "没有海外信用卡时，先核对订阅资格与购买对象",
+      "topic": "purchase-eligibility",
+      "canonical": "https://github.com/hyai-dev/ai-subscription-guide/blob/main/docs/03-plus-without-card.md",
+      "publishedAt": "2026-10-14",
+      "reviewedAt": "2026-10-18",
+      "sources": [
+        "https://help.openai.com/en/articles/7232916-why-was-my-credit-card-declined",
+        "https://help.openai.com/en/articles/7947663-chatgpt-supported-countries",
+        "https://help.openai.com/en/articles/10471989-openai-account-sharing-policy"
+      ],
+      "figures": [
+        "assets/illustrated-20261018/channels-v1.webp"
+      ],
+      "targets": [
+        {
+          "site": "payforgpt",
+          "url": "https://payforgpt.com/faq",
+          "label": "PayForGPT购买帮助"
+        },
+        {
+          "site": "nano",
+          "url": "https://nano-banana.lol/faq",
+          "label": "Nano Banana购买帮助"
+        }
+      ]
+    },
+    {
+      "id": "account-credentials-and-order-evidence",
+      "file": "docs/04-account-credentials-and-order-evidence.md",
+      "title": "免密代充要交什么？先把订单材料和账号钥匙分开",
+      "topic": "account-credentials",
+      "canonical": "https://github.com/hyai-dev/ai-subscription-guide/blob/main/docs/04-account-credentials-and-order-evidence.md",
+      "publishedAt": "2026-10-18",
+      "reviewedAt": "2026-10-18",
+      "sources": [
+        "https://help.openai.com/en/articles/10471989-openai-account-sharing-policy",
+        "https://help.openai.com/en/articles/5112595-best-practices-for-api-key-safety",
+        "https://help.openai.com/en/articles/8304786-keeping-your-openai-account-secure",
+        "https://help.openai.com/en/articles/7967234-managing-multi-factor-authentication-mfa"
+      ],
+      "figures": [
+        "assets/illustrated-20261018/credentials-v1.webp",
+        "assets/illustrated-20261018/channels-v1.webp"
+      ],
+      "targets": [
+        {
+          "site": "payforgpt",
+          "url": "https://payforgpt.com/ai-subscriptions/passwordless-recharge-credentials",
+          "label": "PayForGPT凭证说明"
+        },
+        {
+          "site": "nano",
+          "url": "https://nano-banana.lol/ai-subscriptions/passwordless-recharge-credentials",
+          "label": "Nano Banana凭证说明"
+        }
+      ]
+    },
+    {
+      "id": "payment-channels-and-billing-records",
+      "file": "docs/05-payment-channels-and-billing-records.md",
+      "title": "ChatGPT 付款方式怎么核对：先认清买的是什么、谁在收款",
+      "topic": "payment-channels",
+      "canonical": "https://github.com/hyai-dev/ai-subscription-guide/blob/main/docs/05-payment-channels-and-billing-records.md",
+      "publishedAt": "2026-10-18",
+      "reviewedAt": "2026-10-18",
+      "sources": [
+        "https://help.openai.com/en/articles/10421635-multicurrency-billing",
+        "https://help.openai.com/en/articles/7232916-why-was-my-credit-card-declined",
+        "https://help.openai.com/en/articles/7947663-chatgpt-supported-countries",
+        "https://help.openai.com/en/articles/9131992-chatgpt-and-api-services-in-unsupported-countries-and-territories",
+        "https://support.apple.com/en-us/111741",
+        "https://support.google.com/googleplay/answer/2651410?hl=en",
+        "https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus"
+      ],
+      "figures": [
+        "assets/illustrated-20261018/channels-v1.webp",
+        "assets/illustrated-20261018/price-v1.webp"
+      ],
+      "targets": [
+        {
+          "site": "payforgpt",
+          "url": "https://payforgpt.com/ai-subscriptions/chatgpt-payment-channels-guide",
+          "label": "PayForGPT账单渠道帮助"
+        },
+        {
+          "site": "nano",
+          "url": "https://nano-banana.lol/ai-subscriptions/alipay-wechat-pay",
+          "label": "Nano Banana账单渠道帮助"
+        }
+      ]
+    },
+    {
+      "id": "renewal-and-price-comparison",
+      "file": "docs/06-renewal-and-price-comparison.md",
+      "title": "ChatGPT 续费前的三次核对：账号、原渠道、下一账期",
+      "topic": "renewal-check",
+      "canonical": "https://github.com/hyai-dev/ai-subscription-guide/blob/main/docs/06-renewal-and-price-comparison.md",
+      "publishedAt": "2026-10-18",
+      "reviewedAt": "2026-10-18",
+      "sources": [
+        "https://help.openai.com/en/articles/7232927-canceling-your-chatgpt-subscription",
+        "https://support.apple.com/en-us/118428",
+        "https://support.google.com/googleplay/answer/7018481?co=GENIE.Platform%3DAndroid&hl=en",
+        "https://help.openai.com/en/articles/20001043-how-do-i-avoid-being-charged-twice-if-i-subscribe-to-chatgpt-on-ios-android-and-the-web",
+        "https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus",
+        "https://help.openai.com/en/articles/10421635-multicurrency-billing",
+        "https://help.openai.com/en/articles/9038389-updating-billing-information-tax-id-and-vat-id"
+      ],
+      "figures": [
+        "assets/illustrated-20261018/renewal-v1.webp",
+        "assets/illustrated-20261018/price-v1.webp"
+      ],
+      "targets": [
+        {
+          "site": "payforgpt",
+          "url": "https://payforgpt.com/how-to/handle-payment-failed",
+          "label": "PayForGPT续费与扣款帮助"
+        },
+        {
+          "site": "nano",
+          "url": "https://nano-banana.lol/ai-subscriptions/chatgpt-plus-renewal",
+          "label": "Nano Banana续费帮助"
+        }
+      ]
+    },
+    {
+      "id": "codex-first-task",
+      "file": "docs/07-codex-first-task.md",
+      "title": "Codex 第一个小任务：修复一个边界值，并留下可审查的证据",
+      "topic": "codex-first-task",
+      "canonical": "https://github.com/hyai-dev/ai-subscription-guide/blob/main/docs/07-codex-first-task.md",
+      "publishedAt": "2026-10-19",
+      "reviewedAt": "2026-10-19",
+      "sources": [
+        "https://learn.chatgpt.com/docs/auth",
+        "https://learn.chatgpt.com/docs/codex/cli",
+        "https://learn.chatgpt.com/use-cases/issue-to-tested-pr",
+        "https://learn.chatgpt.com/docs/pricing"
+      ],
+      "figures": [
+        "assets/practical-20261019/codex-small-change.webp"
+      ],
+      "targets": []
+    },
+    {
+      "id": "pdf-evidence-workflow",
+      "file": "docs/08-pdf-evidence-workflow.md",
+      "title": "用 ChatGPT 读 PDF：做一张能回到原页核对的证据表",
+      "topic": "pdf-evidence",
+      "canonical": "https://github.com/hyai-dev/ai-subscription-guide/blob/main/docs/08-pdf-evidence-workflow.md",
+      "publishedAt": "2026-10-19",
+      "reviewedAt": "2026-10-19",
+      "sources": [
+        "https://learn.chatgpt.com/docs/artifacts-viewer",
+        "https://learn.chatgpt.com/use-cases/synthesize-research-evidence"
+      ],
+      "figures": [
+        "assets/practical-20261019/pdf-evidence-loop.webp"
+      ],
+      "targets": []
+    },
+    {
+      "id": "spreadsheet-audit-workflow",
+      "file": "docs/09-spreadsheet-audit-workflow.md",
+      "title": "用 ChatGPT 核对 CSV：先定口径，再查重复、缺失与合计",
+      "topic": "csv-audit",
+      "canonical": "https://github.com/hyai-dev/ai-subscription-guide/blob/main/docs/09-spreadsheet-audit-workflow.md",
+      "publishedAt": "2026-10-19",
+      "reviewedAt": "2026-10-19",
+      "sources": [
+        "https://learn.chatgpt.com/use-cases/consolidate-spreadsheets",
+        "https://learn.chatgpt.com/docs/artifacts-viewer"
+      ],
+      "figures": [
+        "assets/practical-20261019/csv-audit-flow.webp"
+      ],
+      "targets": []
+    },
+    {
+      "id": "presentation-outline-workflow",
+      "file": "docs/10-presentation-outline-workflow.md",
+      "title": "用 ChatGPT 写 PPT 大纲：先核对结论，再安排每一页",
+      "topic": "ppt-outline",
+      "canonical": "https://github.com/hyai-dev/ai-subscription-guide/blob/main/docs/10-presentation-outline-workflow.md",
+      "publishedAt": "2026-10-19",
+      "reviewedAt": "2026-10-19",
+      "sources": [
+        "https://learn.chatgpt.com/use-cases/generate-slide-decks",
+        "https://learn.chatgpt.com/docs/artifacts-viewer"
+      ],
+      "figures": [
+        "assets/practical-20261019/presentation-evidence-plan.webp"
+      ],
+      "targets": []
+    }
+  ]
+}

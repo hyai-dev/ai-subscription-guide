@@ -1,0 +1,187 @@
+{
+  "schemaVersion": "guide-measurement-readonly-audit-v1",
+  "observedAt": "2026-10-19T07:01:42.648920+00:00",
+  "scope": "Read-only source review and unauthenticated public GET. No environment values, account access, order creation, payment, delivery, dashboard or external event collection tested.",
+  "sites": [
+    {
+      "site": "payforgpt",
+      "repository": "hyai-dev/payforgpt-web",
+      "siteUrl": "https://payforgpt.com",
+      "sourceCommit": "b066644c30679a17c25e369ecadc7475507d6904",
+      "readFiles": [
+        {
+          "path": "lib/goal-attribution.ts",
+          "sha256": "5a531ca7333e7971d677cff54397913d5af57a001b3ac58595c0343cfd983f0b"
+        },
+        {
+          "path": "components/goal-tracker.tsx",
+          "sha256": "ee42c5d770c5507727dd4e3885522045a144168d471a78005f7eb3c826686d47"
+        },
+        {
+          "path": "components/analytics.tsx",
+          "sha256": "4dd9dca9e1f7f8bb7e424acaf85f2c78a523c2d9db01910f198d9bef1f268c84"
+        },
+        {
+          "path": "app/product/[id]/checkout-form.tsx",
+          "sha256": "dffa601569deeb9990ff2964495807b6532da2de4f152fb991e52959c83be90a"
+        },
+        {
+          "path": "lib/direct-checkout.ts",
+          "sha256": "b2d3f57d31794189d12cd8015d3ab9d09285072cf6d9b431fec99e18286af8f6"
+        },
+        {
+          "path": "lib/dujiao.ts",
+          "sha256": "3404e154e274b2444b9739fb0b3245ae7f6800e9c03d398ea2035089e91fb265"
+        },
+        {
+          "path": "app/api/orders/checkout/direct/route.ts",
+          "sha256": "e2f9031d3f705c8e3c633015c46dc93ab7c8eef7b4818306fc2ddf09f0696427"
+        },
+        {
+          "path": "app/checkout/[orderNo]/checkout-client.tsx",
+          "sha256": "abc94172942bc6071c4b30c9f76e38ba0025980ccba62f94fef8229c411fa345"
+        },
+        {
+          "path": "app/privacy/page.tsx",
+          "sha256": "4f10ccf946dd207d88c5ba39ffb4f245f733a3007cbd1417049210f8572c38ee"
+        }
+      ]
+    },
+    {
+      "site": "nano-banana",
+      "repository": "hyai-dev/nano-banana-web",
+      "siteUrl": "https://nano-banana.lol",
+      "sourceCommit": "3ca41c582162f58f46ed12ba01ff4952b3199f68",
+      "readFiles": [
+        {
+          "path": "lib/goal-attribution.ts",
+          "sha256": "5a531ca7333e7971d677cff54397913d5af57a001b3ac58595c0343cfd983f0b"
+        },
+        {
+          "path": "components/goal-tracker.tsx",
+          "sha256": "ee42c5d770c5507727dd4e3885522045a144168d471a78005f7eb3c826686d47"
+        },
+        {
+          "path": "components/analytics.tsx",
+          "sha256": "4dd9dca9e1f7f8bb7e424acaf85f2c78a523c2d9db01910f198d9bef1f268c84"
+        },
+        {
+          "path": "app/product/[id]/checkout-form.tsx",
+          "sha256": "dffa601569deeb9990ff2964495807b6532da2de4f152fb991e52959c83be90a"
+        },
+        {
+          "path": "lib/direct-checkout.ts",
+          "sha256": "b2d3f57d31794189d12cd8015d3ab9d09285072cf6d9b431fec99e18286af8f6"
+        },
+        {
+          "path": "lib/dujiao.ts",
+          "sha256": "d77137b15273a0e8ae1be80d9385e917644a9d1e743b78d0208fac488dbc6a89"
+        },
+        {
+          "path": "app/api/orders/checkout/direct/route.ts",
+          "sha256": "89de75ab71e0458f5320ebba1466620f7548e103fba92d2ab7352e50bc299c5a"
+        },
+        {
+          "path": "app/checkout/[orderNo]/checkout-client.tsx",
+          "sha256": "abc94172942bc6071c4b30c9f76e38ba0025980ccba62f94fef8229c411fa345"
+        },
+        {
+          "path": "app/privacy/page.tsx",
+          "sha256": "4f10ccf946dd207d88c5ba39ffb4f245f733a3007cbd1417049210f8572c38ee"
+        }
+      ]
+    }
+  ],
+  "publicHttp": [
+    {
+      "url": "https://payforgpt.com/how-to/handle-payment-failed?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide&utm_content=payment_site",
+      "status": 200,
+      "finalUrl": "https://payforgpt.com/how-to/handle-payment-failed?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide&utm_content=payment_site",
+      "canonical": "https://payforgpt.com/how-to/handle-payment-failed",
+      "bodySha256": "af498c7dd4182ba04420f997309a37c8bf94f13ac2fe1cfb58c8a1eec2264cfd",
+      "bodyBytes": 154663,
+      "consentTextVisible": false,
+      "analyticsConsentPromptVisible": false,
+      "externalAnalyticsScriptTagPresent": false,
+      "observedAt": "2026-10-19T07:01:12.010749+00:00"
+    },
+    {
+      "url": "https://payforgpt.com/privacy",
+      "status": 200,
+      "finalUrl": "https://payforgpt.com/privacy",
+      "canonical": "https://payforgpt.com/privacy",
+      "bodySha256": "8d661b3636adf5c558a0df85ea0d582d6404ccf55f1ad895b03bb3e341739c23",
+      "bodyBytes": 46652,
+      "consentTextVisible": true,
+      "analyticsConsentPromptVisible": false,
+      "externalAnalyticsScriptTagPresent": false,
+      "observedAt": "2026-10-19T07:01:12.736662+00:00"
+    },
+    {
+      "url": "https://nano-banana.lol/how-to/handle-payment-failed?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide&utm_content=payment_site",
+      "status": 200,
+      "finalUrl": "https://nano-banana.lol/how-to/handle-payment-failed?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide&utm_content=payment_site",
+      "canonical": "https://nano-banana.lol/how-to/handle-payment-failed",
+      "bodySha256": "c4308d268fc885f7fa9b4002db265b181d972068283f9bdb97da12e6ab71b54f",
+      "bodyBytes": 129442,
+      "consentTextVisible": false,
+      "analyticsConsentPromptVisible": false,
+      "externalAnalyticsScriptTagPresent": false,
+      "observedAt": "2026-10-19T07:01:14.357513+00:00"
+    },
+    {
+      "url": "https://nano-banana.lol/privacy",
+      "status": 200,
+      "finalUrl": "https://nano-banana.lol/privacy",
+      "canonical": "https://nano-banana.lol/privacy",
+      "bodySha256": "b1db05ce8fcf627b8cbca846be34ba5b6f0b77feb39171e05eba32abe3dd3451",
+      "bodyBytes": 47964,
+      "consentTextVisible": true,
+      "analyticsConsentPromptVisible": false,
+      "externalAnalyticsScriptTagPresent": false,
+      "observedAt": "2026-10-19T07:01:15.268995+00:00"
+    }
+  ],
+  "conclusions": {
+    "utmUrlCompatibility": "Both tested public tutorial URLs return 200 with all four UTM query parameters unchanged; canonical omits query. This proves URL compatibility only.",
+    "customAttributionSupported": [
+      "utm_source",
+      "utm_medium",
+      "utm_campaign"
+    ],
+    "utmContent": "Not part of GoalAttribution/UTM_KEYS/SAFE_ATTRIBUTION_QUERY_KEYS; discarded from saved custom attribution including saved landing URL. A separately configured GA4 may interpret it, but configuration, collection and reports were not verified.",
+    "consent": "Optional attribution reads/writes and third-party analytics are gated by explicit consent. Sensitive order/checkout/admin paths suppress analytics loader. Absence of external analytics script tags in server HTML does not prove scripts cannot load after consent.",
+    "frontendEvents": [
+      "view_home_page",
+      "view_codex_page",
+      "view_price_page",
+      "view_product",
+      "view_comparison_page",
+      "view_how_to",
+      "begin_checkout",
+      "order_created",
+      "purchase_success (when observed order status is delivered)"
+    ],
+    "eventEvidenceLevel": "Event names and callers verified in source. No client runtime event dispatch, vendor receipt, real purchase, payment confirmation or delivery was exercised. view_checkout/view_order_query are declared but sensitive-path loader is disabled; do not count declarations as runtime coverage.",
+    "directOrderAttributionGap": "Product form sends nested attribution and consent fields, but validateDirectCheckoutBody returns only email, quantity, productId, skuId, orderPassword, channelType. requestGuestCheckout create-and-pay payload has no attribution/consent fields. Ops notification reads top-level body.utm_* which this form does not send. Thus custom UTM -> durable order -> paid/delivered linkage is not established by this code.",
+    "purchaseEventGap": "purchase_success is a client observation of delivered order with per-session deduplication. It is not a payment webhook, globally idempotent backend conversion or independently verified revenue metric.",
+    "agentCheckout": "Agent form sends nested attribution to a separate endpoint not implemented in the reviewed App Router. No external backend order persistence contract was examined.",
+    "currentMetricsNumbers": null
+  },
+  "guideImplementationContract": {
+    "noWebsiteChangeRequired": [
+      "Use ordinary HTTPS task links to allowlisted public site paths with source=github, medium=referral, campaign and optional content tags.",
+      "Store stable link IDs, topic IDs, target site, owner path, campaign and observation date in public manifest; exclude all customer/order/credential data.",
+      "If topic differentiation must survive existing custom attribution, encode topic/site in utm_campaign (ASCII letters/digits/._~- and <=160 characters) or use distinct landing paths.",
+      "Do not call all funnel stages measured or claim payment/delivery attribution is complete.",
+      "GitHub Markdown cannot execute client-side click handlers; GitHub outbound-click totals are not provided by the repository README itself."
+    ],
+    "recommendedExample": "https://payforgpt.com/how-to/handle-payment-failed?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide_payment_payforgpt&utm_content=payment_payforgpt",
+    "schemaBoundary": "A public JSON manifest may record URLs/topic/CTA identity/verification state. Do not publish internal attribution IDs, consent credentials, API keys, order IDs, buyer emails or vendor dashboard identifiers.",
+    "futureWork": [
+      "Verify deployed analytics consent flow and vendor event receipt with scoped consent and no real purchases.",
+      "Define backend consent-aware attribution persistence contract and idempotent paid/delivered conversion sources before building revenue attribution.",
+      "Define denominators, timezone, refund handling and deduplication separately for landing, click, order creation, payment and delivery."
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "source": "github",
+  "medium": "referral",
+  "measurementBoundary": "Campaign URLs identify topic and site. Current site code does not yet establish end-to-end attribution to confirmed payment/delivery; links and source parameters alone do not prove collection or conversion.",
+  "links": [
+    {
+      "article": "ip-network-information",
+      "topic": "network-check",
+      "site": "nano",
+      "canonical": "https://nano-banana.lol/ip",
+      "url": "https://nano-banana.lol/ip?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide_network_check_nano"
+    },
+    {
+      "article": "codex-access-and-usage",
+      "topic": "codex-access",
+      "site": "payforgpt",
+      "canonical": "https://payforgpt.com/faq",
+      "url": "https://payforgpt.com/faq?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide_codex_access_payforgpt"
+    },
+    {
+      "article": "codex-access-and-usage",
+      "topic": "codex-access",
+      "site": "nano",
+      "canonical": "https://nano-banana.lol/faq",
+      "url": "https://nano-banana.lol/faq?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide_codex_access_nano"
+    },
+    {
+      "article": "subscription-eligibility",
+      "topic": "purchase-eligibility",
+      "site": "payforgpt",
+      "canonical": "https://payforgpt.com/faq",
+      "url": "https://payforgpt.com/faq?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide_purchase_eligibility_payforgpt"
+    },
+    {
+      "article": "subscription-eligibility",
+      "topic": "purchase-eligibility",
+      "site": "nano",
+      "canonical": "https://nano-banana.lol/faq",
+      "url": "https://nano-banana.lol/faq?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide_purchase_eligibility_nano"
+    },
+    {
+      "article": "account-credentials-and-order-evidence",
+      "topic": "account-credentials",
+      "site": "payforgpt",
+      "canonical": "https://payforgpt.com/ai-subscriptions/passwordless-recharge-credentials",
+      "url": "https://payforgpt.com/ai-subscriptions/passwordless-recharge-credentials?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide_account_credentials_payforgpt"
+    },
+    {
+      "article": "account-credentials-and-order-evidence",
+      "topic": "account-credentials",
+      "site": "nano",
+      "canonical": "https://nano-banana.lol/ai-subscriptions/passwordless-recharge-credentials",
+      "url": "https://nano-banana.lol/ai-subscriptions/passwordless-recharge-credentials?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide_account_credentials_nano"
+    },
+    {
+      "article": "payment-channels-and-billing-records",
+      "topic": "payment-channels",
+      "site": "payforgpt",
+      "canonical": "https://payforgpt.com/ai-subscriptions/chatgpt-payment-channels-guide",
+      "url": "https://payforgpt.com/ai-subscriptions/chatgpt-payment-channels-guide?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide_payment_channels_payforgpt"
+    },
+    {
+      "article": "payment-channels-and-billing-records",
+      "topic": "payment-channels",
+      "site": "nano",
+      "canonical": "https://nano-banana.lol/ai-subscriptions/alipay-wechat-pay",
+      "url": "https://nano-banana.lol/ai-subscriptions/alipay-wechat-pay?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide_payment_channels_nano"
+    },
+    {
+      "article": "renewal-and-price-comparison",
+      "topic": "renewal-check",
+      "site": "payforgpt",
+      "canonical": "https://payforgpt.com/how-to/handle-payment-failed",
+      "url": "https://payforgpt.com/how-to/handle-payment-failed?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide_renewal_check_payforgpt"
+    },
+    {
+      "article": "renewal-and-price-comparison",
+      "topic": "renewal-check",
+      "site": "nano",
+      "canonical": "https://nano-banana.lol/ai-subscriptions/chatgpt-plus-renewal",
+      "url": "https://nano-banana.lol/ai-subscriptions/chatgpt-plus-renewal?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide_renewal_check_nano"
+    }
+  ]
+}

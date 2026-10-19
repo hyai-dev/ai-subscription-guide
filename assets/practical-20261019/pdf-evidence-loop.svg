@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="1200" viewBox="0 0 640 1200" role="img" aria-labelledby="title desc"><title id="title">让每个结论回得到原页</title><desc id="desc">检查读取，先问读到了哪些页，扫描数字要对原图核对；约定页码，文件页码与印刷页码分列，保留统计期、单位和表头；建立证据表，结论 → 位置 → 支持原句，分清事实、推断与未知；返回原页，逐条核对数字与限制，读不清就留待核对</desc><rect width="640" height="1200" rx="28" fill="#FFFFFF"/><g font-family="PingFang SC, Microsoft YaHei, sans-serif">
+<rect x="28" y="28" width="584" height="146" rx="24" fill="#ECF7F1"/>
+<text x="52" y="80" font-size="30" font-weight="650" fill="#176C56" text-anchor="start">PDF 阅读与证据核对</text>
+<text x="52" y="136" font-size="38" font-weight="700" fill="#172B3A" text-anchor="start">让每个结论回得到原页</text>
+<rect x="28" y="204" width="584" height="163" rx="22" fill="#FFFFFF" stroke="#D8E2E9" stroke-width="2"/>
+<circle cx="65" cy="248" r="22" fill="#176C56"/>
+<text x="65" y="260" font-size="31" font-weight="700" fill="#FFFFFF" text-anchor="middle">1</text>
+<text x="103" y="261" font-size="36" font-weight="700" fill="#176C56" text-anchor="start">检查读取</text>
+<text x="52" y="310" font-size="34" font-weight="500" fill="#172B3A" text-anchor="start">先问读到了哪些页</text>
+<text x="52" y="350" font-size="32" font-weight="500" fill="#42596A" text-anchor="start">扫描数字要对原图核对</text>
+<path d="M320 374 v13 m-7 -6 7 7 7 -7" fill="none" stroke="#176C56" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="28" y="395" width="584" height="163" rx="22" fill="#FFFFFF" stroke="#D8E2E9" stroke-width="2"/>
+<circle cx="65" cy="439" r="22" fill="#176C56"/>
+<text x="65" y="451" font-size="31" font-weight="700" fill="#FFFFFF" text-anchor="middle">2</text>
+<text x="103" y="452" font-size="36" font-weight="700" fill="#176C56" text-anchor="start">约定页码</text>
+<text x="52" y="501" font-size="34" font-weight="500" fill="#172B3A" text-anchor="start">文件页码与印刷页码分列</text>
+<text x="52" y="541" font-size="32" font-weight="500" fill="#42596A" text-anchor="start">保留统计期、单位和表头</text>
+<path d="M320 565 v13 m-7 -6 7 7 7 -7" fill="none" stroke="#176C56" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="28" y="586" width="584" height="163" rx="22" fill="#FFFFFF" stroke="#D8E2E9" stroke-width="2"/>
+<circle cx="65" cy="630" r="22" fill="#176C56"/>
+<text x="65" y="642" font-size="31" font-weight="700" fill="#FFFFFF" text-anchor="middle">3</text>
+<text x="103" y="643" font-size="36" font-weight="700" fill="#176C56" text-anchor="start">建立证据表</text>
+<text x="52" y="692" font-size="34" font-weight="500" fill="#172B3A" text-anchor="start">结论 → 位置 → 支持原句</text>
+<text x="52" y="732" font-size="32" font-weight="500" fill="#42596A" text-anchor="start">分清事实、推断与未知</text>
+<path d="M320 756 v13 m-7 -6 7 7 7 -7" fill="none" stroke="#176C56" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="28" y="777" width="584" height="163" rx="22" fill="#FFFFFF" stroke="#D8E2E9" stroke-width="2"/>
+<circle cx="65" cy="821" r="22" fill="#176C56"/>
+<text x="65" y="833" font-size="31" font-weight="700" fill="#FFFFFF" text-anchor="middle">4</text>
+<text x="103" y="834" font-size="36" font-weight="700" fill="#176C56" text-anchor="start">返回原页</text>
+<text x="52" y="883" font-size="34" font-weight="500" fill="#172B3A" text-anchor="start">逐条核对数字与限制</text>
+<text x="52" y="923" font-size="32" font-weight="500" fill="#42596A" text-anchor="start">读不清就留待核对</text>
+<rect x="28" y="994" width="584" height="136" rx="22" fill="#ECF7F1"/>
+<text x="52" y="1046" font-size="34" font-weight="700" fill="#176C56" text-anchor="start">计划 8 场 · 实际 6 场</text>
+<text x="52" y="1095" font-size="32" font-weight="600" fill="#176C56" text-anchor="start">完成率 75% · 不是 8 场</text>
+<text x="320" y="1171" font-size="26" font-weight="500" fill="#536A7B" text-anchor="middle">示意流程 · 不代表 OCR 实测</text>
+</g></svg>

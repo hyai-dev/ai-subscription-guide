@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="1200" viewBox="0 0 640 1200" role="img" aria-labelledby="title desc"><title id="title">六行数据，先分流再合计</title><desc id="desc">六行输入，先固定字段、粒度与公式，净额不等于利润；找出重复，一条完全重复，只计一次，同 ID 不同内容先核对；完整分流，3 可计算 · 1 重复，1 未付款 · 1 待核对；核对总计，分类净额 50 + 140 = 190，分流条数 3 + 1 + 1 + 1 = 6</desc><rect width="640" height="1200" rx="28" fill="#FFFFFF"/><g font-family="PingFang SC, Microsoft YaHei, sans-serif">
+<rect x="28" y="28" width="584" height="146" rx="24" fill="#FFF5E9"/>
+<text x="52" y="80" font-size="30" font-weight="650" fill="#8C4D18" text-anchor="start">CSV 核算与异常检查</text>
+<text x="52" y="136" font-size="38" font-weight="700" fill="#172B3A" text-anchor="start">六行数据，先分流再合计</text>
+<rect x="28" y="204" width="584" height="163" rx="22" fill="#FFFFFF" stroke="#D8E2E9" stroke-width="2"/>
+<circle cx="65" cy="248" r="22" fill="#8C4D18"/>
+<text x="65" y="260" font-size="31" font-weight="700" fill="#FFFFFF" text-anchor="middle">1</text>
+<text x="103" y="261" font-size="36" font-weight="700" fill="#8C4D18" text-anchor="start">六行输入</text>
+<text x="52" y="310" font-size="34" font-weight="500" fill="#172B3A" text-anchor="start">先固定字段、粒度与公式</text>
+<text x="52" y="350" font-size="32" font-weight="500" fill="#42596A" text-anchor="start">净额不等于利润</text>
+<path d="M320 374 v13 m-7 -6 7 7 7 -7" fill="none" stroke="#8C4D18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="28" y="395" width="584" height="163" rx="22" fill="#FFFFFF" stroke="#D8E2E9" stroke-width="2"/>
+<circle cx="65" cy="439" r="22" fill="#8C4D18"/>
+<text x="65" y="451" font-size="31" font-weight="700" fill="#FFFFFF" text-anchor="middle">2</text>
+<text x="103" y="452" font-size="36" font-weight="700" fill="#8C4D18" text-anchor="start">找出重复</text>
+<text x="52" y="501" font-size="34" font-weight="500" fill="#172B3A" text-anchor="start">一条完全重复，只计一次</text>
+<text x="52" y="541" font-size="32" font-weight="500" fill="#42596A" text-anchor="start">同 ID 不同内容先核对</text>
+<path d="M320 565 v13 m-7 -6 7 7 7 -7" fill="none" stroke="#8C4D18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="28" y="586" width="584" height="163" rx="22" fill="#FFFFFF" stroke="#D8E2E9" stroke-width="2"/>
+<circle cx="65" cy="630" r="22" fill="#8C4D18"/>
+<text x="65" y="642" font-size="31" font-weight="700" fill="#FFFFFF" text-anchor="middle">3</text>
+<text x="103" y="643" font-size="36" font-weight="700" fill="#8C4D18" text-anchor="start">完整分流</text>
+<text x="52" y="692" font-size="34" font-weight="500" fill="#172B3A" text-anchor="start">3 可计算 · 1 重复</text>
+<text x="52" y="732" font-size="32" font-weight="500" fill="#42596A" text-anchor="start">1 未付款 · 1 待核对</text>
+<path d="M320 756 v13 m-7 -6 7 7 7 -7" fill="none" stroke="#8C4D18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="28" y="777" width="584" height="163" rx="22" fill="#FFFFFF" stroke="#D8E2E9" stroke-width="2"/>
+<circle cx="65" cy="821" r="22" fill="#8C4D18"/>
+<text x="65" y="833" font-size="31" font-weight="700" fill="#FFFFFF" text-anchor="middle">4</text>
+<text x="103" y="834" font-size="36" font-weight="700" fill="#8C4D18" text-anchor="start">核对总计</text>
+<text x="52" y="883" font-size="34" font-weight="500" fill="#172B3A" text-anchor="start">分类净额 50 + 140 = 190</text>
+<text x="52" y="923" font-size="32" font-weight="500" fill="#42596A" text-anchor="start">分流条数 3 + 1 + 1 + 1 = 6</text>
+<rect x="28" y="994" width="584" height="136" rx="22" fill="#FFF5E9"/>
+<text x="52" y="1046" font-size="34" font-weight="700" fill="#8C4D18" text-anchor="start">210 元 − 20 元 = 190 元</text>
+<text x="52" y="1095" font-size="32" font-weight="600" fill="#8C4D18" text-anchor="start">原金额 − 退款 = 净额</text>
+<text x="320" y="1171" font-size="26" font-weight="500" fill="#536A7B" text-anchor="middle">合成教学数据 · 非真实经营结果</text>
+</g></svg>

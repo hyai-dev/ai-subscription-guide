@@ -1,0 +1,211 @@
+{
+  "schemaVersion": "guide-independent-publication-review-v1",
+  "reviewedAtUtc": "2026-10-19T07:30:46.815953+00:00",
+  "repository": "hyai-dev/ai-subscription-guide",
+  "baselineCommit": "2baf9abfca23ace1129b0501cfdabf9c4f8b1b00",
+  "scope": "Read-only source/content review of unpushed working-tree changes; no repository writes, remote writes or UI activity by reviewer. Baseline history audit separately covers six existing commits.",
+  "status": "pass",
+  "blockingFindings": [],
+  "nonblockingFindings": [],
+  "positiveChecks": {
+    "publicRepositoryAlreadyConfirmed": true,
+    "originalLegacyOverclaimsCorrected": true,
+    "fourNewOriginalTutorialsClearlyDistinguishSyntheticExercisesFromRealModelTesting": true,
+    "fiveNewIllustrationsVisuallyReviewed": true,
+    "syntheticCsvAccountingConsistent": true,
+    "priceUnknownNullAndTrueZeroDistinguished": true,
+    "priceFetchUsesHttpsHostAllowlistPublicDnsPinnedLookupTimeoutAndByteLimit": true,
+    "priceHtmlTreatedAsDataNotExecuted": true,
+    "priceOutputRestrictedToDataAndNoGitExecution": true,
+    "prWorkflowTokenReadOnlyAndCheckoutCredentialPersistenceDisabled": true,
+    "writeJobRestrictedToOwnedMainScheduleOrManual": true,
+    "noForcePushAndMainRaceCheckPresent": true,
+    "immutableSourceHashPublicVerifierDoesNotClaimIndexingOrTransactions": true,
+    "sourceTopicUtmManifestDoesNotClaimEndToEndRevenueAttribution": true,
+    "stableArchivesDoNotIncreaseOriginalArticleCount": true,
+    "noPrivatePathOrRealCredentialPatternObservedInNewPublicContent": true
+  },
+  "reviewedFileHashes": [
+    {
+      "path": "README.md",
+      "sha256": "5e9c61ef310878b67d5d1053108bbb8f0301983d23032302791d2f467fbbc90b"
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "dd2091d206a28c73bc3af0f7c421eef933497f2276d8caa022dc4dca0d22e36a"
+    },
+    {
+      "path": "CONTENT-LICENSE.md",
+      "sha256": "70792d221224830972f56105c37492a2ebd23b1cb29c501ed4455dcb18dda8c4"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "sha256": "65f38b97f4b3ba2dbd3c27e670b7f97f35a05dd94584aa773c520ab57571edd8"
+    },
+    {
+      "path": "SECURITY.md",
+      "sha256": "9d55d034b63546f58322a01b8ce496a8d0f156d8dad51854766dbbb81f0b1687"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "sha256": "8359e6e73fbe03c4d4c35450ebfd60523d4122b1664f6a8034039aa1ba6122e0"
+    },
+    {
+      "path": "package.json",
+      "sha256": "72878c8d4519ccd6702ad64fca8730478cf0fb1352e7c818f053385ceed55377"
+    },
+    {
+      "path": ".github/workflows/daily-sync.yml",
+      "sha256": "8753d69fc7f14ab1241bb6b95e6b1da8029fdd4a710abb5d6a50a9d7d77d6c8e"
+    },
+    {
+      "path": "tools/catalog.mjs",
+      "sha256": "40cf235933c0202c84f116e1d27d18d97b28e8f3c991172c199e024b192eecda"
+    },
+    {
+      "path": "tools/sync.mjs",
+      "sha256": "b6d17d2e7e757fef8241a66aaf176d93b649b5a3e10ca195e4cfc09dd7badfad"
+    },
+    {
+      "path": "tools/check.mjs",
+      "sha256": "c630d515be08f94c6dc4bc6d811e40e586dc01089bae59ecff548b62b13794cd"
+    },
+    {
+      "path": "tools/verify-public.mjs",
+      "sha256": "387ea29d88b3d8901a7cfa34945ec9c4b21314bc8121aa822cf1703908321089"
+    },
+    {
+      "path": "tools/price-tracker.mjs",
+      "sha256": "eb5fba466b2d6f68116bf6799bea0c756fd18e06ea5775314e9d1881b4ed0ac1"
+    },
+    {
+      "path": "tests/sync.test.mjs",
+      "sha256": "2a2406860d4058ef612b63ac5111abb2edb2d2ad141c1f173fa3e9147b859fa4"
+    },
+    {
+      "path": "tests/price-tracker.test.mjs",
+      "sha256": "ebd28121543dc95d95bc2579facf3ee40e1c3a9cfce831bbca1ef01814c07b7f"
+    },
+    {
+      "path": "content/publication-manifest.json",
+      "sha256": "2dc43ae456ef0adcc8da11bdbf7c110c613ecc117d86ba0198c0a26573f06600"
+    },
+    {
+      "path": "data/price-sources.json",
+      "sha256": "8dea9745a31324afe0ab31cfa1dfa4f1450c041f6678c0c58e7425d0c763ca10"
+    },
+    {
+      "path": "ops/measurement.md",
+      "sha256": "87e005902fce9cf8db5dae6527719cc388c62925f763638f4e1426e2885632f4"
+    },
+    {
+      "path": "ops/maintenance.md",
+      "sha256": "5b49b27f3ff366bcbb81630e44901c801e5115026eba1d038351eabff06627c7"
+    },
+    {
+      "path": "ops/measurement-audit-20261019.json",
+      "sha256": "55ddc900f40ee59759fdbe7f144a10ab2c3c5694c0169360a4a3b676b8615b86"
+    },
+    {
+      "path": "docs/01-ip-check-tutorial.md",
+      "sha256": "d13efa7bebe50f114e68c7efe3bfd617e4cdc689fd6638ee0388b18d549fbf66"
+    },
+    {
+      "path": "docs/02-codex-topup-guide.md",
+      "sha256": "3bf2734a0f60d330d713c2cf94deb3aebd6ee50c45299ce21482de10fb3c0135"
+    },
+    {
+      "path": "docs/07-codex-first-task.md",
+      "sha256": "7a7043d7611aee7ee0e551654002dc4947acc3acc52adbb65c54be6fadf481f3"
+    },
+    {
+      "path": "docs/08-pdf-evidence-workflow.md",
+      "sha256": "a4c4dda1e7ce85ea93ab0a424fd6623f8bcb2e93a74e7c7250933c9dffd57198"
+    },
+    {
+      "path": "docs/09-spreadsheet-audit-workflow.md",
+      "sha256": "7f389aa0116348f731022d5f58ee8d062636892d85e7c479578f06bfbbf515a0"
+    },
+    {
+      "path": "docs/10-presentation-outline-workflow.md",
+      "sha256": "f719403ab08ee0e01d7447a81318561d1b3394d06005a1129c12a7712c9abaa0"
+    },
+    {
+      "path": "docs/illustrations-20261018.json",
+      "sha256": "7302bbba63299b6838c2372f524baeecf9de0e8971db1ec196aec51028ef04ac"
+    },
+    {
+      "path": "assets/manifest.json",
+      "sha256": "74e0db7d4c5e7beb81c3ea1e2c37c28d5572a86ed547fb27c7ff0d6a647413d9"
+    }
+  ],
+  "limitations": [
+    "Network price collection from this machine was blocked by non-public DNS mapping; do not bypass the guard. A normal GitHub Actions run is still required.",
+    "Reviewer did not perform real login, purchase, payment, redemption, customer data access, model benchmark or revenue measurement.",
+    "No complete independent re-fetch of all cited official sources in this review; editor source receipts are separate evidence.",
+    "Pattern scans and manual review are bounded; no absolute guarantee of absence of sensitive information or third-party rights issues."
+  ],
+  "acceptanceBoundary": "Independent read-only local source/content and regression review passed. This receipt is not a remote publication, normal-network price-fetch, Actions success, transaction, indexing or conversion receipt.",
+  "resolvedFindings": [
+    {
+      "id": "price-markdown-literal-output",
+      "path": "tools/price-tracker.mjs",
+      "line": 304,
+      "severity": "medium",
+      "issue": "Untrusted advertised product names retain Markdown image/link syntax in auto-published latest.md.",
+      "reproduction": "A synthetic product title containing ![tracking](https://example.com/pixel) appears unchanged in the rendered table. No external image request was made by the reviewer.",
+      "fix": "Encode Markdown metacharacters or emit safe literal text; add hostile-title regression fixture.",
+      "status": "resolved",
+      "resolution": "All punctuation in merchant-controlled table text encoded as numeric entities; only intentional source links remain, validated separately against URL/host policy. Original hostile-title fixture no longer emits Markdown images/links."
+    },
+    {
+      "id": "hidden-ancestor-price-card",
+      "path": "tools/price-tracker.mjs",
+      "line": 245,
+      "severity": "medium",
+      "issue": "HTML fallback checks whether the card itself is hidden, but does not check hidden ancestors.",
+      "reproduction": "A product-card nested in a div[hidden] is returned as one advertised offer.",
+      "fix": "Exclude card if any ancestor is hidden/template/script/style/aria-hidden; add hidden-ancestor fixture.",
+      "status": "resolved",
+      "resolution": "HTML cards and JSON-LD honor hidden/inert ancestors; visible-card and ordinary JSON-LD-in-head positive controls retained."
+    },
+    {
+      "id": "billing-period-completeness",
+      "path": "tools/price-tracker.mjs",
+      "line": 137,
+      "severity": "medium",
+      "issue": "Single-character Chinese numeral match can parse twelve months as two, twenty months as ten; Markdown output also omits count from otherwise correct period objects.",
+      "reproduction": "A three-month synthetic offer is rendered as month without count. Static inspection confirms partial Chinese numeral matching.",
+      "fix": "Parse complete supported Chinese numerals or retain unknown; display period count and unit; add 12/20-month and distinct-duration fixtures.",
+      "status": "resolved",
+      "resolution": "Complete duration tokens parsed for supported numerals; unsupported or malformed duration remains unknown; Markdown shows positive count plus unit."
+    },
+    {
+      "id": "python-license-scope",
+      "path": "LICENSE",
+      "severity": "low",
+      "issue": "MIT scope lists tools/tests/configuration but omits the original Python verifier under assets, while CONTENT-LICENSE says source uses MIT.",
+      "fix": "Explicitly include assets/practical-20261019/verify-sample-sales.py under MIT, or consistently define another applicable license.",
+      "status": "resolved",
+      "resolution": "LICENSE explicitly covers original assets/practical-20261019/verify-sample-sales.py and CONTENT-LICENSE matches that scope."
+    }
+  ],
+  "regressionVerification": {
+    "originalExploitFixturesRerun": true,
+    "hiddenAncestorVariantsChecked": 4,
+    "visibleCardPositiveControl": true,
+    "ordinaryJsonLdInHeadPositiveControl": true,
+    "hostileMarkdownTitleLiteralized": true,
+    "periodCountDisplayed": true,
+    "durationCasesChecked": 11,
+    "priceTrackerTestCommand": "node --test tests/price-tracker.test.mjs",
+    "priceTrackerTests": {
+      "passed": 21,
+      "failed": 0,
+      "skipped": 0
+    },
+    "licenseScopeFixed": true,
+    "originalFourImageRepositoryPathsExist": true,
+    "repositoryOrRemoteMutationByReviewer": false
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "example": "Synthetic teaching records; not real sales",
+  "currency": "CNY",
+  "input_rows": 6,
+  "included_records": 3,
+  "duplicate_rows": 1,
+  "unpaid_rows": 1,
+  "needs_review_rows": 1,
+  "gross": "210.00",
+  "refund": "20.00",
+  "net": "190.00",
+  "category_net": {"guide": "50.00", "template": "140.00"},
+  "included": [
+    {"record_id": "S001", "gross": "50.00", "refund": "0.00", "net": "50.00"},
+    {"record_id": "S002", "gross": "80.00", "refund": "20.00", "net": "60.00"},
+    {"record_id": "S004", "gross": "80.00", "refund": "0.00", "net": "80.00"}
+  ]
+}

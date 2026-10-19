@@ -1,0 +1,76 @@
+name: Validate and observe public guides
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 2 * * *'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: public-guide-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
+        with:
+          node-version: '24'
+      - run: npm test
+      - run: npm run check
+
+  observe-and-sync:
+    if: >-
+      github.repository == 'hyai-dev/ai-subscription-guide' &&
+      github.ref == 'refs/heads/main' &&
+      (github.event_name == 'schedule' || github.event_name == 'workflow_dispatch')
+    needs: validate
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          ref: main
+          persist-credentials: false
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
+        with:
+          node-version: '24'
+      - name: Check current public manuscripts and related site pages
+        shell: bash
+        run: node tools/verify-public.mjs --commit "$(git rev-parse HEAD)"
+      - name: Observe configured public price sources
+        run: npm run prices
+      - name: Rebuild stable archives and recent updates
+        run: npm run sync
+      - run: npm run check
+      - name: Publish only generated changes
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git config credential.helper '!gh auth git-credential'
+          git fetch origin main
+          test "$(git rev-parse HEAD)" = "$(git rev-parse origin/main)"
+          git add -- README.md articles data/publication-index.json data/tracking-links.json data/prices
+          if git diff --cached --quiet; then
+            echo 'No generated changes; no commit created.'
+            exit 0
+          fi
+          git diff --cached --check
+          git commit -m 'chore: refresh observed public prices and reviewed guide indexes'
+          git push origin HEAD:main

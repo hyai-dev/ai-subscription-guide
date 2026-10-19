@@ -1,0 +1,126 @@
+{
+  "reviewedAt": "2026-10-19T07:29:55.093776+00:00",
+  "status": "pass",
+  "scope": "Read-only content review: 10 tutorial source drafts, 10 stable archives, manifest/canonical consistency, five new original diagrams at 320px, content license asset links, synthetic CSV independently recomputed using Fraction.",
+  "notVerified": [
+    "No CUA/browser use or live mobile website screenshots.",
+    "No real model, paid API, PDF OCR, PowerPoint output, account login, payment, conversion, search index or traffic test.",
+    "Existing docs03–06 retain their prior 2026-10-18 review date; this pass reviewed claims and citation fit but did not freshly refetch every historical Help Center source."
+  ],
+  "claimsReview": [
+    "New docs01 networking labels are observations, not platform service/identity/payment authorization.",
+    "New docs02 aligns with actual 2026-10-19 official Authentication and Pricing bodies: local ChatGPT/API access distinction, Cloud ChatGPT sign-in, no purchase prerequisite or unmeasured tier recommendation.",
+    "Docs07–10 cite actually read official bodies and label fictional examples, manual acceptance, OCR/file feature uncertainty.",
+    "Five new diagrams individually visually reviewed after true 320px resize; core labels 16–17px equivalent, no clipping, clear flows and textual equivalents.",
+    "Source drafts counted as 10 originals; archives have attribution/canonical headers and equal logical bodies, not counted as 10 extra original tutorials.",
+    "License distinguishes original text/figures/code from third-party rights and generative concept images; no exclusive-rights guarantee."
+  ],
+  "independentCsv": {
+    "method": "Python csv.reader plus Fraction; no import of repository verifier",
+    "inputRows": 6,
+    "included": 3,
+    "duplicates": 1,
+    "unpaid": 1,
+    "needsReview": 1,
+    "gross": "210.00",
+    "refund": "20.00",
+    "net": "190.00",
+    "categoryNet": {
+      "guide": "50.00",
+      "template": "140.00"
+    },
+    "passed": true
+  },
+  "checks": [
+    {
+      "article": "ip-network-information",
+      "source": "docs/01-ip-check-tutorial.md",
+      "sourceSha256": "d13efa7bebe50f114e68c7efe3bfd617e4cdc689fd6638ee0388b18d549fbf66",
+      "archive": "articles/ip-network-information.md",
+      "archiveSha256": "f8a01dd86940c20e7065a1ed66fcfd0327a7d6488470b896faee5d3f6a191ac0",
+      "titleCanonicalDatesLogicalBodyLocalLinks": "pass"
+    },
+    {
+      "article": "codex-access-and-usage",
+      "source": "docs/02-codex-topup-guide.md",
+      "sourceSha256": "3bf2734a0f60d330d713c2cf94deb3aebd6ee50c45299ce21482de10fb3c0135",
+      "archive": "articles/codex-access-and-usage.md",
+      "archiveSha256": "dd5f1641b1a9a999cb46920bbd1b4e7680e524202d66bf449392190306cf1753",
+      "titleCanonicalDatesLogicalBodyLocalLinks": "pass"
+    },
+    {
+      "article": "subscription-eligibility",
+      "source": "docs/03-plus-without-card.md",
+      "sourceSha256": "d064f6d5b3c8105c6a9f7b5ba6ee9223eeeb622b8be9d52c6b60d645bee259be",
+      "archive": "articles/subscription-eligibility.md",
+      "archiveSha256": "c90f93897d2aa9fa8d2c5edbfc1b957651a7168b8e384e8382e708e1b3295606",
+      "titleCanonicalDatesLogicalBodyLocalLinks": "pass"
+    },
+    {
+      "article": "account-credentials-and-order-evidence",
+      "source": "docs/04-account-credentials-and-order-evidence.md",
+      "sourceSha256": "f0819566afadb6fef17523949e6e86d41b5a0cd203acfdf2a11b12f8b48a6cd8",
+      "archive": "articles/account-credentials-and-order-evidence.md",
+      "archiveSha256": "0b1c6adeae94dd0daecc002425520ecceabece74b411822ad3caf68da6d2a9dd",
+      "titleCanonicalDatesLogicalBodyLocalLinks": "pass"
+    },
+    {
+      "article": "payment-channels-and-billing-records",
+      "source": "docs/05-payment-channels-and-billing-records.md",
+      "sourceSha256": "a3af822a7bee448cb9405f51106c7c59da5d125a96331c0e7c43b6f4dc388eb8",
+      "archive": "articles/payment-channels-and-billing-records.md",
+      "archiveSha256": "512a34ab869524d84f54662b10856ee54c4123ec0e9a908cf46ab82b375dc102",
+      "titleCanonicalDatesLogicalBodyLocalLinks": "pass"
+    },
+    {
+      "article": "renewal-and-price-comparison",
+      "source": "docs/06-renewal-and-price-comparison.md",
+      "sourceSha256": "d164ff49132e6de00a02a91e461f5dbf7106424b69a6cb58a0c7d1933537736e",
+      "archive": "articles/renewal-and-price-comparison.md",
+      "archiveSha256": "c0c5abf15a01a61f9d3f015577ecdeb338a062fed51ad5e794fa684eb12f6cc0",
+      "titleCanonicalDatesLogicalBodyLocalLinks": "pass"
+    },
+    {
+      "article": "codex-first-task",
+      "source": "docs/07-codex-first-task.md",
+      "sourceSha256": "7a7043d7611aee7ee0e551654002dc4947acc3acc52adbb65c54be6fadf481f3",
+      "archive": "articles/codex-first-task.md",
+      "archiveSha256": "01712c6e363e3a164378b15154aab21b9c8ab8c0e2e2eddf8fa90c92d4884508",
+      "titleCanonicalDatesLogicalBodyLocalLinks": "pass"
+    },
+    {
+      "article": "pdf-evidence-workflow",
+      "source": "docs/08-pdf-evidence-workflow.md",
+      "sourceSha256": "a4c4dda1e7ce85ea93ab0a424fd6623f8bcb2e93a74e7c7250933c9dffd57198",
+      "archive": "articles/pdf-evidence-workflow.md",
+      "archiveSha256": "c3cc38b92911ad11816f251a3aabb537c65b08e82ee32c0a98afa7ed6a215bdc",
+      "titleCanonicalDatesLogicalBodyLocalLinks": "pass"
+    },
+    {
+      "article": "spreadsheet-audit-workflow",
+      "source": "docs/09-spreadsheet-audit-workflow.md",
+      "sourceSha256": "7f389aa0116348f731022d5f58ee8d062636892d85e7c479578f06bfbbf515a0",
+      "archive": "articles/spreadsheet-audit-workflow.md",
+      "archiveSha256": "c78a8534fb0adb54aa738c496f766c8951776664b066971d3a6ddd99d5b5b522",
+      "titleCanonicalDatesLogicalBodyLocalLinks": "pass"
+    },
+    {
+      "article": "presentation-outline-workflow",
+      "source": "docs/10-presentation-outline-workflow.md",
+      "sourceSha256": "f719403ab08ee0e01d7447a81318561d1b3394d06005a1129c12a7712c9abaa0",
+      "archive": "articles/presentation-outline-workflow.md",
+      "archiveSha256": "8f160fe95e8f62d895a66537d86b43a51534cdf8c07e44bc8947607fe6d5603d",
+      "titleCanonicalDatesLogicalBodyLocalLinks": "pass"
+    }
+  ],
+  "findings": [],
+  "assetManifest": {
+    "path": "assets/manifest.json",
+    "files": 14,
+    "rasterFigures": 9,
+    "editableSvgSources": 5,
+    "pathSetComplete": true,
+    "sha256BytesAndRasterDimensionsVerified": true
+  },
+  "licensePathReview": "PASS: historical main-site path explicitly scoped; repositoryPath points to actual files; original network/practical diagrams included; Python verifier MIT stated."
+}

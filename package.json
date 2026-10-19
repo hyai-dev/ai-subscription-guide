@@ -1,0 +1,14 @@
+{
+  "name": "ai-subscription-guide",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=24" },
+  "scripts": {
+    "test": "node --test tests/*.test.mjs",
+    "check": "node tools/check.mjs && node tools/sync.mjs --check",
+    "sync:preview": "node tools/sync.mjs",
+    "sync": "node tools/sync.mjs --write",
+    "prices": "node tools/price-tracker.mjs --sources-file data/price-sources.json --output-dir data/prices",
+    "verify:public": "node tools/verify-public.mjs"
+  }
+}

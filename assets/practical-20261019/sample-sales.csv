@@ -1,0 +1,7 @@
+record_id,category,status,quantity,unit_price,refund_amount
+S001,guide,paid,2,25.00,0.00
+S002,template,paid,1,80.00,20.00
+S003,guide,unpaid,3,25.00,0.00
+S004,template,paid,1,80.00,0.00
+S002,template,paid,1,80.00,20.00
+S005,guide,paid,,25.00,0.00

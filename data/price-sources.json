@@ -1,0 +1,14 @@
+{
+  "schemaVersion": "public-price-sources-v1",
+  "scope": "Public advertised offers only. No login, checkout, payment, account credentials or anti-bot bypass. A missing value is unknown, never zero.",
+  "sources": [
+    { "id": "gptpro20x", "name": "GPTPro20x", "url": "https://gptpro20x.com/chatgpt/" },
+    { "id": "gptpro5x", "name": "GPTPro5x", "url": "https://gptpro5x.com/" },
+    { "id": "gptcz", "name": "GPTCZ", "url": "https://gptcz.pro/plus" },
+    { "id": "aichongzhi", "name": "AIchongzhi", "url": "https://aichongzhi.org/chatgpt/" },
+    { "id": "getgpt", "name": "GETGPT Pro", "url": "https://getgpt.pro/plus-price" },
+    { "id": "payforchat", "name": "PayForChat", "url": "https://www.payforchat.com/" },
+    { "id": "nano-banana", "name": "Nano Banana", "url": "https://nano-banana.lol/" },
+    { "id": "payforgpt", "name": "PayForGPT", "url": "https://payforgpt.com/" }
+  ]
+}

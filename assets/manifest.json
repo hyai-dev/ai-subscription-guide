@@ -1,0 +1,122 @@
+{
+  "reviewDate": "2026-10-19",
+  "rights": "See CONTENT-LICENSE.md; only rights we hold are licensed.",
+  "assets": [
+    {
+      "path": "assets/illustrated-20261018/channels-v1.webp",
+      "sha256": "be3060fa5ad3f83dbc4fe5f2f59d3fbd6325c353b620735f96f09657511df5e1",
+      "bytes": 115936,
+      "kind": "generated-concept-illustration",
+      "sourceOrScreenshot": "Not a product UI, account or transaction screenshot.",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "assets/illustrated-20261018/credentials-v1.webp",
+      "sha256": "539505083aeb9411a53c82200ab07d0aac9aa5f14df6fc2e93e5867a4463f353",
+      "bytes": 84870,
+      "kind": "generated-concept-illustration",
+      "sourceOrScreenshot": "Not a product UI, account or transaction screenshot.",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "assets/illustrated-20261018/price-v1.webp",
+      "sha256": "a26ac48087ceaa286c7ca936348cdeec90bcb1d5289488c0646e666000181025",
+      "bytes": 72744,
+      "kind": "generated-concept-illustration",
+      "sourceOrScreenshot": "Not a product UI, account or transaction screenshot.",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "assets/illustrated-20261018/renewal-v1.webp",
+      "sha256": "4199289ce3567a5f92ff37efd1543bbd3a8bc02b0918f5728b36c398f51396e0",
+      "bytes": 89694,
+      "kind": "generated-concept-illustration",
+      "sourceOrScreenshot": "Not a product UI, account or transaction screenshot.",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "assets/network-review-20261019/network-check.svg",
+      "sha256": "4095bc9bd41046f3bc4dcfd8191f839900ef60954d616e9529f963f4cdfcd671",
+      "bytes": 1841,
+      "kind": "original-explanatory-diagram",
+      "sourceOrScreenshot": "Not a product UI, account or transaction screenshot."
+    },
+    {
+      "path": "assets/network-review-20261019/network-check.webp",
+      "sha256": "975d92b8ea073350a6822f40aaa44486cff18ccb2074a668e189672dffc7b509",
+      "bytes": 46280,
+      "kind": "original-explanatory-diagram",
+      "sourceOrScreenshot": "Not a product UI, account or transaction screenshot.",
+      "width": 640,
+      "height": 1120
+    },
+    {
+      "path": "assets/practical-20261019/codex-small-change.svg",
+      "sha256": "62fbabbd3a2a1a16dec412d6ecf1c0ece94685b3011d458c127c5d97713e95f2",
+      "bytes": 4332,
+      "kind": "original-explanatory-diagram",
+      "sourceOrScreenshot": "Not a product UI, account or transaction screenshot."
+    },
+    {
+      "path": "assets/practical-20261019/codex-small-change.webp",
+      "sha256": "43e737ce07c228432bcc129dec97e5d3ea3d3c1897ea344e392ccefb35ce981f",
+      "bytes": 79602,
+      "kind": "original-explanatory-diagram",
+      "sourceOrScreenshot": "Not a product UI, account or transaction screenshot.",
+      "width": 640,
+      "height": 1200
+    },
+    {
+      "path": "assets/practical-20261019/csv-audit-flow.svg",
+      "sha256": "b62671719db7f2f51ebc8b33c3ffee5444b462bb627be887302e767542de2ee6",
+      "bytes": 4278,
+      "kind": "original-explanatory-diagram",
+      "sourceOrScreenshot": "Not a product UI, account or transaction screenshot."
+    },
+    {
+      "path": "assets/practical-20261019/csv-audit-flow.webp",
+      "sha256": "398eb2584daab5ed66e21c7cda4cef9edc1c82bcb1360f526cdc01b7ebfca8d1",
+      "bytes": 72496,
+      "kind": "original-explanatory-diagram",
+      "sourceOrScreenshot": "Not a product UI, account or transaction screenshot.",
+      "width": 640,
+      "height": 1200
+    },
+    {
+      "path": "assets/practical-20261019/pdf-evidence-loop.svg",
+      "sha256": "83e145179bc136628da8b08c2c821ceadad81698dcc5b82ab3a3d355542b5a94",
+      "bytes": 4299,
+      "kind": "original-explanatory-diagram",
+      "sourceOrScreenshot": "Not a product UI, account or transaction screenshot."
+    },
+    {
+      "path": "assets/practical-20261019/pdf-evidence-loop.webp",
+      "sha256": "f7e89205a3deddfb25f11926e3e72d6e0e8fe7b6ebeae2cf919865ad494e8d93",
+      "bytes": 74638,
+      "kind": "original-explanatory-diagram",
+      "sourceOrScreenshot": "Not a product UI, account or transaction screenshot.",
+      "width": 640,
+      "height": 1200
+    },
+    {
+      "path": "assets/practical-20261019/presentation-evidence-plan.svg",
+      "sha256": "255edb1ac06999e21dc4326e2f4da897d897bc0d8ee12ae5e9a76e373fcc99a3",
+      "bytes": 4341,
+      "kind": "original-explanatory-diagram",
+      "sourceOrScreenshot": "Not a product UI, account or transaction screenshot."
+    },
+    {
+      "path": "assets/practical-20261019/presentation-evidence-plan.webp",
+      "sha256": "a52ffbddf82c203c782cc9e35cc8341a730550925ddb55c91d5ba623ba02a28b",
+      "bytes": 77374,
+      "kind": "original-explanatory-diagram",
+      "sourceOrScreenshot": "Not a product UI, account or transaction screenshot.",
+      "width": 640,
+      "height": 1200
+    }
+  ]
+}

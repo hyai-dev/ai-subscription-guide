@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="1200" viewBox="0 0 640 1200" role="img" aria-labelledby="title desc"><title id="title">先有证据，再安排每一页</title><desc id="desc">明确决定，谁来听？他们要决定什么？，先定时长、页数与目标；核对证据，每个数字找到原始材料，缺来源就写待补；安排每页，问题 → 标题 → 证据 → 图形，没有对比就不画增长线；检查实页，打开文件核对字体和图表，文字大纲不等于 PPTX</desc><rect width="640" height="1200" rx="28" fill="#FFFFFF"/><g font-family="PingFang SC, Microsoft YaHei, sans-serif">
+<rect x="28" y="28" width="584" height="146" rx="24" fill="#F4EFFF"/>
+<text x="52" y="80" font-size="30" font-weight="650" fill="#6541A6" text-anchor="start">演示大纲与来源核对</text>
+<text x="52" y="136" font-size="38" font-weight="700" fill="#172B3A" text-anchor="start">先有证据，再安排每一页</text>
+<rect x="28" y="204" width="584" height="163" rx="22" fill="#FFFFFF" stroke="#D8E2E9" stroke-width="2"/>
+<circle cx="65" cy="248" r="22" fill="#6541A6"/>
+<text x="65" y="260" font-size="31" font-weight="700" fill="#FFFFFF" text-anchor="middle">1</text>
+<text x="103" y="261" font-size="36" font-weight="700" fill="#6541A6" text-anchor="start">明确决定</text>
+<text x="52" y="310" font-size="34" font-weight="500" fill="#172B3A" text-anchor="start">谁来听？他们要决定什么？</text>
+<text x="52" y="350" font-size="32" font-weight="500" fill="#42596A" text-anchor="start">先定时长、页数与目标</text>
+<path d="M320 374 v13 m-7 -6 7 7 7 -7" fill="none" stroke="#6541A6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="28" y="395" width="584" height="163" rx="22" fill="#FFFFFF" stroke="#D8E2E9" stroke-width="2"/>
+<circle cx="65" cy="439" r="22" fill="#6541A6"/>
+<text x="65" y="451" font-size="31" font-weight="700" fill="#FFFFFF" text-anchor="middle">2</text>
+<text x="103" y="452" font-size="36" font-weight="700" fill="#6541A6" text-anchor="start">核对证据</text>
+<text x="52" y="501" font-size="34" font-weight="500" fill="#172B3A" text-anchor="start">每个数字找到原始材料</text>
+<text x="52" y="541" font-size="32" font-weight="500" fill="#42596A" text-anchor="start">缺来源就写待补</text>
+<path d="M320 565 v13 m-7 -6 7 7 7 -7" fill="none" stroke="#6541A6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="28" y="586" width="584" height="163" rx="22" fill="#FFFFFF" stroke="#D8E2E9" stroke-width="2"/>
+<circle cx="65" cy="630" r="22" fill="#6541A6"/>
+<text x="65" y="642" font-size="31" font-weight="700" fill="#FFFFFF" text-anchor="middle">3</text>
+<text x="103" y="643" font-size="36" font-weight="700" fill="#6541A6" text-anchor="start">安排每页</text>
+<text x="52" y="692" font-size="34" font-weight="500" fill="#172B3A" text-anchor="start">问题 → 标题 → 证据 → 图形</text>
+<text x="52" y="732" font-size="32" font-weight="500" fill="#42596A" text-anchor="start">没有对比就不画增长线</text>
+<path d="M320 756 v13 m-7 -6 7 7 7 -7" fill="none" stroke="#6541A6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="28" y="777" width="584" height="163" rx="22" fill="#FFFFFF" stroke="#D8E2E9" stroke-width="2"/>
+<circle cx="65" cy="821" r="22" fill="#6541A6"/>
+<text x="65" y="833" font-size="31" font-weight="700" fill="#FFFFFF" text-anchor="middle">4</text>
+<text x="103" y="834" font-size="36" font-weight="700" fill="#6541A6" text-anchor="start">检查实页</text>
+<text x="52" y="883" font-size="34" font-weight="500" fill="#172B3A" text-anchor="start">打开文件核对字体和图表</text>
+<text x="52" y="923" font-size="32" font-weight="500" fill="#42596A" text-anchor="start">文字大纲不等于 PPTX</text>
+<rect x="28" y="994" width="584" height="136" rx="22" fill="#F4EFFF"/>
+<text x="52" y="1046" font-size="34" font-weight="700" fill="#6541A6" text-anchor="start">一页一个结论 · 数字有出处</text>
+<text x="52" y="1095" font-size="32" font-weight="600" fill="#6541A6" text-anchor="start">先审大纲，再检查实际文件</text>
+<text x="320" y="1171" font-size="26" font-weight="500" fill="#536A7B" text-anchor="middle">示意流程 · 非幻灯片产品截图</text>
+</g></svg>

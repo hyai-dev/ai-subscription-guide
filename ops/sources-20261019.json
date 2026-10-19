@@ -1,0 +1,106 @@
+{
+  "reviewDate": "2026-10-19",
+  "scope": "Sources actually read for four new task guides and rewritten IP/Codex guides; the unchanged 03-06 retain their 2026-10-18 source review dates. Model execution and real transactions not tested.",
+  "sources": [
+    {
+      "url": "https://learn.chatgpt.com/docs/codex/cli",
+      "retrievedUrl": "https://learn.chatgpt.com/docs/codex/cli.md",
+      "httpStatus": 200,
+      "retrievedAt": "2026-10-19T07:01:05.996011+00:00",
+      "bodySha256": "36066e8647cfa5f6b8ff08678267e256e3434ccfff8eac6532c5ac0ed4daffdd",
+      "bytes": 6710,
+      "scope": "Actual body fetched after official-domain search/open; editorial workflow examples are original; no paid model or product UI run."
+    },
+    {
+      "url": "https://learn.chatgpt.com/docs/auth",
+      "retrievedUrl": "https://learn.chatgpt.com/docs/auth.md",
+      "httpStatus": 200,
+      "retrievedAt": "2026-10-19T07:01:06.511378+00:00",
+      "bodySha256": "ef2f4e55abe70a66783a34be97778df35d29ad23fb7f6d68eb2610be51a61644",
+      "bytes": 16852,
+      "scope": "Actual body fetched after official-domain search/open; editorial workflow examples are original; no paid model or product UI run."
+    },
+    {
+      "url": "https://learn.chatgpt.com/docs/pricing",
+      "retrievedUrl": "https://learn.chatgpt.com/docs/pricing.md",
+      "httpStatus": 200,
+      "retrievedAt": "2026-10-19T07:01:07.103224+00:00",
+      "bodySha256": "e3e0a5ac79441fac79cf1e50d31c0bdbd8d27e0f30452a8307f87ab64495bdf3",
+      "bytes": 45736,
+      "scope": "Actual body fetched after official-domain search/open; editorial workflow examples are original; no paid model or product UI run."
+    },
+    {
+      "url": "https://learn.chatgpt.com/docs/artifacts-viewer",
+      "retrievedUrl": "https://learn.chatgpt.com/docs/artifacts-viewer.md",
+      "httpStatus": 200,
+      "retrievedAt": "2026-10-19T07:01:07.576475+00:00",
+      "bodySha256": "91f2b8597741b2da21dd8fcba0a1c4ea5991edf7928dfa6d04a0c8be60f5ca9c",
+      "bytes": 4556,
+      "scope": "Actual body fetched after official-domain search/open; editorial workflow examples are original; no paid model or product UI run."
+    },
+    {
+      "url": "https://learn.chatgpt.com/use-cases/consolidate-spreadsheets",
+      "retrievedUrl": "https://learn.chatgpt.com/use-cases/consolidate-spreadsheets.md",
+      "httpStatus": 200,
+      "retrievedAt": "2026-10-19T07:01:08.118540+00:00",
+      "bodySha256": "017d833d41b74cd49f79e8c1c788953d34b65ce977370f7a6a3ed8128caff243",
+      "bytes": 3611,
+      "scope": "Actual body fetched after official-domain search/open; editorial workflow examples are original; no paid model or product UI run."
+    },
+    {
+      "url": "https://learn.chatgpt.com/use-cases/generate-slide-decks",
+      "retrievedUrl": "https://learn.chatgpt.com/use-cases/generate-slide-decks.md",
+      "httpStatus": 200,
+      "retrievedAt": "2026-10-19T07:01:08.655900+00:00",
+      "bodySha256": "92713a52e98bfaca866a79797fe6827ebaabb0b7f4a81a7a4f962935941b13ac",
+      "bytes": 5886,
+      "scope": "Actual body fetched after official-domain search/open; editorial workflow examples are original; no paid model or product UI run."
+    },
+    {
+      "url": "https://learn.chatgpt.com/use-cases/synthesize-research-evidence",
+      "retrievedUrl": "https://learn.chatgpt.com/use-cases/synthesize-research-evidence.md",
+      "httpStatus": 200,
+      "retrievedAt": "2026-10-19T07:01:09.204011+00:00",
+      "bodySha256": "197e1f54f39f7701a9b06f5fa6c0e49e871d8c6bf1fd566cff6fe3337cd0fcbf",
+      "bytes": 2771,
+      "scope": "Actual body fetched after official-domain search/open; editorial workflow examples are original; no paid model or product UI run."
+    },
+    {
+      "url": "https://learn.chatgpt.com/use-cases/issue-to-tested-pr",
+      "retrievedUrl": "https://learn.chatgpt.com/use-cases/issue-to-tested-pr.md",
+      "httpStatus": 200,
+      "retrievedAt": "2026-10-19T07:01:09.913522+00:00",
+      "bodySha256": "bcba4abadc3bb205f5f5508341c1490037b5ae2247548ceddb0962ca2e943d26",
+      "bytes": 43579,
+      "scope": "Actual body fetched after official-domain search/open; editorial workflow examples are original; no paid model or product UI run."
+    },
+    {
+      "url": "https://nano-banana.lol/ip",
+      "status": 200,
+      "sha256": "71965c22f550dfbb29a00b3279621091eaa5cfd346cecc5c5dcd551e75d3e2a1",
+      "checkedAtUtc": "2026-10-19T07:03:56.187996+00:00",
+      "title": "IP 网络环境信息查询 | ASN、代理与机房信号 | Nano Banana"
+    },
+    {
+      "url": "https://learn.chatgpt.com/docs/auth",
+      "status": 200,
+      "sha256": "3e3ce9356e68eaae5b68736c06b16c64ce00243c420419b7a1ad5947a3f34a1c",
+      "checkedAtUtc": "2026-10-19T07:03:56.851849+00:00",
+      "title": "\n  Authentication | ChatGPT Learn\n"
+    },
+    {
+      "url": "https://learn.chatgpt.com/docs/pricing",
+      "status": 200,
+      "sha256": "bf13e1f2ddd596c6514a28cf1b998e0f15530a952d1553f7299401d2a6be13ea",
+      "checkedAtUtc": "2026-10-19T07:03:57.381688+00:00",
+      "title": "\n  Pricing | ChatGPT Learn\n"
+    },
+    {
+      "url": "https://ip-api.com/docs/api:json",
+      "status": 200,
+      "sha256": "55a922da519ca0637f79c9c426b09eec3a245377ed8671cb4bb7fe46d051f380",
+      "checkedAtUtc": "2026-10-19T07:03:58.209034+00:00",
+      "title": "IP-API.com - Geolocation API - Documentation - JSON"
+    }
+  ]
+}
