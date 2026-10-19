@@ -1,18 +1,40 @@
 # 公开报价观察（待人工复核）
 
-生成时间：2026&#45;10&#45;19T07&#58;30&#58;14&#46;530Z
+生成时间：2026&#45;10&#45;19T07&#58;32&#58;14&#46;937Z
 
 只记录公开页面的商品报价声明；不代表实际结算总价、可售保证、发票承诺或独立权益验证。币种、周期、账号形态、资格及税费未核实时不能直接比较。抓取失败或未找到实体绑定报价记为未知，零价仍为 0。
 
 | 来源 | 商品 | 页面报价 | 周期 | 账号形态 | 提取方法 | 观察时间 |
 | --- | --- | --- | --- | --- | --- | --- |
-| [GPTPro20x](https://gptpro20x.com/chatgpt/) | 未知 | null | unknown | unknown | NON&#95;PUBLIC&#95;DNS&#95;ADDRESS | 2026&#45;10&#45;19T07&#58;30&#58;14&#46;383Z |
-| [GPTPro5x](https://gptpro5x.com/) | 未知 | null | unknown | unknown | NON&#95;PUBLIC&#95;DNS&#95;ADDRESS | 2026&#45;10&#45;19T07&#58;30&#58;14&#46;492Z |
-| [GPTCZ](https://gptcz.pro/plus) | 未知 | null | unknown | unknown | NON&#95;PUBLIC&#95;DNS&#95;ADDRESS | 2026&#45;10&#45;19T07&#58;30&#58;14&#46;498Z |
-| [AIchongzhi](https://aichongzhi.org/chatgpt/) | 未知 | null | unknown | unknown | NON&#95;PUBLIC&#95;DNS&#95;ADDRESS | 2026&#45;10&#45;19T07&#58;30&#58;14&#46;505Z |
-| [GETGPT Pro](https://getgpt.pro/plus-price) | 未知 | null | unknown | unknown | NON&#95;PUBLIC&#95;DNS&#95;ADDRESS | 2026&#45;10&#45;19T07&#58;30&#58;14&#46;512Z |
-| [PayForChat](https://www.payforchat.com/) | 未知 | null | unknown | unknown | NON&#95;PUBLIC&#95;DNS&#95;ADDRESS | 2026&#45;10&#45;19T07&#58;30&#58;14&#46;517Z |
-| [Nano Banana](https://nano-banana.lol/) | 未知 | null | unknown | unknown | NON&#95;PUBLIC&#95;DNS&#95;ADDRESS | 2026&#45;10&#45;19T07&#58;30&#58;14&#46;521Z |
-| [PayForGPT](https://payforgpt.com/) | 未知 | null | unknown | unknown | NON&#95;PUBLIC&#95;DNS&#95;ADDRESS | 2026&#45;10&#45;19T07&#58;30&#58;14&#46;526Z |
+| [GPTPro20x](https://gptpro20x.com/chatgpt/) | ChatGPT Pro 5× &#91;chatgpt&#45;pro5&#93; | 818 unknown | 1 month | unknown | html&#45;product&#45;card | 2026&#45;10&#45;19T07&#58;32&#58;10&#46;640Z |
+| [GPTPro20x](https://gptpro20x.com/chatgpt/) | ChatGPT Pro 20× &#91;chatgpt&#45;pro20&#93; | 1480 unknown | 1 month | unknown | html&#45;product&#45;card | 2026&#45;10&#45;19T07&#58;32&#58;10&#46;640Z |
+| [GPTPro20x](https://gptpro20x.com/chatgpt/) | ChatGPT Pro 500 &#91;chatgpt&#45;pro500&#93; | 3880 unknown | 1 month | unknown | html&#45;product&#45;card | 2026&#45;10&#45;19T07&#58;32&#58;10&#46;640Z |
+| [GPTPro20x](https://gptpro20x.com/chatgpt/) | ChatGPT Go 轻量入门 &#91;chatgpt&#45;go&#93; | 79 unknown | 1 month | unknown | html&#45;product&#45;card | 2026&#45;10&#45;19T07&#58;32&#58;10&#46;640Z |
+| [GPTPro20x](https://gptpro20x.com/chatgpt/) | ChatGPT Business 团队席位 &#91;chatgpt&#45;team&#93; | 228 unknown | 1 month | unknown | html&#45;product&#45;card | 2026&#45;10&#45;19T07&#58;32&#58;10&#46;640Z |
+| [GPTPro20x](https://gptpro20x.com/chatgpt/) | Codex API 额度充值 按需充值 &#91;codex&#45;credits&#93; | 8&#46;4 unknown | unknown | unknown | html&#45;product&#45;card | 2026&#45;10&#45;19T07&#58;32&#58;10&#46;640Z |
+| [GPTPro5x](https://gptpro5x.com/) | ChatGPT Plus 充值 &#47; 代充 | 168 CNY | unknown | unknown | json&#45;ld&#45;offer | 2026&#45;10&#45;19T07&#58;32&#58;10&#46;909Z |
+| [GPTPro5x](https://gptpro5x.com/) | ChatGPT Pro 5X 充值 &#47; 代充 | 818 CNY | unknown | unknown | json&#45;ld&#45;offer | 2026&#45;10&#45;19T07&#58;32&#58;10&#46;909Z |
+| [GPTPro5x](https://gptpro5x.com/) | ChatGPT Pro 20X 充值 &#47; 代充 | 1480 CNY | unknown | unknown | json&#45;ld&#45;offer | 2026&#45;10&#45;19T07&#58;32&#58;10&#46;909Z |
+| [GPTPro5x](https://gptpro5x.com/) | ChatGPT Plus | 168 unknown | 1 month | unknown | html&#45;product&#45;card | 2026&#45;10&#45;19T07&#58;32&#58;10&#46;909Z |
+| [GPTPro5x](https://gptpro5x.com/) | ChatGPT Pro 5X | 818 unknown | 1 month | unknown | html&#45;product&#45;card | 2026&#45;10&#45;19T07&#58;32&#58;10&#46;909Z |
+| [GPTPro5x](https://gptpro5x.com/) | ChatGPT Pro 20X | 1480 unknown | 1 month | unknown | html&#45;product&#45;card | 2026&#45;10&#45;19T07&#58;32&#58;10&#46;909Z |
+| [GPTCZ](https://gptcz.pro/plus) | 未知 | null | unknown | unknown | no&#95;entity&#95;bound&#95;price&#95;found | 2026&#45;10&#45;19T07&#58;32&#58;11&#46;879Z |
+| [AIchongzhi](https://aichongzhi.org/chatgpt/) | ChatGPT Plus | 178 unknown | 1 month | unknown | html&#45;product&#45;card | 2026&#45;10&#45;19T07&#58;32&#58;11&#46;956Z |
+| [AIchongzhi](https://aichongzhi.org/chatgpt/) | ChatGPT Pro · 100 美元档 | 880 unknown | 1 month | unknown | html&#45;product&#45;card | 2026&#45;10&#45;19T07&#58;32&#58;11&#46;956Z |
+| [AIchongzhi](https://aichongzhi.org/chatgpt/) | ChatGPT Pro · 200 美元档 | 1580 unknown | 1 month | unknown | html&#45;product&#45;card | 2026&#45;10&#45;19T07&#58;32&#58;11&#46;956Z |
+| [GETGPT Pro](https://getgpt.pro/plus-price) | 未知 | null | unknown | unknown | no&#95;entity&#95;bound&#95;price&#95;found | 2026&#45;10&#45;19T07&#58;32&#58;12&#46;114Z |
+| [PayForChat](https://www.payforchat.com/) | Plus 月卡 | 189 CNY | 1 month | unknown | json&#45;ld&#45;offer | 2026&#45;10&#45;19T07&#58;32&#58;13&#46;422Z |
+| [PayForChat](https://www.payforchat.com/) | Pro 200 月卡 | 1620 CNY | 1 month | unknown | json&#45;ld&#45;offer | 2026&#45;10&#45;19T07&#58;32&#58;13&#46;422Z |
+| [PayForChat](https://www.payforchat.com/) | Pro 100 月卡 | 899 CNY | 1 month | unknown | json&#45;ld&#45;offer | 2026&#45;10&#45;19T07&#58;32&#58;13&#46;422Z |
+| [PayForChat](https://www.payforchat.com/) | Pro 500 月卡 | 3880 CNY | 1 month | unknown | json&#45;ld&#45;offer | 2026&#45;10&#45;19T07&#58;32&#58;13&#46;422Z |
+| [Nano Banana](https://nano-banana.lol/) | ChatGPT 20x 月卡 | 1600 CNY | 1 month | unknown | json&#45;ld&#45;offer | 2026&#45;10&#45;19T07&#58;32&#58;13&#46;724Z |
+| [Nano Banana](https://nano-banana.lol/) | ChatGPT 5x 月卡 | 899 CNY | 1 month | unknown | json&#45;ld&#45;offer | 2026&#45;10&#45;19T07&#58;32&#58;13&#46;724Z |
+| [Nano Banana](https://nano-banana.lol/) | Google AI Ultra 订阅 | 499 CNY | unknown | unknown | json&#45;ld&#45;offer | 2026&#45;10&#45;19T07&#58;32&#58;13&#46;724Z |
+| [Nano Banana](https://nano-banana.lol/) | Gemini Pro 年卡 | 80 CNY | 1 year | unknown | json&#45;ld&#45;offer | 2026&#45;10&#45;19T07&#58;32&#58;13&#46;724Z |
+| [Nano Banana](https://nano-banana.lol/) | ChatGPT Plus 月卡｜IOS 礼品卡充值【质保30天】【秒冲】 | 160 CNY | 1 month | unknown | json&#45;ld&#45;offer | 2026&#45;10&#45;19T07&#58;32&#58;13&#46;724Z |
+| [Nano Banana](https://nano-banana.lol/) | Claude Pro 月卡直充 | 180 CNY | 1 month | unknown | json&#45;ld&#45;offer | 2026&#45;10&#45;19T07&#58;32&#58;13&#46;724Z |
+| [PayForGPT](https://payforgpt.com/) | ChatGPT 20x 月卡 | 1600 CNY | 1 month | unknown | json&#45;ld&#45;offer | 2026&#45;10&#45;19T07&#58;32&#58;14&#46;876Z |
+| [PayForGPT](https://payforgpt.com/) | ChatGPT 5x 月卡 | 899 CNY | 1 month | unknown | json&#45;ld&#45;offer | 2026&#45;10&#45;19T07&#58;32&#58;14&#46;876Z |
+| [PayForGPT](https://payforgpt.com/) | ChatGPT Plus 月卡｜IOS 礼品卡充值【质保30天】【秒冲】 | 160 CNY | 1 month | unknown | json&#45;ld&#45;offer | 2026&#45;10&#45;19T07&#58;32&#58;14&#46;876Z |
 
 SIM、发票、含税与购买资格字段默认 unknown，并保留来源和观察时间。unknown 不表示不支持；未见信息也不能写成竞品没有该能力。全部报价仍需人工核对商品、币种、周期、适用账号、税费和实际结算页。

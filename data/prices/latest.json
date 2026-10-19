@@ -1,6 +1,6 @@
 {
   "schemaVersion": "public-price-observation-v1",
-  "generatedAt": "2026-10-19T07:30:14.530Z",
+  "generatedAt": "2026-10-19T07:32:14.937Z",
   "scope": "Public advertised source claims only; not checkout totals, independent product verification or a cheapest-price ranking.",
   "automaticComparison": false,
   "humanReviewRequired": true,
@@ -10,104 +10,1472 @@
       "sourceName": "GPTPro20x",
       "requestedUrl": "https://gptpro20x.com/chatgpt/",
       "sourceUrl": "https://gptpro20x.com/chatgpt/",
-      "observedAt": "2026-10-19T07:30:14.383Z",
-      "httpStatus": null,
-      "status": "unavailable",
-      "reason": "NON_PUBLIC_DNS_ADDRESS",
-      "priceWhenUnavailable": null,
-      "offers": [],
-      "warnings": []
+      "observedAt": "2026-10-19T07:32:10.640Z",
+      "httpStatus": 200,
+      "bodyBytes": 46244,
+      "bodySha256": "435c8c4bc0092815906d8066d54f59e4479d9bf2747c3ab1eeb96a91540c6b9d",
+      "redirects": [],
+      "offers": [
+        {
+          "productName": "ChatGPT Pro 5× [chatgpt-pro5]",
+          "merchantTierLabel": "pro_unspecified",
+          "productKind": "subscription_or_recharge",
+          "price": 818,
+          "currency": "unknown",
+          "billingPeriod": {
+            "unit": "month",
+            "count": 1
+          },
+          "accountType": "unknown",
+          "priceType": "fixed",
+          "availabilityClaim": "unknown",
+          "productUrl": "https://gptpro20x.com/chatgpt/",
+          "sourceUrl": "https://gptpro20x.com/chatgpt/",
+          "observedAt": "2026-10-19T07:32:10.640Z",
+          "taxStatus": {
+            "value": "unknown",
+            "sourceUrl": "https://gptpro20x.com/chatgpt/",
+            "observedAt": "2026-10-19T07:32:10.640Z"
+          },
+          "simSupport": {
+            "value": "unknown",
+            "sourceUrl": "https://gptpro20x.com/chatgpt/",
+            "observedAt": "2026-10-19T07:32:10.640Z"
+          },
+          "invoiceSupport": {
+            "value": "unknown",
+            "sourceUrl": "https://gptpro20x.com/chatgpt/",
+            "observedAt": "2026-10-19T07:32:10.640Z"
+          },
+          "eligibility": {
+            "value": "unknown",
+            "sourceUrl": "https://gptpro20x.com/chatgpt/",
+            "observedAt": "2026-10-19T07:32:10.640Z"
+          },
+          "evidence": {
+            "method": "html-product-card",
+            "pointer": "card[111]",
+            "excerpt": "ChatGPT Pro 5× [chatgpt-pro5] ¥ 818 /月"
+          },
+          "humanReviewRequired": true,
+          "comparisonStatus": "requires_manual_review",
+          "limitations": [
+            "Advertised source claim, not a completed transaction or independent entitlement check.",
+            "Do not compare until currency, period, account identity, eligibility, tax and final checkout total are checked."
+          ]
+        },
+        {
+          "productName": "ChatGPT Pro 20× [chatgpt-pro20]",
+          "merchantTierLabel": "pro_unspecified",
+          "productKind": "subscription_or_recharge",
+          "price": 1480,
+          "currency": "unknown",
+          "billingPeriod": {
+            "unit": "month",
+            "count": 1
+          },
+          "accountType": "unknown",
+          "priceType": "fixed",
+          "availabilityClaim": "unknown",
+          "productUrl": "https://gptpro20x.com/chatgpt/",
+          "sourceUrl": "https://gptpro20x.com/chatgpt/",
+          "observedAt": "2026-10-19T07:32:10.640Z",
+          "taxStatus": {
+            "value": "unknown",
+            "sourceUrl": "https://gptpro20x.com/chatgpt/",
+            "observedAt": "2026-10-19T07:32:10.640Z"
+          },
+          "simSupport": {
+            "value": "unknown",
+            "sourceUrl": "https://gptpro20x.com/chatgpt/",
+            "observedAt": "2026-10-19T07:32:10.640Z"
+          },
+          "invoiceSupport": {
+            "value": "unknown",
+            "sourceUrl": "https://gptpro20x.com/chatgpt/",
+            "observedAt": "2026-10-19T07:32:10.640Z"
+          },
+          "eligibility": {
+            "value": "unknown",
+            "sourceUrl": "https://gptpro20x.com/chatgpt/",
+            "observedAt": "2026-10-19T07:32:10.640Z"
+          },
+          "evidence": {
+            "method": "html-product-card",
+            "pointer": "card[124]",
+            "excerpt": "ChatGPT Pro 20× [chatgpt-pro20] ¥ 1480 /月"
+          },
+          "humanReviewRequired": true,
+          "comparisonStatus": "requires_manual_review",
+          "limitations": [
+            "Advertised source claim, not a completed transaction or independent entitlement check.",
+            "Do not compare until currency, period, account identity, eligibility, tax and final checkout total are checked."
+          ]
+        },
+        {
+          "productName": "ChatGPT Pro 500 [chatgpt-pro500]",
+          "merchantTierLabel": "pro_unspecified",
+          "productKind": "subscription_or_recharge",
+          "price": 3880,
+          "currency": "unknown",
+          "billingPeriod": {
+            "unit": "month",
+            "count": 1
+          },
+          "accountType": "unknown",
+          "priceType": "fixed",
+          "availabilityClaim": "unknown",
+          "productUrl": "https://gptpro20x.com/chatgpt/",
+          "sourceUrl": "https://gptpro20x.com/chatgpt/",
+          "observedAt": "2026-10-19T07:32:10.640Z",
+          "taxStatus": {
+            "value": "unknown",
+            "sourceUrl": "https://gptpro20x.com/chatgpt/",
+            "observedAt": "2026-10-19T07:32:10.640Z"
+          },
+          "simSupport": {
+            "value": "unknown",
+            "sourceUrl": "https://gptpro20x.com/chatgpt/",
+            "observedAt": "2026-10-19T07:32:10.640Z"
+          },
+          "invoiceSupport": {
+            "value": "unknown",
+            "sourceUrl": "https://gptpro20x.com/chatgpt/",
+            "observedAt": "2026-10-19T07:32:10.640Z"
+          },
+          "eligibility": {
+            "value": "unknown",
+            "sourceUrl": "https://gptpro20x.com/chatgpt/",
+            "observedAt": "2026-10-19T07:32:10.640Z"
+          },
+          "evidence": {
+            "method": "html-product-card",
+            "pointer": "card[137]",
+            "excerpt": "ChatGPT Pro 500 [chatgpt-pro500] ¥ 3880 /月"
+          },
+          "humanReviewRequired": true,
+          "comparisonStatus": "requires_manual_review",
+          "limitations": [
+            "Advertised source claim, not a completed transaction or independent entitlement check.",
+            "Do not compare until currency, period, account identity, eligibility, tax and final checkout total are checked."
+          ]
+        },
+        {
+          "productName": "ChatGPT Go 轻量入门 [chatgpt-go]",
+          "merchantTierLabel": "go",
+          "productKind": "subscription_or_recharge",
+          "price": 79,
+          "currency": "unknown",
+          "billingPeriod": {
+            "unit": "month",
+            "count": 1
+          },
+          "accountType": "unknown",
+          "priceType": "fixed",
+          "availabilityClaim": "unknown",
+          "productUrl": "https://gptpro20x.com/chatgpt/",
+          "sourceUrl": "https://gptpro20x.com/chatgpt/",
+          "observedAt": "2026-10-19T07:32:10.640Z",
+          "taxStatus": {
+            "value": "unknown",
+            "sourceUrl": "https://gptpro20x.com/chatgpt/",
+            "observedAt": "2026-10-19T07:32:10.640Z"
+          },
+          "simSupport": {
+            "value": "unknown",
+            "sourceUrl": "https://gptpro20x.com/chatgpt/",
+            "observedAt": "2026-10-19T07:32:10.640Z"
+          },
+          "invoiceSupport": {
+            "value": "unknown",
+            "sourceUrl": "https://gptpro20x.com/chatgpt/",
+            "observedAt": "2026-10-19T07:32:10.640Z"
+          },
+          "eligibility": {
+            "value": "unknown",
+            "sourceUrl": "https://gptpro20x.com/chatgpt/",
+            "observedAt": "2026-10-19T07:32:10.640Z"
+          },
+          "evidence": {
+            "method": "html-product-card",
+            "pointer": "card[152]",
+            "excerpt": "ChatGPT Go 轻量入门 [chatgpt-go] ¥ 79 /月"
+          },
+          "humanReviewRequired": true,
+          "comparisonStatus": "requires_manual_review",
+          "limitations": [
+            "Advertised source claim, not a completed transaction or independent entitlement check.",
+            "Do not compare until currency, period, account identity, eligibility, tax and final checkout total are checked."
+          ]
+        },
+        {
+          "productName": "ChatGPT Business 团队席位 [chatgpt-team]",
+          "merchantTierLabel": "unknown",
+          "productKind": "subscription_or_recharge",
+          "price": 228,
+          "currency": "unknown",
+          "billingPeriod": {
+            "unit": "month",
+            "count": 1
+          },
+          "accountType": "unknown",
+          "priceType": "fixed",
+          "availabilityClaim": "unknown",
+          "productUrl": "https://gptpro20x.com/chatgpt/",
+          "sourceUrl": "https://gptpro20x.com/chatgpt/",
+          "observedAt": "2026-10-19T07:32:10.640Z",
+          "taxStatus": {
+            "value": "unknown",
+            "sourceUrl": "https://gptpro20x.com/chatgpt/",
+            "observedAt": "2026-10-19T07:32:10.640Z"
+          },
+          "simSupport": {
+            "value": "unknown",
+            "sourceUrl": "https://gptpro20x.com/chatgpt/",
+            "observedAt": "2026-10-19T07:32:10.640Z"
+          },
+          "invoiceSupport": {
+            "value": "unknown",
+            "sourceUrl": "https://gptpro20x.com/chatgpt/",
+            "observedAt": "2026-10-19T07:32:10.640Z"
+          },
+          "eligibility": {
+            "value": "unknown",
+            "sourceUrl": "https://gptpro20x.com/chatgpt/",
+            "observedAt": "2026-10-19T07:32:10.640Z"
+          },
+          "evidence": {
+            "method": "html-product-card",
+            "pointer": "card[162]",
+            "excerpt": "ChatGPT Business 团队席位 [chatgpt-team] ¥ 228 /月/人"
+          },
+          "humanReviewRequired": true,
+          "comparisonStatus": "requires_manual_review",
+          "limitations": [
+            "Advertised source claim, not a completed transaction or independent entitlement check.",
+            "Do not compare until currency, period, account identity, eligibility, tax and final checkout total are checked."
+          ]
+        },
+        {
+          "productName": "Codex API 额度充值 按需充值 [codex-credits]",
+          "merchantTierLabel": "unknown",
+          "productKind": "api_credit",
+          "price": 8.4,
+          "currency": "unknown",
+          "billingPeriod": {
+            "unit": "unknown",
+            "count": null
+          },
+          "accountType": "unknown",
+          "priceType": "fixed",
+          "availabilityClaim": "unknown",
+          "productUrl": "https://gptpro20x.com/codex/",
+          "sourceUrl": "https://gptpro20x.com/chatgpt/",
+          "observedAt": "2026-10-19T07:32:10.640Z",
+          "taxStatus": {
+            "value": "unknown",
+            "sourceUrl": "https://gptpro20x.com/chatgpt/",
+            "observedAt": "2026-10-19T07:32:10.640Z"
+          },
+          "simSupport": {
+            "value": "unknown",
+            "sourceUrl": "https://gptpro20x.com/chatgpt/",
+            "observedAt": "2026-10-19T07:32:10.640Z"
+          },
+          "invoiceSupport": {
+            "value": "unknown",
+            "sourceUrl": "https://gptpro20x.com/chatgpt/",
+            "observedAt": "2026-10-19T07:32:10.640Z"
+          },
+          "eligibility": {
+            "value": "unknown",
+            "sourceUrl": "https://gptpro20x.com/chatgpt/",
+            "observedAt": "2026-10-19T07:32:10.640Z"
+          },
+          "evidence": {
+            "method": "html-product-card",
+            "pointer": "card[189]",
+            "excerpt": "Codex API 额度充值 按需充值 [codex-credits] ¥ 8.4 / 美元"
+          },
+          "humanReviewRequired": true,
+          "comparisonStatus": "requires_manual_review",
+          "limitations": [
+            "Advertised source claim, not a completed transaction or independent entitlement check.",
+            "Do not compare until currency, period, account identity, eligibility, tax and final checkout total are checked."
+          ]
+        }
+      ],
+      "warnings": [
+        "AMBIGUOUS_CARD_PRICES_SKIPPED"
+      ],
+      "status": "observed_advertised_offers",
+      "priceWhenUnavailable": null
     },
     {
       "sourceId": "gptpro5x",
       "sourceName": "GPTPro5x",
       "requestedUrl": "https://gptpro5x.com/",
       "sourceUrl": "https://gptpro5x.com/",
-      "observedAt": "2026-10-19T07:30:14.492Z",
-      "httpStatus": null,
-      "status": "unavailable",
-      "reason": "NON_PUBLIC_DNS_ADDRESS",
-      "priceWhenUnavailable": null,
-      "offers": [],
-      "warnings": []
+      "observedAt": "2026-10-19T07:32:10.909Z",
+      "httpStatus": 200,
+      "bodyBytes": 136144,
+      "bodySha256": "57deabf2648637dd8e7b76c73fdc7003eb7d139045f00a4e0f8712c2b8f05255",
+      "redirects": [],
+      "offers": [
+        {
+          "productName": "ChatGPT Plus 充值 / 代充",
+          "merchantTierLabel": "plus",
+          "productKind": "subscription_or_recharge",
+          "price": 168,
+          "currency": "CNY",
+          "billingPeriod": {
+            "unit": "unknown",
+            "count": null
+          },
+          "accountType": "unknown",
+          "priceType": "fixed",
+          "availabilityClaim": "unknown",
+          "productUrl": "https://gptpro5x.com/plus",
+          "sourceUrl": "https://gptpro5x.com/",
+          "observedAt": "2026-10-19T07:32:10.909Z",
+          "taxStatus": {
+            "value": "unknown",
+            "sourceUrl": "https://gptpro5x.com/",
+            "observedAt": "2026-10-19T07:32:10.909Z"
+          },
+          "simSupport": {
+            "value": "unknown",
+            "sourceUrl": "https://gptpro5x.com/",
+            "observedAt": "2026-10-19T07:32:10.909Z"
+          },
+          "invoiceSupport": {
+            "value": "unknown",
+            "sourceUrl": "https://gptpro5x.com/",
+            "observedAt": "2026-10-19T07:32:10.909Z"
+          },
+          "eligibility": {
+            "value": "unknown",
+            "sourceUrl": "https://gptpro5x.com/",
+            "observedAt": "2026-10-19T07:32:10.909Z"
+          },
+          "evidence": {
+            "method": "json-ld-offer",
+            "pointer": "$.hasOfferCatalog.itemListElement[0].price",
+            "excerpt": "ChatGPT Plus 充值 / 代充 ChatGPT Plus 充值 / 代充"
+          },
+          "humanReviewRequired": true,
+          "comparisonStatus": "requires_manual_review",
+          "limitations": [
+            "Advertised source claim, not a completed transaction or independent entitlement check.",
+            "Do not compare until currency, period, account identity, eligibility, tax and final checkout total are checked."
+          ]
+        },
+        {
+          "productName": "ChatGPT Pro 5X 充值 / 代充",
+          "merchantTierLabel": "merchant_pro_5x_or_100",
+          "productKind": "subscription_or_recharge",
+          "price": 818,
+          "currency": "CNY",
+          "billingPeriod": {
+            "unit": "unknown",
+            "count": null
+          },
+          "accountType": "unknown",
+          "priceType": "fixed",
+          "availabilityClaim": "unknown",
+          "productUrl": "https://gptpro5x.com/pro-5x",
+          "sourceUrl": "https://gptpro5x.com/",
+          "observedAt": "2026-10-19T07:32:10.909Z",
+          "taxStatus": {
+            "value": "unknown",
+            "sourceUrl": "https://gptpro5x.com/",
+            "observedAt": "2026-10-19T07:32:10.909Z"
+          },
+          "simSupport": {
+            "value": "unknown",
+            "sourceUrl": "https://gptpro5x.com/",
+            "observedAt": "2026-10-19T07:32:10.909Z"
+          },
+          "invoiceSupport": {
+            "value": "unknown",
+            "sourceUrl": "https://gptpro5x.com/",
+            "observedAt": "2026-10-19T07:32:10.909Z"
+          },
+          "eligibility": {
+            "value": "unknown",
+            "sourceUrl": "https://gptpro5x.com/",
+            "observedAt": "2026-10-19T07:32:10.909Z"
+          },
+          "evidence": {
+            "method": "json-ld-offer",
+            "pointer": "$.hasOfferCatalog.itemListElement[1].price",
+            "excerpt": "ChatGPT Pro 5X 充值 / 代充 ChatGPT Pro 5X 充值 / 代充"
+          },
+          "humanReviewRequired": true,
+          "comparisonStatus": "requires_manual_review",
+          "limitations": [
+            "Advertised source claim, not a completed transaction or independent entitlement check.",
+            "Do not compare until currency, period, account identity, eligibility, tax and final checkout total are checked."
+          ]
+        },
+        {
+          "productName": "ChatGPT Pro 20X 充值 / 代充",
+          "merchantTierLabel": "merchant_pro_20x_or_200",
+          "productKind": "subscription_or_recharge",
+          "price": 1480,
+          "currency": "CNY",
+          "billingPeriod": {
+            "unit": "unknown",
+            "count": null
+          },
+          "accountType": "unknown",
+          "priceType": "fixed",
+          "availabilityClaim": "unknown",
+          "productUrl": "https://gptpro5x.com/pro-20x",
+          "sourceUrl": "https://gptpro5x.com/",
+          "observedAt": "2026-10-19T07:32:10.909Z",
+          "taxStatus": {
+            "value": "unknown",
+            "sourceUrl": "https://gptpro5x.com/",
+            "observedAt": "2026-10-19T07:32:10.909Z"
+          },
+          "simSupport": {
+            "value": "unknown",
+            "sourceUrl": "https://gptpro5x.com/",
+            "observedAt": "2026-10-19T07:32:10.909Z"
+          },
+          "invoiceSupport": {
+            "value": "unknown",
+            "sourceUrl": "https://gptpro5x.com/",
+            "observedAt": "2026-10-19T07:32:10.909Z"
+          },
+          "eligibility": {
+            "value": "unknown",
+            "sourceUrl": "https://gptpro5x.com/",
+            "observedAt": "2026-10-19T07:32:10.909Z"
+          },
+          "evidence": {
+            "method": "json-ld-offer",
+            "pointer": "$.hasOfferCatalog.itemListElement[2].price",
+            "excerpt": "ChatGPT Pro 20X 充值 / 代充 ChatGPT Pro 20X 充值 / 代充"
+          },
+          "humanReviewRequired": true,
+          "comparisonStatus": "requires_manual_review",
+          "limitations": [
+            "Advertised source claim, not a completed transaction or independent entitlement check.",
+            "Do not compare until currency, period, account identity, eligibility, tax and final checkout total are checked."
+          ]
+        },
+        {
+          "productName": "ChatGPT Plus",
+          "merchantTierLabel": "plus",
+          "productKind": "subscription_or_recharge",
+          "price": 168,
+          "currency": "unknown",
+          "billingPeriod": {
+            "unit": "month",
+            "count": 1
+          },
+          "accountType": "unknown",
+          "priceType": "fixed",
+          "availabilityClaim": "unknown",
+          "productUrl": "https://gptpro5x.com/plus",
+          "sourceUrl": "https://gptpro5x.com/",
+          "observedAt": "2026-10-19T07:32:10.909Z",
+          "taxStatus": {
+            "value": "unknown",
+            "sourceUrl": "https://gptpro5x.com/",
+            "observedAt": "2026-10-19T07:32:10.909Z"
+          },
+          "simSupport": {
+            "value": "unknown",
+            "sourceUrl": "https://gptpro5x.com/",
+            "observedAt": "2026-10-19T07:32:10.909Z"
+          },
+          "invoiceSupport": {
+            "value": "unknown",
+            "sourceUrl": "https://gptpro5x.com/",
+            "observedAt": "2026-10-19T07:32:10.909Z"
+          },
+          "eligibility": {
+            "value": "unknown",
+            "sourceUrl": "https://gptpro5x.com/",
+            "observedAt": "2026-10-19T07:32:10.909Z"
+          },
+          "evidence": {
+            "method": "html-product-card",
+            "pointer": "card[111]",
+            "excerpt": "ChatGPT Plus ¥168 /月"
+          },
+          "humanReviewRequired": true,
+          "comparisonStatus": "requires_manual_review",
+          "limitations": [
+            "Advertised source claim, not a completed transaction or independent entitlement check.",
+            "Do not compare until currency, period, account identity, eligibility, tax and final checkout total are checked."
+          ]
+        },
+        {
+          "productName": "ChatGPT Pro 5X",
+          "merchantTierLabel": "merchant_pro_5x_or_100",
+          "productKind": "subscription_or_recharge",
+          "price": 818,
+          "currency": "unknown",
+          "billingPeriod": {
+            "unit": "month",
+            "count": 1
+          },
+          "accountType": "unknown",
+          "priceType": "fixed",
+          "availabilityClaim": "unknown",
+          "productUrl": "https://gptpro5x.com/pro-5x",
+          "sourceUrl": "https://gptpro5x.com/",
+          "observedAt": "2026-10-19T07:32:10.909Z",
+          "taxStatus": {
+            "value": "unknown",
+            "sourceUrl": "https://gptpro5x.com/",
+            "observedAt": "2026-10-19T07:32:10.909Z"
+          },
+          "simSupport": {
+            "value": "unknown",
+            "sourceUrl": "https://gptpro5x.com/",
+            "observedAt": "2026-10-19T07:32:10.909Z"
+          },
+          "invoiceSupport": {
+            "value": "unknown",
+            "sourceUrl": "https://gptpro5x.com/",
+            "observedAt": "2026-10-19T07:32:10.909Z"
+          },
+          "eligibility": {
+            "value": "unknown",
+            "sourceUrl": "https://gptpro5x.com/",
+            "observedAt": "2026-10-19T07:32:10.909Z"
+          },
+          "evidence": {
+            "method": "html-product-card",
+            "pointer": "card[119]",
+            "excerpt": "ChatGPT Pro 5X ¥818 /月"
+          },
+          "humanReviewRequired": true,
+          "comparisonStatus": "requires_manual_review",
+          "limitations": [
+            "Advertised source claim, not a completed transaction or independent entitlement check.",
+            "Do not compare until currency, period, account identity, eligibility, tax and final checkout total are checked."
+          ]
+        },
+        {
+          "productName": "ChatGPT Pro 20X",
+          "merchantTierLabel": "merchant_pro_20x_or_200",
+          "productKind": "subscription_or_recharge",
+          "price": 1480,
+          "currency": "unknown",
+          "billingPeriod": {
+            "unit": "month",
+            "count": 1
+          },
+          "accountType": "unknown",
+          "priceType": "fixed",
+          "availabilityClaim": "unknown",
+          "productUrl": "https://gptpro5x.com/pro-20x",
+          "sourceUrl": "https://gptpro5x.com/",
+          "observedAt": "2026-10-19T07:32:10.909Z",
+          "taxStatus": {
+            "value": "unknown",
+            "sourceUrl": "https://gptpro5x.com/",
+            "observedAt": "2026-10-19T07:32:10.909Z"
+          },
+          "simSupport": {
+            "value": "unknown",
+            "sourceUrl": "https://gptpro5x.com/",
+            "observedAt": "2026-10-19T07:32:10.909Z"
+          },
+          "invoiceSupport": {
+            "value": "unknown",
+            "sourceUrl": "https://gptpro5x.com/",
+            "observedAt": "2026-10-19T07:32:10.909Z"
+          },
+          "eligibility": {
+            "value": "unknown",
+            "sourceUrl": "https://gptpro5x.com/",
+            "observedAt": "2026-10-19T07:32:10.909Z"
+          },
+          "evidence": {
+            "method": "html-product-card",
+            "pointer": "card[127]",
+            "excerpt": "ChatGPT Pro 20X ¥1480 /月"
+          },
+          "humanReviewRequired": true,
+          "comparisonStatus": "requires_manual_review",
+          "limitations": [
+            "Advertised source claim, not a completed transaction or independent entitlement check.",
+            "Do not compare until currency, period, account identity, eligibility, tax and final checkout total are checked."
+          ]
+        }
+      ],
+      "warnings": [],
+      "status": "observed_advertised_offers",
+      "priceWhenUnavailable": null
     },
     {
       "sourceId": "gptcz",
       "sourceName": "GPTCZ",
       "requestedUrl": "https://gptcz.pro/plus",
       "sourceUrl": "https://gptcz.pro/plus",
-      "observedAt": "2026-10-19T07:30:14.498Z",
-      "httpStatus": null,
-      "status": "unavailable",
-      "reason": "NON_PUBLIC_DNS_ADDRESS",
-      "priceWhenUnavailable": null,
+      "observedAt": "2026-10-19T07:32:11.879Z",
+      "httpStatus": 200,
+      "bodyBytes": 2671,
+      "bodySha256": "8602ccb40fc5a57315890a60bb532d104715abbefc3004b13cc9f22436b3783d",
+      "redirects": [],
       "offers": [],
-      "warnings": []
+      "warnings": [],
+      "status": "no_entity_bound_price_found",
+      "priceWhenUnavailable": null
     },
     {
       "sourceId": "aichongzhi",
       "sourceName": "AIchongzhi",
       "requestedUrl": "https://aichongzhi.org/chatgpt/",
       "sourceUrl": "https://aichongzhi.org/chatgpt/",
-      "observedAt": "2026-10-19T07:30:14.505Z",
-      "httpStatus": null,
-      "status": "unavailable",
-      "reason": "NON_PUBLIC_DNS_ADDRESS",
-      "priceWhenUnavailable": null,
-      "offers": [],
-      "warnings": []
+      "observedAt": "2026-10-19T07:32:11.956Z",
+      "httpStatus": 200,
+      "bodyBytes": 47918,
+      "bodySha256": "3d6ec66c3796539379a271e8d5c53fc54105fd312b2d08f97d60ca942900574c",
+      "redirects": [],
+      "offers": [
+        {
+          "productName": "ChatGPT Plus",
+          "merchantTierLabel": "plus",
+          "productKind": "subscription_or_recharge",
+          "price": 178,
+          "currency": "unknown",
+          "billingPeriod": {
+            "unit": "month",
+            "count": 1
+          },
+          "accountType": "unknown",
+          "priceType": "fixed",
+          "availabilityClaim": "unknown",
+          "productUrl": null,
+          "sourceUrl": "https://aichongzhi.org/chatgpt/",
+          "observedAt": "2026-10-19T07:32:11.956Z",
+          "taxStatus": {
+            "value": "unknown",
+            "sourceUrl": "https://aichongzhi.org/chatgpt/",
+            "observedAt": "2026-10-19T07:32:11.956Z"
+          },
+          "simSupport": {
+            "value": "unknown",
+            "sourceUrl": "https://aichongzhi.org/chatgpt/",
+            "observedAt": "2026-10-19T07:32:11.956Z"
+          },
+          "invoiceSupport": {
+            "value": "unknown",
+            "sourceUrl": "https://aichongzhi.org/chatgpt/",
+            "observedAt": "2026-10-19T07:32:11.956Z"
+          },
+          "eligibility": {
+            "value": "unknown",
+            "sourceUrl": "https://aichongzhi.org/chatgpt/",
+            "observedAt": "2026-10-19T07:32:11.956Z"
+          },
+          "evidence": {
+            "method": "html-product-card",
+            "pointer": "card[166]",
+            "excerpt": "ChatGPT Plus ¥ 178 /月"
+          },
+          "humanReviewRequired": true,
+          "comparisonStatus": "requires_manual_review",
+          "limitations": [
+            "Advertised source claim, not a completed transaction or independent entitlement check.",
+            "Do not compare until currency, period, account identity, eligibility, tax and final checkout total are checked."
+          ]
+        },
+        {
+          "productName": "ChatGPT Pro · 100 美元档",
+          "merchantTierLabel": "pro_unspecified",
+          "productKind": "subscription_or_recharge",
+          "price": 880,
+          "currency": "unknown",
+          "billingPeriod": {
+            "unit": "month",
+            "count": 1
+          },
+          "accountType": "unknown",
+          "priceType": "fixed",
+          "availabilityClaim": "unknown",
+          "productUrl": null,
+          "sourceUrl": "https://aichongzhi.org/chatgpt/",
+          "observedAt": "2026-10-19T07:32:11.956Z",
+          "taxStatus": {
+            "value": "unknown",
+            "sourceUrl": "https://aichongzhi.org/chatgpt/",
+            "observedAt": "2026-10-19T07:32:11.956Z"
+          },
+          "simSupport": {
+            "value": "unknown",
+            "sourceUrl": "https://aichongzhi.org/chatgpt/",
+            "observedAt": "2026-10-19T07:32:11.956Z"
+          },
+          "invoiceSupport": {
+            "value": "unknown",
+            "sourceUrl": "https://aichongzhi.org/chatgpt/",
+            "observedAt": "2026-10-19T07:32:11.956Z"
+          },
+          "eligibility": {
+            "value": "unknown",
+            "sourceUrl": "https://aichongzhi.org/chatgpt/",
+            "observedAt": "2026-10-19T07:32:11.956Z"
+          },
+          "evidence": {
+            "method": "html-product-card",
+            "pointer": "card[177]",
+            "excerpt": "ChatGPT Pro · 100 美元档 ¥ 880 /月"
+          },
+          "humanReviewRequired": true,
+          "comparisonStatus": "requires_manual_review",
+          "limitations": [
+            "Advertised source claim, not a completed transaction or independent entitlement check.",
+            "Do not compare until currency, period, account identity, eligibility, tax and final checkout total are checked."
+          ]
+        },
+        {
+          "productName": "ChatGPT Pro · 200 美元档",
+          "merchantTierLabel": "pro_unspecified",
+          "productKind": "subscription_or_recharge",
+          "price": 1580,
+          "currency": "unknown",
+          "billingPeriod": {
+            "unit": "month",
+            "count": 1
+          },
+          "accountType": "unknown",
+          "priceType": "fixed",
+          "availabilityClaim": "unknown",
+          "productUrl": null,
+          "sourceUrl": "https://aichongzhi.org/chatgpt/",
+          "observedAt": "2026-10-19T07:32:11.956Z",
+          "taxStatus": {
+            "value": "unknown",
+            "sourceUrl": "https://aichongzhi.org/chatgpt/",
+            "observedAt": "2026-10-19T07:32:11.956Z"
+          },
+          "simSupport": {
+            "value": "unknown",
+            "sourceUrl": "https://aichongzhi.org/chatgpt/",
+            "observedAt": "2026-10-19T07:32:11.956Z"
+          },
+          "invoiceSupport": {
+            "value": "unknown",
+            "sourceUrl": "https://aichongzhi.org/chatgpt/",
+            "observedAt": "2026-10-19T07:32:11.956Z"
+          },
+          "eligibility": {
+            "value": "unknown",
+            "sourceUrl": "https://aichongzhi.org/chatgpt/",
+            "observedAt": "2026-10-19T07:32:11.956Z"
+          },
+          "evidence": {
+            "method": "html-product-card",
+            "pointer": "card[187]",
+            "excerpt": "ChatGPT Pro · 200 美元档 ¥ 1580 /月"
+          },
+          "humanReviewRequired": true,
+          "comparisonStatus": "requires_manual_review",
+          "limitations": [
+            "Advertised source claim, not a completed transaction or independent entitlement check.",
+            "Do not compare until currency, period, account identity, eligibility, tax and final checkout total are checked."
+          ]
+        }
+      ],
+      "warnings": [],
+      "status": "observed_advertised_offers",
+      "priceWhenUnavailable": null
     },
     {
       "sourceId": "getgpt",
       "sourceName": "GETGPT Pro",
       "requestedUrl": "https://getgpt.pro/plus-price",
       "sourceUrl": "https://getgpt.pro/plus-price",
-      "observedAt": "2026-10-19T07:30:14.512Z",
-      "httpStatus": null,
-      "status": "unavailable",
-      "reason": "NON_PUBLIC_DNS_ADDRESS",
-      "priceWhenUnavailable": null,
+      "observedAt": "2026-10-19T07:32:12.114Z",
+      "httpStatus": 200,
+      "bodyBytes": 90718,
+      "bodySha256": "ad8929e0cfbc5d51106f4047e135ebbb57f97374f29f4a2c7faa3a6544a99490",
+      "redirects": [],
       "offers": [],
-      "warnings": []
+      "warnings": [],
+      "status": "no_entity_bound_price_found",
+      "priceWhenUnavailable": null
     },
     {
       "sourceId": "payforchat",
       "sourceName": "PayForChat",
       "requestedUrl": "https://www.payforchat.com/",
       "sourceUrl": "https://www.payforchat.com/",
-      "observedAt": "2026-10-19T07:30:14.517Z",
-      "httpStatus": null,
-      "status": "unavailable",
-      "reason": "NON_PUBLIC_DNS_ADDRESS",
-      "priceWhenUnavailable": null,
-      "offers": [],
-      "warnings": []
+      "observedAt": "2026-10-19T07:32:13.422Z",
+      "httpStatus": 200,
+      "bodyBytes": 235500,
+      "bodySha256": "94e79d9551ba1cb7dab574e9aa0b9d9ada50e148a2308b65a00791e957ca4ceb",
+      "redirects": [],
+      "offers": [
+        {
+          "productName": "Plus 月卡",
+          "merchantTierLabel": "plus",
+          "productKind": "subscription_or_recharge",
+          "price": 189,
+          "currency": "CNY",
+          "billingPeriod": {
+            "unit": "month",
+            "count": 1
+          },
+          "accountType": "unknown",
+          "priceType": "fixed",
+          "availabilityClaim": "https://schema.org/InStock",
+          "productUrl": "https://www.payforchat.com/plans",
+          "sourceUrl": "https://www.payforchat.com/",
+          "observedAt": "2026-10-19T07:32:13.422Z",
+          "taxStatus": {
+            "value": "unknown",
+            "sourceUrl": "https://www.payforchat.com/",
+            "observedAt": "2026-10-19T07:32:13.422Z"
+          },
+          "simSupport": {
+            "value": "unknown",
+            "sourceUrl": "https://www.payforchat.com/",
+            "observedAt": "2026-10-19T07:32:13.422Z"
+          },
+          "invoiceSupport": {
+            "value": "unknown",
+            "sourceUrl": "https://www.payforchat.com/",
+            "observedAt": "2026-10-19T07:32:13.422Z"
+          },
+          "eligibility": {
+            "value": "unknown",
+            "sourceUrl": "https://www.payforchat.com/",
+            "observedAt": "2026-10-19T07:32:13.422Z"
+          },
+          "evidence": {
+            "method": "json-ld-offer",
+            "pointer": "$[2].hasOfferCatalog.itemListElement[0].price",
+            "excerpt": "Plus 月卡"
+          },
+          "humanReviewRequired": true,
+          "comparisonStatus": "requires_manual_review",
+          "limitations": [
+            "Advertised source claim, not a completed transaction or independent entitlement check.",
+            "Do not compare until currency, period, account identity, eligibility, tax and final checkout total are checked."
+          ]
+        },
+        {
+          "productName": "Pro 200 月卡",
+          "merchantTierLabel": "merchant_pro_20x_or_200",
+          "productKind": "subscription_or_recharge",
+          "price": 1620,
+          "currency": "CNY",
+          "billingPeriod": {
+            "unit": "month",
+            "count": 1
+          },
+          "accountType": "unknown",
+          "priceType": "fixed",
+          "availabilityClaim": "https://schema.org/InStock",
+          "productUrl": "https://www.payforchat.com/pro-20x",
+          "sourceUrl": "https://www.payforchat.com/",
+          "observedAt": "2026-10-19T07:32:13.422Z",
+          "taxStatus": {
+            "value": "unknown",
+            "sourceUrl": "https://www.payforchat.com/",
+            "observedAt": "2026-10-19T07:32:13.422Z"
+          },
+          "simSupport": {
+            "value": "unknown",
+            "sourceUrl": "https://www.payforchat.com/",
+            "observedAt": "2026-10-19T07:32:13.422Z"
+          },
+          "invoiceSupport": {
+            "value": "unknown",
+            "sourceUrl": "https://www.payforchat.com/",
+            "observedAt": "2026-10-19T07:32:13.422Z"
+          },
+          "eligibility": {
+            "value": "unknown",
+            "sourceUrl": "https://www.payforchat.com/",
+            "observedAt": "2026-10-19T07:32:13.422Z"
+          },
+          "evidence": {
+            "method": "json-ld-offer",
+            "pointer": "$[2].hasOfferCatalog.itemListElement[1].price",
+            "excerpt": "Pro 200 月卡"
+          },
+          "humanReviewRequired": true,
+          "comparisonStatus": "requires_manual_review",
+          "limitations": [
+            "Advertised source claim, not a completed transaction or independent entitlement check.",
+            "Do not compare until currency, period, account identity, eligibility, tax and final checkout total are checked."
+          ]
+        },
+        {
+          "productName": "Pro 100 月卡",
+          "merchantTierLabel": "merchant_pro_5x_or_100",
+          "productKind": "subscription_or_recharge",
+          "price": 899,
+          "currency": "CNY",
+          "billingPeriod": {
+            "unit": "month",
+            "count": 1
+          },
+          "accountType": "unknown",
+          "priceType": "fixed",
+          "availabilityClaim": "https://schema.org/InStock",
+          "productUrl": "https://www.payforchat.com/plans?tab=pro",
+          "sourceUrl": "https://www.payforchat.com/",
+          "observedAt": "2026-10-19T07:32:13.422Z",
+          "taxStatus": {
+            "value": "unknown",
+            "sourceUrl": "https://www.payforchat.com/",
+            "observedAt": "2026-10-19T07:32:13.422Z"
+          },
+          "simSupport": {
+            "value": "unknown",
+            "sourceUrl": "https://www.payforchat.com/",
+            "observedAt": "2026-10-19T07:32:13.422Z"
+          },
+          "invoiceSupport": {
+            "value": "unknown",
+            "sourceUrl": "https://www.payforchat.com/",
+            "observedAt": "2026-10-19T07:32:13.422Z"
+          },
+          "eligibility": {
+            "value": "unknown",
+            "sourceUrl": "https://www.payforchat.com/",
+            "observedAt": "2026-10-19T07:32:13.422Z"
+          },
+          "evidence": {
+            "method": "json-ld-offer",
+            "pointer": "$[2].hasOfferCatalog.itemListElement[2].price",
+            "excerpt": "Pro 100 月卡"
+          },
+          "humanReviewRequired": true,
+          "comparisonStatus": "requires_manual_review",
+          "limitations": [
+            "Advertised source claim, not a completed transaction or independent entitlement check.",
+            "Do not compare until currency, period, account identity, eligibility, tax and final checkout total are checked."
+          ]
+        },
+        {
+          "productName": "Pro 500 月卡",
+          "merchantTierLabel": "pro_unspecified",
+          "productKind": "subscription_or_recharge",
+          "price": 3880,
+          "currency": "CNY",
+          "billingPeriod": {
+            "unit": "month",
+            "count": 1
+          },
+          "accountType": "unknown",
+          "priceType": "fixed",
+          "availabilityClaim": "unknown",
+          "productUrl": "https://www.payforchat.com/pro-500",
+          "sourceUrl": "https://www.payforchat.com/",
+          "observedAt": "2026-10-19T07:32:13.422Z",
+          "taxStatus": {
+            "value": "unknown",
+            "sourceUrl": "https://www.payforchat.com/",
+            "observedAt": "2026-10-19T07:32:13.422Z"
+          },
+          "simSupport": {
+            "value": "unknown",
+            "sourceUrl": "https://www.payforchat.com/",
+            "observedAt": "2026-10-19T07:32:13.422Z"
+          },
+          "invoiceSupport": {
+            "value": "unknown",
+            "sourceUrl": "https://www.payforchat.com/",
+            "observedAt": "2026-10-19T07:32:13.422Z"
+          },
+          "eligibility": {
+            "value": "unknown",
+            "sourceUrl": "https://www.payforchat.com/",
+            "observedAt": "2026-10-19T07:32:13.422Z"
+          },
+          "evidence": {
+            "method": "json-ld-offer",
+            "pointer": "$[2].hasOfferCatalog.itemListElement[3].price",
+            "excerpt": "Pro 500 月卡"
+          },
+          "humanReviewRequired": true,
+          "comparisonStatus": "requires_manual_review",
+          "limitations": [
+            "Advertised source claim, not a completed transaction or independent entitlement check.",
+            "Do not compare until currency, period, account identity, eligibility, tax and final checkout total are checked."
+          ]
+        }
+      ],
+      "warnings": [],
+      "status": "observed_advertised_offers",
+      "priceWhenUnavailable": null
     },
     {
       "sourceId": "nano-banana",
       "sourceName": "Nano Banana",
       "requestedUrl": "https://nano-banana.lol/",
       "sourceUrl": "https://nano-banana.lol/",
-      "observedAt": "2026-10-19T07:30:14.521Z",
-      "httpStatus": null,
-      "status": "unavailable",
-      "reason": "NON_PUBLIC_DNS_ADDRESS",
-      "priceWhenUnavailable": null,
-      "offers": [],
-      "warnings": []
+      "observedAt": "2026-10-19T07:32:13.724Z",
+      "httpStatus": 200,
+      "bodyBytes": 304916,
+      "bodySha256": "95d9e614e6d9ad1b2e2f6c7e4441bca3dcb2c570b4abe22e81d869e63d5ca4dd",
+      "redirects": [],
+      "offers": [
+        {
+          "productName": "ChatGPT 20x 月卡",
+          "merchantTierLabel": "merchant_pro_20x_or_200",
+          "productKind": "subscription_or_recharge",
+          "price": 1600,
+          "currency": "CNY",
+          "billingPeriod": {
+            "unit": "month",
+            "count": 1
+          },
+          "accountType": "unknown",
+          "priceType": "fixed",
+          "availabilityClaim": "https://schema.org/InStock",
+          "productUrl": "https://nano-banana.lol/product/11",
+          "sourceUrl": "https://nano-banana.lol/",
+          "observedAt": "2026-10-19T07:32:13.724Z",
+          "taxStatus": {
+            "value": "unknown",
+            "sourceUrl": "https://nano-banana.lol/",
+            "observedAt": "2026-10-19T07:32:13.724Z"
+          },
+          "simSupport": {
+            "value": "unknown",
+            "sourceUrl": "https://nano-banana.lol/",
+            "observedAt": "2026-10-19T07:32:13.724Z"
+          },
+          "invoiceSupport": {
+            "value": "unknown",
+            "sourceUrl": "https://nano-banana.lol/",
+            "observedAt": "2026-10-19T07:32:13.724Z"
+          },
+          "eligibility": {
+            "value": "unknown",
+            "sourceUrl": "https://nano-banana.lol/",
+            "observedAt": "2026-10-19T07:32:13.724Z"
+          },
+          "evidence": {
+            "method": "json-ld-offer",
+            "pointer": "$.itemListElement[0].item.offers.price",
+            "excerpt": "ChatGPT 20x 月卡"
+          },
+          "humanReviewRequired": true,
+          "comparisonStatus": "requires_manual_review",
+          "limitations": [
+            "Advertised source claim, not a completed transaction or independent entitlement check.",
+            "Do not compare until currency, period, account identity, eligibility, tax and final checkout total are checked."
+          ]
+        },
+        {
+          "productName": "ChatGPT 5x 月卡",
+          "merchantTierLabel": "merchant_pro_5x_or_100",
+          "productKind": "subscription_or_recharge",
+          "price": 899,
+          "currency": "CNY",
+          "billingPeriod": {
+            "unit": "month",
+            "count": 1
+          },
+          "accountType": "unknown",
+          "priceType": "fixed",
+          "availabilityClaim": "https://schema.org/InStock",
+          "productUrl": "https://nano-banana.lol/product/10",
+          "sourceUrl": "https://nano-banana.lol/",
+          "observedAt": "2026-10-19T07:32:13.724Z",
+          "taxStatus": {
+            "value": "unknown",
+            "sourceUrl": "https://nano-banana.lol/",
+            "observedAt": "2026-10-19T07:32:13.724Z"
+          },
+          "simSupport": {
+            "value": "unknown",
+            "sourceUrl": "https://nano-banana.lol/",
+            "observedAt": "2026-10-19T07:32:13.724Z"
+          },
+          "invoiceSupport": {
+            "value": "unknown",
+            "sourceUrl": "https://nano-banana.lol/",
+            "observedAt": "2026-10-19T07:32:13.724Z"
+          },
+          "eligibility": {
+            "value": "unknown",
+            "sourceUrl": "https://nano-banana.lol/",
+            "observedAt": "2026-10-19T07:32:13.724Z"
+          },
+          "evidence": {
+            "method": "json-ld-offer",
+            "pointer": "$.itemListElement[1].item.offers.price",
+            "excerpt": "ChatGPT 5x 月卡"
+          },
+          "humanReviewRequired": true,
+          "comparisonStatus": "requires_manual_review",
+          "limitations": [
+            "Advertised source claim, not a completed transaction or independent entitlement check.",
+            "Do not compare until currency, period, account identity, eligibility, tax and final checkout total are checked."
+          ]
+        },
+        {
+          "productName": "Google AI Ultra 订阅",
+          "merchantTierLabel": "unknown",
+          "productKind": "unknown",
+          "price": 499,
+          "currency": "CNY",
+          "billingPeriod": {
+            "unit": "unknown",
+            "count": null
+          },
+          "accountType": "unknown",
+          "priceType": "fixed",
+          "availabilityClaim": "https://schema.org/OutOfStock",
+          "productUrl": "https://nano-banana.lol/product/9",
+          "sourceUrl": "https://nano-banana.lol/",
+          "observedAt": "2026-10-19T07:32:13.724Z",
+          "taxStatus": {
+            "value": "unknown",
+            "sourceUrl": "https://nano-banana.lol/",
+            "observedAt": "2026-10-19T07:32:13.724Z"
+          },
+          "simSupport": {
+            "value": "unknown",
+            "sourceUrl": "https://nano-banana.lol/",
+            "observedAt": "2026-10-19T07:32:13.724Z"
+          },
+          "invoiceSupport": {
+            "value": "unknown",
+            "sourceUrl": "https://nano-banana.lol/",
+            "observedAt": "2026-10-19T07:32:13.724Z"
+          },
+          "eligibility": {
+            "value": "unknown",
+            "sourceUrl": "https://nano-banana.lol/",
+            "observedAt": "2026-10-19T07:32:13.724Z"
+          },
+          "evidence": {
+            "method": "json-ld-offer",
+            "pointer": "$.itemListElement[2].item.offers.price",
+            "excerpt": "Google AI Ultra 订阅"
+          },
+          "humanReviewRequired": true,
+          "comparisonStatus": "requires_manual_review",
+          "limitations": [
+            "Advertised source claim, not a completed transaction or independent entitlement check.",
+            "Do not compare until currency, period, account identity, eligibility, tax and final checkout total are checked."
+          ]
+        },
+        {
+          "productName": "Gemini Pro 年卡",
+          "merchantTierLabel": "pro_unspecified",
+          "productKind": "subscription_or_recharge",
+          "price": 80,
+          "currency": "CNY",
+          "billingPeriod": {
+            "unit": "year",
+            "count": 1
+          },
+          "accountType": "unknown",
+          "priceType": "fixed",
+          "availabilityClaim": "https://schema.org/OutOfStock",
+          "productUrl": "https://nano-banana.lol/product/8",
+          "sourceUrl": "https://nano-banana.lol/",
+          "observedAt": "2026-10-19T07:32:13.724Z",
+          "taxStatus": {
+            "value": "unknown",
+            "sourceUrl": "https://nano-banana.lol/",
+            "observedAt": "2026-10-19T07:32:13.724Z"
+          },
+          "simSupport": {
+            "value": "unknown",
+            "sourceUrl": "https://nano-banana.lol/",
+            "observedAt": "2026-10-19T07:32:13.724Z"
+          },
+          "invoiceSupport": {
+            "value": "unknown",
+            "sourceUrl": "https://nano-banana.lol/",
+            "observedAt": "2026-10-19T07:32:13.724Z"
+          },
+          "eligibility": {
+            "value": "unknown",
+            "sourceUrl": "https://nano-banana.lol/",
+            "observedAt": "2026-10-19T07:32:13.724Z"
+          },
+          "evidence": {
+            "method": "json-ld-offer",
+            "pointer": "$.itemListElement[3].item.offers.price",
+            "excerpt": "Gemini Pro 年卡"
+          },
+          "humanReviewRequired": true,
+          "comparisonStatus": "requires_manual_review",
+          "limitations": [
+            "Advertised source claim, not a completed transaction or independent entitlement check.",
+            "Do not compare until currency, period, account identity, eligibility, tax and final checkout total are checked."
+          ]
+        },
+        {
+          "productName": "ChatGPT Plus 月卡｜IOS 礼品卡充值【质保30天】【秒冲】",
+          "merchantTierLabel": "plus",
+          "productKind": "subscription_or_recharge",
+          "price": 160,
+          "currency": "CNY",
+          "billingPeriod": {
+            "unit": "month",
+            "count": 1
+          },
+          "accountType": "unknown",
+          "priceType": "fixed",
+          "availabilityClaim": "https://schema.org/InStock",
+          "productUrl": "https://nano-banana.lol/product/7",
+          "sourceUrl": "https://nano-banana.lol/",
+          "observedAt": "2026-10-19T07:32:13.724Z",
+          "taxStatus": {
+            "value": "unknown",
+            "sourceUrl": "https://nano-banana.lol/",
+            "observedAt": "2026-10-19T07:32:13.724Z"
+          },
+          "simSupport": {
+            "value": "unknown",
+            "sourceUrl": "https://nano-banana.lol/",
+            "observedAt": "2026-10-19T07:32:13.724Z"
+          },
+          "invoiceSupport": {
+            "value": "unknown",
+            "sourceUrl": "https://nano-banana.lol/",
+            "observedAt": "2026-10-19T07:32:13.724Z"
+          },
+          "eligibility": {
+            "value": "unknown",
+            "sourceUrl": "https://nano-banana.lol/",
+            "observedAt": "2026-10-19T07:32:13.724Z"
+          },
+          "evidence": {
+            "method": "json-ld-offer",
+            "pointer": "$.itemListElement[4].item.offers.price",
+            "excerpt": "ChatGPT Plus 月卡｜IOS 礼品卡充值【质保30天】【秒冲】"
+          },
+          "humanReviewRequired": true,
+          "comparisonStatus": "requires_manual_review",
+          "limitations": [
+            "Advertised source claim, not a completed transaction or independent entitlement check.",
+            "Do not compare until currency, period, account identity, eligibility, tax and final checkout total are checked."
+          ]
+        },
+        {
+          "productName": "Claude Pro 月卡直充",
+          "merchantTierLabel": "pro_unspecified",
+          "productKind": "subscription_or_recharge",
+          "price": 180,
+          "currency": "CNY",
+          "billingPeriod": {
+            "unit": "month",
+            "count": 1
+          },
+          "accountType": "unknown",
+          "priceType": "fixed",
+          "availabilityClaim": "https://schema.org/OutOfStock",
+          "productUrl": "https://nano-banana.lol/product/5",
+          "sourceUrl": "https://nano-banana.lol/",
+          "observedAt": "2026-10-19T07:32:13.724Z",
+          "taxStatus": {
+            "value": "unknown",
+            "sourceUrl": "https://nano-banana.lol/",
+            "observedAt": "2026-10-19T07:32:13.724Z"
+          },
+          "simSupport": {
+            "value": "unknown",
+            "sourceUrl": "https://nano-banana.lol/",
+            "observedAt": "2026-10-19T07:32:13.724Z"
+          },
+          "invoiceSupport": {
+            "value": "unknown",
+            "sourceUrl": "https://nano-banana.lol/",
+            "observedAt": "2026-10-19T07:32:13.724Z"
+          },
+          "eligibility": {
+            "value": "unknown",
+            "sourceUrl": "https://nano-banana.lol/",
+            "observedAt": "2026-10-19T07:32:13.724Z"
+          },
+          "evidence": {
+            "method": "json-ld-offer",
+            "pointer": "$.itemListElement[5].item.offers.price",
+            "excerpt": "Claude Pro 月卡直充"
+          },
+          "humanReviewRequired": true,
+          "comparisonStatus": "requires_manual_review",
+          "limitations": [
+            "Advertised source claim, not a completed transaction or independent entitlement check.",
+            "Do not compare until currency, period, account identity, eligibility, tax and final checkout total are checked."
+          ]
+        }
+      ],
+      "warnings": [],
+      "status": "observed_advertised_offers",
+      "priceWhenUnavailable": null
     },
     {
       "sourceId": "payforgpt",
       "sourceName": "PayForGPT",
       "requestedUrl": "https://payforgpt.com/",
       "sourceUrl": "https://payforgpt.com/",
-      "observedAt": "2026-10-19T07:30:14.526Z",
-      "httpStatus": null,
-      "status": "unavailable",
-      "reason": "NON_PUBLIC_DNS_ADDRESS",
-      "priceWhenUnavailable": null,
-      "offers": [],
-      "warnings": []
+      "observedAt": "2026-10-19T07:32:14.876Z",
+      "httpStatus": 200,
+      "bodyBytes": 242931,
+      "bodySha256": "3c71bc8db1398ceefd2eac110b19d33d97fbe5e09ab0ac7ecb5695e1aeaca630",
+      "redirects": [],
+      "offers": [
+        {
+          "productName": "ChatGPT 20x 月卡",
+          "merchantTierLabel": "merchant_pro_20x_or_200",
+          "productKind": "subscription_or_recharge",
+          "price": 1600,
+          "currency": "CNY",
+          "billingPeriod": {
+            "unit": "month",
+            "count": 1
+          },
+          "accountType": "unknown",
+          "priceType": "fixed",
+          "availabilityClaim": "https://schema.org/InStock",
+          "productUrl": "https://payforgpt.com/product/11",
+          "sourceUrl": "https://payforgpt.com/",
+          "observedAt": "2026-10-19T07:32:14.876Z",
+          "taxStatus": {
+            "value": "unknown",
+            "sourceUrl": "https://payforgpt.com/",
+            "observedAt": "2026-10-19T07:32:14.876Z"
+          },
+          "simSupport": {
+            "value": "unknown",
+            "sourceUrl": "https://payforgpt.com/",
+            "observedAt": "2026-10-19T07:32:14.876Z"
+          },
+          "invoiceSupport": {
+            "value": "unknown",
+            "sourceUrl": "https://payforgpt.com/",
+            "observedAt": "2026-10-19T07:32:14.876Z"
+          },
+          "eligibility": {
+            "value": "unknown",
+            "sourceUrl": "https://payforgpt.com/",
+            "observedAt": "2026-10-19T07:32:14.876Z"
+          },
+          "evidence": {
+            "method": "json-ld-offer",
+            "pointer": "$.itemListElement[0].item.offers.price",
+            "excerpt": "ChatGPT 20x 月卡"
+          },
+          "humanReviewRequired": true,
+          "comparisonStatus": "requires_manual_review",
+          "limitations": [
+            "Advertised source claim, not a completed transaction or independent entitlement check.",
+            "Do not compare until currency, period, account identity, eligibility, tax and final checkout total are checked."
+          ]
+        },
+        {
+          "productName": "ChatGPT 5x 月卡",
+          "merchantTierLabel": "merchant_pro_5x_or_100",
+          "productKind": "subscription_or_recharge",
+          "price": 899,
+          "currency": "CNY",
+          "billingPeriod": {
+            "unit": "month",
+            "count": 1
+          },
+          "accountType": "unknown",
+          "priceType": "fixed",
+          "availabilityClaim": "https://schema.org/InStock",
+          "productUrl": "https://payforgpt.com/product/10",
+          "sourceUrl": "https://payforgpt.com/",
+          "observedAt": "2026-10-19T07:32:14.876Z",
+          "taxStatus": {
+            "value": "unknown",
+            "sourceUrl": "https://payforgpt.com/",
+            "observedAt": "2026-10-19T07:32:14.876Z"
+          },
+          "simSupport": {
+            "value": "unknown",
+            "sourceUrl": "https://payforgpt.com/",
+            "observedAt": "2026-10-19T07:32:14.876Z"
+          },
+          "invoiceSupport": {
+            "value": "unknown",
+            "sourceUrl": "https://payforgpt.com/",
+            "observedAt": "2026-10-19T07:32:14.876Z"
+          },
+          "eligibility": {
+            "value": "unknown",
+            "sourceUrl": "https://payforgpt.com/",
+            "observedAt": "2026-10-19T07:32:14.876Z"
+          },
+          "evidence": {
+            "method": "json-ld-offer",
+            "pointer": "$.itemListElement[1].item.offers.price",
+            "excerpt": "ChatGPT 5x 月卡"
+          },
+          "humanReviewRequired": true,
+          "comparisonStatus": "requires_manual_review",
+          "limitations": [
+            "Advertised source claim, not a completed transaction or independent entitlement check.",
+            "Do not compare until currency, period, account identity, eligibility, tax and final checkout total are checked."
+          ]
+        },
+        {
+          "productName": "ChatGPT Plus 月卡｜IOS 礼品卡充值【质保30天】【秒冲】",
+          "merchantTierLabel": "plus",
+          "productKind": "subscription_or_recharge",
+          "price": 160,
+          "currency": "CNY",
+          "billingPeriod": {
+            "unit": "month",
+            "count": 1
+          },
+          "accountType": "unknown",
+          "priceType": "fixed",
+          "availabilityClaim": "https://schema.org/InStock",
+          "productUrl": "https://payforgpt.com/product/7",
+          "sourceUrl": "https://payforgpt.com/",
+          "observedAt": "2026-10-19T07:32:14.876Z",
+          "taxStatus": {
+            "value": "unknown",
+            "sourceUrl": "https://payforgpt.com/",
+            "observedAt": "2026-10-19T07:32:14.876Z"
+          },
+          "simSupport": {
+            "value": "unknown",
+            "sourceUrl": "https://payforgpt.com/",
+            "observedAt": "2026-10-19T07:32:14.876Z"
+          },
+          "invoiceSupport": {
+            "value": "unknown",
+            "sourceUrl": "https://payforgpt.com/",
+            "observedAt": "2026-10-19T07:32:14.876Z"
+          },
+          "eligibility": {
+            "value": "unknown",
+            "sourceUrl": "https://payforgpt.com/",
+            "observedAt": "2026-10-19T07:32:14.876Z"
+          },
+          "evidence": {
+            "method": "json-ld-offer",
+            "pointer": "$.itemListElement[2].item.offers.price",
+            "excerpt": "ChatGPT Plus 月卡｜IOS 礼品卡充值【质保30天】【秒冲】"
+          },
+          "humanReviewRequired": true,
+          "comparisonStatus": "requires_manual_review",
+          "limitations": [
+            "Advertised source claim, not a completed transaction or independent entitlement check.",
+            "Do not compare until currency, period, account identity, eligibility, tax and final checkout total are checked."
+          ]
+        }
+      ],
+      "warnings": [],
+      "status": "observed_advertised_offers",
+      "priceWhenUnavailable": null
     }
   ]
 }
