@@ -1,0 +1,683 @@
+{
+  "scope": "Fresh official source metadata supporting new tasks; some official origins returned403 and were read via public reader/official web results as recorded.",
+  "records": [
+    {
+      "id": "wallet",
+      "url": "https://help.openai.com/en/articles/20001508-using-your-chatgpt-wallet-balance",
+      "retrieved_at_utc": "2026-10-19T11:08:17.403308+00:00",
+      "reader": {
+        "requested_url": "https://r.jina.ai/https://help.openai.com/en/articles/20001508-using-your-chatgpt-wallet-balance",
+        "read_at_utc": "2026-10-19T11:08:17.403308+00:00",
+        "method": "public HTTP GET",
+        "http_status": 200,
+        "final_url": "https://r.jina.ai/https://help.openai.com/en/articles/20001508-using-your-chatgpt-wallet-balance",
+        "body_sha256": "341c1c70185e55efe710ed6c495599cf3122435fbd7a29b874eafbded641fd99",
+        "bytes": 10029,
+        "content_type": "text/plain; charset=utf-8"
+      },
+      "origin": {
+        "requested_url": "https://help.openai.com/en/articles/20001508-using-your-chatgpt-wallet-balance",
+        "read_at_utc": "2026-10-19T11:08:20.854963+00:00",
+        "method": "public HTTP GET",
+        "http_status": 403,
+        "error": "HTTP Error 403: Forbidden"
+      },
+      "title": "Using your ChatGPT wallet balance | OpenAI Help Center",
+      "supported_points": [
+        "钱包是美元资金；加入资金本身不购买订阅，也不直接增加 usage credits。",
+        "可用性取决于美国位置、USD、账号和结算资格；不用于 API 或 Apple/Google 账单。",
+        "在本人账号 Billing 查看余额与交易历史；Loading/Not available 不是已证明的零余额或兑换失败。",
+        "结算核对实际抵扣和 Due today；显示余额不保证该笔购买可用，补足款项方式依当前结算。",
+        "个人和 Business 余额分开；个人余额不能支付创建新 Business 的首笔订阅，也不随合并转移。"
+      ],
+      "boundaries": [
+        "不写国内通用、改地址或换币即可使用；不写加钱即会员到账或现金提现。",
+        "自动补充资金来源与礼品卡文档有不一致，本批只讲单次结算和验收，不给自动 wallet 扣款顺序。"
+      ],
+      "content_available": true
+    },
+    {
+      "id": "gift-card",
+      "url": "https://help.openai.com/en/articles/20001491-buying-and-redeeming-openai-gift-cards",
+      "retrieved_at_utc": "2026-10-19T11:08:17.403612+00:00",
+      "reader": {
+        "requested_url": "https://r.jina.ai/https://help.openai.com/en/articles/20001491-buying-and-redeeming-openai-gift-cards",
+        "read_at_utc": "2026-10-19T11:08:17.403612+00:00",
+        "method": "public HTTP GET",
+        "http_status": 200,
+        "final_url": "https://r.jina.ai/https://help.openai.com/en/articles/20001491-buying-and-redeeming-openai-gift-cards",
+        "body_sha256": "16424be6cc41df211d3962b971d0327435ad69e16cae52446a79809c7fd805b1",
+        "bytes": 8175,
+        "content_type": "text/plain; charset=utf-8"
+      },
+      "origin": {
+        "requested_url": "https://help.openai.com/en/articles/20001491-buying-and-redeeming-openai-gift-cards",
+        "read_at_utc": "2026-10-19T11:08:20.877398+00:00",
+        "method": "public HTTP GET",
+        "http_status": 403,
+        "error": "HTTP Error 403: Forbidden"
+      },
+      "title": "Buying and redeeming OpenAI gift cards | OpenAI Help Center",
+      "supported_points": [
+        "官方 OpenAI gift card 与商家卡密、Apple Gift Card、赠送 usage credits 和 API 预付费是不同产品。",
+        "兑换增加账号 wallet，不自动改变套餐；兑换前确认本人账号和工作区，已兑换价值不能跨账号移动。",
+        "Apple/Google 管理的订阅不能用该余额支付；兑换不取消已有商店订阅。",
+        "成功兑换可在 Billing 余额及 Gift card 交易记录核对；卡未收到的销售/交付问题回原零售商，兑换及已入账余额问题问 OpenAI。"
+      ],
+      "boundaries": [
+        "Jina 本次正文主要返回 FAQ 部分；官方网页阅读另实际打开了完整正文并看到美国/USD限制，钱包主文也明确该限制。",
+        "完整网页的 Pro200 可用性及 auto-reload 钱包扣款说明存在相互冲突/过时段落，本批不采用这些规则。",
+        "不把自站售卖卡密称为官方gift card或声称自站获授权零售商身份。"
+      ],
+      "body_coverage_note": "Jina response starts at FAQ rather than full document. OpenAI page was also opened through the web reader; US/USD eligibility is independently present in the wallet response. Do not treat the partial reader digest as a hash of the full help article.",
+      "content_available": true
+    },
+    {
+      "id": "usage-credits",
+      "url": "https://help.openai.com/en/articles/12642688",
+      "retrieved_at_utc": "2026-10-19T11:08:17.403689+00:00",
+      "reader": {
+        "requested_url": "https://r.jina.ai/https://help.openai.com/en/articles/12642688",
+        "read_at_utc": "2026-10-19T11:08:17.403689+00:00",
+        "method": "public HTTP GET",
+        "http_status": 200,
+        "final_url": "https://r.jina.ai/https://help.openai.com/en/articles/12642688",
+        "body_sha256": "417bf99bf8a97e5000f4ccd9ca4bbf7922c555dc8e3e2099835c958455d54bb0",
+        "bytes": 12952,
+        "content_type": "text/plain; charset=utf-8"
+      },
+      "origin": {
+        "requested_url": "https://help.openai.com/en/articles/12642688",
+        "read_at_utc": "2026-10-19T11:08:18.346067+00:00",
+        "method": "public HTTP GET",
+        "http_status": 403,
+        "error": "HTTP Error 403: Forbidden"
+      },
+      "title": "Using Credits for Flexible Usage in ChatGPT (Personal plans) | OpenAI Help Center",
+      "supported_points": [
+        "这是用于支持功能额外用量的 credits，不是 wallet 资金、API credits 或升级会员。",
+        "购买资格、额度与支付方式依本人 Usage/Usage & Billing 页面；未显示入口不证明所有套餐均可购买。",
+        "先消耗计划内用量，达到适用上限后再使用 credits；并发消耗可导致负余额，新购可能先抵负数。",
+        "购买后有效期12个月；不可转移、提现或转售。",
+        "如账号可用自动reload，依最低/目标余额及默认付款方式购买，启用时已低于阈值可能立即扣费；自动月上限不覆盖一次性购买。"
+      ],
+      "boundaries": [
+        "保留为后批参考，本批Nano已有独立credits购买教程，不将其另计新文章。",
+        "不承诺固定任务数、全地区入口或自动reload能使用wallet，退款例外由官方审核。"
+      ],
+      "content_available": true
+    },
+    {
+      "id": "business-workspaces",
+      "url": "https://help.openai.com/en/articles/8542115-chatgpt-business-general-faq",
+      "retrieved_at_utc": "2026-10-19T11:08:17.403738+00:00",
+      "reader": {
+        "requested_url": "https://r.jina.ai/https://help.openai.com/en/articles/8542115-chatgpt-business-general-faq",
+        "read_at_utc": "2026-10-19T11:08:17.403738+00:00",
+        "method": "public HTTP GET",
+        "http_status": 200,
+        "final_url": "https://r.jina.ai/https://help.openai.com/en/articles/8542115-chatgpt-business-general-faq",
+        "body_sha256": "33d3ecc2ce95b314c67046166dedc1af9323b9e90901b2263548b09b5ff33295",
+        "bytes": 27760,
+        "content_type": "text/plain; charset=utf-8"
+      },
+      "origin": {
+        "requested_url": "https://help.openai.com/en/articles/8542115-chatgpt-business-general-faq",
+        "read_at_utc": "2026-10-19T11:08:20.845016+00:00",
+        "method": "public HTTP GET",
+        "http_status": 403,
+        "error": "HTTP Error 403: Forbidden"
+      },
+      "title": "ChatGPT Business: General FAQ | OpenAI Help Center",
+      "supported_points": [
+        "工作区各有设置、成员和资源，切换工作区可改变当前会话环境。",
+        "付费席位采购不自动给每位成员分配相同席位；检查正确账号、工作区和本人 Seat type。",
+        "同显示名称的工作区也可能是不同工作区；由 owner 核对实际分配，不再买一份个人订阅来验证。"
+      ],
+      "boundaries": [
+        "仅说明工作区与席位核对；不保证任意成员可管理账单，不把Business席位视作个人Plus/Pro。"
+      ],
+      "content_available": true
+    },
+    {
+      "id": "personal-business-migration",
+      "url": "https://help.openai.com/en/articles/8801890-migrating-your-personal-workspace-to-chatgpt-business-or-enterprise",
+      "retrieved_at_utc": "2026-10-19T11:08:18.734950+00:00",
+      "reader": {
+        "requested_url": "https://r.jina.ai/https://help.openai.com/en/articles/8801890-migrating-your-personal-workspace-to-chatgpt-business-or-enterprise",
+        "read_at_utc": "2026-10-19T11:08:18.734950+00:00",
+        "method": "public HTTP GET",
+        "http_status": 200,
+        "final_url": "https://r.jina.ai/https://help.openai.com/en/articles/8801890-migrating-your-personal-workspace-to-chatgpt-business-or-enterprise",
+        "body_sha256": "4074794e002da1df1db799cdbc43a19b658d9df132b7873ec8bfb7d4e8903c9f",
+        "bytes": 11889,
+        "content_type": "text/plain; charset=utf-8"
+      },
+      "origin": {
+        "requested_url": "https://help.openai.com/en/articles/8801890-migrating-your-personal-workspace-to-chatgpt-business-or-enterprise",
+        "read_at_utc": "2026-10-19T11:08:21.198529+00:00",
+        "method": "public HTTP GET",
+        "http_status": 403,
+        "error": "HTTP Error 403: Forbidden"
+      },
+      "title": "Migrating your personal workspace to ChatGPT Business or Enterprise | OpenAI Help Center",
+      "supported_points": [
+        "保留独立 Personal 时，其内容与 Business 分开，个人订阅继续到本人取消。",
+        "加入/创建 Business 与迁移个人内容是不同操作。",
+        "迁移对数据控制、访问及订阅有后果，并无把Business内容迁回个人的普通撤销按钮。"
+      ],
+      "boundaries": [
+        "排查权益只需先核账号与工作区；不要把合并、退出工作区或注销账号作为快速修复步骤。",
+        "不在本批教程承诺自动退款或数据恢复；具体迁移及移动账单规则需另查。"
+      ],
+      "content_available": true
+    },
+    {
+      "id": "duplicate-subscriptions",
+      "url": "https://help.openai.com/en/articles/20001043-how-do-i-avoid-being-charged-twice-if-i-subscribe-to-chatgpt-on-ios-android-and-the-web",
+      "retrieved_at_utc": "2026-10-19T11:08:21.350175+00:00",
+      "reader": {
+        "requested_url": "https://r.jina.ai/https://help.openai.com/en/articles/20001043-how-do-i-avoid-being-charged-twice-if-i-subscribe-to-chatgpt-on-ios-android-and-the-web",
+        "read_at_utc": "2026-10-19T11:08:21.350175+00:00",
+        "method": "public HTTP GET",
+        "http_status": 200,
+        "final_url": "https://r.jina.ai/https://help.openai.com/en/articles/20001043-how-do-i-avoid-being-charged-twice-if-i-subscribe-to-chatgpt-on-ios-android-and-the-web",
+        "body_sha256": "251e8bb6bb8f1d71c929a35d8d843172f7d6e21bfba4a826cb29d586402d57b6",
+        "bytes": 5346,
+        "content_type": "text/plain; charset=utf-8"
+      },
+      "origin": {
+        "requested_url": "https://help.openai.com/en/articles/20001043-how-do-i-avoid-being-charged-twice-if-i-subscribe-to-chatgpt-on-ios-android-and-the-web",
+        "read_at_utc": "2026-10-19T11:08:25.128785+00:00",
+        "method": "public HTTP GET",
+        "http_status": 403,
+        "error": "HTTP Error 403: Forbidden"
+      },
+      "title": "How do I avoid being charged twice if I subscribe to ChatGPT on iOS, Android, and the web? | OpenAI Help Center",
+      "supported_points": [
+        "网页、Apple和Google订阅在各自原购买渠道管理，同时存在可产生多笔费用。",
+        "先分别检查订阅、周期、订单与收据；换平台应先处理原订阅，不用新单测试旧单是否成功。",
+        "Apple续费失败不等于取消；稍后恢复扣款可能与别的平台新订阅重叠。",
+        "卸载App不取消订阅；取消和退款申请是两项操作，另买两份不自动取得退款资格。",
+        "Apple退款回Apple；网页或不明归属咨询OpenAI，Google当前主文指向OpenAI支持。"
+      ],
+      "boundaries": [
+        "页面路径随版本变化，按本人界面；对同一错误另一官方页仍写Google或OpenAI，退款路由以当前官方退款主文为准。",
+        "商家订单和原官方订阅账单分别处理，不用自站查询官方或他店订单。"
+      ],
+      "content_available": true
+    },
+    {
+      "id": "codex-auth",
+      "url": "https://learn.chatgpt.com/docs/auth.md",
+      "retrieved_at_utc": "2026-10-19T11:08:21.350332+00:00",
+      "reader": {
+        "requested_url": "https://r.jina.ai/https://learn.chatgpt.com/docs/auth.md",
+        "read_at_utc": "2026-10-19T11:08:21.350332+00:00",
+        "method": "public HTTP GET",
+        "http_status": 200,
+        "final_url": "https://r.jina.ai/https://learn.chatgpt.com/docs/auth.md",
+        "body_sha256": "f1c8f64e9a048f1512baebfcecf09ec425084e3744a2fe4aa7f5cff261533b5a",
+        "bytes": 16932,
+        "content_type": "text/plain; charset=utf-8"
+      },
+      "origin": {
+        "requested_url": "https://learn.chatgpt.com/docs/auth.md",
+        "read_at_utc": "2026-10-19T11:08:22.239853+00:00",
+        "method": "public HTTP GET",
+        "http_status": 200,
+        "final_url": "https://learn.chatgpt.com/docs/auth.md",
+        "body_sha256": "ef2f4e55abe70a66783a34be97778df35d29ad23fb7f6d68eb2610be51a61644",
+        "bytes": 16852,
+        "content_type": "text/markdown; charset=utf-8"
+      },
+      "title": "Authentication",
+      "supported_points": [
+        "ChatGPT登录用于订阅访问，API key登录走按用量付费；本地客户端可支持两者，Cloud需ChatGPT登录。",
+        "认证方式影响组织/工作区控制；检查当前方式可用本地 login status，不应展示凭证。",
+        "账号与工作区、席位和管理员角色仍会影响具体功能，登录成功不代表所有功能授权。"
+      ],
+      "boundaries": [
+        "保留为旁证；登录方式已有精确owner，本批不另算新页面。",
+        "不读取auth.json、环境变量值或API key；不执行login/logout或调用模型。"
+      ],
+      "content_available": true
+    },
+    {
+      "id": "account-mismatch",
+      "url": "https://help.openai.com/en/articles/20001056-why-am-i-seeing-a-message-that-my-subscription-is-associated-with-another-account",
+      "retrieved_at_utc": "2026-10-19T11:08:21.350477+00:00",
+      "reader": {
+        "requested_url": "https://r.jina.ai/https://help.openai.com/en/articles/20001056-why-am-i-seeing-a-message-that-my-subscription-is-associated-with-another-account",
+        "read_at_utc": "2026-10-19T11:08:21.350477+00:00",
+        "method": "public HTTP GET",
+        "http_status": 200,
+        "final_url": "https://r.jina.ai/https://help.openai.com/en/articles/20001056-why-am-i-seeing-a-message-that-my-subscription-is-associated-with-another-account",
+        "body_sha256": "bdd5e938989777498ab539797f462bcb4c1533aaccca7e3440bbaaa8e410d22c",
+        "bytes": 4073,
+        "content_type": "text/plain; charset=utf-8"
+      },
+      "origin": {
+        "requested_url": "https://help.openai.com/en/articles/20001056-why-am-i-seeing-a-message-that-my-subscription-is-associated-with-another-account",
+        "read_at_utc": "2026-10-19T11:08:23.029233+00:00",
+        "method": "public HTTP GET",
+        "http_status": 403,
+        "error": "HTTP Error 403: Forbidden"
+      },
+      "title": "Why am I seeing a message that my subscription is associated with another account? | OpenAI Help Center",
+      "supported_points": [
+        "移动订阅同时关联原购买时的ChatGPT账号和Apple/Google商店账号；收据邮箱未必就是ChatGPT账号。",
+        "若另一设备仍有权益，先看那台的账号邮箱和登录方法，再退出出错设备回原账号。",
+        "移动订阅不能跨ChatGPT账号转移，重装App不改变其关联；不建议另账号重复购买。"
+      ],
+      "boundaries": [
+        "已有独立排错owner，本批不把同一问题另造新页。"
+      ],
+      "content_available": true
+    },
+    {
+      "id": "plus-account",
+      "url": "https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus",
+      "retrieved_at_utc": "2026-10-19T11:08:21.719123+00:00",
+      "reader": {
+        "requested_url": "https://r.jina.ai/https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus",
+        "read_at_utc": "2026-10-19T11:08:21.719123+00:00",
+        "method": "public HTTP GET",
+        "http_status": 200,
+        "final_url": "https://r.jina.ai/https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus",
+        "body_sha256": "daf03f8f1e42dbbc49f12e79a1b27f1c5694e05123e46600d2ebcb91263e58cd",
+        "bytes": 7318,
+        "content_type": "text/plain; charset=utf-8"
+      },
+      "origin": {
+        "requested_url": "https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus",
+        "read_at_utc": "2026-10-19T11:08:22.472885+00:00",
+        "method": "public HTTP GET",
+        "http_status": 403,
+        "error": "HTTP Error 403: Forbidden"
+      },
+      "title": "What is ChatGPT Plus? | OpenAI Help Center",
+      "supported_points": [
+        "先在仍登录的账号设置核对邮箱与原登录方式，收据收信邮箱可能不同。",
+        "Apple Hide My Email 可能对应relay地址；选择Continue with Apple并使用同一Apple账号，而非另建邮箱密码账号。",
+        "找对原账号后再按适用应用恢复购买；仍不符则经官方支持核对收据。"
+      ],
+      "boundaries": [
+        "不把套餐宣传的模型/限额或价格扩展为本单商家承诺；不自动提交、登录或恢复。"
+      ],
+      "content_available": true
+    },
+    {
+      "id": "apple-restore",
+      "url": "https://help.openai.com/en/articles/8346573-restoring-a-chatgpt-subscription-purchased-in-the-apple-app-store",
+      "retrieved_at_utc": "2026-10-19T11:08:22.927245+00:00",
+      "reader": {
+        "requested_url": "https://r.jina.ai/https://help.openai.com/en/articles/8346573-restoring-a-chatgpt-subscription-purchased-in-the-apple-app-store",
+        "read_at_utc": "2026-10-19T11:08:22.927245+00:00",
+        "method": "public HTTP GET",
+        "http_status": 200,
+        "final_url": "https://r.jina.ai/https://help.openai.com/en/articles/8346573-restoring-a-chatgpt-subscription-purchased-in-the-apple-app-store",
+        "body_sha256": "08ef5f0bc38420760989f64385f404c8dc5145e8b0fbefc55f7890d43702d76d",
+        "bytes": 1691,
+        "content_type": "text/plain; charset=utf-8"
+      },
+      "origin": {
+        "requested_url": "https://help.openai.com/en/articles/8346573-restoring-a-chatgpt-subscription-purchased-in-the-apple-app-store",
+        "read_at_utc": "2026-10-19T11:08:24.203629+00:00",
+        "method": "public HTTP GET",
+        "http_status": 403,
+        "error": "HTTP Error 403: Forbidden"
+      },
+      "title": "Restoring a ChatGPT subscription purchased in the Apple App Store | OpenAI Help Center",
+      "supported_points": [
+        "Apple订阅恢复需原ChatGPT账号和Apple ID；在当前iOS应用Account中的Restore purchases处理。",
+        "网页订阅在chatgpt.com管理；恢复不能把移动订阅转到另一ChatGPT账号。"
+      ],
+      "boundaries": [
+        "只支持iOS恢复购买说明，不据此发明Android同名菜单或保证恢复成功。"
+      ],
+      "content_available": true
+    },
+    {
+      "id": "pfg-order",
+      "url": "https://payforgpt.com/order",
+      "retrieved_at_utc": "2026-10-19T11:08:22.928745+00:00",
+      "reader": {
+        "requested_url": "https://r.jina.ai/https://payforgpt.com/order",
+        "read_at_utc": "2026-10-19T11:08:22.928745+00:00",
+        "method": "public HTTP GET",
+        "http_status": 200,
+        "final_url": "https://r.jina.ai/https://payforgpt.com/order",
+        "body_sha256": "5b544d4269f921e7ae95a639413b4f343b014fc652b92866ab425ab0d8516e99",
+        "bytes": 3206,
+        "content_type": "text/plain; charset=utf-8"
+      },
+      "origin": {
+        "requested_url": "https://payforgpt.com/order",
+        "read_at_utc": "2026-10-19T11:08:26.305160+00:00",
+        "method": "public HTTP GET",
+        "http_status": 200,
+        "final_url": "https://payforgpt.com/order",
+        "body_sha256": "a5fd6dd2a5b53bf1c4e9f24745680e6236fe30075217efc5cd9931553569f2ac",
+        "bytes": 37835,
+        "content_type": "text/html; charset=utf-8"
+      },
+      "title": "订单与数字服务商城 | PayForGPT",
+      "supported_points": [
+        "公开页展示订单号/下单邮箱及查单密码字段和查询入口。",
+        "页面提示按原订单号及查单密码查询；仅访问空表单，没有提交任何订单信息。"
+      ],
+      "boundaries": [
+        "不能由表单存在证明遗失密码可自动重置、仅凭付款截图可找回或必然恢复卡密；不访问客户订单。"
+      ],
+      "content_available": true
+    },
+    {
+      "id": "pfg-help",
+      "url": "https://payforgpt.com/help",
+      "retrieved_at_utc": "2026-10-19T11:08:23.451815+00:00",
+      "reader": {
+        "requested_url": "https://r.jina.ai/https://payforgpt.com/help",
+        "read_at_utc": "2026-10-19T11:08:23.451815+00:00",
+        "method": "public HTTP GET",
+        "http_status": 200,
+        "final_url": "https://r.jina.ai/https://payforgpt.com/help",
+        "body_sha256": "0a9d6f1135706cb038822b70436b49bf446ba3a90c8a35db261c2b15a4e3c523",
+        "bytes": 18165,
+        "content_type": "text/plain; charset=utf-8"
+      },
+      "origin": {
+        "requested_url": "https://payforgpt.com/help",
+        "read_at_utc": "2026-10-19T11:08:27.365344+00:00",
+        "method": "public HTTP GET",
+        "http_status": 200,
+        "final_url": "https://payforgpt.com/help",
+        "body_sha256": "ae62efcb9ba0068ac88b3578b4653d9c6046721e337f56909e844c85918a0096",
+        "bytes": 124908,
+        "content_type": "text/html; charset=utf-8"
+      },
+      "title": "ChatGPT Plus充值自助排查 | 快速解决充值问题 | PayForGPT",
+      "supported_points": [
+        "公开帮助把原订单查询作为状态及卡密入口，并要求保存订单号和查单密码。",
+        "联系客服材料围绕订单号、付款时间金额、交易尾号或txid及脱敏错误；查单密码只在本站HTTPS/order输入，不发客服。",
+        "下单邮箱用于交付/状态通知；页面存在不证明每封邮件已成功送达。"
+      ],
+      "boundaries": [
+        "关闭页面后的持久化、邮件补发或凭证重置规则不能从公开说明推定；遗失关键凭证时只能申请原站人工核验，不保证恢复。"
+      ],
+      "content_available": true
+    },
+    {
+      "id": "nano-order",
+      "url": "https://nano-banana.lol/order",
+      "retrieved_at_utc": "2026-10-19T11:08:24.679036+00:00",
+      "reader": {
+        "requested_url": "https://r.jina.ai/https://nano-banana.lol/order",
+        "read_at_utc": "2026-10-19T11:08:24.679036+00:00",
+        "method": "public HTTP GET",
+        "http_status": 200,
+        "final_url": "https://r.jina.ai/https://nano-banana.lol/order",
+        "body_sha256": "a31624ac5139bef17b3a6ca2d2302a0eb9ba68f47e50b1da732bdf74ecf5f540",
+        "bytes": 4703,
+        "content_type": "text/plain; charset=utf-8"
+      },
+      "origin": {
+        "requested_url": "https://nano-banana.lol/order",
+        "read_at_utc": "2026-10-19T11:08:33.495208+00:00",
+        "method": "public HTTP GET",
+        "http_status": 200,
+        "final_url": "https://nano-banana.lol/order",
+        "body_sha256": "1712f2c653e4818a2994511683cf044d5fb84a14c2dbc7a40865897f57e47962",
+        "bytes": 39141,
+        "content_type": "text/html; charset=utf-8"
+      },
+      "title": "Nano Banana | ChatGPT Plus 充值代充与 AI 订阅购买",
+      "supported_points": [
+        "公开页展示订单号/下单邮箱及查单密码字段和查询入口。",
+        "仅访问空表单，未提交订单号、查单密码或邮箱。"
+      ],
+      "boundaries": [
+        "不把入口误写成已验收邮箱无密码查询；不承诺遗失卡密补发或绕过验证。"
+      ],
+      "content_available": true
+    },
+    {
+      "id": "nano-help",
+      "url": "https://nano-banana.lol/help",
+      "retrieved_at_utc": "2026-10-19T11:08:25.548061+00:00",
+      "reader": {
+        "requested_url": "https://r.jina.ai/https://nano-banana.lol/help",
+        "read_at_utc": "2026-10-19T11:08:25.548061+00:00",
+        "method": "public HTTP GET",
+        "http_status": 200,
+        "final_url": "https://r.jina.ai/https://nano-banana.lol/help",
+        "body_sha256": "83813bd1fff363aa9775fed0f0b3c5aafdc5f426efbf77ae14255715c5fc1835",
+        "bytes": 10901,
+        "content_type": "text/plain; charset=utf-8"
+      },
+      "origin": {
+        "requested_url": "https://nano-banana.lol/help",
+        "read_at_utc": "2026-10-19T11:08:29.960559+00:00",
+        "method": "public HTTP GET",
+        "http_status": 200,
+        "final_url": "https://nano-banana.lol/help",
+        "body_sha256": "90d52c20f012431e96c68326f35a6cbbd2099a2aa461f919b78a76aece200edd",
+        "bytes": 76646,
+        "content_type": "text/html; charset=utf-8"
+      },
+      "title": "Nano Banana AI 数字订阅帮助中心 | Nano Banana",
+      "supported_points": [
+        "公开帮助要求原订单页核对状态，查单密码只在本站HTTPS/order输入。",
+        "人工核对材料是订单号、付款时间金额、交易尾号或txid、脱敏截图和异常状态。"
+      ],
+      "boundaries": [
+        "普通浏览不验证真实查单、交付或恢复流程；外站订单回原站，不能跨站代查。"
+      ],
+      "content_available": true
+    },
+    {
+      "id": "codex-cloud",
+      "url": "https://help.openai.com/en/articles/20001545-using-codex-cloud",
+      "retrieved_at_utc": "2026-10-19T11:09:07.100635+00:00",
+      "reader": {
+        "requested_url": "https://r.jina.ai/https://help.openai.com/en/articles/20001545-using-codex-cloud",
+        "read_at_utc": "2026-10-19T11:09:07.100635+00:00",
+        "method": "public HTTP GET",
+        "http_status": 200,
+        "final_url": "https://r.jina.ai/https://help.openai.com/en/articles/20001545-using-codex-cloud",
+        "body_sha256": "b3bdc805d74a2582884cfab240240f080d5c2e5280db42ad123c50b020e722ca",
+        "bytes": 6249,
+        "content_type": "text/plain; charset=utf-8"
+      },
+      "origin": {
+        "requested_url": "https://help.openai.com/en/articles/20001545-using-codex-cloud",
+        "read_at_utc": "2026-10-19T11:09:10.310486+00:00",
+        "method": "public HTTP GET",
+        "http_status": 403,
+        "error": "HTTP Error 403: Forbidden"
+      },
+      "supported_points": [
+        "每人使用自己的GitHub连接；连接身份必须有仓库权限，且当前环境需要包含目标仓库。",
+        "共享环境不替代仓库权限或任务Git配置；按选仓、准备环境、取代码、推送哪个阶段失败分别记录。",
+        "计划及工作区管理仍决定cloud能力，owner/admin身份本身不保证全部功能。"
+      ],
+      "boundaries": [
+        "付费订阅不是GitHub权限；不承诺刷新/等待固定分钟数一定恢复，不把可读仓等同可push。"
+      ],
+      "content_available": true
+    },
+    {
+      "id": "cloud-environments",
+      "url": "https://learn.chatgpt.com/docs/environments/cloud-environments.md",
+      "retrieved_at_utc": "2026-10-19T11:09:07.100950+00:00",
+      "reader": {
+        "requested_url": "https://r.jina.ai/https://learn.chatgpt.com/docs/environments/cloud-environments.md",
+        "read_at_utc": "2026-10-19T11:09:07.100950+00:00",
+        "method": "public HTTP GET",
+        "http_status": 200,
+        "final_url": "https://r.jina.ai/https://learn.chatgpt.com/docs/environments/cloud-environments.md",
+        "body_sha256": "e8a908ec5666d3bf4db58a2f90688983a685046c61c305fa080709f20c3f765f",
+        "bytes": 21662,
+        "content_type": "text/plain; charset=utf-8"
+      },
+      "origin": {
+        "requested_url": "https://learn.chatgpt.com/docs/environments/cloud-environments.md",
+        "read_at_utc": "2026-10-19T11:09:08.174047+00:00",
+        "method": "public HTTP GET",
+        "http_status": 200,
+        "final_url": "https://learn.chatgpt.com/docs/environments/cloud-environments.md",
+        "body_sha256": "341b6a58e1f459e2499e3e747602536f6658c720d0425d98d4a214b9fc81d84a",
+        "bytes": 21555,
+        "content_type": "text/markdown; charset=utf-8"
+      },
+      "supported_points": [
+        "当前环境创建流程先选择GitHub仓库，按提示连接GitHub，测试准备后发布。",
+        "新任务使用已发布准备状态；修改并republish后需用新任务确认，旧任务保留自身状态。",
+        "环境共享不自动授予别人任务访问或环境编辑权；个人连接与仓库权限依运行任务的账号。"
+      ],
+      "boundaries": [
+        "新旧Codex Cloud流程并存，不把Legacy截图/菜单当全部用户当前界面。",
+        "不为恢复选仓而公开私仓、重建付费账号、扩大环境秘密或网络权限。"
+      ],
+      "title": "Cloud environments",
+      "content_available": true
+    },
+    {
+      "id": "github-repository-access",
+      "url": "https://docs.github.com/en/apps/using-github-apps/reviewing-and-modifying-installed-github-apps",
+      "retrieved_at_utc": "2026-10-19T11:09:07.101020+00:00",
+      "reader": {
+        "requested_url": "https://r.jina.ai/https://docs.github.com/en/apps/using-github-apps/reviewing-and-modifying-installed-github-apps",
+        "read_at_utc": "2026-10-19T11:09:07.101020+00:00",
+        "method": "public HTTP GET",
+        "http_status": 200,
+        "final_url": "https://r.jina.ai/https://docs.github.com/en/apps/using-github-apps/reviewing-and-modifying-installed-github-apps",
+        "body_sha256": "068c864d2830869f669214668df9d4b3d035459de8596366f49fc6b677b32c77",
+        "bytes": 7500,
+        "content_type": "text/plain; charset=utf-8"
+      },
+      "origin": {
+        "requested_url": "https://docs.github.com/en/apps/using-github-apps/reviewing-and-modifying-installed-github-apps",
+        "read_at_utc": "2026-10-19T11:09:10.203569+00:00",
+        "method": "public HTTP GET",
+        "http_status": 200,
+        "final_url": "https://docs.github.com/en/apps/using-github-apps/reviewing-and-modifying-installed-github-apps",
+        "body_sha256": "d8e4aeaf6731db5d5935bc4a9cf1cb09fe6c86e7f4b71230d2d0040854c2818d",
+        "bytes": 201839,
+        "content_type": "text/html; charset=utf-8"
+      },
+      "supported_points": [
+        "GitHub App安装权限与可访问仓库范围可分别检查；安装时授予的能力不等于选择了所有仓库。",
+        "Repository access可限定Only select repositories；组织owner可改范围，仓库管理员可把有权管理的仓加至既有安装。",
+        "个人安装、组织安装和代表用户操作的授权是不同检查点。"
+      ],
+      "boundaries": [
+        "这是GitHub App通用规则；文章应以当前Codex连接所示App为准，不猜App名称或把OAuth App审批混成GitHub App安装。",
+        "最小范围检查目标仓，不默认All repositories，不替读者提交批准。"
+      ],
+      "content_available": true
+    },
+    {
+      "id": "github-org-request",
+      "url": "https://docs.github.com/en/apps/using-github-apps/requesting-a-github-app-from-your-organization-owner",
+      "retrieved_at_utc": "2026-10-19T11:09:07.101067+00:00",
+      "reader": {
+        "requested_url": "https://r.jina.ai/https://docs.github.com/en/apps/using-github-apps/requesting-a-github-app-from-your-organization-owner",
+        "read_at_utc": "2026-10-19T11:09:07.101067+00:00",
+        "method": "public HTTP GET",
+        "http_status": 200,
+        "final_url": "https://r.jina.ai/https://docs.github.com/en/apps/using-github-apps/requesting-a-github-app-from-your-organization-owner",
+        "body_sha256": "00765a76779d086c611695f0f9fa6661268d0210e6ef0e56a2c5ece6dc4e8c53",
+        "bytes": 17666,
+        "content_type": "text/plain; charset=utf-8"
+      },
+      "origin": {
+        "requested_url": "https://docs.github.com/en/apps/using-github-apps/requesting-a-github-app-from-your-organization-owner",
+        "read_at_utc": "2026-10-19T11:09:09.609146+00:00",
+        "method": "public HTTP GET",
+        "http_status": 200,
+        "final_url": "https://docs.github.com/en/apps/using-github-apps/requesting-a-github-app-from-your-organization-owner",
+        "body_sha256": "40b444e9968afe0a1a8ac06a2f495e9a31c5870f4dad7f1cf8401774817cdd1b",
+        "bytes": 156074,
+        "content_type": "text/html; charset=utf-8"
+      },
+      "supported_points": [
+        "无组织安装权限的成员可从App拥有者的安装流程申请组织owner安装；owner可改选仓并决定是否安装。",
+        "GitHub Marketplace路径与直接安装路径的请求方式有区别。"
+      ],
+      "boundaries": [
+        "请求不等于批准，不保证管理员接受或固定时限；不实际发送审批/邮件。"
+      ],
+      "content_available": true
+    },
+    {
+      "id": "github-updated-permissions",
+      "url": "https://docs.github.com/en/apps/using-github-apps/approving-updated-permissions-for-a-github-app",
+      "retrieved_at_utc": "2026-10-19T11:09:08.648615+00:00",
+      "reader": {
+        "requested_url": "https://r.jina.ai/https://docs.github.com/en/apps/using-github-apps/approving-updated-permissions-for-a-github-app",
+        "read_at_utc": "2026-10-19T11:09:08.648615+00:00",
+        "method": "public HTTP GET",
+        "http_status": 200,
+        "final_url": "https://r.jina.ai/https://docs.github.com/en/apps/using-github-apps/approving-updated-permissions-for-a-github-app",
+        "body_sha256": "e257c3f232512245ce68e09a0633bd97a7a04f100410bab8af458848480c905c",
+        "bytes": 17833,
+        "content_type": "text/plain; charset=utf-8"
+      },
+      "origin": {
+        "requested_url": "https://docs.github.com/en/apps/using-github-apps/approving-updated-permissions-for-a-github-app",
+        "read_at_utc": "2026-10-19T11:09:11.001426+00:00",
+        "method": "public HTTP GET",
+        "http_status": 200,
+        "final_url": "https://docs.github.com/en/apps/using-github-apps/approving-updated-permissions-for-a-github-app",
+        "body_sha256": "59b8c1c3eb29a5a3e34104515284153d51df627fe0aeec297dbed0ca877d659b",
+        "bytes": 154879,
+        "content_type": "text/html; charset=utf-8"
+      },
+      "supported_points": [
+        "已安装App新增权限须由有权者查看和选择接受；未接受时仍保留旧权限，部分功能可能不正常。",
+        "仅授权未安装或新增账号权限的情形可能走重新授权而非安装通知。"
+      ],
+      "boundaries": [
+        "不把所有缺仓都归因为新增权限，也不默认批准所有权限或承诺重连即修复。"
+      ],
+      "content_available": true
+    }
+  ],
+  "sourceDiscrepancies": [
+    {
+      "topic": "Wallet and automatic reload",
+      "sources": [
+        "gift-card",
+        "wallet",
+        "usage-credits"
+      ],
+      "observation": "The full gift-card web page read includes an auto-reload sentence describing wallet-first funding, while the wallet/usage-credits main guidance limits wallet checkout discussion to eligible one-time purchases and separates automatic reload.",
+      "action": "Do not state an automatic wallet funding order or eligibility in this batch; use the displayed checkout and OpenAI Support for unresolved conditions."
+    },
+    {
+      "topic": "Gift-card Pro200 availability",
+      "sources": [
+        "gift-card"
+      ],
+      "observation": "The full page had a newer opening note and older FAQ pause text pointing in different directions.",
+      "action": "No Pro200 availability recommendation derives from this page; it is outside the wallet verification task."
+    },
+    {
+      "topic": "Cached/partial help-reader results",
+      "sources": [
+        "gift-card",
+        "usage-credits",
+        "account-mismatch"
+      ],
+      "observation": "Search snippets and reader variants had different update labels and, for gift cards, different body coverage.",
+      "action": "Use the current primary supporting paragraph and retain retrieval metadata; do not claim a relative Updated label is a reliable publication date."
+    }
+  ],
+  "limitations": [
+    "Many help.openai.com ordinary HTTP requests returned 403; the public official content was successfully read through Jina Reader and actually opened in the web reader. Origin status is preserved as 403 rather than claimed 200.",
+    "No actual account eligibility, gift-card purchase/redemption, wallet funding, credit purchase, automatic reload, refund, workspace action, GitHub connection or organization approval was tested.",
+    "A public page or UI label proves only the observed instructions/options, not that every account has them or that the described operation succeeded.",
+    "The record hashes are of the actual retrieved bodies; raw snapshots remain temporary and are not copied into repository articles."
+  ]
+}

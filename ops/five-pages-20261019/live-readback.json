@@ -1,0 +1,814 @@
+{
+  "result": "pass",
+  "observedAtUtc": "2026-10-19T11:40:24.759Z",
+  "method": "Ordinary public HTTP GET plus inert DOM/XML parsing. No browser/webpage scripts, no cache-busting query, no customer order or payment/auth operations.",
+  "newArticleCount": 10,
+  "figureConcepts": 5,
+  "siteFigureVersions": 10,
+  "requestCount": 41,
+  "checks": [
+    {
+      "name": "nano/ai-subscriptions/order-card-recovery",
+      "checks": {
+        "http200": true,
+        "noRedirect": true,
+        "oneH1": true,
+        "selfCanonical": true,
+        "substantialText": true,
+        "articleSchema": true,
+        "published": true,
+        "reviewed": true,
+        "sixTaskAnchors": true,
+        "citations": true,
+        "visibleSources": true,
+        "primaryTaskAction": true,
+        "externalActionSafe": true,
+        "image": true,
+        "imageCaption": true,
+        "oneSitemapEntry": true,
+        "realLastmod": true,
+        "hubDiscovery": true,
+        "llmsDiscovery": true,
+        "noCredentialForm": true
+      }
+    },
+    {
+      "name": "nano/ai-subscriptions/chatgpt-workspace-subscription-check",
+      "checks": {
+        "http200": true,
+        "noRedirect": true,
+        "oneH1": true,
+        "selfCanonical": true,
+        "substantialText": true,
+        "articleSchema": true,
+        "published": true,
+        "reviewed": true,
+        "sixTaskAnchors": true,
+        "citations": true,
+        "visibleSources": true,
+        "primaryTaskAction": true,
+        "externalActionSafe": true,
+        "image": true,
+        "imageCaption": true,
+        "oneSitemapEntry": true,
+        "realLastmod": true,
+        "hubDiscovery": true,
+        "llmsDiscovery": true,
+        "noCredentialForm": true
+      }
+    },
+    {
+      "name": "nano/ai-subscriptions/chatgpt-duplicate-subscription-charges",
+      "checks": {
+        "http200": true,
+        "noRedirect": true,
+        "oneH1": true,
+        "selfCanonical": true,
+        "substantialText": true,
+        "articleSchema": true,
+        "published": true,
+        "reviewed": true,
+        "sixTaskAnchors": true,
+        "citations": true,
+        "visibleSources": true,
+        "primaryTaskAction": true,
+        "externalActionSafe": true,
+        "image": true,
+        "imageCaption": true,
+        "oneSitemapEntry": true,
+        "realLastmod": true,
+        "hubDiscovery": true,
+        "llmsDiscovery": true,
+        "noCredentialForm": true
+      }
+    },
+    {
+      "name": "nano/ai-subscriptions/chatgpt-wallet-balance-check",
+      "checks": {
+        "http200": true,
+        "noRedirect": true,
+        "oneH1": true,
+        "selfCanonical": true,
+        "substantialText": true,
+        "articleSchema": true,
+        "published": true,
+        "reviewed": true,
+        "sixTaskAnchors": true,
+        "citations": true,
+        "visibleSources": true,
+        "primaryTaskAction": true,
+        "externalActionSafe": true,
+        "image": true,
+        "imageCaption": true,
+        "oneSitemapEntry": true,
+        "realLastmod": true,
+        "hubDiscovery": true,
+        "llmsDiscovery": true,
+        "noCredentialForm": true
+      }
+    },
+    {
+      "name": "nano/ai-subscriptions/codex-cloud-github-repository-access",
+      "checks": {
+        "http200": true,
+        "noRedirect": true,
+        "oneH1": true,
+        "selfCanonical": true,
+        "substantialText": true,
+        "articleSchema": true,
+        "published": true,
+        "reviewed": true,
+        "sixTaskAnchors": true,
+        "citations": true,
+        "visibleSources": true,
+        "primaryTaskAction": true,
+        "externalActionSafe": true,
+        "image": true,
+        "imageCaption": true,
+        "oneSitemapEntry": true,
+        "realLastmod": true,
+        "hubDiscovery": true,
+        "llmsDiscovery": true,
+        "noCredentialForm": true
+      }
+    },
+    {
+      "name": "nano old owner /ai-subscriptions/chatgpt-recharge",
+      "checks": {
+        "http200": true,
+        "newTaskLinks": true
+      }
+    },
+    {
+      "name": "nano old owner /ai-subscriptions/chatgpt-plus-recharge",
+      "checks": {
+        "http200": true,
+        "newTaskLinks": true
+      }
+    },
+    {
+      "name": "nano old owner /ai-subscriptions/codex-recharge",
+      "checks": {
+        "http200": true,
+        "newTaskLinks": true
+      }
+    },
+    {
+      "name": "nano final asset /images/guides/five-pages-order-recovery-nano-20261019.webp",
+      "checks": {
+        "http200": true,
+        "finalBytes": true
+      }
+    },
+    {
+      "name": "nano final asset /images/guides/five-pages-order-recovery-nano-20261019.svg",
+      "checks": {
+        "http200": true,
+        "finalBytes": true
+      }
+    },
+    {
+      "name": "nano final asset /images/guides/five-pages-workspace-check-nano-20261019.webp",
+      "checks": {
+        "http200": true,
+        "finalBytes": true
+      }
+    },
+    {
+      "name": "nano final asset /images/guides/five-pages-workspace-check-nano-20261019.svg",
+      "checks": {
+        "http200": true,
+        "finalBytes": true
+      }
+    },
+    {
+      "name": "nano final asset /images/guides/five-pages-duplicate-billing-nano-20261019.webp",
+      "checks": {
+        "http200": true,
+        "finalBytes": true
+      }
+    },
+    {
+      "name": "nano final asset /images/guides/five-pages-duplicate-billing-nano-20261019.svg",
+      "checks": {
+        "http200": true,
+        "finalBytes": true
+      }
+    },
+    {
+      "name": "nano final asset /images/guides/five-pages-wallet-balance-nano-20261019.webp",
+      "checks": {
+        "http200": true,
+        "finalBytes": true
+      }
+    },
+    {
+      "name": "nano final asset /images/guides/five-pages-wallet-balance-nano-20261019.svg",
+      "checks": {
+        "http200": true,
+        "finalBytes": true
+      }
+    },
+    {
+      "name": "nano final asset /images/guides/five-pages-codex-repository-nano-20261019.webp",
+      "checks": {
+        "http200": true,
+        "finalBytes": true
+      }
+    },
+    {
+      "name": "nano final asset /images/guides/five-pages-codex-repository-nano-20261019.svg",
+      "checks": {
+        "http200": true,
+        "finalBytes": true
+      }
+    },
+    {
+      "name": "pfg/ai-subscriptions/order-card-recovery",
+      "checks": {
+        "http200": true,
+        "noRedirect": true,
+        "oneH1": true,
+        "selfCanonical": true,
+        "substantialText": true,
+        "articleSchema": true,
+        "published": true,
+        "reviewed": true,
+        "sixTaskAnchors": true,
+        "citations": true,
+        "visibleSources": true,
+        "primaryTaskAction": true,
+        "externalActionSafe": true,
+        "image": true,
+        "imageCaption": true,
+        "oneSitemapEntry": true,
+        "realLastmod": true,
+        "hubDiscovery": true,
+        "llmsDiscovery": true,
+        "noCredentialForm": true
+      }
+    },
+    {
+      "name": "pfg/ai-subscriptions/chatgpt-workspace-subscription-check",
+      "checks": {
+        "http200": true,
+        "noRedirect": true,
+        "oneH1": true,
+        "selfCanonical": true,
+        "substantialText": true,
+        "articleSchema": true,
+        "published": true,
+        "reviewed": true,
+        "sixTaskAnchors": true,
+        "citations": true,
+        "visibleSources": true,
+        "primaryTaskAction": true,
+        "externalActionSafe": true,
+        "image": true,
+        "imageCaption": true,
+        "oneSitemapEntry": true,
+        "realLastmod": true,
+        "hubDiscovery": true,
+        "llmsDiscovery": true,
+        "noCredentialForm": true
+      }
+    },
+    {
+      "name": "pfg/ai-subscriptions/chatgpt-duplicate-subscription-charges",
+      "checks": {
+        "http200": true,
+        "noRedirect": true,
+        "oneH1": true,
+        "selfCanonical": true,
+        "substantialText": true,
+        "articleSchema": true,
+        "published": true,
+        "reviewed": true,
+        "sixTaskAnchors": true,
+        "citations": true,
+        "visibleSources": true,
+        "primaryTaskAction": true,
+        "externalActionSafe": true,
+        "image": true,
+        "imageCaption": true,
+        "oneSitemapEntry": true,
+        "realLastmod": true,
+        "hubDiscovery": true,
+        "llmsDiscovery": true,
+        "noCredentialForm": true
+      }
+    },
+    {
+      "name": "pfg/ai-subscriptions/chatgpt-wallet-balance-check",
+      "checks": {
+        "http200": true,
+        "noRedirect": true,
+        "oneH1": true,
+        "selfCanonical": true,
+        "substantialText": true,
+        "articleSchema": true,
+        "published": true,
+        "reviewed": true,
+        "sixTaskAnchors": true,
+        "citations": true,
+        "visibleSources": true,
+        "primaryTaskAction": true,
+        "externalActionSafe": true,
+        "image": true,
+        "imageCaption": true,
+        "oneSitemapEntry": true,
+        "realLastmod": true,
+        "hubDiscovery": true,
+        "llmsDiscovery": true,
+        "noCredentialForm": true
+      }
+    },
+    {
+      "name": "pfg/ai-subscriptions/codex-cloud-github-repository-access",
+      "checks": {
+        "http200": true,
+        "noRedirect": true,
+        "oneH1": true,
+        "selfCanonical": true,
+        "substantialText": true,
+        "articleSchema": true,
+        "published": true,
+        "reviewed": true,
+        "sixTaskAnchors": true,
+        "citations": true,
+        "visibleSources": true,
+        "primaryTaskAction": true,
+        "externalActionSafe": true,
+        "image": true,
+        "imageCaption": true,
+        "oneSitemapEntry": true,
+        "realLastmod": true,
+        "hubDiscovery": true,
+        "llmsDiscovery": true,
+        "noCredentialForm": true
+      }
+    },
+    {
+      "name": "pfg old owner /how-to/recharge-chatgpt-plus",
+      "checks": {
+        "http200": true,
+        "newTaskLinks": true
+      }
+    },
+    {
+      "name": "pfg old owner /codex",
+      "checks": {
+        "http200": true,
+        "newTaskLinks": true
+      }
+    },
+    {
+      "name": "pfg final asset /images/guides/five-pages-order-recovery-pfg-20261019.webp",
+      "checks": {
+        "http200": true,
+        "finalBytes": true
+      }
+    },
+    {
+      "name": "pfg final asset /images/guides/five-pages-order-recovery-pfg-20261019.svg",
+      "checks": {
+        "http200": true,
+        "finalBytes": true
+      }
+    },
+    {
+      "name": "pfg final asset /images/guides/five-pages-workspace-check-pfg-20261019.webp",
+      "checks": {
+        "http200": true,
+        "finalBytes": true
+      }
+    },
+    {
+      "name": "pfg final asset /images/guides/five-pages-workspace-check-pfg-20261019.svg",
+      "checks": {
+        "http200": true,
+        "finalBytes": true
+      }
+    },
+    {
+      "name": "pfg final asset /images/guides/five-pages-duplicate-billing-pfg-20261019.webp",
+      "checks": {
+        "http200": true,
+        "finalBytes": true
+      }
+    },
+    {
+      "name": "pfg final asset /images/guides/five-pages-duplicate-billing-pfg-20261019.svg",
+      "checks": {
+        "http200": true,
+        "finalBytes": true
+      }
+    },
+    {
+      "name": "pfg final asset /images/guides/five-pages-wallet-balance-pfg-20261019.webp",
+      "checks": {
+        "http200": true,
+        "finalBytes": true
+      }
+    },
+    {
+      "name": "pfg final asset /images/guides/five-pages-wallet-balance-pfg-20261019.svg",
+      "checks": {
+        "http200": true,
+        "finalBytes": true
+      }
+    },
+    {
+      "name": "pfg final asset /images/guides/five-pages-codex-repository-pfg-20261019.webp",
+      "checks": {
+        "http200": true,
+        "finalBytes": true
+      }
+    },
+    {
+      "name": "pfg final asset /images/guides/five-pages-codex-repository-pfg-20261019.svg",
+      "checks": {
+        "http200": true,
+        "finalBytes": true
+      }
+    },
+    {
+      "name": "All ordinary requests",
+      "checks": {
+        "all200": true,
+        "noUnexpectedRedirects": true
+      }
+    }
+  ],
+  "responses": [
+    {
+      "url": "https://nano-banana.lol/ai-subscriptions/order-card-recovery",
+      "status": 200,
+      "finalUrl": "https://nano-banana.lol/ai-subscriptions/order-card-recovery",
+      "bytes": 95577,
+      "sha256": "e6dc89a38f2dd26ee2171ee24a3ed3809d5811322fbbe4fb0c0b3b618e91b804",
+      "cache": "DYNAMIC",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://nano-banana.lol/ai-subscriptions/chatgpt-workspace-subscription-check",
+      "status": 200,
+      "finalUrl": "https://nano-banana.lol/ai-subscriptions/chatgpt-workspace-subscription-check",
+      "bytes": 96488,
+      "sha256": "148bd826894fba0a28c791bb3a4d3c15de8a3a83ae46e25641003927c267efec",
+      "cache": "DYNAMIC",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://nano-banana.lol/ai-subscriptions/chatgpt-duplicate-subscription-charges",
+      "status": 200,
+      "finalUrl": "https://nano-banana.lol/ai-subscriptions/chatgpt-duplicate-subscription-charges",
+      "bytes": 95900,
+      "sha256": "ee754ec8b552517a4bf2968d29c147da3f04a5d67bada9904f9aeeb203d08696",
+      "cache": "DYNAMIC",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://nano-banana.lol/ai-subscriptions/chatgpt-wallet-balance-check",
+      "status": 200,
+      "finalUrl": "https://nano-banana.lol/ai-subscriptions/chatgpt-wallet-balance-check",
+      "bytes": 96989,
+      "sha256": "dd055de157d85b69dd1ef8278959d775d510baa0a73e91a1e6f6a05094fe6675",
+      "cache": "DYNAMIC",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://nano-banana.lol/ai-subscriptions/codex-cloud-github-repository-access",
+      "status": 200,
+      "finalUrl": "https://nano-banana.lol/ai-subscriptions/codex-cloud-github-repository-access",
+      "bytes": 98017,
+      "sha256": "2194392a075a34aa871f7692dbb0b232c2d9deacf7b0633d5ae6221387ced124",
+      "cache": "DYNAMIC",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://nano-banana.lol/ai-subscriptions/chatgpt-recharge",
+      "status": 200,
+      "finalUrl": "https://nano-banana.lol/ai-subscriptions/chatgpt-recharge",
+      "bytes": 125790,
+      "sha256": "ff4088fc07c1df44b7c23c8f34519a93b93d9217d5eeab208e04d200632ee9a9",
+      "cache": "DYNAMIC",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://nano-banana.lol/ai-subscriptions/chatgpt-plus-recharge",
+      "status": 200,
+      "finalUrl": "https://nano-banana.lol/ai-subscriptions/chatgpt-plus-recharge",
+      "bytes": 112984,
+      "sha256": "27aacca4f890558186eea3646979c359127691f6afed8498a1318280f323160a",
+      "cache": "DYNAMIC",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://nano-banana.lol/ai-subscriptions/codex-recharge",
+      "status": 200,
+      "finalUrl": "https://nano-banana.lol/ai-subscriptions/codex-recharge",
+      "bytes": 100808,
+      "sha256": "af43367eb326c0bb1e9e7b446fe8de67b7303d05ea2d991e400b19d843646b1d",
+      "cache": "DYNAMIC",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://nano-banana.lol/ai-subscriptions",
+      "status": 200,
+      "finalUrl": "https://nano-banana.lol/ai-subscriptions",
+      "bytes": 311136,
+      "sha256": "d4a1c4273e922b54542428921d200e7cb6dd4bd47f94343aa1e2b28f73f27c02",
+      "cache": "DYNAMIC",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://nano-banana.lol/sitemap.xml",
+      "status": 200,
+      "finalUrl": "https://nano-banana.lol/sitemap.xml",
+      "bytes": 160379,
+      "sha256": "cf761a36e20b0e2d27ad03923c28207f077e08f03984e5872ca49c9335b164e2",
+      "cache": "DYNAMIC",
+      "contentType": "application/xml"
+    },
+    {
+      "url": "https://nano-banana.lol/llms.txt",
+      "status": 200,
+      "finalUrl": "https://nano-banana.lol/llms.txt",
+      "bytes": 143856,
+      "sha256": "60c4bc3d1a80c7e56bbd24f8b947dc77afc1f87f41f09fafe0b7f65f816e9733",
+      "cache": "DYNAMIC",
+      "contentType": "text/plain; charset=utf-8"
+    },
+    {
+      "url": "https://nano-banana.lol/images/guides/five-pages-order-recovery-nano-20261019.webp",
+      "status": 200,
+      "finalUrl": "https://nano-banana.lol/images/guides/five-pages-order-recovery-nano-20261019.webp",
+      "bytes": 123826,
+      "sha256": "fcc95d7678f56d6d2910527ebfcd449ebc121d008ea666c9f76e49351bf36843",
+      "cache": "REVALIDATED",
+      "contentType": "image/webp"
+    },
+    {
+      "url": "https://nano-banana.lol/images/guides/five-pages-order-recovery-nano-20261019.svg",
+      "status": 200,
+      "finalUrl": "https://nano-banana.lol/images/guides/five-pages-order-recovery-nano-20261019.svg",
+      "bytes": 2216,
+      "sha256": "3edc363687ffd2ce53cf8238b6a584023f1d23fd69bc5152dce663254d7bef48",
+      "cache": "REVALIDATED",
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://nano-banana.lol/images/guides/five-pages-workspace-check-nano-20261019.webp",
+      "status": 200,
+      "finalUrl": "https://nano-banana.lol/images/guides/five-pages-workspace-check-nano-20261019.webp",
+      "bytes": 99202,
+      "sha256": "a47462838bda058fba1d8a902402c6bd645815a91ebacd5ef892037db46101a2",
+      "cache": "REVALIDATED",
+      "contentType": "image/webp"
+    },
+    {
+      "url": "https://nano-banana.lol/images/guides/five-pages-workspace-check-nano-20261019.svg",
+      "status": 200,
+      "finalUrl": "https://nano-banana.lol/images/guides/five-pages-workspace-check-nano-20261019.svg",
+      "bytes": 2453,
+      "sha256": "307d85079ef507db5202c3775c701406f462ca3f0f637a357c780a6eab385a1e",
+      "cache": "REVALIDATED",
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://nano-banana.lol/images/guides/five-pages-duplicate-billing-nano-20261019.webp",
+      "status": 200,
+      "finalUrl": "https://nano-banana.lol/images/guides/five-pages-duplicate-billing-nano-20261019.webp",
+      "bytes": 112996,
+      "sha256": "293cf0c792b003e24faea8d41c5c877c672273ee2909c5185e26e612246c82fc",
+      "cache": "REVALIDATED",
+      "contentType": "image/webp"
+    },
+    {
+      "url": "https://nano-banana.lol/images/guides/five-pages-duplicate-billing-nano-20261019.svg",
+      "status": 200,
+      "finalUrl": "https://nano-banana.lol/images/guides/five-pages-duplicate-billing-nano-20261019.svg",
+      "bytes": 2307,
+      "sha256": "b7471483bd3dfcf0822710b4400237f735a6705e04254c2552ee885451967bfb",
+      "cache": "REVALIDATED",
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://nano-banana.lol/images/guides/five-pages-wallet-balance-nano-20261019.webp",
+      "status": 200,
+      "finalUrl": "https://nano-banana.lol/images/guides/five-pages-wallet-balance-nano-20261019.webp",
+      "bytes": 117304,
+      "sha256": "1eee8e5bd0271282246ed3a215b5d6882fd37768e655926388352ca4b95aa5e4",
+      "cache": "REVALIDATED",
+      "contentType": "image/webp"
+    },
+    {
+      "url": "https://nano-banana.lol/images/guides/five-pages-wallet-balance-nano-20261019.svg",
+      "status": 200,
+      "finalUrl": "https://nano-banana.lol/images/guides/five-pages-wallet-balance-nano-20261019.svg",
+      "bytes": 2135,
+      "sha256": "6787e4177ac995a82ae3f05a3680ef6d434e46a3871c48073f2149cbdc4bbbc7",
+      "cache": "REVALIDATED",
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://nano-banana.lol/images/guides/five-pages-codex-repository-nano-20261019.webp",
+      "status": 200,
+      "finalUrl": "https://nano-banana.lol/images/guides/five-pages-codex-repository-nano-20261019.webp",
+      "bytes": 139310,
+      "sha256": "9f4908ad1edd45cda93904c30c029db7abaac4f6ea08c7914ebb30a3239c630c",
+      "cache": "REVALIDATED",
+      "contentType": "image/webp"
+    },
+    {
+      "url": "https://nano-banana.lol/images/guides/five-pages-codex-repository-nano-20261019.svg",
+      "status": 200,
+      "finalUrl": "https://nano-banana.lol/images/guides/five-pages-codex-repository-nano-20261019.svg",
+      "bytes": 2438,
+      "sha256": "8296d09a5ebb49fa4bf9f5324ad2996902e47dd2a4660072bc56aedb79a85fd9",
+      "cache": "REVALIDATED",
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://payforgpt.com/ai-subscriptions/order-card-recovery",
+      "status": 200,
+      "finalUrl": "https://payforgpt.com/ai-subscriptions/order-card-recovery",
+      "bytes": 101364,
+      "sha256": "658d8ab60e3f1bc66a351297422897e7c98585b14197cc1eff0e036576330cd7",
+      "cache": "DYNAMIC",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://payforgpt.com/ai-subscriptions/chatgpt-workspace-subscription-check",
+      "status": 200,
+      "finalUrl": "https://payforgpt.com/ai-subscriptions/chatgpt-workspace-subscription-check",
+      "bytes": 102032,
+      "sha256": "94be81bc6cfd66f1cd56446591befd23ae2973a075ae4c29c57497ab1ae24793",
+      "cache": "DYNAMIC",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://payforgpt.com/ai-subscriptions/chatgpt-duplicate-subscription-charges",
+      "status": 200,
+      "finalUrl": "https://payforgpt.com/ai-subscriptions/chatgpt-duplicate-subscription-charges",
+      "bytes": 100248,
+      "sha256": "36cae712f9aba2315e0e3fdd4023deee356e50af77252381dc71b1f13a4dd9f6",
+      "cache": "DYNAMIC",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://payforgpt.com/ai-subscriptions/chatgpt-wallet-balance-check",
+      "status": 200,
+      "finalUrl": "https://payforgpt.com/ai-subscriptions/chatgpt-wallet-balance-check",
+      "bytes": 102650,
+      "sha256": "128119e3ab36480b0fff64ae2233ef7dd76c1798826e83c82443b31ee20b1d7e",
+      "cache": "DYNAMIC",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://payforgpt.com/ai-subscriptions/codex-cloud-github-repository-access",
+      "status": 200,
+      "finalUrl": "https://payforgpt.com/ai-subscriptions/codex-cloud-github-repository-access",
+      "bytes": 103716,
+      "sha256": "45b42868cc1ea555856ff40ddcaa65735155d5240d94d655ece4d31f7355e80a",
+      "cache": "DYNAMIC",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://payforgpt.com/how-to/recharge-chatgpt-plus",
+      "status": 200,
+      "finalUrl": "https://payforgpt.com/how-to/recharge-chatgpt-plus",
+      "bytes": 119147,
+      "sha256": "de6ffa68565f3cfd20ed5a55871ad884d3a911010618e3756509ae083b05b3c4",
+      "cache": "HIT",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://payforgpt.com/codex",
+      "status": 200,
+      "finalUrl": "https://payforgpt.com/codex",
+      "bytes": 211980,
+      "sha256": "5e5653e8a265ee29275ec025c262129029986183b12484cbce15b46d4d89d790",
+      "cache": "DYNAMIC",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://payforgpt.com/ai-subscriptions",
+      "status": 200,
+      "finalUrl": "https://payforgpt.com/ai-subscriptions",
+      "bytes": 84991,
+      "sha256": "1dca84cf44c1316624ded703eb2efee4c23c5a5965c83ff2f94dd769ec1a8d7f",
+      "cache": "DYNAMIC",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://payforgpt.com/sitemap.xml",
+      "status": 200,
+      "finalUrl": "https://payforgpt.com/sitemap.xml",
+      "bytes": 188386,
+      "sha256": "e013ffc8861aba3d6366b64cc288f9b7192e19823d2f26a242f050fc812ed2f2",
+      "cache": "HIT",
+      "contentType": "application/xml"
+    },
+    {
+      "url": "https://payforgpt.com/llms.txt",
+      "status": 200,
+      "finalUrl": "https://payforgpt.com/llms.txt",
+      "bytes": 37212,
+      "sha256": "115ea0b77640daa897ab5843b4602bf9947e4297aad54a6bcc6ae2fda1b48c0d",
+      "cache": "DYNAMIC",
+      "contentType": "text/plain; charset=utf-8"
+    },
+    {
+      "url": "https://payforgpt.com/images/guides/five-pages-order-recovery-pfg-20261019.webp",
+      "status": 200,
+      "finalUrl": "https://payforgpt.com/images/guides/five-pages-order-recovery-pfg-20261019.webp",
+      "bytes": 124606,
+      "sha256": "5ce845dfc7b8496ffa83de3a00887cccc9f4821e030bcf9da6abf9e66627891c",
+      "cache": "REVALIDATED",
+      "contentType": "image/webp"
+    },
+    {
+      "url": "https://payforgpt.com/images/guides/five-pages-order-recovery-pfg-20261019.svg",
+      "status": 200,
+      "finalUrl": "https://payforgpt.com/images/guides/five-pages-order-recovery-pfg-20261019.svg",
+      "bytes": 2214,
+      "sha256": "3d2c69762ee5b0528266fe349f2658c58b3eabc6e2895fa80d755ae1e7520482",
+      "cache": "REVALIDATED",
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://payforgpt.com/images/guides/five-pages-workspace-check-pfg-20261019.webp",
+      "status": 200,
+      "finalUrl": "https://payforgpt.com/images/guides/five-pages-workspace-check-pfg-20261019.webp",
+      "bytes": 100668,
+      "sha256": "de79a92bb60df5d56f273ca1a18ac36b3622b50285596f365aafc65f2bd2728b",
+      "cache": "REVALIDATED",
+      "contentType": "image/webp"
+    },
+    {
+      "url": "https://payforgpt.com/images/guides/five-pages-workspace-check-pfg-20261019.svg",
+      "status": 200,
+      "finalUrl": "https://payforgpt.com/images/guides/five-pages-workspace-check-pfg-20261019.svg",
+      "bytes": 2451,
+      "sha256": "87660db21d4ce624e313a7162aff68315d882fa7e513c3f246646e273f54891f",
+      "cache": "REVALIDATED",
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://payforgpt.com/images/guides/five-pages-duplicate-billing-pfg-20261019.webp",
+      "status": 200,
+      "finalUrl": "https://payforgpt.com/images/guides/five-pages-duplicate-billing-pfg-20261019.webp",
+      "bytes": 114142,
+      "sha256": "e73da1771b65332d639bfd4c0e3e461da534f3351a31e4a86a0f77ac27158312",
+      "cache": "REVALIDATED",
+      "contentType": "image/webp"
+    },
+    {
+      "url": "https://payforgpt.com/images/guides/five-pages-duplicate-billing-pfg-20261019.svg",
+      "status": 200,
+      "finalUrl": "https://payforgpt.com/images/guides/five-pages-duplicate-billing-pfg-20261019.svg",
+      "bytes": 2305,
+      "sha256": "cf2227319478a04647917334d3d18fdb79f920d60249d7201ba05c1e10132717",
+      "cache": "REVALIDATED",
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://payforgpt.com/images/guides/five-pages-wallet-balance-pfg-20261019.webp",
+      "status": 200,
+      "finalUrl": "https://payforgpt.com/images/guides/five-pages-wallet-balance-pfg-20261019.webp",
+      "bytes": 115278,
+      "sha256": "1abf4a71d11cec98bbef37a25a5f42843f1686d700beb4823ce4ce3bdb1a0302",
+      "cache": "REVALIDATED",
+      "contentType": "image/webp"
+    },
+    {
+      "url": "https://payforgpt.com/images/guides/five-pages-wallet-balance-pfg-20261019.svg",
+      "status": 200,
+      "finalUrl": "https://payforgpt.com/images/guides/five-pages-wallet-balance-pfg-20261019.svg",
+      "bytes": 2133,
+      "sha256": "813c5a35fabf89d27d115c45438d769c4be7666d08f7d16a8a7321d78ffe603d",
+      "cache": "REVALIDATED",
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://payforgpt.com/images/guides/five-pages-codex-repository-pfg-20261019.webp",
+      "status": 200,
+      "finalUrl": "https://payforgpt.com/images/guides/five-pages-codex-repository-pfg-20261019.webp",
+      "bytes": 142214,
+      "sha256": "910342707372ab65e0f2b64fc7522d0d7f1425a11a53a3e959d319204e4417a6",
+      "cache": "REVALIDATED",
+      "contentType": "image/webp"
+    },
+    {
+      "url": "https://payforgpt.com/images/guides/five-pages-codex-repository-pfg-20261019.svg",
+      "status": 200,
+      "finalUrl": "https://payforgpt.com/images/guides/five-pages-codex-repository-pfg-20261019.svg",
+      "bytes": 2436,
+      "sha256": "d4f8c0a5c2f38ca92b89df93fa18e92dad06958cb49ad933e20e2239300fc37f",
+      "cache": "REVALIDATED",
+      "contentType": "image/svg+xml"
+    }
+  ]
+}

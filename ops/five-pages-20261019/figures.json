@@ -1,0 +1,148 @@
+{
+  "concepts": [
+    {
+      "id": "order-recovery",
+      "claim": "订单页关了，按记录找回",
+      "relation": "Two alternative branches: known order credentials versus missing credentials. No guaranteed reissue or reconstructed secrets.",
+      "candidateSelection": "Use conditional branches, nested workspaces, parallel ledgers, separated balance/entitlement, or permission gates as appropriate; reject a guaranteed-success checkout metaphor.",
+      "method": "Deterministic original SVG with exact typography and text equivalent in each article."
+    },
+    {
+      "id": "workspace-check",
+      "claim": "同一登录，也要核对工作区",
+      "relation": "One account contains separate personal and business workspace contexts; entitlements are not assumed identical or merged.",
+      "candidateSelection": "Use conditional branches, nested workspaces, parallel ledgers, separated balance/entitlement, or permission gates as appropriate; reject a guaranteed-success checkout metaphor.",
+      "method": "Deterministic original SVG with exact typography and text equivalent in each article."
+    },
+    {
+      "id": "duplicate-billing",
+      "claim": "先分开三本订阅账单",
+      "relation": "Three parallel billing ledgers must be checked independently; cancellation is not a refund.",
+      "candidateSelection": "Use conditional branches, nested workspaces, parallel ledgers, separated balance/entitlement, or permission gates as appropriate; reject a guaranteed-success checkout metaphor.",
+      "method": "Deterministic original SVG with exact typography and text equivalent in each article."
+    },
+    {
+      "id": "wallet-balance",
+      "claim": "钱包有余额，再核对买什么",
+      "relation": "Wallet balance is not subscription entitlement; eligibility and purchase object must be checked at official checkout.",
+      "candidateSelection": "Use conditional branches, nested workspaces, parallel ledgers, separated balance/entitlement, or permission gates as appropriate; reject a guaranteed-success checkout metaphor.",
+      "method": "Deterministic original SVG with exact typography and text equivalent in each article."
+    },
+    {
+      "id": "codex-repository",
+      "claim": "仓库看不到，逐层核对权限",
+      "relation": "Account repository access, app repository scope and organization approval are separate conditions, not membership benefits.",
+      "candidateSelection": "Use conditional branches, nested workspaces, parallel ledgers, separated balance/entitlement, or permission gates as appropriate; reject a guaranteed-success checkout metaphor.",
+      "method": "Deterministic original SVG with exact typography and text equivalent in each article."
+    }
+  ],
+  "records": [
+    {
+      "site": "nano",
+      "topic": "order-recovery",
+      "src": "/images/guides/five-pages-order-recovery-nano-20261019.webp",
+      "svg": "/images/guides/five-pages-order-recovery-nano-20261019.svg",
+      "width": 960,
+      "height": 1200,
+      "sha256": "fcc95d7678f56d6d2910527ebfcd449ebc121d008ea666c9f76e49351bf36843",
+      "bytes": 123826
+    },
+    {
+      "site": "nano",
+      "topic": "workspace-check",
+      "src": "/images/guides/five-pages-workspace-check-nano-20261019.webp",
+      "svg": "/images/guides/five-pages-workspace-check-nano-20261019.svg",
+      "width": 960,
+      "height": 1200,
+      "sha256": "a47462838bda058fba1d8a902402c6bd645815a91ebacd5ef892037db46101a2",
+      "bytes": 99202
+    },
+    {
+      "site": "nano",
+      "topic": "duplicate-billing",
+      "src": "/images/guides/five-pages-duplicate-billing-nano-20261019.webp",
+      "svg": "/images/guides/five-pages-duplicate-billing-nano-20261019.svg",
+      "width": 960,
+      "height": 1200,
+      "sha256": "293cf0c792b003e24faea8d41c5c877c672273ee2909c5185e26e612246c82fc",
+      "bytes": 112996
+    },
+    {
+      "site": "nano",
+      "topic": "wallet-balance",
+      "src": "/images/guides/five-pages-wallet-balance-nano-20261019.webp",
+      "svg": "/images/guides/five-pages-wallet-balance-nano-20261019.svg",
+      "width": 960,
+      "height": 1200,
+      "sha256": "1eee8e5bd0271282246ed3a215b5d6882fd37768e655926388352ca4b95aa5e4",
+      "bytes": 117304
+    },
+    {
+      "site": "nano",
+      "topic": "codex-repository",
+      "src": "/images/guides/five-pages-codex-repository-nano-20261019.webp",
+      "svg": "/images/guides/five-pages-codex-repository-nano-20261019.svg",
+      "width": 960,
+      "height": 1200,
+      "sha256": "9f4908ad1edd45cda93904c30c029db7abaac4f6ea08c7914ebb30a3239c630c",
+      "bytes": 139310
+    },
+    {
+      "site": "pfg",
+      "topic": "order-recovery",
+      "src": "/images/guides/five-pages-order-recovery-pfg-20261019.webp",
+      "svg": "/images/guides/five-pages-order-recovery-pfg-20261019.svg",
+      "width": 960,
+      "height": 1200,
+      "sha256": "5ce845dfc7b8496ffa83de3a00887cccc9f4821e030bcf9da6abf9e66627891c",
+      "bytes": 124606
+    },
+    {
+      "site": "pfg",
+      "topic": "workspace-check",
+      "src": "/images/guides/five-pages-workspace-check-pfg-20261019.webp",
+      "svg": "/images/guides/five-pages-workspace-check-pfg-20261019.svg",
+      "width": 960,
+      "height": 1200,
+      "sha256": "de79a92bb60df5d56f273ca1a18ac36b3622b50285596f365aafc65f2bd2728b",
+      "bytes": 100668
+    },
+    {
+      "site": "pfg",
+      "topic": "duplicate-billing",
+      "src": "/images/guides/five-pages-duplicate-billing-pfg-20261019.webp",
+      "svg": "/images/guides/five-pages-duplicate-billing-pfg-20261019.svg",
+      "width": 960,
+      "height": 1200,
+      "sha256": "e73da1771b65332d639bfd4c0e3e461da534f3351a31e4a86a0f77ac27158312",
+      "bytes": 114142
+    },
+    {
+      "site": "pfg",
+      "topic": "wallet-balance",
+      "src": "/images/guides/five-pages-wallet-balance-pfg-20261019.webp",
+      "svg": "/images/guides/five-pages-wallet-balance-pfg-20261019.svg",
+      "width": 960,
+      "height": 1200,
+      "sha256": "1abf4a71d11cec98bbef37a25a5f42843f1686d700beb4823ce4ce3bdb1a0302",
+      "bytes": 115278
+    },
+    {
+      "site": "pfg",
+      "topic": "codex-repository",
+      "src": "/images/guides/five-pages-codex-repository-pfg-20261019.webp",
+      "svg": "/images/guides/five-pages-codex-repository-pfg-20261019.svg",
+      "width": 960,
+      "height": 1200,
+      "sha256": "910342707372ab65e0f2b64fc7522d0d7f1425a11a53a3e959d319204e4417a6",
+      "bytes": 142214
+    }
+  ],
+  "visualQA": {
+    "tenFinalPreviewsViewedAt480px": true,
+    "clippedTextOrOverlapsObserved": false,
+    "merchantOrOfficialUIScreenshotImplied": false,
+    "equivalentTextRequiredInArticles": true,
+    "actualBrowserLayoutTested": false
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "method": "Existing per-domain public key verified; only changed ordinary200/indexable URLs submitted. No key values in this receipt.",
+  "sites": [
+    {
+      "site": "https://nano-banana.lol",
+      "submittedAtUtc": "2026-10-19T11:41:14.377158+00:00",
+      "urls": [
+        "https://nano-banana.lol/ai-subscriptions/order-card-recovery",
+        "https://nano-banana.lol/ai-subscriptions/chatgpt-workspace-subscription-check",
+        "https://nano-banana.lol/ai-subscriptions/chatgpt-duplicate-subscription-charges",
+        "https://nano-banana.lol/ai-subscriptions/chatgpt-wallet-balance-check",
+        "https://nano-banana.lol/ai-subscriptions/codex-cloud-github-repository-access",
+        "https://nano-banana.lol/ai-subscriptions",
+        "https://nano-banana.lol/ai-subscriptions/chatgpt-recharge",
+        "https://nano-banana.lol/ai-subscriptions/chatgpt-plus-recharge",
+        "https://nano-banana.lol/ai-subscriptions/codex-recharge"
+      ],
+      "count": 9,
+      "excluded": [],
+      "httpStatus": 200,
+      "accepted": true,
+      "publicKeyVerified": true,
+      "meaning": "notification accepted only; not indexed/ranked proof"
+    },
+    {
+      "site": "https://payforgpt.com",
+      "submittedAtUtc": "2026-10-19T11:41:24.134680+00:00",
+      "urls": [
+        "https://payforgpt.com/ai-subscriptions/order-card-recovery",
+        "https://payforgpt.com/ai-subscriptions/chatgpt-workspace-subscription-check",
+        "https://payforgpt.com/ai-subscriptions/chatgpt-duplicate-subscription-charges",
+        "https://payforgpt.com/ai-subscriptions/chatgpt-wallet-balance-check",
+        "https://payforgpt.com/ai-subscriptions/codex-cloud-github-repository-access",
+        "https://payforgpt.com/ai-subscriptions",
+        "https://payforgpt.com/how-to/recharge-chatgpt-plus",
+        "https://payforgpt.com/codex"
+      ],
+      "count": 8,
+      "excluded": [],
+      "httpStatus": 200,
+      "accepted": true,
+      "publicKeyVerified": true,
+      "meaning": "notification accepted only; not indexed/ranked proof"
+    }
+  ],
+  "submittedCount": 17,
+  "indexingOrRankingConfirmed": false
+}

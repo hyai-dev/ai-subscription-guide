@@ -1,0 +1,405 @@
+{
+  "result": "pass",
+  "verifiedAtUtc": "2026-10-19T11:42:46.722882+00:00",
+  "newCanonicalArticles": {
+    "nano": 5,
+    "payforgpt": 5,
+    "total": 10
+  },
+  "articleStructure": "Each new article has six task sections, four FAQ, cited sources, one original concept illustration, equivalent text and next-step/failure branches.",
+  "publishedAt": "2026-10-19",
+  "reviewedAt": "2026-10-19",
+  "sourceReleases": [
+    {
+      "repository": "hyai-dev/nano-banana-web",
+      "commit": "24aa6f47ff73674254db1ed882cebc39be254f9b",
+      "pushedTo": "main",
+      "sourceFiles": [
+        "lib/nano-seo-content.ts",
+        "app/ai-subscriptions/page.tsx",
+        "app/llms.txt/route.ts",
+        "public/images/guides/five-pages-order-recovery-nano-20261019.svg",
+        "public/images/guides/five-pages-order-recovery-nano-20261019.webp",
+        "public/images/guides/five-pages-workspace-check-nano-20261019.svg",
+        "public/images/guides/five-pages-workspace-check-nano-20261019.webp",
+        "public/images/guides/five-pages-duplicate-billing-nano-20261019.svg",
+        "public/images/guides/five-pages-duplicate-billing-nano-20261019.webp",
+        "public/images/guides/five-pages-wallet-balance-nano-20261019.svg",
+        "public/images/guides/five-pages-wallet-balance-nano-20261019.webp",
+        "public/images/guides/five-pages-codex-repository-nano-20261019.svg",
+        "public/images/guides/five-pages-codex-repository-nano-20261019.webp",
+        "docs/research/five-task-pages-2026-10-19.md"
+      ],
+      "deployStatus": "success",
+      "workflow": "https://github.com/hyai-dev/nano-banana-web/actions/runs/39244789017",
+      "ordinaryReadback": "pass"
+    },
+    {
+      "repository": "hyai-dev/payforgpt-web",
+      "commit": "c90db3166f6e189e5c74213bf6f95d08a92c8b62",
+      "pushedTo": "main",
+      "sourceFiles": [
+        "lib/subscription-buyer-guides.ts",
+        "lib/merchant-guide-paths.ts",
+        "lib/nano-seo-content.ts",
+        "app/ai-subscriptions/[slug]/page.tsx",
+        "components/purchase-task-links.tsx",
+        "app/how-to/recharge-chatgpt-plus/page.tsx",
+        "app/codex/page.tsx",
+        "app/llms.txt/route.ts",
+        "public/images/guides/five-pages-order-recovery-pfg-20261019.webp",
+        "public/images/guides/five-pages-order-recovery-pfg-20261019.svg",
+        "public/images/guides/five-pages-workspace-check-pfg-20261019.webp",
+        "public/images/guides/five-pages-workspace-check-pfg-20261019.svg",
+        "public/images/guides/five-pages-duplicate-billing-pfg-20261019.webp",
+        "public/images/guides/five-pages-duplicate-billing-pfg-20261019.svg",
+        "public/images/guides/five-pages-wallet-balance-pfg-20261019.webp",
+        "public/images/guides/five-pages-wallet-balance-pfg-20261019.svg",
+        "public/images/guides/five-pages-codex-repository-pfg-20261019.webp",
+        "public/images/guides/five-pages-codex-repository-pfg-20261019.svg",
+        "docs/research/five-task-pages-2026-10-19.md"
+      ],
+      "deployStatus": "success",
+      "workflow": "https://github.com/hyai-dev/payforgpt-web/actions/runs/39244798195",
+      "ordinaryReadback": "pass"
+    }
+  ],
+  "productionWorkflows": [
+    {
+      "conclusion": "success",
+      "databaseId": 39244798195,
+      "headSha": "c90db3166f6e189e5c74213bf6f95d08a92c8b62",
+      "status": "completed",
+      "url": "https://github.com/hyai-dev/payforgpt-web/actions/runs/39244798195",
+      "workflowName": "Build and Push Docker Image",
+      "repository": "hyai-dev/payforgpt-web"
+    },
+    {
+      "conclusion": "success",
+      "databaseId": 39244789017,
+      "headSha": "24aa6f47ff73674254db1ed882cebc39be254f9b",
+      "status": "completed",
+      "url": "https://github.com/hyai-dev/nano-banana-web/actions/runs/39244789017",
+      "workflowName": "Build and Push Docker Image",
+      "repository": "hyai-dev/nano-banana-web"
+    }
+  ],
+  "articles": {
+    "nano": [
+      {
+        "path": "/ai-subscriptions/order-card-recovery",
+        "title": "关闭付款页后，怎么找回原订单和卡密",
+        "primaryAction": {
+          "href": "/order",
+          "label": "回原订单查询"
+        },
+        "sources": [
+          {
+            "title": "Nano Banana：订单查询入口",
+            "url": "https://nano-banana.lol/order"
+          },
+          {
+            "title": "Nano Banana：订单与凭证帮助",
+            "url": "https://nano-banana.lol/help"
+          },
+          {
+            "title": "Nano Banana：交付与售后条款",
+            "url": "https://nano-banana.lol/terms#after-sales-matrix"
+          }
+        ]
+      },
+      {
+        "path": "/ai-subscriptions/chatgpt-workspace-subscription-check",
+        "title": "有订阅却找不到权益？先核对 Personal 和 Business 工作区",
+        "primaryAction": {
+          "href": "/ai-subscriptions/chatgpt-workspace-subscription-check#identity-workspace",
+          "label": "开始核对账号与工作区"
+        },
+        "sources": [
+          {
+            "title": "OpenAI：Business 工作区、成员与席位 FAQ",
+            "url": "https://help.openai.com/en/articles/8542115-chatgpt-business-general-faq"
+          },
+          {
+            "title": "OpenAI：个人工作区迁移与数据边界",
+            "url": "https://help.openai.com/en/articles/8801890-migrating-your-personal-workspace-to-chatgpt-business-or-enterprise"
+          },
+          {
+            "title": "OpenAI：Plus 与本人账号核对",
+            "url": "https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus"
+          }
+        ]
+      },
+      {
+        "path": "/ai-subscriptions/chatgpt-duplicate-subscription-charges",
+        "title": "ChatGPT 网页和手机重复扣费，怎样按原订阅处理",
+        "primaryAction": {
+          "href": "/topics/cancel-subscription",
+          "label": "按原渠道核对取消"
+        },
+        "sources": [
+          {
+            "title": "OpenAI：避免网页与手机重复订阅及扣费",
+            "url": "https://help.openai.com/en/articles/20001043-how-do-i-avoid-being-charged-twice-if-i-subscribe-to-chatgpt-on-ios-android-and-the-web"
+          },
+          {
+            "title": "OpenAI：订阅关联另一个账号的说明",
+            "url": "https://help.openai.com/en/articles/20001056-why-am-i-seeing-a-message-that-my-subscription-is-associated-with-another-account"
+          }
+        ]
+      },
+      {
+        "path": "/ai-subscriptions/chatgpt-wallet-balance-check",
+        "title": "ChatGPT 钱包有余额，为什么会员还没开通",
+        "primaryAction": {
+          "href": "/ai-subscriptions/chatgpt-wallet-balance-check#identify-funds",
+          "label": "开始辨认余额与记录"
+        },
+        "sources": [
+          {
+            "title": "OpenAI：ChatGPT 钱包余额与结账说明",
+            "url": "https://help.openai.com/en/articles/20001508-using-your-chatgpt-wallet-balance"
+          },
+          {
+            "title": "OpenAI：官方礼品卡购买与兑换",
+            "url": "https://help.openai.com/en/articles/20001491-buying-and-redeeming-openai-gift-cards"
+          },
+          {
+            "title": "OpenAI：个人计划 usage credits 说明",
+            "url": "https://help.openai.com/en/articles/12642688"
+          }
+        ]
+      },
+      {
+        "path": "/ai-subscriptions/codex-cloud-github-repository-access",
+        "title": "Codex 云端看不到 GitHub 仓库，先查连接和授权",
+        "primaryAction": {
+          "href": "/ai-subscriptions/codex-cloud-github-repository-access#locate-cloud-step",
+          "label": "从失败步骤开始核对"
+        },
+        "sources": [
+          {
+            "title": "OpenAI：Codex Cloud 使用与仓库访问",
+            "url": "https://help.openai.com/en/articles/20001545-using-codex-cloud"
+          },
+          {
+            "title": "OpenAI：创建、发布与更新云环境",
+            "url": "https://learn.chatgpt.com/docs/environments/cloud-environments"
+          },
+          {
+            "title": "GitHub：查看与修改应用仓库访问范围",
+            "url": "https://docs.github.com/en/apps/using-github-apps/reviewing-and-modifying-installed-github-apps"
+          },
+          {
+            "title": "GitHub：向组织所有者申请应用",
+            "url": "https://docs.github.com/en/apps/using-github-apps/requesting-a-github-app-from-your-organization-owner"
+          }
+        ]
+      }
+    ],
+    "pfg": [
+      {
+        "path": "/ai-subscriptions/order-card-recovery",
+        "title": "关闭页面后，怎样找回 PayForGPT 订单与卡密",
+        "primaryAction": {
+          "label": "查询本站原订单",
+          "href": "/order",
+          "external": false
+        },
+        "sources": [
+          {
+            "title": "PayForGPT：订单查询与当前浏览器最近订单",
+            "url": "https://payforgpt.com/order"
+          },
+          {
+            "title": "PayForGPT：帮助与人工核单材料",
+            "url": "https://payforgpt.com/help"
+          }
+        ]
+      },
+      {
+        "path": "/ai-subscriptions/chatgpt-workspace-subscription-check",
+        "title": "Personal 与 Business 工作区：套餐不一致怎么查",
+        "primaryAction": {
+          "label": "阅读官方工作区说明",
+          "href": "https://help.openai.com/en/articles/8542115-chatgpt-business-general-faq",
+          "external": true
+        },
+        "sources": [
+          {
+            "title": "OpenAI：Business工作区、成员与席位FAQ",
+            "url": "https://help.openai.com/en/articles/8542115-chatgpt-business-general-faq"
+          },
+          {
+            "title": "OpenAI：个人工作区迁移与数据关系",
+            "url": "https://help.openai.com/en/articles/8801890-migrating-your-personal-workspace-to-chatgpt-business-or-enterprise"
+          }
+        ]
+      },
+      {
+        "path": "/ai-subscriptions/chatgpt-duplicate-subscription-charges",
+        "title": "ChatGPT出现两张收据：渠道与账期怎么对账",
+        "primaryAction": {
+          "label": "先确认原账单处理方",
+          "href": "/how-to/handle-payment-failed",
+          "external": false
+        },
+        "sources": [
+          {
+            "title": "OpenAI：避免iOS、Android与网页重复订阅扣费",
+            "url": "https://help.openai.com/en/articles/20001043-how-do-i-avoid-being-charged-twice-if-i-subscribe-to-chatgpt-on-ios-android-and-the-web"
+          }
+        ]
+      },
+      {
+        "path": "/ai-subscriptions/chatgpt-wallet-balance-check",
+        "title": "ChatGPT钱包余额、订阅与credits：怎样分别核对",
+        "primaryAction": {
+          "label": "阅读官方钱包规则",
+          "href": "https://help.openai.com/en/articles/20001508-using-your-chatgpt-wallet-balance",
+          "external": true
+        },
+        "sources": [
+          {
+            "title": "OpenAI：使用ChatGPT钱包余额",
+            "url": "https://help.openai.com/en/articles/20001508-using-your-chatgpt-wallet-balance"
+          },
+          {
+            "title": "OpenAI：购买与兑换OpenAI礼品卡",
+            "url": "https://help.openai.com/en/articles/20001491-buying-and-redeeming-openai-gift-cards"
+          },
+          {
+            "title": "OpenAI：credits灵活用量说明",
+            "url": "https://help.openai.com/en/articles/12642688"
+          }
+        ]
+      },
+      {
+        "path": "/ai-subscriptions/codex-cloud-github-repository-access",
+        "title": "Codex云端看不到GitHub仓库：连接与授权怎么查",
+        "primaryAction": {
+          "label": "阅读官方Codex Cloud说明",
+          "href": "https://help.openai.com/en/articles/20001545-using-codex-cloud",
+          "external": true
+        },
+        "sources": [
+          {
+            "title": "OpenAI：使用Codex Cloud与个人GitHub连接",
+            "url": "https://help.openai.com/en/articles/20001545-using-codex-cloud"
+          },
+          {
+            "title": "OpenAI：云端环境与仓库选择",
+            "url": "https://learn.chatgpt.com/docs/environments/cloud-environments"
+          },
+          {
+            "title": "GitHub：检查并修改已安装GitHub Apps",
+            "url": "https://docs.github.com/en/apps/using-github-apps/reviewing-and-modifying-installed-github-apps"
+          },
+          {
+            "title": "GitHub：向组织所有者请求GitHub App",
+            "url": "https://docs.github.com/en/apps/using-github-apps/requesting-a-github-app-from-your-organization-owner"
+          }
+        ]
+      }
+    ]
+  },
+  "keywordQueue": {
+    "site": "02 GETGPT Pro",
+    "rows": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "candidateQueries": [
+      "ChatGPT代充",
+      "ChatGPT充值",
+      "ChatGPT Plus代充",
+      "ChatGPT Plus充值",
+      "Codex代充"
+    ],
+    "existingOwnersRetained": {
+      "nano": [
+        "/ai-subscriptions/chatgpt-recharge",
+        "/ai-subscriptions/chatgpt-plus-recharge",
+        "/ai-subscriptions/codex-recharge"
+      ],
+      "payforgpt": [
+        "/how-to/recharge-chatgpt-plus",
+        "/codex"
+      ]
+    }
+  },
+  "figures": {
+    "originalConcepts": 5,
+    "siteVersions": 10,
+    "formats": [
+      "SVG",
+      "WebP"
+    ],
+    "dimensions": "960×1200",
+    "ten480pxPreviewsVisuallyInspected": true
+  },
+  "validation": {
+    "nanoFinalChecks": [
+      {
+        "command": "npm run check:contrast",
+        "exitCode": 0
+      },
+      {
+        "command": "npm run check:copy-safety",
+        "exitCode": 0
+      },
+      {
+        "command": "npm run test:seo-internal-links",
+        "exitCode": 0
+      },
+      {
+        "command": "npm run test:nano-link-integrity-p1",
+        "exitCode": 0
+      },
+      {
+        "command": "npm run test:guide-truthful-order-state",
+        "exitCode": 0
+      },
+      {
+        "command": "npm run test:json-ld-serialization",
+        "exitCode": 0
+      },
+      {
+        "command": "./node_modules/.bin/tsc --noEmit --incremental false",
+        "exitCode": 0
+      },
+      {
+        "command": "git diff --check",
+        "exitCode": 0
+      },
+      {
+        "command": "npm run build",
+        "exitCode": 0
+      },
+      {
+        "command": "Local source/runtime check",
+        "exitCode": 0
+      },
+      {
+        "command": "Local source/runtime check",
+        "exitCode": 0
+      }
+    ],
+    "nanoBuildExit": 0,
+    "pfgBuildExit": 0,
+    "pfgFinalRuntimePassed": true,
+    "pfgFinalTypeScriptExit": 0,
+    "independentReview": "PASS; 130 static checks, no blocking findings",
+    "pfgPostReviewTrim": "Removed implementation filenames from buyer source note; final build and HTTP assertions repeated."
+  },
+  "boundaries": [
+    "No purchase, credential submission, card recovery, workspace migration, refund, GitHub connection or organization approval performed.",
+    "Ordinary public GET and inert parsing are not browser viewport or real payment tests.",
+    "IndexNow notification acceptance does not prove indexing, ranking or conversion.",
+    "Public guide primary-article inventory remains 19; this execution index is not counted as a new primary tutorial.",
+    "Original SKU, authorized interface/review, server-side source-to-paid/delivered attribution and measured effects remain separately unfinished."
+  ]
+}
