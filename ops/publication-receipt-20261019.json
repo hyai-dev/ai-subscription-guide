@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "batch": "public-guide-20261019",
+  "repository": "hyai-dev/ai-subscription-guide",
+  "state": "public content published and first daily workflow successfully executed",
+  "recordedAtUtc": "2026-10-19T07:36:10.687661+00:00",
+  "sourceCommit": "0f5c552d6fd6bbc2b463db649f9e42e26df52264",
+  "firstCloudObservationCommit": "ee6ff6bb28fd74b9002448983f80dd019ea30f89",
+  "visibility": "public, already public before this work; no application repository visibility changed",
+  "content": {
+    "primaryTutorials": 10,
+    "newPracticalTutorials": 4,
+    "rewrittenHistoricalTutorials": 2,
+    "stableArchiveCopies": 10,
+    "archiveCopiesAreAdditionalOriginals": false,
+    "newOriginalDiagrams": 5,
+    "referencedWebpImagesTotal": 9,
+    "editableSvgSources": 5
+  },
+  "maintenance": {
+    "scheduleUtc": "0 2 * * *",
+    "scheduledBeijingTime": "10:00",
+    "schedulerGuarantee": "Configured schedule; runs can be delayed or disabled by GitHub policies. Future executions are not established by this first run.",
+    "firstRunUrl": "https://github.com/hyai-dev/ai-subscription-guide/actions/runs/39216556657",
+    "firstRunSourceCommit": "0f5c552d6fd6bbc2b463db649f9e42e26df52264",
+    "firstRunConclusion": "success",
+    "sourcePagesHttp200": 8,
+    "sourcesWithAdvertisedOffers": 6,
+    "advertisedOfferRecords": 28,
+    "unknownSourceIds": [
+      "gptcz",
+      "getgpt"
+    ],
+    "observationTime": "2026-10-19T07:32:14.937Z",
+    "priceTableFormatting": "SIM and invoice columns added from existing unknown fields using same JSON/time; locally tested and independently reviewed. No new price observation implied."
+  },
+  "verification": {
+    "localNodeTestsPassed": 25,
+    "cloudNodeTestsPassedOnFirstRun": 25,
+    "markdownFilesChecked": 30,
+    "localLinksChecked": 138,
+    "csvIndependentlyRecalculated": true,
+    "immutablePublicReadbackRecords": 29,
+    "contentAndCodeIndependentReview": "pass",
+    "newWebsiteScreenshotsOrModelPerformanceTest": false
+  },
+  "security": {
+    "baselineAllCommitsRead": 6,
+    "baselineUniqueHistoricalBlobsRead": 17,
+    "secretScanning": "enabled and read back",
+    "pushProtection": "enabled and read back",
+    "paidAdvancedSecurityRequested": false,
+    "limitation": "Finite pattern and human review, not a guarantee that every possible secret is absent."
+  },
+  "attribution": {
+    "campaignLinks": "implemented by topic and site",
+    "endToEndPaymentDeliveryAttribution": "pending; standard checkout transport and event collection need separate acceptance",
+    "realConversionLiftEstablished": false
+  },
+  "feishu": {
+    "executionLog": "Updated separately by the authorized operator in section 12; Actions has no Feishu credentials or automatic write claim.",
+    "keywordMatrixRowsMarkedByThisRelease": 0
+  },
+  "boundaries": [
+    "Public advertised claims are not comparable checkout totals, verified entitlements or a lowest-price ranking.",
+    "Unknown SIM, invoice, tax, currency, period or eligibility stays unknown; no invented competitor disadvantages.",
+    "No real payment, invoice issuance, PDF OCR, PPTX generation, model benchmark, search indexing or revenue test performed."
+  ],
+  "evidence": [
+    {
+      "file": "ops/public-audit-baseline-20261019.json",
+      "sha256": "44d940cc2cc7639613381a55e2ba3019985c9b7355dc56193e75e2c8bf045358"
+    },
+    {
+      "file": "ops/content-review-20261019.json",
+      "sha256": "fefc0b08b8b780d8cbe8839d33497c098e9d90ba40f7f10fca49600b2e80d177"
+    },
+    {
+      "file": "ops/code-security-review-20261019.json",
+      "sha256": "a7b5d7c35674d5fc02402da355fc10964922e7405c370508d5db5d6018129f69"
+    },
+    {
+      "file": "ops/public-readback-20261019.json",
+      "sha256": "6b343a0aa2095a2bcb5ce81ecf9e235a43c28bcbe503d1784591f433b014f4f6"
+    },
+    {
+      "file": "ops/actions-first-run-20261019.json",
+      "sha256": "ce60d9980e747f47aafc36177ac6c7778f6e4f9bdf27d722e7be9241e0fa3437"
+    },
+    {
+      "file": "ops/measurement-audit-20261019.json",
+      "sha256": "55ddc900f40ee59759fdbe7f144a10ab2c3c5694c0169360a4a3b676b8615b86"
+    }
+  ]
+}

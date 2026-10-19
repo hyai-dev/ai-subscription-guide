@@ -323,10 +323,10 @@ function sourceLink(label, value) {
 }
 function periodLabel(period) { return period && ['month', 'year'].includes(period.unit) && Number.isSafeInteger(period.count) && period.count > 0 ? `${period.count} ${period.unit}` : 'unknown'; }
 export function renderPriceMarkdown(report) {
-  const rows = ['# 公开报价观察（待人工复核）', '', `生成时间：${md(report.generatedAt)}`, '', '只记录公开页面的商品报价声明；不代表实际结算总价、可售保证、发票承诺或独立权益验证。币种、周期、账号形态、资格及税费未核实时不能直接比较。抓取失败或未找到实体绑定报价记为未知，零价仍为 0。', '', '| 来源 | 商品 | 页面报价 | 周期 | 账号形态 | 提取方法 | 观察时间 |', '| --- | --- | --- | --- | --- | --- | --- |'];
+  const rows = ['# 公开报价观察（待人工复核）', '', `生成时间：${md(report.generatedAt)}`, '', '只记录公开页面的商品报价声明；不代表实际结算总价、可售保证、发票承诺或独立权益验证。币种、周期、账号形态、资格及税费未核实时不能直接比较。抓取失败或未找到实体绑定报价记为未知，零价仍为 0。', '', '| 来源 | 商品 | 页面报价 | 周期 | 账号形态 | 实体SIM | 开票条件 | 提取方法 | 观察时间 |', '| --- | --- | --- | --- | --- | --- | --- | --- | --- |'];
   for (const page of report.pages) {
-    if (!page.offers.length) rows.push(`| ${sourceLink(page.sourceName, page.sourceUrl)} | 未知 | null | unknown | unknown | ${md(page.reason || page.status)} | ${md(page.observedAt)} |`);
-    for (const offer of page.offers) rows.push(`| ${sourceLink(page.sourceName, offer.sourceUrl)} | ${md(offer.productName)} | ${offer.price === null ? 'null' : md(offer.price)} ${md(offer.currency)}${offer.priceType === 'from' ? ' 起' : ''} | ${md(periodLabel(offer.billingPeriod))} | ${md(offer.accountType)} | ${md(offer.evidence.method)} | ${md(offer.observedAt)} |`);
+    if (!page.offers.length) rows.push(`| ${sourceLink(page.sourceName, page.sourceUrl)} | 未知 | null | unknown | unknown | unknown | unknown | ${md(page.reason || page.status)} | ${md(page.observedAt)} |`);
+    for (const offer of page.offers) rows.push(`| ${sourceLink(page.sourceName, offer.sourceUrl)} | ${md(offer.productName)} | ${offer.price === null ? 'null' : md(offer.price)} ${md(offer.currency)}${offer.priceType === 'from' ? ' 起' : ''} | ${md(periodLabel(offer.billingPeriod))} | ${md(offer.accountType)} | ${md(offer.simSupport?.value ?? 'unknown')} | ${md(offer.invoiceSupport?.value ?? 'unknown')} | ${md(offer.evidence.method)} | ${md(offer.observedAt)} |`);
   }
   rows.push('', 'SIM、发票、含税与购买资格字段默认 unknown，并保留来源和观察时间。unknown 不表示不支持；未见信息也不能写成竞品没有该能力。全部报价仍需人工核对商品、币种、周期、适用账号、税费和实际结算页。', '');
   return rows.join('\n');

@@ -1,6 +1,6 @@
 {
   "schemaVersion": "guide-independent-publication-review-v1",
-  "reviewedAtUtc": "2026-10-19T07:30:46.815953+00:00",
+  "reviewedAtUtc": "2026-10-19T07:35:14.671346+00:00",
   "repository": "hyai-dev/ai-subscription-guide",
   "baselineCommit": "2baf9abfca23ace1129b0501cfdabf9c4f8b1b00",
   "scope": "Read-only source/content review of unpushed working-tree changes; no repository writes, remote writes or UI activity by reviewer. Baseline history audit separately covers six existing commits.",
@@ -76,7 +76,7 @@
     },
     {
       "path": "tools/price-tracker.mjs",
-      "sha256": "eb5fba466b2d6f68116bf6799bea0c756fd18e06ea5775314e9d1881b4ed0ac1"
+      "sha256": "64fd364ee6dd6d4dddf1abd664857c810b5001775d3ca7ceeccf95059b68debf"
     },
     {
       "path": "tests/sync.test.mjs",
@@ -137,13 +137,21 @@
     {
       "path": "assets/manifest.json",
       "sha256": "74e0db7d4c5e7beb81c3ea1e2c37c28d5572a86ed547fb27c7ff0d6a647413d9"
+    },
+    {
+      "path": "data/prices/latest.json",
+      "sha256": "3000ee50ed4923c26f92c8f32d21f3aa3d8ddae52507174f5c588cd6532ffdbd"
+    },
+    {
+      "path": "data/prices/latest.md",
+      "sha256": "140c8c15dcea8407c7f932a89ad715054fd8ad57d1ff6c3320fbd38aecb942b4"
     }
   ],
   "limitations": [
-    "Network price collection from this machine was blocked by non-public DNS mapping; do not bypass the guard. A normal GitHub Actions run is still required.",
     "Reviewer did not perform real login, purchase, payment, redemption, customer data access, model benchmark or revenue measurement.",
     "No complete independent re-fetch of all cited official sources in this review; editor source receipts are separate evidence.",
-    "Pattern scans and manual review are bounded; no absolute guarantee of absence of sensitive information or third-party rights issues."
+    "Pattern scans and manual review are bounded; no absolute guarantee of absence of sensitive information or third-party rights issues.",
+    "Initial normal-network Actions success is recorded separately in guide-actions-first-run-20261019.json. This follow-up checked only the Markdown display delta; no network collection repeated."
   ],
   "acceptanceBoundary": "Independent read-only local source/content and regression review passed. This receipt is not a remote publication, normal-network price-fetch, Actions success, transaction, indexing or conversion receipt.",
   "resolvedFindings": [
@@ -207,5 +215,18 @@
     "licenseScopeFixed": true,
     "originalFourImageRepositoryPathsExist": true,
     "repositoryOrRemoteMutationByReviewer": false
+  },
+  "reviewedWorkingTreeBaseCommit": "ee6ff6bb28fd74b9002448983f80dd019ea30f89",
+  "formatOnlyFollowup": {
+    "reviewedAtUtc": "2026-10-19T07:35:14.671346+00:00",
+    "description": "Added entity SIM and invoicing-condition columns to price Markdown using existing fields; no collector or JSON changes.",
+    "rendererMatchesCurrentFile": true,
+    "priceJsonSha256UnchangedFromFirstSuccessfulActions": "3000ee50ed4923c26f92c8f32d21f3aa3d8ddae52507174f5c588cd6532ffdbd",
+    "generatedAtUnchanged": "2026-10-19T07:32:14.937Z",
+    "removingTwoColumnsExactlyRecoversPreviousMarkdown": true,
+    "unknownRemainsUnknown": true,
+    "hostileSimAndInvoiceValuesLiteralized": true,
+    "networkRequestsRepeated": false,
+    "status": "pass"
   }
 }

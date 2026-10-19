@@ -1,0 +1,307 @@
+{
+  "schemaVersion": "guide-first-actions-receipt-v1",
+  "repository": "hyai-dev/ai-subscription-guide",
+  "observedAtUtc": "2026-10-19T07:33:42.189506+00:00",
+  "run": {
+    "conclusion": "success",
+    "createdAt": "2026-10-19T07:31:41Z",
+    "databaseId": 39216556657,
+    "event": "workflow_dispatch",
+    "headSha": "0f5c552d6fd6bbc2b463db649f9e42e26df52264",
+    "status": "completed",
+    "updatedAt": "2026-10-19T07:32:21Z",
+    "url": "https://github.com/hyai-dev/ai-subscription-guide/actions/runs/39216556657"
+  },
+  "jobs": [
+    {
+      "name": "validate",
+      "jobId": 117941675572,
+      "url": "https://github.com/hyai-dev/ai-subscription-guide/actions/runs/39216556657/job/117941675572",
+      "status": "completed",
+      "conclusion": "success",
+      "startedAt": "2026-10-19T07:31:46Z",
+      "completedAt": "2026-10-19T07:31:51Z",
+      "steps": [
+        {
+          "name": "Set up job",
+          "status": "completed",
+          "conclusion": "success"
+        },
+        {
+          "name": "Run actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1",
+          "status": "completed",
+          "conclusion": "success"
+        },
+        {
+          "name": "Run actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1",
+          "status": "completed",
+          "conclusion": "success"
+        },
+        {
+          "name": "Run npm test",
+          "status": "completed",
+          "conclusion": "success"
+        },
+        {
+          "name": "Run npm run check",
+          "status": "completed",
+          "conclusion": "success"
+        },
+        {
+          "name": "Post Run actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1",
+          "status": "completed",
+          "conclusion": "success"
+        },
+        {
+          "name": "Post Run actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1",
+          "status": "completed",
+          "conclusion": "success"
+        },
+        {
+          "name": "Complete job",
+          "status": "completed",
+          "conclusion": "success"
+        }
+      ]
+    },
+    {
+      "name": "observe-and-sync",
+      "jobId": 117941720262,
+      "url": "https://github.com/hyai-dev/ai-subscription-guide/actions/runs/39216556657/job/117941720262",
+      "status": "completed",
+      "conclusion": "success",
+      "startedAt": "2026-10-19T07:31:54Z",
+      "completedAt": "2026-10-19T07:32:20Z",
+      "steps": [
+        {
+          "name": "Set up job",
+          "status": "completed",
+          "conclusion": "success"
+        },
+        {
+          "name": "Run actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1",
+          "status": "completed",
+          "conclusion": "success"
+        },
+        {
+          "name": "Run actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1",
+          "status": "completed",
+          "conclusion": "success"
+        },
+        {
+          "name": "Check current public manuscripts and related site pages",
+          "status": "completed",
+          "conclusion": "success"
+        },
+        {
+          "name": "Observe configured public price sources",
+          "status": "completed",
+          "conclusion": "success"
+        },
+        {
+          "name": "Rebuild stable archives and recent updates",
+          "status": "completed",
+          "conclusion": "success"
+        },
+        {
+          "name": "Run npm run check",
+          "status": "completed",
+          "conclusion": "success"
+        },
+        {
+          "name": "Publish only generated changes",
+          "status": "completed",
+          "conclusion": "success"
+        },
+        {
+          "name": "Post Run actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1",
+          "status": "completed",
+          "conclusion": "success"
+        },
+        {
+          "name": "Post Run actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1",
+          "status": "completed",
+          "conclusion": "success"
+        },
+        {
+          "name": "Complete job",
+          "status": "completed",
+          "conclusion": "success"
+        }
+      ]
+    }
+  ],
+  "cloudValidation": {
+    "tests": 25,
+    "pass": 25,
+    "fail": 0,
+    "skipped": 0
+  },
+  "priceCollection": {
+    "configuredSources": 8,
+    "http200Sources": 8,
+    "sourcesWithEntityBoundAdvertisedOffers": 6,
+    "entityBoundAdvertisedOffers": 28,
+    "sourcesWithoutReliableEntityBoundPrice": [
+      "gptcz",
+      "getgpt"
+    ],
+    "generatedAt": "2026-10-19T07:32:14.937Z",
+    "automaticComparison": false,
+    "humanReviewRequired": true,
+    "jsonSha256": "3000ee50ed4923c26f92c8f32d21f3aa3d8ddae52507174f5c588cd6532ffdbd",
+    "pages": [
+      {
+        "sourceId": "gptpro20x",
+        "sourceName": "GPTPro20x",
+        "requestedUrl": "https://gptpro20x.com/chatgpt/",
+        "sourceUrl": "https://gptpro20x.com/chatgpt/",
+        "observedAt": "2026-10-19T07:32:10.640Z",
+        "httpStatus": 200,
+        "bodyBytes": 46244,
+        "bodySha256": "435c8c4bc0092815906d8066d54f59e4479d9bf2747c3ab1eeb96a91540c6b9d",
+        "redirects": [],
+        "status": "observed_advertised_offers",
+        "warnings": [
+          "AMBIGUOUS_CARD_PRICES_SKIPPED"
+        ],
+        "offerCount": 6,
+        "priceWhenUnavailable": null,
+        "unknownFieldsRetained": true
+      },
+      {
+        "sourceId": "gptpro5x",
+        "sourceName": "GPTPro5x",
+        "requestedUrl": "https://gptpro5x.com/",
+        "sourceUrl": "https://gptpro5x.com/",
+        "observedAt": "2026-10-19T07:32:10.909Z",
+        "httpStatus": 200,
+        "bodyBytes": 136144,
+        "bodySha256": "57deabf2648637dd8e7b76c73fdc7003eb7d139045f00a4e0f8712c2b8f05255",
+        "redirects": [],
+        "status": "observed_advertised_offers",
+        "warnings": [],
+        "offerCount": 6,
+        "priceWhenUnavailable": null,
+        "unknownFieldsRetained": true
+      },
+      {
+        "sourceId": "gptcz",
+        "sourceName": "GPTCZ",
+        "requestedUrl": "https://gptcz.pro/plus",
+        "sourceUrl": "https://gptcz.pro/plus",
+        "observedAt": "2026-10-19T07:32:11.879Z",
+        "httpStatus": 200,
+        "bodyBytes": 2671,
+        "bodySha256": "8602ccb40fc5a57315890a60bb532d104715abbefc3004b13cc9f22436b3783d",
+        "redirects": [],
+        "status": "no_entity_bound_price_found",
+        "warnings": [],
+        "offerCount": 0,
+        "priceWhenUnavailable": null,
+        "unknownFieldsRetained": true
+      },
+      {
+        "sourceId": "aichongzhi",
+        "sourceName": "AIchongzhi",
+        "requestedUrl": "https://aichongzhi.org/chatgpt/",
+        "sourceUrl": "https://aichongzhi.org/chatgpt/",
+        "observedAt": "2026-10-19T07:32:11.956Z",
+        "httpStatus": 200,
+        "bodyBytes": 47918,
+        "bodySha256": "3d6ec66c3796539379a271e8d5c53fc54105fd312b2d08f97d60ca942900574c",
+        "redirects": [],
+        "status": "observed_advertised_offers",
+        "warnings": [],
+        "offerCount": 3,
+        "priceWhenUnavailable": null,
+        "unknownFieldsRetained": true
+      },
+      {
+        "sourceId": "getgpt",
+        "sourceName": "GETGPT Pro",
+        "requestedUrl": "https://getgpt.pro/plus-price",
+        "sourceUrl": "https://getgpt.pro/plus-price",
+        "observedAt": "2026-10-19T07:32:12.114Z",
+        "httpStatus": 200,
+        "bodyBytes": 90718,
+        "bodySha256": "ad8929e0cfbc5d51106f4047e135ebbb57f97374f29f4a2c7faa3a6544a99490",
+        "redirects": [],
+        "status": "no_entity_bound_price_found",
+        "warnings": [],
+        "offerCount": 0,
+        "priceWhenUnavailable": null,
+        "unknownFieldsRetained": true
+      },
+      {
+        "sourceId": "payforchat",
+        "sourceName": "PayForChat",
+        "requestedUrl": "https://www.payforchat.com/",
+        "sourceUrl": "https://www.payforchat.com/",
+        "observedAt": "2026-10-19T07:32:13.422Z",
+        "httpStatus": 200,
+        "bodyBytes": 235500,
+        "bodySha256": "94e79d9551ba1cb7dab574e9aa0b9d9ada50e148a2308b65a00791e957ca4ceb",
+        "redirects": [],
+        "status": "observed_advertised_offers",
+        "warnings": [],
+        "offerCount": 4,
+        "priceWhenUnavailable": null,
+        "unknownFieldsRetained": true
+      },
+      {
+        "sourceId": "nano-banana",
+        "sourceName": "Nano Banana",
+        "requestedUrl": "https://nano-banana.lol/",
+        "sourceUrl": "https://nano-banana.lol/",
+        "observedAt": "2026-10-19T07:32:13.724Z",
+        "httpStatus": 200,
+        "bodyBytes": 304916,
+        "bodySha256": "95d9e614e6d9ad1b2e2f6c7e4441bca3dcb2c570b4abe22e81d869e63d5ca4dd",
+        "redirects": [],
+        "status": "observed_advertised_offers",
+        "warnings": [],
+        "offerCount": 6,
+        "priceWhenUnavailable": null,
+        "unknownFieldsRetained": true
+      },
+      {
+        "sourceId": "payforgpt",
+        "sourceName": "PayForGPT",
+        "requestedUrl": "https://payforgpt.com/",
+        "sourceUrl": "https://payforgpt.com/",
+        "observedAt": "2026-10-19T07:32:14.876Z",
+        "httpStatus": 200,
+        "bodyBytes": 242931,
+        "bodySha256": "3c71bc8db1398ceefd2eac110b19d33d97fbe5e09ab0ac7ecb5695e1aeaca630",
+        "redirects": [],
+        "status": "observed_advertised_offers",
+        "warnings": [],
+        "offerCount": 3,
+        "priceWhenUnavailable": null,
+        "unknownFieldsRetained": true
+      }
+    ]
+  },
+  "generatedPublication": {
+    "botCommit": "ee6ff6bb28fd74b9002448983f80dd019ea30f89",
+    "url": "https://github.com/hyai-dev/ai-subscription-guide/commit/ee6ff6bb28fd74b9002448983f80dd019ea30f89",
+    "author": "github-actions[bot]",
+    "parentSourceCommit": "0f5c552d6fd6bbc2b463db649f9e42e26df52264",
+    "message": "chore: refresh observed public prices and reviewed guide indexes",
+    "changedFiles": [
+      "data/prices/latest.json",
+      "data/prices/latest.md"
+    ],
+    "commitAndPushConfirmedInJobLog": true,
+    "remoteCommitAndFilesReadBack": true,
+    "forcePushUsed": false
+  },
+  "scope": "Read-only monitoring of exactly this existing manual run and resulting public generated commit. No dispatch, cancellation, repository writes or source fixes by reviewer. Raw logs, tokens and private local paths are not included.",
+  "limitations": [
+    "HTTP200 and an advertised offer are source observations; not checkout totals, entitlement validation, invoice/SIM support or comparable-price rankings.",
+    "GPTCZ and GETGPT returned public pages but no reliable entity-bound price; their prices remain unknown, not zero and not unsupported.",
+    "One successful manual run proves this execution only; future scheduled execution can be delayed or fail.",
+    "No login, payment, redemption, model benchmark, indexing, ranking, email outreach or end-to-end revenue attribution tested."
+  ]
+}

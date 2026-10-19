@@ -9,7 +9,11 @@
 - 配置8源公开价格观察和每日UTC02:00计划；实际请求及首轮Actions结果以公开运行和发布回执为准，不以“写了脚本”代替成功运行。
 - 补充代码 MIT、内容许可、素材说明、贡献与安全流程；完成有限的基线文件/提交历史审阅并开启基础密钥扫描与推送保护。
 
-本条记录描述源代码改动，不作为自身提交的远端验收证明。首次公开回读、运行结果与后续修正另存发布回执；未做真实交易、模型准确率或收入测试。
+首次公开发布已完成：源提交 [`0f5c552`](https://github.com/hyai-dev/ai-subscription-guide/commit/0f5c552d6fd6bbc2b463db649f9e42e26df52264)，[首次手动运行](https://github.com/hyai-dev/ai-subscription-guide/actions/runs/39216556657)成功，云端25项测试通过。8源均HTTP200，6源提取28条页面报价声明；GPTCZ与GETGPT缺少可靠实体报价，保留未知。机器人提交 [`ee6ff6b`](https://github.com/hyai-dev/ai-subscription-guide/commit/ee6ff6bb28fd74b9002448983f80dd019ea30f89)仅更新价格观察文件。
+
+[公开回读](ops/public-readback-20261019.json)覆盖10篇主稿、9张引用位图、README及9个不同的相关站点入口，共29项；固定提交的稿件与图片逐一核对字节哈希。[首次Actions回执](ops/actions-first-run-20261019.json)另列云端请求结果。随后价格表补显实体SIM与开票两列，使用同一云端观察JSON重渲染，未修改观察时间或推定能力。
+
+上述回执只证明所列版本与检查范围。未做真实交易、模型准确率、搜索排名或收入测试。
 
 待后续：来源到付款/交付订单的端到端归因验收。UTM、客户端埋点和链接可达不等于已产生或测得转化。
 
