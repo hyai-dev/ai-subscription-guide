@@ -1,0 +1,53 @@
+{
+  "result": "pass",
+  "verifiedAtUtc": "2026-10-19T11:47:05.401474+00:00",
+  "beforeRevision": 176,
+  "afterRevision": 183,
+  "newKeywordChecks": 5,
+  "newSiteArticles": 10,
+  "completedInOriginalQueue": 60,
+  "totalOriginalQueue": 2500,
+  "pending": 2440,
+  "next": {
+    "site": "02 GETGPT Pro",
+    "row": 11,
+    "keyword": "Codex充值"
+  },
+  "originalCompleted55Preserved": true,
+  "other49KeywordTablesPreserved": true,
+  "untargeted45RowsAndOtherColumnsPreserved": true,
+  "allOtherOriginalTopLevelBlocksPreservedInOrder": true,
+  "codexSpecialEntriesPreserved": true,
+  "url": "https://vi8r050ecuz.feishu.cn/docx/M3iDdYCNFo9C3RxHBEXc1Rrpn9f#doxcnDTlPdSbRNcVu2KH1j4455f",
+  "mutations": [
+    {
+      "operation": "complete-task-row-6",
+      "revision": 177
+    },
+    {
+      "operation": "complete-task-row-7",
+      "revision": 178
+    },
+    {
+      "operation": "complete-task-row-8",
+      "revision": 179
+    },
+    {
+      "operation": "complete-task-row-9",
+      "revision": 180
+    },
+    {
+      "operation": "complete-task-row-10",
+      "revision": 181
+    },
+    {
+      "operation": "insert-five-task-summary",
+      "revision": 182
+    },
+    {
+      "operation": "replace-five-task-cursor",
+      "revision": 183
+    }
+  ],
+  "meaning": "Bilateral writing and release complete; no claim of indexing or conversion."
+}

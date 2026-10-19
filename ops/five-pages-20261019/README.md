@@ -25,3 +25,11 @@
 [源码与验收](release.json) · [官方来源](sources.json) · [图解关系及哈希](figures.json) · [普通网址回读](live-readback.json) · [IndexNow通知](indexnow.json)。17个更新HTML URL的通知受理不等于Bing或Google已收录。公共指南现有19篇主稿不变，本页作为发布索引与回执另计。
 
 飞书原表第02站第6–10条的5个写作标记，在双站代码与线上验收后单独更新；第11条「Codex充值」留待下批。原SKU履约确认、授权真实界面/评价、服务端成交归因与实际效果数据继续分别验收。
+
+## 飞书完成标记与保全
+
+原表第02站第6–10条5个主词已勾选，累计60/2500，2440待处理。下一条第11条「Codex充值」。原55个完成标记、其他49张关键词表、目标表其余45行和其他列、历史及另6个Codex专题均保留，见[关键词写入回执](keyword-feishu-receipt.json)。
+
+第九章新增5组双站文章的完成标记，执行看板追加本轮记录；原4项待办及原服务器归因勾选继续保留未完成，见[报告写入回执](feishu-receipt.json)。[公开发布文件回读](public-report-readback.json)与[首次云端检查](public-initial-ci.json)另存；发布、通知受理与完成标记不代表搜索排名或转化效果。
+
+源码提交：[payforgpt-web c90db31](https://github.com/hyai-dev/payforgpt-web/commit/c90db3166f6e189e5c74213bf6f95d08a92c8b62) · [nano-banana-web 24aa6f4](https://github.com/hyai-dev/nano-banana-web/commit/24aa6f47ff73674254db1ed882cebc39be254f9b)。两站商业源码仓库的访问权限保持原状。

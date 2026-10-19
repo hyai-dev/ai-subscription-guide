@@ -1,0 +1,58 @@
+{
+  "result": "pass",
+  "commit": "4a511a4ff538880925635aa11824edb3d7756e7f",
+  "observedAtUtc": "2026-10-19T11:44:25.442957+00:00",
+  "method": "Unauthenticated fixed-commit public raw HTTP GET and byte comparison",
+  "checkedFiles": 7,
+  "files": [
+    {
+      "file": "CHANGELOG.md",
+      "url": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/4a511a4ff538880925635aa11824edb3d7756e7f/CHANGELOG.md",
+      "status": 200,
+      "sha256": "6a1c5face470b6e2323f6e812f4ac55e305b02bff151f3060b76635072982ab7",
+      "matchesLocalBytes": true
+    },
+    {
+      "file": "ops/five-pages-20261019/README.md",
+      "url": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/4a511a4ff538880925635aa11824edb3d7756e7f/ops/five-pages-20261019/README.md",
+      "status": 200,
+      "sha256": "1d748c54c9f2faf13366578fc1bf7af58c9757a3e5afc068657d5cded4ef968e",
+      "matchesLocalBytes": true
+    },
+    {
+      "file": "ops/five-pages-20261019/release.json",
+      "url": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/4a511a4ff538880925635aa11824edb3d7756e7f/ops/five-pages-20261019/release.json",
+      "status": 200,
+      "sha256": "956145d15878ba749c81bafe4af34c654eff7f70228dd912d2f72d998efd826e",
+      "matchesLocalBytes": true
+    },
+    {
+      "file": "ops/five-pages-20261019/sources.json",
+      "url": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/4a511a4ff538880925635aa11824edb3d7756e7f/ops/five-pages-20261019/sources.json",
+      "status": 200,
+      "sha256": "77827469b89a36425d521e997c6ed1af553c311ec42a9ca69a266406d1b7b77f",
+      "matchesLocalBytes": true
+    },
+    {
+      "file": "ops/five-pages-20261019/figures.json",
+      "url": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/4a511a4ff538880925635aa11824edb3d7756e7f/ops/five-pages-20261019/figures.json",
+      "status": 200,
+      "sha256": "f79fb5915a8f206446ab37df3843f113f83ab8cde35a47491d4730303cfb38f6",
+      "matchesLocalBytes": true
+    },
+    {
+      "file": "ops/five-pages-20261019/live-readback.json",
+      "url": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/4a511a4ff538880925635aa11824edb3d7756e7f/ops/five-pages-20261019/live-readback.json",
+      "status": 200,
+      "sha256": "ff6037b804d9fc7e2998ef7d63f902d7bffb665ac28117de3dae1b7ec1557d43",
+      "matchesLocalBytes": true
+    },
+    {
+      "file": "ops/five-pages-20261019/indexnow.json",
+      "url": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/4a511a4ff538880925635aa11824edb3d7756e7f/ops/five-pages-20261019/indexnow.json",
+      "status": 200,
+      "sha256": "0d2887a2b1a16ad0d00d6b2cec9b520df3c88d9d91f85d0c0c29a4abc21641c6",
+      "matchesLocalBytes": true
+    }
+  ]
+}
