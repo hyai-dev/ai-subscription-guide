@@ -1,0 +1,107 @@
+{
+  "recorded_at": "2026-10-20T07:01:02.657792+00:00",
+  "scope": "Research documentation only; no shop deployment, article creation or keyword-queue check this turn",
+  "source_commit": "57b5509bf50aec484c1d8d5ae74197f0ae58a98e",
+  "source_commit_url": "https://github.com/hyai-dev/ai-subscription-guide/commit/57b5509bf50aec484c1d8d5ae74197f0ae58a98e",
+  "source_ci": {
+    "run_id": 39383597886,
+    "url": "https://github.com/hyai-dev/ai-subscription-guide/actions/runs/39383597886",
+    "conclusion": "success"
+  },
+  "public_readback": {
+    "checked_at": "2026-10-20T06:59:26.302330+00:00",
+    "commit": "57b5509bf50aec484c1d8d5ae74197f0ae58a98e",
+    "anonymous": true,
+    "files": [
+      {
+        "file": "CHANGELOG.md",
+        "url": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/57b5509bf50aec484c1d8d5ae74197f0ae58a98e/CHANGELOG.md",
+        "status": 200,
+        "bytes": 6476,
+        "sha256": "d05c84aa203389c1dfa8259a1d1a3b5644a4031b020a670fad86b6d5ca50d345",
+        "matches_local": true
+      },
+      {
+        "file": "README.md",
+        "url": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/57b5509bf50aec484c1d8d5ae74197f0ae58a98e/README.md",
+        "status": 200,
+        "bytes": 10906,
+        "sha256": "07c7ab45254841ebbe1a1f1be218b23f20788230ab5b63f816828f87f3b9ec1f",
+        "matches_local": true
+      },
+      {
+        "file": "ops/competitor-public-evidence-20261020/README.md",
+        "url": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/57b5509bf50aec484c1d8d5ae74197f0ae58a98e/ops/competitor-public-evidence-20261020/README.md",
+        "status": 200,
+        "bytes": 17647,
+        "sha256": "7c46f5b8303828d9355b554a8ec4e38661d3ec784f1299bd278bb9d42aa2145f",
+        "matches_local": true
+      },
+      {
+        "file": "ops/competitor-public-evidence-20261020/evidence.json",
+        "url": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/57b5509bf50aec484c1d8d5ae74197f0ae58a98e/ops/competitor-public-evidence-20261020/evidence.json",
+        "status": 200,
+        "bytes": 90088,
+        "sha256": "df48ad9ed25cf8f120f7c7def2e0307de8fd039b133f55ffc99455c5e99ea62a",
+        "matches_local": true
+      },
+      {
+        "file": "ops/competitor-public-evidence-20261020/review.json",
+        "url": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/57b5509bf50aec484c1d8d5ae74197f0ae58a98e/ops/competitor-public-evidence-20261020/review.json",
+        "status": 200,
+        "bytes": 1696,
+        "sha256": "8f678ab72753eef604cd70020e6e88976cbcda961d329963f51d3b8337f2d713",
+        "matches_local": true
+      },
+      {
+        "file": "ops/competitor-public-evidence-20261020/url-inventory.json",
+        "url": "https://raw.githubusercontent.com/hyai-dev/ai-subscription-guide/57b5509bf50aec484c1d8d5ae74197f0ae58a98e/ops/competitor-public-evidence-20261020/url-inventory.json",
+        "status": 200,
+        "bytes": 37517,
+        "sha256": "0015a99e75e71a37ab6a6084c80a9ad2eac30ed351a4714dc86f22c49de26cf5",
+        "matches_local": true
+      }
+    ],
+    "result": "pass"
+  },
+  "feishu_sync": {
+    "checked_at": "2026-10-20T06:59:59.073281+00:00",
+    "document_url": "https://vi8r050ecuz.feishu.cn/docx/PRk6dFpZaoPewPx6s0mcBT9Anre",
+    "before_revision": 19,
+    "after_revision": 20,
+    "new_heading": "十五、2026-10-20 公开证据复核：真实引荐链、文章地图与双站下一步【本次新增】",
+    "new_heading_id": "doxcnbkX0ULDLs3330ZplGC8k2e",
+    "new_section_url": "https://vi8r050ecuz.feishu.cn/docx/PRk6dFpZaoPewPx6s0mcBT9Anre#doxcnbkX0ULDLs3330ZplGC8k2e",
+    "original_top_blocks_preserved": 316,
+    "original_checkboxes_preserved": 25,
+    "original_pending_unchanged": [
+      "doxcnmXdxDx6tN86k6JO8ZElbKe",
+      "doxcnHNLo9NvHxCry2ds2iuHLYe",
+      "doxcnjPd69MbMP7bp4IWVxcVHFe",
+      "doxcn2fSwM9nHKTJgsJ2GL1mhtc"
+    ],
+    "keyword_queue_modified": false,
+    "new_keyword_checks": 0,
+    "scope": "Research completed and archived; site implementation proposals remain pending.",
+    "result": "pass",
+    "original_top_blocks_with_ids_preserved": 275,
+    "all_original_top_blocks_in_order": true,
+    "top_blocks_after": 335
+  },
+  "local_check": {
+    "result": "pass",
+    "primary_articles": 19,
+    "markdown_files": 58,
+    "local_links": 353,
+    "generated_files_changed": 0
+  },
+  "independent_consistency_review": {
+    "result": "pass",
+    "checks": 23,
+    "blockers": 0
+  },
+  "limits": [
+    "No transaction, browser-interaction, indexing, traffic-causality or paid/delivered attribution verification.",
+    "Source CI and byte comparisons above refer to the explicitly recorded source commit."
+  ]
+}
