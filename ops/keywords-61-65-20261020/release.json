@@ -322,5 +322,18 @@
     "No real account changes, payments, API calls, automatic reload or inventory transactions were tested.",
     "No browser/phone layout or screen-reader interaction test; preview images and inert DOM semantics only.",
     "Private commercial repositories keep their existing visibility. Public guide primary-article count remains19; this is an operations report."
-  ]
+  ],
+  "verifiedFeishuProgress": {
+    "completed": 65,
+    "total": 2500,
+    "newChecks": 5,
+    "next": {
+      "site": "02 GETGPT Pro",
+      "row": 16,
+      "keyword": "GPT-6代充"
+    },
+    "queueReceipt": "keyword-feishu-receipt.json",
+    "reportReceipt": "feishu-receipt.json",
+    "otherTasksStillPending": 4
+  }
 }

@@ -1,0 +1,25 @@
+{
+  "result": "pass",
+  "verifiedAtUtc": "2026-10-20T05:07:29.628994+00:00",
+  "chapter9": {
+    "beforeRevision": 16,
+    "afterRevision": 17,
+    "url": "https://vi8r050ecuz.feishu.cn/docx/PRk6dFpZaoPewPx6s0mcBT9Anre#doxcn5kqJcM8qWyEreRtPyaUmtf",
+    "originalSectionBlocksPreserved": 42
+  },
+  "executionBoard": {
+    "beforeRevision": 18,
+    "afterRevision": 19,
+    "url": "https://vi8r050ecuz.feishu.cn/docx/MD4NdOO12oKnHwxlMNVc9aHQn3f#doxcnVkqtAyjeaA4JQLzUIo49se",
+    "originalSectionBlocksPreserved": 73
+  },
+  "newSiteArticles": 10,
+  "newArticleMilestones": 5,
+  "originalPendingTasksPreserved": 4,
+  "originalAttributionCheckboxStillPending": true,
+  "newKeywordChecks": 5,
+  "completedOriginalQueue": 65,
+  "keywordQueue": "https://vi8r050ecuz.feishu.cn/docx/M3iDdYCNFo9C3RxHBEXc1Rrpn9f#doxcnQxw1lSX2vsiO7ELhRulqPh",
+  "overwrites": 0,
+  "meaning": "Concrete article and release work complete; no indexing or conversion proof."
+}

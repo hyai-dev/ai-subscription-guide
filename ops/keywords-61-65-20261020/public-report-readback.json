@@ -1,0 +1,50 @@
+{
+  "result": "pass",
+  "commit": "2f2b310352d337bb1e7026b2cb24cf870a9aebc2",
+  "checkedAtUtc": "2026-10-20T05:03:46.574067+00:00",
+  "method": "Anonymous ordinary fixed-commit raw GitHub GET; exact file-byte comparison.",
+  "files": [
+    {
+      "path": "ops/keywords-61-65-20261020/README.md",
+      "status": 200,
+      "bytes": 4402,
+      "sha256": "75819da4c3159adaeb488250c520dc7c5eb775badf6cbe0a1ae674dd08c84808",
+      "exactBytes": true
+    },
+    {
+      "path": "ops/keywords-61-65-20261020/research.json",
+      "status": 200,
+      "bytes": 56691,
+      "sha256": "c71165b7c1ab27a30d9b04bee592920430837a7496d159101051e9095c23b037",
+      "exactBytes": true
+    },
+    {
+      "path": "ops/keywords-61-65-20261020/release.json",
+      "status": 200,
+      "bytes": 12620,
+      "sha256": "a379ee484998c3d9305f68a48c2c9e8153b7ea7d39cf919bbd6c00a8dabade36",
+      "exactBytes": true
+    },
+    {
+      "path": "ops/keywords-61-65-20261020/figures.json",
+      "status": 200,
+      "bytes": 8584,
+      "sha256": "9a0ca8e3a464a19304a109a6766b60402f473c026f9ffc332d245992a4b583f9",
+      "exactBytes": true
+    },
+    {
+      "path": "ops/keywords-61-65-20261020/live-readback.json",
+      "status": 200,
+      "bytes": 323978,
+      "sha256": "d74293b673d5c1e7d13891b42a8c930037b326311c7e86fff9460b32cdf4f5a9",
+      "exactBytes": true
+    },
+    {
+      "path": "ops/keywords-61-65-20261020/indexnow.json",
+      "status": 200,
+      "bytes": 2154,
+      "sha256": "0248436ac1aabe9fa15acaae33af9376641bc2d411cfc83bf56b5b8f086de4c6",
+      "exactBytes": true
+    }
+  ]
+}

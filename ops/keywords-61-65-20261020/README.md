@@ -37,3 +37,11 @@ Nano原工作流只使用构建阶段成功证据，整体已取消；[既有备
 [源码与检查回执](release.json) · [线上回读](live-readback.json) · [图解及哈希](figures.json)。18个更新HTML URL的[IndexNow通知](indexnow.json)受理，不等于Bing/Google已收录。
 
 飞书以原行完成标记及后附回执为准。公共指南仍19篇主稿，本目录是执行与发布记录，不另计教程数。未进行真实订单、账号升级、自动扣款或API请求，也不声称本轮带来排名、流量或转化增长。
+
+## 飞书完成标记
+
+原第02站第11–15条已分别勾选，原表累计 **65/2500**，2435待处理。下一条第16条「GPT-6代充」仍待写作；原60个标记、另外49张关键词表、目标表其余45行及历史均保留。
+
+[本批关键词与续写位置](https://vi8r050ecuz.feishu.cn/docx/M3iDdYCNFo9C3RxHBEXc1Rrpn9f#doxcnQxw1lSX2vsiO7ELhRulqPh) · [第九章新记录](https://vi8r050ecuz.feishu.cn/docx/PRk6dFpZaoPewPx6s0mcBT9Anre#doxcn5kqJcM8qWyEreRtPyaUmtf) · [执行看板](https://vi8r050ecuz.feishu.cn/docx/MD4NdOO12oKnHwxlMNVc9aHQn3f#doxcnVkqtAyjeaA4JQLzUIo49se)。
+
+[关键词写入回执](keyword-feishu-receipt.json)和[报告写入回执](feishu-receipt.json)已归档。原SKU履约、授权真实界面/评价、服务端来源到订单归因、实际效果4项保持未完成，未借写文章勾选这些工作。公开文件在首次提交的[匿名回读](public-report-readback.json)及[云端检查](public-initial-ci.json)另存；这些证明不等同于搜索收录或转化结果。

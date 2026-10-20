@@ -1,0 +1,53 @@
+{
+  "result": "pass",
+  "verifiedAtUtc": "2026-10-20T05:06:24.383755+00:00",
+  "beforeRevision": 183,
+  "afterRevision": 190,
+  "newKeywordChecks": 5,
+  "newSiteArticles": 10,
+  "completedInOriginalQueue": 65,
+  "totalOriginalQueue": 2500,
+  "pending": 2435,
+  "next": {
+    "site": "02 GETGPT Pro",
+    "row": 16,
+    "keyword": "GPT-6代充"
+  },
+  "originalCompleted60Preserved": true,
+  "other49KeywordTablesPreserved": true,
+  "untargeted45RowsAndOtherColumnsPreserved": true,
+  "allOtherOriginalTopLevelBlocksPreservedInOrder": true,
+  "codexSpecialEntriesPreserved": true,
+  "url": "https://vi8r050ecuz.feishu.cn/docx/M3iDdYCNFo9C3RxHBEXc1Rrpn9f#doxcnQxw1lSX2vsiO7ELhRulqPh",
+  "mutations": [
+    {
+      "operation": "complete-row-11",
+      "revision": 184
+    },
+    {
+      "operation": "complete-row-12",
+      "revision": 185
+    },
+    {
+      "operation": "complete-row-13",
+      "revision": 186
+    },
+    {
+      "operation": "complete-row-14",
+      "revision": 187
+    },
+    {
+      "operation": "complete-row-15",
+      "revision": 188
+    },
+    {
+      "operation": "insert-summary",
+      "revision": 189
+    },
+    {
+      "operation": "replace-cursor",
+      "revision": 190
+    }
+  ],
+  "meaning": "Bilateral article/source/release work complete; no indexing or conversion claim."
+}
