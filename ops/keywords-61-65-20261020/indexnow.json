@@ -1,0 +1,49 @@
+{
+  "method": "Existing per-domain public key verified; only changed ordinary200/indexable URLs submitted. No key values in this receipt.",
+  "sites": [
+    {
+      "site": "https://nano-banana.lol",
+      "submittedAtUtc": "2026-10-20T04:58:52.341818+00:00",
+      "urls": [
+        "https://nano-banana.lol/ai-subscriptions/gpt6-astra-access-billing",
+        "https://nano-banana.lol/ai-subscriptions/chatgpt-pro-change-billing-cycle",
+        "https://nano-banana.lol/ai-subscriptions/codex-credit-auto-top-up",
+        "https://nano-banana.lol/ai-subscriptions/gpt6-astra-api-cost-estimate",
+        "https://nano-banana.lol/ai-subscriptions/openai-api-model-access-billing-errors",
+        "https://nano-banana.lol/ai-subscriptions",
+        "https://nano-banana.lol/ai-subscriptions/codex-recharge",
+        "https://nano-banana.lol/ai-subscriptions/chatgpt-recharge",
+        "https://nano-banana.lol/ai-subscriptions/chatgpt-pro-recharge"
+      ],
+      "count": 9,
+      "excluded": [],
+      "httpStatus": 200,
+      "accepted": true,
+      "publicKeyVerified": true,
+      "meaning": "notification accepted only; not indexed/ranked proof"
+    },
+    {
+      "site": "https://payforgpt.com",
+      "submittedAtUtc": "2026-10-20T04:59:07.705647+00:00",
+      "urls": [
+        "https://payforgpt.com/ai-subscriptions/gpt6-astra-access-billing",
+        "https://payforgpt.com/ai-subscriptions/chatgpt-pro-change-billing-cycle",
+        "https://payforgpt.com/ai-subscriptions/codex-credit-auto-top-up",
+        "https://payforgpt.com/ai-subscriptions/gpt6-astra-api-cost-estimate",
+        "https://payforgpt.com/ai-subscriptions/openai-api-model-access-billing-errors",
+        "https://payforgpt.com/ai-subscriptions",
+        "https://payforgpt.com/codex",
+        "https://payforgpt.com/how-to/recharge-chatgpt-plus",
+        "https://payforgpt.com/chatgpt-pro"
+      ],
+      "count": 9,
+      "excluded": [],
+      "httpStatus": 200,
+      "accepted": true,
+      "publicKeyVerified": true,
+      "meaning": "notification accepted only; not indexed/ranked proof"
+    }
+  ],
+  "submittedCount": 18,
+  "indexingOrRankingConfirmed": false
+}

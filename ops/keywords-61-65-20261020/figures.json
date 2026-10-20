@@ -1,0 +1,202 @@
+{
+  "concepts": [
+    {
+      "id": "astra-entry",
+      "title": "GPT6充值，先认清使用入口",
+      "claim": "同一模型名称不等于同一购买对象，ChatGPT、Codex登录来源与API项目需分开看。",
+      "relation": "One model name branches into three different product contexts and billing ledgers; no automatic upgrade or unique model card is implied.",
+      "labels": [
+        "GPT-6 Astra",
+        "gpt-6-astra",
+        "ChatGPT",
+        "Codex",
+        "API",
+        "订阅与模型菜单",
+        "登录来源与用量",
+        "项目与API账单"
+      ],
+      "reference": "xiaowei-cartoon-reference-v2.png used only for simplified black hair, square glasses and black-shirt identity; one original vector character per figure.",
+      "method": "Original deterministic SVG, WebP rasterization. Precise technical labels; no copied competitor artwork."
+    },
+    {
+      "id": "pro-change",
+      "title": "Pro变更，保存前后两份记录",
+      "claim": "变更前的续费记录、确认页显示与实际新计划是不同证据；不画统一即刻生效和差价公式。",
+      "relation": "Compare the same account before and after a proposed change; confirmation fields determine the terms, then actual entitlement is checked separately.",
+      "labels": [
+        "变更前",
+        "确认页",
+        "当前档位",
+        "应付金额",
+        "生效时间",
+        "下次续费",
+        "变更后再确认"
+      ],
+      "reference": "xiaowei-cartoon-reference-v2.png used only for simplified black hair, square glasses and black-shirt identity; one original vector character per figure.",
+      "method": "Original deterministic SVG, WebP rasterization. Precise technical labels; no copied competitor artwork."
+    },
+    {
+      "id": "auto-reload",
+      "title": "自动补充：低于阈值，补到目标",
+      "claim": "可用时低于minimum触发usage credits购买到target，月自动购买上限不覆盖手动购买。",
+      "relation": "Threshold-triggered refill of usage credits from the default payment method, with a cap on only the automatic branch.",
+      "labels": [
+        "目标余额",
+        "最低余额",
+        "当前余额",
+        "默认付款方式",
+        "自动购买上限",
+        "手动购买另计"
+      ],
+      "reference": "xiaowei-cartoon-reference-v2.png used only for simplified black hair, square glasses and black-shirt identity; one original vector character per figure.",
+      "method": "Original deterministic SVG, WebP rasterization. Precise technical labels; no copied competitor artwork."
+    },
+    {
+      "id": "astra-cost",
+      "title": "跨过272K，整次换长上下文价",
+      "claim": "Standard无缓存合成算例中，270K入+2K总输出为2.80美元，300K入+2K总输出为6.15美元；阈值只看输入且影响整次请求。",
+      "relation": "An input threshold selects the full request rate table, not a marginal surcharge; same output baseline, explicitly synthetic amounts.",
+      "labels": [
+        "输入不超过272K",
+        "输入超过272K",
+        "整次请求换档",
+        "270K输入 + 2K输出",
+        "300K输入 + 2K输出",
+        "$2.80",
+        "$6.15"
+      ],
+      "reference": "xiaowei-cartoon-reference-v2.png used only for simplified black hair, square glasses and black-shirt identity; one original vector character per figure.",
+      "method": "Original deterministic SVG, WebP rasterization. Precise technical labels; no copied competitor artwork."
+    },
+    {
+      "id": "api-errors",
+      "title": "API报错，先按错误码分路",
+      "claim": "身份、模型权限、余额/硬限额和临时速率问题需要不同处理，补余额不是所有分支的答案。",
+      "relation": "A recorded error branches into separate diagnostic actions; all429s are not equivalent, and no branch promises success.",
+      "labels": [
+        "401 / 身份",
+        "模型 / 权限",
+        "429 / 账单配额",
+        "429 / 临时速率",
+        "先看error.code",
+        "保存脱敏错误记录"
+      ],
+      "reference": "xiaowei-cartoon-reference-v2.png used only for simplified black hair, square glasses and black-shirt identity; one original vector character per figure.",
+      "method": "Original deterministic SVG, WebP rasterization. Precise technical labels; no copied competitor artwork."
+    }
+  ],
+  "records": [
+    {
+      "site": "nano",
+      "topic": "astra-entry",
+      "src": "/images/guides/keywords-61-65-astra-entry-nano-20261020.webp",
+      "svg": "/images/guides/keywords-61-65-astra-entry-nano-20261020.svg",
+      "width": 960,
+      "height": 1200,
+      "bytes": 109808,
+      "sha256": "81656af2dd8a84b489fb362ba82df97e7cded70a3cb68501c9539cec0fd19dc3"
+    },
+    {
+      "site": "nano",
+      "topic": "pro-change",
+      "src": "/images/guides/keywords-61-65-pro-change-nano-20261020.webp",
+      "svg": "/images/guides/keywords-61-65-pro-change-nano-20261020.svg",
+      "width": 960,
+      "height": 1200,
+      "bytes": 119354,
+      "sha256": "c867e5712438b0c700feaa28a7a1f23769b258b0d96bcdd9c91c3c5d0f31911e"
+    },
+    {
+      "site": "nano",
+      "topic": "auto-reload",
+      "src": "/images/guides/keywords-61-65-auto-reload-nano-20261020.webp",
+      "svg": "/images/guides/keywords-61-65-auto-reload-nano-20261020.svg",
+      "width": 960,
+      "height": 1200,
+      "bytes": 107432,
+      "sha256": "4aa938e8af330893ff0829d43b258a9f7ac5d8cab493f7d43091845b47aa5947"
+    },
+    {
+      "site": "nano",
+      "topic": "astra-cost",
+      "src": "/images/guides/keywords-61-65-astra-cost-nano-20261020.webp",
+      "svg": "/images/guides/keywords-61-65-astra-cost-nano-20261020.svg",
+      "width": 960,
+      "height": 1200,
+      "bytes": 113278,
+      "sha256": "dbd1697094fc4c438f6c2ba799d9b8a47dd6af851ec9252140529315206c0466"
+    },
+    {
+      "site": "nano",
+      "topic": "api-errors",
+      "src": "/images/guides/keywords-61-65-api-errors-nano-20261020.webp",
+      "svg": "/images/guides/keywords-61-65-api-errors-nano-20261020.svg",
+      "width": 960,
+      "height": 1200,
+      "bytes": 119196,
+      "sha256": "ece9d5e9e09c3fbda40e317e7d84384cf063645b64affaa5968a085d45f07116"
+    },
+    {
+      "site": "pfg",
+      "topic": "astra-entry",
+      "src": "/images/guides/keywords-61-65-astra-entry-pfg-20261020.webp",
+      "svg": "/images/guides/keywords-61-65-astra-entry-pfg-20261020.svg",
+      "width": 960,
+      "height": 1200,
+      "bytes": 111086,
+      "sha256": "35e58c7e3481b3b996bb6505cf472889a3695913bcff1186d2574429f588716a"
+    },
+    {
+      "site": "pfg",
+      "topic": "pro-change",
+      "src": "/images/guides/keywords-61-65-pro-change-pfg-20261020.webp",
+      "svg": "/images/guides/keywords-61-65-pro-change-pfg-20261020.svg",
+      "width": 960,
+      "height": 1200,
+      "bytes": 121988,
+      "sha256": "c64e069799054fd61e824fa5aa90fb87dd2f61becd7a0e314e871ee586820c13"
+    },
+    {
+      "site": "pfg",
+      "topic": "auto-reload",
+      "src": "/images/guides/keywords-61-65-auto-reload-pfg-20261020.webp",
+      "svg": "/images/guides/keywords-61-65-auto-reload-pfg-20261020.svg",
+      "width": 960,
+      "height": 1200,
+      "bytes": 106618,
+      "sha256": "c0ef38dd7d67fcdac2f2a02425f6b3f289c9d238a72d702b945a9901ebc909bd"
+    },
+    {
+      "site": "pfg",
+      "topic": "astra-cost",
+      "src": "/images/guides/keywords-61-65-astra-cost-pfg-20261020.webp",
+      "svg": "/images/guides/keywords-61-65-astra-cost-pfg-20261020.svg",
+      "width": 960,
+      "height": 1200,
+      "bytes": 115866,
+      "sha256": "7d34007e5f89986e1aac058391ede32c13e83f6b4ad380c36f5e0dc3aeb4b40c"
+    },
+    {
+      "site": "pfg",
+      "topic": "api-errors",
+      "src": "/images/guides/keywords-61-65-api-errors-pfg-20261020.webp",
+      "svg": "/images/guides/keywords-61-65-api-errors-pfg-20261020.svg",
+      "width": 960,
+      "height": 1200,
+      "bytes": 119828,
+      "sha256": "8bd0244ea727af41cd60534316cf75b156d88ca518e7097d7b1b9252dc1021e1"
+    }
+  ],
+  "visualQA": {
+    "tenFinalSitePreviewsViewedAt480px": true,
+    "review": "independent-review.json",
+    "relationshipAndArithmetic": "pass",
+    "changes": [
+      "Reduced Astra-entry character to keep the heading clear",
+      "Cost bars represent fees at a common scale: 235/516 approximately equals 2.80/6.15",
+      "Added fee-scale label and excluded tool-fee/tax note"
+    ],
+    "originalVectorDiagramsNotOfficialScreenshots": true,
+    "realBrowserLayoutTested": false
+  }
+}

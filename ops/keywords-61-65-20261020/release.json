@@ -1,0 +1,326 @@
+{
+  "recordedAtUtc": "2026-10-20T05:01:54.789850+00:00",
+  "sourceCommits": {
+    "nano": {
+      "repository": "hyai-dev/nano-banana-web",
+      "baseCommit": "0be59bea202ed0d4faf8188d7e742fd893ab7fad",
+      "sourceCommit": "9d2f88beadbd08901f4e8405766aefdb689ba320",
+      "sourceURL": "https://github.com/hyai-dev/nano-banana-web/commit/9d2f88beadbd08901f4e8405766aefdb689ba320",
+      "branch": "content/keywords-61-65-20261020",
+      "workingTreeClean": true
+    },
+    "pfg": {
+      "repository": "hyai-dev/payforgpt-web",
+      "baseCommit": "aa6c22dae7396a874b5cac29e28df553f38fcb17",
+      "sourceCommit": "69e77e56bd85ae41837cbea3480b2dd22ddbd490",
+      "sourceURL": "https://github.com/hyai-dev/payforgpt-web/commit/69e77e56bd85ae41837cbea3480b2dd22ddbd490",
+      "branch": "content/keywords-61-65-20261020",
+      "workingTreeClean": true
+    }
+  },
+  "newArticles": {
+    "nano": [
+      {
+        "path": "/ai-subscriptions/gpt6-astra-access-billing",
+        "hanChars": 1650,
+        "sections": 5,
+        "faqs": 5,
+        "tables": 1,
+        "figures": 1,
+        "sourceCount": 6,
+        "sourceSha": "760070914904679d0d5c978d5d8d37eb3fcea3816571f00fc6de05b6edf8c7d5"
+      },
+      {
+        "path": "/ai-subscriptions/chatgpt-pro-change-billing-cycle",
+        "hanChars": 1674,
+        "sections": 5,
+        "faqs": 5,
+        "tables": 1,
+        "figures": 1,
+        "sourceCount": 3,
+        "sourceSha": "f8243a6b278cf85b8ad8ca07a942ab312e0c8184ccb51b4547691a4da174de31"
+      },
+      {
+        "path": "/ai-subscriptions/codex-credit-auto-top-up",
+        "hanChars": 1752,
+        "sections": 6,
+        "faqs": 5,
+        "tables": 1,
+        "figures": 1,
+        "sourceCount": 4,
+        "sourceSha": "babf3c2ebffb4f2820edef4918a22c2dde94ca963f9a122a32db73f2493985a7"
+      },
+      {
+        "path": "/ai-subscriptions/gpt6-astra-api-cost-estimate",
+        "hanChars": 1715,
+        "sections": 7,
+        "faqs": 5,
+        "tables": 2,
+        "figures": 1,
+        "sourceCount": 5,
+        "sourceSha": "67b0c3c2686c41e7c114ba78c1b3955745a13ff776adb081ef4a76bf05ffa3fc"
+      },
+      {
+        "path": "/ai-subscriptions/openai-api-model-access-billing-errors",
+        "hanChars": 1699,
+        "sections": 6,
+        "faqs": 5,
+        "tables": 1,
+        "figures": 1,
+        "sourceCount": 6,
+        "sourceSha": "b9db13f843976470e383f7a57abf779f3d07face9b7775697cc39b18c3c5e821"
+      }
+    ],
+    "payforgpt": [
+      {
+        "path": "/ai-subscriptions/gpt6-astra-access-billing",
+        "title": "想用 GPT-6 Astra，先找到正确入口和账单",
+        "publishedAt": "2026-10-20",
+        "reviewedAt": "2026-10-20",
+        "articleType": "TechArticle",
+        "sections": 6,
+        "FAQ": 4,
+        "tables": 1,
+        "illustration": "/images/guides/keywords-61-65-astra-entry-pfg-20261020.webp",
+        "cjk": 1621
+      },
+      {
+        "path": "/ai-subscriptions/chatgpt-pro-change-billing-cycle",
+        "title": "Pro 升降档前，先看本次应付和下次续费",
+        "publishedAt": "2026-10-20",
+        "reviewedAt": "2026-10-20",
+        "articleType": "TechArticle",
+        "sections": 5,
+        "FAQ": 5,
+        "tables": 2,
+        "illustration": "/images/guides/keywords-61-65-pro-change-pfg-20261020.webp",
+        "cjk": 1692
+      },
+      {
+        "path": "/ai-subscriptions/codex-credit-auto-top-up",
+        "title": "开启 Codex credits 自动补充前，把触发和上限写清",
+        "publishedAt": "2026-10-20",
+        "reviewedAt": "2026-10-20",
+        "articleType": "TechArticle",
+        "sections": 6,
+        "FAQ": 5,
+        "tables": 2,
+        "illustration": "/images/guides/keywords-61-65-auto-reload-pfg-20261020.webp",
+        "cjk": 1751
+      },
+      {
+        "path": "/ai-subscriptions/gpt6-astra-api-cost-estimate",
+        "title": "Astra API 预算，先算整次请求再算整月",
+        "publishedAt": "2026-10-20",
+        "reviewedAt": "2026-10-20",
+        "articleType": "TechArticle",
+        "sections": 6,
+        "FAQ": 5,
+        "tables": 2,
+        "illustration": "/images/guides/keywords-61-65-astra-cost-pfg-20261020.webp",
+        "cjk": 1461
+      },
+      {
+        "path": "/ai-subscriptions/openai-api-model-access-billing-errors",
+        "title": "API 调不通时，先读错误字段再决定是否付费",
+        "publishedAt": "2026-10-20",
+        "reviewedAt": "2026-10-20",
+        "articleType": "TechArticle",
+        "sections": 6,
+        "FAQ": 5,
+        "tables": 2,
+        "illustration": "/images/guides/keywords-61-65-api-errors-pfg-20261020.webp",
+        "cjk": 1729
+      }
+    ]
+  },
+  "queueRows": [
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "queryOwnership": "Codex充值、GPT代充、ChatGPT Pro充值更新既有主owner；GPT-6 Astra与GPT6充值共用一个模型入口主文。另有4篇窄任务新页，不把同义词或旧页当新增。",
+  "articleCount": 10,
+  "figureConcepts": 5,
+  "siteFigureVersions": 10,
+  "localChecks": {
+    "nano": [
+      {
+        "command": "npm run check:contrast",
+        "exitCode": 0,
+        "lastRunAfterFinalRendererFix": true
+      },
+      {
+        "command": "npm run check:copy-safety",
+        "exitCode": 0,
+        "regressions": 13,
+        "lastRunAfterFinalAnchoringFix": true
+      },
+      {
+        "command": "npm run test:seo-internal-links",
+        "exitCode": 0
+      },
+      {
+        "command": "npm run test:nano-link-integrity-p1",
+        "exitCode": 0
+      },
+      {
+        "command": "npm run test:guide-truthful-order-state",
+        "exitCode": 0
+      },
+      {
+        "command": "npm run test:json-ld-serialization",
+        "exitCode": 0
+      },
+      {
+        "command": "./node_modules/.bin/tsc --noEmit --incremental false",
+        "exitCode": 0,
+        "alsoProductionBuildTypechecked": true
+      },
+      {
+        "command": "git diff --check",
+        "exitCode": 0
+      }
+    ],
+    "payforgpt": [
+      {
+        "command": "npm run check:contrast-safety",
+        "exit": 0
+      },
+      {
+        "command": "npm run test:blind-accessibility-contracts",
+        "exit": 0
+      },
+      {
+        "command": "npm run check:copy-safety",
+        "exit": 0
+      },
+      {
+        "command": "npm run test:seo-internal-links",
+        "exit": 0
+      },
+      {
+        "command": "npm run test:commercial-brand-isolation",
+        "exit": 0
+      },
+      {
+        "command": "npm run test:json-ld-serialization",
+        "exit": 0
+      },
+      {
+        "command": "npm run test:search-snippet-truthfulness",
+        "exit": 0
+      },
+      {
+        "command": "npm run test:codex-seo-sprint",
+        "exit": 0,
+        "prior_exit": 1
+      },
+      {
+        "command": "npm run test:chatgpt-plus-vs-pro-owner",
+        "exit": 0
+      },
+      {
+        "command": "npm run test:recharge-brand-isolation",
+        "exit": 1
+      },
+      {
+        "command": "npx tsc --noEmit --incremental false",
+        "exit": 0
+      },
+      {
+        "command": "git diff --check",
+        "exit": 0
+      }
+    ]
+  },
+  "builds": {
+    "nano": {
+      "exit": 0
+    },
+    "payforgpt": {
+      "exit": 0
+    }
+  },
+  "independentReview": {
+    "status": "PASS_for_commit_and_normal_CI_no_remaining_review_blockers",
+    "remainingBlockers": [],
+    "topicReview": [
+      {
+        "slug": "gpt6-astra-access-billing",
+        "result": "pass",
+        "learned_from_real_articles": "借鉴GETGPT/GetGPTPlus的先判购买对象、PayForChat入口分层、CodexGuide登录动作与预期结果。",
+        "concrete_new_help": "两站都从产品/认证/模型可见性追到负责的账本，有可填写需求记录及缺模型失败分支，不创造GPT6独立卡或官方Pro商品映射。",
+        "difference_from_old_owner": "主词14/15合并一个入口/费用owner，不重复原Codex或Pro购买页。"
+      },
+      {
+        "slug": "chatgpt-pro-change-billing-cycle",
+        "result": "pass",
+        "learned_from_real_articles": "借鉴同行套餐决策与渠道分路，纠正旧5x/20x与过期促销；不冒充同行有通用结算公式。",
+        "concrete_new_help": "原方案→本人确认页→实际方案/收据/下次续费三份证据，表列应付、币种税费、抵扣、生效时间；未知则问原渠道，不先支付探路。",
+        "official_boundary": "当前100/200/500与200重新开放；旧200保留至10/29有明确资格/active条件，不等于500/Ultrafast。"
+      },
+      {
+        "slug": "codex-credit-auto-top-up",
+        "result": "pass",
+        "learned_from_real_articles": "学习同行用量页面字段解释与查用量入口，明确这些原文不是minimum/target自动补充细则。",
+        "concrete_new_help": "最低触发、目标余额、默认付款、自动月cap、已低于阈值启用可即时购买、负数抵扣、关闭后查历史交易；模板可填写，不收集用户资料。",
+        "difference_from_old_owner": "新增任务只解决自动购买开关与预算，不替换Nano已有单次额外credits教程。"
+      },
+      {
+        "slug": "gpt6-astra-api-cost-estimate",
+        "result": "pass",
+        "learned_from_real_articles": "借鉴Astra文章费用分类与API节流文章同任务比较原则，重建当前价格与原创算例。",
+        "concrete_new_help": "Standard四类短/长费率、272K按输入且影响整次请求、reasoning已含总输出；270K+2K=2.80与300K+2K=6.15均复算正确，Nano另10K+2K=.20也正确。",
+        "boundary": "均标合成，无真实调用/缓存实测/成交价；工具、税、模式及重试另计，不保证预算就是硬上限。"
+      },
+      {
+        "slug": "openai-api-model-access-billing-errors",
+        "result": "pass",
+        "learned_from_real_articles": "学习真实429文章的连接层次，修正泛称换key/充值的处理，采用CodexGuide症状→动作/完成条件形式。",
+        "concrete_new_help": "status/type/code→身份权限/模型端点/地区/余额/组织项目硬限额/usagecap/临时rate分路，包含责任人和脱敏证据模板，不一律重试或加钱。",
+        "boundary": "只临时速率/负载按有效Retry-After有界等待；不把公开模型存在或列出模型等同调用权限，不对所有404指定原因。"
+      }
+    ],
+    "limitations": [
+      "没有浏览器或真实手机布局/读屏器体验测试；只核SSR、源码约束和原图预览。",
+      "Nano实施agent最终本地GET只有哈希/结果回执，未保留原始HTML供第二次独立解析；已读其验证脚本与最终实现hash，未冒称我重新发过请求。",
+      "不验证真实库存、账号升级、自动补充扣款、API账单、退款或搜索收录；均无相应操作。"
+    ]
+  },
+  "deployments": {
+    "nano": {
+      "commit": "9d2f88beadbd08901f4e8405766aefdb689ba320",
+      "original_build_run": 39371396331,
+      "original_overall_conclusion": "cancelled",
+      "original_build_job_conclusion": "success",
+      "release_workflow_run": 39371941878,
+      "release_workflow_conclusion": "success",
+      "workflow_definition_sha": "478b8818abb5ac6bb43334c8cf7681f0bfe24e89",
+      "image_tag_evidence": "Parent explicit dispatch image_tag matches fixed commit; fallback run/head/job statuses independently read with gh. Original cancel after deploy started may have allowed partial remote work; original workflow is never labeled successful."
+    },
+    "pfg": {
+      "commit": "69e77e56bd85ae41837cbea3480b2dd22ddbd490",
+      "build_and_deploy_run": 39371458629,
+      "overall_conclusion": "success"
+    }
+  },
+  "online": {
+    "lastReadAtUtc": "2026-10-20T04:56:21.842897+00:00",
+    "uniqueURLs": 42,
+    "finalAssertions": 608,
+    "result": "pass"
+  },
+  "extraRegressionIssue": "PayForGPT extra recharge-brand-isolation script encounters a pre-existing Node26 TSX import error, also reproduced in an old worktree. It is recorded as blocked; not all tests are claimed green. Mandatory checks, commercial isolation, actual recharge HTML, builds and release readback passed.",
+  "indexNow": {
+    "accepted": 18,
+    "indexedOrRanked": false
+  },
+  "scopeLimits": [
+    "No real account changes, payments, API calls, automatic reload or inventory transactions were tested.",
+    "No browser/phone layout or screen-reader interaction test; preview images and inert DOM semantics only.",
+    "Private commercial repositories keep their existing visibility. Public guide primary-article count remains19; this is an operations report."
+  ]
+}

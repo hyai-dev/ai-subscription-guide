@@ -1,0 +1,1287 @@
+{
+  "recordedAtUtc": "2026-10-20T04:50:45.831860+00:00",
+  "articleSamples": 26,
+  "commercialLandingSamples": 1,
+  "method": "Read actual public article bodies and native HTML, learn question organization and concrete steps, then reorganize using current official facts, site-specific navigation, original field tables and synthetic examples. No copied competitor paragraphs or artwork.",
+  "sampleReferences": [
+    {
+      "url": "https://www.payforchat.com/articles/codex-recharge-explained-2026",
+      "group": "PayForChat",
+      "kind": "article",
+      "learned": "先解决用户对付费对象的误认，再给不同目标的下一步，避免开头就推最高套餐。",
+      "scope": "Codex充值的上层解释；非个人usage credits自动补充操作专题。",
+      "originStatus": 200,
+      "readerStatus": 200,
+      "readerBodyRead": true,
+      "reads": [
+        {
+          "url": "https://r.jina.ai/https://www.payforchat.com/articles/codex-recharge-explained-2026",
+          "readAtUtc": "2026-10-20T04:16:00.589216+00:00",
+          "httpStatus": 200,
+          "sha256": "0b64b0b0c574bc02cb5efc861cbc35c25cb76f83fe77f188d333f2cc357f32be",
+          "bytes": 7700
+        },
+        {
+          "url": "https://www.payforchat.com/articles/codex-recharge-explained-2026",
+          "readAtUtc": "2026-10-20T04:16:00.589265+00:00",
+          "httpStatus": 200,
+          "sha256": "a9fc91e51794933bab4a2c9be123279a5c061e861abbd22d39b4fcb153c21a4a",
+          "bytes": 94844
+        }
+      ]
+    },
+    {
+      "url": "https://www.payforchat.com/articles/codex-usage-reset-messages-explained-2026",
+      "group": "PayForChat",
+      "kind": "article",
+      "learned": "把读者能在界面核对的字段变成解释顺序，并在购买前给出不必加钱的分支。",
+      "scope": "最接近当前用量控制问题；自动credits充值只在一段提到，没有minimum/target/月cap全流程。",
+      "originStatus": 200,
+      "readerStatus": 200,
+      "readerBodyRead": true,
+      "reads": [
+        {
+          "url": "https://r.jina.ai/https://www.payforchat.com/articles/codex-usage-reset-messages-explained-2026",
+          "readAtUtc": "2026-10-20T04:16:01.639924+00:00",
+          "httpStatus": 200,
+          "sha256": "ba1f73e2d88f886459bd10f3f77d9342b9bee793d3292d451ba21e97dcaeb076",
+          "bytes": 14790
+        },
+        {
+          "url": "https://www.payforchat.com/articles/codex-usage-reset-messages-explained-2026",
+          "readAtUtc": "2026-10-20T04:16:01.788275+00:00",
+          "httpStatus": 200,
+          "sha256": "c204271bd9c367f30cf863e7e12569196144042f28c475724871c43ea0ecb02a",
+          "bytes": 129099
+        }
+      ]
+    },
+    {
+      "url": "https://www.payforchat.com/articles/codex-usage-limit-reached-fix-2026",
+      "group": "PayForChat",
+      "kind": "article",
+      "learned": "先辨故障阶段再列有成本梯度的选项；购买只是分支之一。",
+      "scope": "用量耗尽故障分流；可作自动充值文章的前置问题链接，不是同一任务。",
+      "originStatus": 200,
+      "readerStatus": 200,
+      "readerBodyRead": true,
+      "reads": [
+        {
+          "url": "https://r.jina.ai/https://www.payforchat.com/articles/codex-usage-limit-reached-fix-2026",
+          "readAtUtc": "2026-10-20T04:16:02.553386+00:00",
+          "httpStatus": 200,
+          "sha256": "a06294d77befa320e56462fb0608d3d7e1da1071d69c4a14c874f43bb10de0b7",
+          "bytes": 8854
+        },
+        {
+          "url": "https://www.payforchat.com/articles/codex-usage-limit-reached-fix-2026",
+          "readAtUtc": "2026-10-20T04:16:02.696126+00:00",
+          "httpStatus": 200,
+          "sha256": "a6447ccb1ab291924e9d5c676883788eb232e5b9a1b8d54b8c2d03c87f078eb1",
+          "bytes": 97272
+        }
+      ]
+    },
+    {
+      "url": "https://www.payforchat.com/articles/chatgpt-pro-100-200-500-comparison-2026",
+      "group": "PayForChat",
+      "kind": "article",
+      "learned": "同一张表固定比较维度；把作者算例标假设，把商家交付与官方档位分别说明。",
+      "scope": "三档选择与旧称关系；没有完整的同账号变更前后账期验收专题。",
+      "originStatus": 200,
+      "readerStatus": 200,
+      "readerBodyRead": true,
+      "reads": [
+        {
+          "url": "https://r.jina.ai/https://www.payforchat.com/articles/chatgpt-pro-100-200-500-comparison-2026",
+          "readAtUtc": "2026-10-20T04:16:03.186608+00:00",
+          "httpStatus": 200,
+          "sha256": "7c3a9ec9b74381654ed88d1fcdcfd83a05cd16ae3c1e5bfb3dc01226b402cd54",
+          "bytes": 15191
+        },
+        {
+          "url": "https://www.payforchat.com/articles/chatgpt-pro-100-200-500-comparison-2026",
+          "readAtUtc": "2026-10-20T04:16:03.592404+00:00",
+          "httpStatus": 200,
+          "sha256": "fb5aea0de58ee937220441a7a87d7386a980d63c72768162ba5d344e2262f222",
+          "bytes": 114504
+        }
+      ]
+    },
+    {
+      "url": "https://www.payforchat.com/articles/chatgpt-pro-recharge-guide-2026",
+      "group": "PayForChat",
+      "kind": "article",
+      "learned": "先把用户已有订阅和原付款渠道当成决策条件，操作才有适用范围。",
+      "scope": "最贴近既有Plus能否升级的商业疑问；非通用proration规则来源。",
+      "originStatus": 200,
+      "readerStatus": 200,
+      "readerBodyRead": true,
+      "reads": [
+        {
+          "url": "https://r.jina.ai/https://www.payforchat.com/articles/chatgpt-pro-recharge-guide-2026",
+          "readAtUtc": "2026-10-20T04:16:04.212793+00:00",
+          "httpStatus": 200,
+          "sha256": "7fda56ddaf36d7299fc067250b1c2f28f67eb5f10b5a6a7123dcd715c1ef1b26",
+          "bytes": 6344
+        },
+        {
+          "url": "https://www.payforchat.com/articles/chatgpt-pro-recharge-guide-2026",
+          "readAtUtc": "2026-10-20T04:16:04.282043+00:00",
+          "httpStatus": 200,
+          "sha256": "beb79cc46441e9ff48ec4acc0914fe860a2bf7bd26359a597b4aad139641e919",
+          "bytes": 87111
+        }
+      ]
+    },
+    {
+      "url": "https://www.payforchat.com/articles/gpt-6-astra-release-chatgpt-plus-pro-2026",
+      "group": "PayForChat",
+      "kind": "article",
+      "learned": "把技术发布翻译为读者具体用途，再按入口给适用条件；型号与套餐不混为一种商品。",
+      "scope": "命名、发布与首次开放背景；Astra名称/入口文章可学其分产品表，不继承首发活动为当前承诺。",
+      "originStatus": 200,
+      "readerStatus": 200,
+      "readerBodyRead": true,
+      "reads": [
+        {
+          "url": "https://r.jina.ai/https://www.payforchat.com/articles/gpt-6-astra-release-chatgpt-plus-pro-2026",
+          "readAtUtc": "2026-10-20T04:16:04.628682+00:00",
+          "httpStatus": 200,
+          "sha256": "53f4e1310eb7c2e8fab43d75a97e7328f8fc4001f11875cdb3bfc768c857c5f9",
+          "bytes": 18313
+        },
+        {
+          "url": "https://www.payforchat.com/articles/gpt-6-astra-release-chatgpt-plus-pro-2026",
+          "readAtUtc": "2026-10-20T04:16:05.330102+00:00",
+          "httpStatus": 200,
+          "sha256": "b6bc2a1e34b418cb3ce39862841d9221417b08491024f81e1156311d60dc4db6",
+          "bytes": 144901
+        }
+      ]
+    },
+    {
+      "url": "https://www.payforchat.com/articles/gpt-6-1-sol-vs-astra-codex-guide-2026",
+      "group": "PayForChat",
+      "kind": "article",
+      "learned": "提供可以自己验收的操作与比较方法，优于只堆跑分；说清观点、官方定位与假设算例的不同。",
+      "scope": "最可借鉴的模型选择和订阅边界写法；不是Astra充值SKU证明。",
+      "originStatus": 200,
+      "readerStatus": 200,
+      "readerBodyRead": true,
+      "reads": [
+        {
+          "url": "https://r.jina.ai/https://www.payforchat.com/articles/gpt-6-1-sol-vs-astra-codex-guide-2026",
+          "readAtUtc": "2026-10-20T04:16:05.421673+00:00",
+          "httpStatus": 200,
+          "sha256": "213f22a0c1f2b655a838b1d4e994aacd4707ac2dcda3491ae0732def44a1c4e9",
+          "bytes": 12995
+        },
+        {
+          "url": "https://www.payforchat.com/articles/gpt-6-1-sol-vs-astra-codex-guide-2026",
+          "readAtUtc": "2026-10-20T04:16:06.234037+00:00",
+          "httpStatus": 200,
+          "sha256": "99e434286bed12d5d5830b7812561283f73f9016795f531a4670638f383b4598",
+          "bytes": 116246
+        }
+      ]
+    },
+    {
+      "url": "https://www.payforchat.com/articles/gpt-6-astra-api-pricing-cost-guide-2026",
+      "group": "PayForChat",
+      "kind": "article",
+      "learned": "把计费字段、算式和假设一起给出，让读者能复核，而不是只列模型价格。",
+      "scope": "API预算的精确匹配原文；可学拆分账单和展示算式，但需重做独立案例。",
+      "originStatus": 200,
+      "readerStatus": 200,
+      "readerBodyRead": true,
+      "reads": [
+        {
+          "url": "https://r.jina.ai/https://www.payforchat.com/articles/gpt-6-astra-api-pricing-cost-guide-2026",
+          "readAtUtc": "2026-10-20T04:16:07.032786+00:00",
+          "httpStatus": 200,
+          "sha256": "0fe2d6f2d31fdd22e2cd1ef7b656701d27556caee8be276f84ff0d579c79be11",
+          "bytes": 7739
+        },
+        {
+          "url": "https://www.payforchat.com/articles/gpt-6-astra-api-pricing-cost-guide-2026",
+          "readAtUtc": "2026-10-20T04:16:07.092843+00:00",
+          "httpStatus": 200,
+          "sha256": "6085aac511136200669d66344d93c5f411a2c88f4c5127842b961b25c7042f67",
+          "bytes": 92489
+        }
+      ]
+    },
+    {
+      "url": "https://www.payforchat.com/articles/chatgpt-api-credit-recharge-vs-subscription-2026",
+      "group": "PayForChat",
+      "kind": "article",
+      "learned": "先看工具如何认证，再解释钱应进哪套账；对不服务的需求明确边界。",
+      "scope": "API错误主题只有邻近匹配：包含429/insufficient_quota例子和充值排查，没有当前精细错误码分流专题。",
+      "originStatus": 200,
+      "readerStatus": 200,
+      "readerBodyRead": true,
+      "reads": [
+        {
+          "url": "https://r.jina.ai/https://www.payforchat.com/articles/chatgpt-api-credit-recharge-vs-subscription-2026",
+          "readAtUtc": "2026-10-20T04:16:07.876419+00:00",
+          "httpStatus": 200,
+          "sha256": "3e18e45fafac80a3a1041676cce87b5ca2e5e3a15707133b9bb5848425832a85",
+          "bytes": 9325
+        },
+        {
+          "url": "https://www.payforchat.com/articles/chatgpt-api-credit-recharge-vs-subscription-2026",
+          "readAtUtc": "2026-10-20T04:16:08.673253+00:00",
+          "httpStatus": 200,
+          "sha256": "82f9708d4ffb552e95999b72a72787891e5ba240cc2fe847043e09da611a68f4",
+          "bytes": 99448
+        }
+      ]
+    },
+    {
+      "url": "https://getgpt.pro/blog/gpt-6-astra-release-use-recharge-guide",
+      "group": "GETGPT",
+      "kind": "article",
+      "learned": [
+        "开头先消除‘为模型名充值’的歧义，随后按实际入口分流",
+        "把套餐验收与模型权限验收分成两步",
+        "FAQ围绕错误付费对象，而非重复价格词"
+      ],
+      "scope": [
+        "Astra入口与计费：直接匹配",
+        "API预算：只有价格片段"
+      ],
+      "reads": [
+        {
+          "id": 1,
+          "kind": "origin",
+          "url": "https://getgpt.pro/blog/gpt-6-astra-release-use-recharge-guide",
+          "requestedURL": "https://getgpt.pro/blog/gpt-6-astra-release-use-recharge-guide",
+          "at": "2026-10-20T04:16:42.302318+00:00",
+          "status": 200,
+          "finalURL": "https://getgpt.pro/blog/gpt-6-astra-release-use-recharge-guide",
+          "bytes": 139186,
+          "sha256": "9ff140331e75079a26a01dfb911acb363b3294adf02c05e15cea767141634cdb"
+        },
+        {
+          "id": 1,
+          "kind": "reader",
+          "url": "https://getgpt.pro/blog/gpt-6-astra-release-use-recharge-guide",
+          "requestedURL": "https://r.jina.ai/https://getgpt.pro/blog/gpt-6-astra-release-use-recharge-guide",
+          "at": "2026-10-20T04:16:42.302571+00:00",
+          "status": 200,
+          "finalURL": "https://r.jina.ai/https://getgpt.pro/blog/gpt-6-astra-release-use-recharge-guide",
+          "bytes": 12332,
+          "sha256": "e3282f623da4016f8c6990bd583defb2a335fa5c9c9733876c82577e03b079b6"
+        }
+      ]
+    },
+    {
+      "url": "https://getgpt.pro/blog/gpt-6-pro-users-rollout",
+      "group": "GETGPT",
+      "kind": "article",
+      "learned": [
+        "更新报道先解释‘哪一类账号在哪一个产品收到入口’，比泛称模型全面开放具体",
+        "能明确标注官方说明与个人观察的证据层级",
+        "给已买会员者检查步骤，避免见不到模型就再付费"
+      ],
+      "scope": [
+        "Astra入口：直接匹配"
+      ],
+      "reads": [
+        {
+          "id": 2,
+          "kind": "origin",
+          "url": "https://getgpt.pro/blog/gpt-6-pro-users-rollout",
+          "requestedURL": "https://getgpt.pro/blog/gpt-6-pro-users-rollout",
+          "at": "2026-10-20T04:16:42.302650+00:00",
+          "status": 200,
+          "finalURL": "https://getgpt.pro/blog/gpt-6-pro-users-rollout",
+          "bytes": 107795,
+          "sha256": "865c22154c248edf5b99afb4f76847881f6f53d065cac5337cd0a42723bc9ed9"
+        },
+        {
+          "id": 2,
+          "kind": "reader",
+          "url": "https://getgpt.pro/blog/gpt-6-pro-users-rollout",
+          "requestedURL": "https://r.jina.ai/https://getgpt.pro/blog/gpt-6-pro-users-rollout",
+          "at": "2026-10-20T04:16:42.302700+00:00",
+          "status": 200,
+          "finalURL": "https://r.jina.ai/https://getgpt.pro/blog/gpt-6-pro-users-rollout",
+          "bytes": 7075,
+          "sha256": "c524afc9df8736ab0e7a38d73688b691dea743f226602bff2ff288327f65277f"
+        }
+      ]
+    },
+    {
+      "url": "https://getgpt.pro/blog/chatgpt-pro-reopened-10x-pro-500-25x",
+      "group": "GETGPT",
+      "kind": "article",
+      "learned": [
+        "政策变化页先拆新订阅、历史资格和临时期限",
+        "解释自家老商品标签，避免买家自行把倍率当官方永久权益"
+      ],
+      "scope": [
+        "Pro升级/订阅变化：直接匹配；非账期算法教程"
+      ],
+      "reads": [
+        {
+          "id": 3,
+          "kind": "origin",
+          "url": "https://getgpt.pro/blog/chatgpt-pro-reopened-10x-pro-500-25x",
+          "requestedURL": "https://getgpt.pro/blog/chatgpt-pro-reopened-10x-pro-500-25x",
+          "at": "2026-10-20T04:16:42.302745+00:00",
+          "status": 200,
+          "finalURL": "https://getgpt.pro/blog/chatgpt-pro-reopened-10x-pro-500-25x",
+          "bytes": 112701,
+          "sha256": "616d1162dfc4b3dc86112e108ef1c90c483ad88d8c92074276269b54fc4d5430"
+        },
+        {
+          "id": 3,
+          "kind": "reader",
+          "url": "https://getgpt.pro/blog/chatgpt-pro-reopened-10x-pro-500-25x",
+          "requestedURL": "https://r.jina.ai/https://getgpt.pro/blog/chatgpt-pro-reopened-10x-pro-500-25x",
+          "at": "2026-10-20T04:16:42.302785+00:00",
+          "status": 200,
+          "finalURL": "https://r.jina.ai/https://getgpt.pro/blog/chatgpt-pro-reopened-10x-pro-500-25x",
+          "bytes": 7758,
+          "sha256": "8f94d4779711941ba062ed34d4d5dd44e8c9443b656fb6184632fc4169d9f7be"
+        }
+      ]
+    },
+    {
+      "url": "https://getgpt.pro/blog/chatgpt-pro-500-25x-upgrade-recharge-guide",
+      "group": "GETGPT",
+      "kind": "article",
+      "learned": [
+        "按当前状态写咨询模板，让用户一次说清待变更对象",
+        "付款前确认和付款后验收都有明确字段",
+        "失败分支回到具体订单和原计费渠道"
+      ],
+      "scope": [
+        "Pro变更前核对：直接匹配"
+      ],
+      "reads": [
+        {
+          "id": 4,
+          "kind": "origin",
+          "url": "https://getgpt.pro/blog/chatgpt-pro-500-25x-upgrade-recharge-guide",
+          "requestedURL": "https://getgpt.pro/blog/chatgpt-pro-500-25x-upgrade-recharge-guide",
+          "at": "2026-10-20T04:16:43.089416+00:00",
+          "status": 200,
+          "finalURL": "https://getgpt.pro/blog/chatgpt-pro-500-25x-upgrade-recharge-guide",
+          "bytes": 124746,
+          "sha256": "ada8364a0c255eccffd3c2ecb0ebb03ac74a6bb2ffd17527a3d9dd21ee465115"
+        },
+        {
+          "id": 4,
+          "kind": "reader",
+          "url": "https://getgpt.pro/blog/chatgpt-pro-500-25x-upgrade-recharge-guide",
+          "requestedURL": "https://r.jina.ai/https://getgpt.pro/blog/chatgpt-pro-500-25x-upgrade-recharge-guide",
+          "at": "2026-10-20T04:16:43.966857+00:00",
+          "status": 200,
+          "finalURL": "https://r.jina.ai/https://getgpt.pro/blog/chatgpt-pro-500-25x-upgrade-recharge-guide",
+          "bytes": 10354,
+          "sha256": "c9a367e57675b2a4d6f5dea94b51ff20af90741cc07f7a586a569fddb909dfe5"
+        }
+      ]
+    },
+    {
+      "url": "https://getgpt.pro/blog/codex-credits-recharge-guide",
+      "group": "GETGPT",
+      "kind": "article",
+      "learned": [
+        "先用错误和重置时间判断要不要花钱",
+        "把用户要给客服的任务信息整理成模板",
+        "临时额度与更高计划能力分开"
+      ],
+      "scope": [
+        "Codex充值：直接匹配",
+        "自动补充credits：邻近单次购买主题"
+      ],
+      "reads": [
+        {
+          "id": 5,
+          "kind": "origin",
+          "url": "https://getgpt.pro/blog/codex-credits-recharge-guide",
+          "requestedURL": "https://getgpt.pro/blog/codex-credits-recharge-guide",
+          "at": "2026-10-20T04:16:45.351852+00:00",
+          "status": 200,
+          "finalURL": "https://getgpt.pro/blog/codex-credits-recharge-guide",
+          "bytes": 118013,
+          "sha256": "5aa5582c01faf7f12f5a3cd7a0006f42a977517b269818ad2bc2f98812df7860"
+        },
+        {
+          "id": 5,
+          "kind": "reader",
+          "url": "https://getgpt.pro/blog/codex-credits-recharge-guide",
+          "requestedURL": "https://r.jina.ai/https://getgpt.pro/blog/codex-credits-recharge-guide",
+          "at": "2026-10-20T04:16:45.542664+00:00",
+          "status": 200,
+          "finalURL": "https://r.jina.ai/https://getgpt.pro/blog/codex-credits-recharge-guide",
+          "bytes": 8829,
+          "sha256": "fcd2b49aa52e793fe2e386b88a9dfb7b1c8f83237e920d5401a3bf66e7a78c07"
+        }
+      ]
+    },
+    {
+      "url": "https://getgpt.pro/blog/codex-reset-rules-guide",
+      "group": "GETGPT",
+      "kind": "article",
+      "learned": [
+        "状态、时间线与行为结果对照能解释用户误判因果",
+        "明确主题参考来源，再用官方文档重组，避免冒充最初发现"
+      ],
+      "scope": [
+        "额度重置与续费：直接匹配",
+        "自动补充credits：仅邻近而非同题"
+      ],
+      "reads": [
+        {
+          "id": 6,
+          "kind": "origin",
+          "url": "https://getgpt.pro/blog/codex-reset-rules-guide",
+          "requestedURL": "https://getgpt.pro/blog/codex-reset-rules-guide",
+          "at": "2026-10-20T04:16:46.065628+00:00",
+          "status": 200,
+          "finalURL": "https://getgpt.pro/blog/codex-reset-rules-guide",
+          "bytes": 123321,
+          "sha256": "5cf0706aa611d54b995f54d3766802fb69dee40e639a670f98e534a8fa551e47"
+        },
+        {
+          "id": 6,
+          "kind": "reader",
+          "url": "https://getgpt.pro/blog/codex-reset-rules-guide",
+          "requestedURL": "https://r.jina.ai/https://getgpt.pro/blog/codex-reset-rules-guide",
+          "at": "2026-10-20T04:16:46.701925+00:00",
+          "status": 200,
+          "finalURL": "https://r.jina.ai/https://getgpt.pro/blog/codex-reset-rules-guide",
+          "bytes": 10655,
+          "sha256": "7272cc5069fdafd81ee258ace148fc2b823128e2b560e1c3acbf0da6b6d54bbc"
+        }
+      ]
+    },
+    {
+      "url": "https://getgpt.pro/blog/codex-quota-reset-renewal-guide",
+      "group": "GETGPT",
+      "kind": "article",
+      "learned": [
+        "不以两个事件时间相近就认定付款导致额度恢复",
+        "用操作前后记录避免把套餐成功与额度状态混为一谈"
+      ],
+      "scope": [
+        "续费与额度重置：直接匹配",
+        "Pro账期变更：邻近，不提供账单公式"
+      ],
+      "reads": [
+        {
+          "id": 7,
+          "kind": "origin",
+          "url": "https://getgpt.pro/blog/codex-quota-reset-renewal-guide",
+          "requestedURL": "https://getgpt.pro/blog/codex-quota-reset-renewal-guide",
+          "at": "2026-10-20T04:16:46.834033+00:00",
+          "status": 200,
+          "finalURL": "https://getgpt.pro/blog/codex-quota-reset-renewal-guide",
+          "bytes": 137337,
+          "sha256": "645fdca114fa017499750bd0aa2253818cb39b140a11be8fd1f304eda9f2e317"
+        },
+        {
+          "id": 7,
+          "kind": "reader",
+          "url": "https://getgpt.pro/blog/codex-quota-reset-renewal-guide",
+          "requestedURL": "https://r.jina.ai/https://getgpt.pro/blog/codex-quota-reset-renewal-guide",
+          "at": "2026-10-20T04:16:47.117910+00:00",
+          "status": 200,
+          "finalURL": "https://r.jina.ai/https://getgpt.pro/blog/codex-quota-reset-renewal-guide",
+          "bytes": 13495,
+          "sha256": "e5ef908153c2807d15d967936bd1e580f0e5249966076cb06b3292fd84488f4c"
+        }
+      ]
+    },
+    {
+      "url": "https://getgpt.pro/purchase_credits",
+      "group": "GETGPT",
+      "kind": "landing",
+      "learned": [
+        "让用户购买前看余额，完成兑换后还要看余额",
+        "把交易、交付材料和最终权益画成三个不同结果",
+        "FAQ靠近表单，减少误以为付款自动生效"
+      ],
+      "scope": [
+        "单次credits购买/兑换：直接匹配；不是auto-reload教程"
+      ],
+      "reads": [
+        {
+          "id": 8,
+          "kind": "origin",
+          "url": "https://getgpt.pro/purchase_credits",
+          "requestedURL": "https://getgpt.pro/purchase_credits",
+          "at": "2026-10-20T04:16:47.244113+00:00",
+          "status": 200,
+          "finalURL": "https://getgpt.pro/purchase_credits",
+          "bytes": 124796,
+          "sha256": "dd76817cb575607a4069c8d4d69d0ebbba3420b6d5ba61ccf3ca0f47581a22ab"
+        },
+        {
+          "id": 8,
+          "kind": "reader",
+          "url": "https://getgpt.pro/purchase_credits",
+          "requestedURL": "https://r.jina.ai/https://getgpt.pro/purchase_credits",
+          "at": "2026-10-20T04:16:47.977066+00:00",
+          "status": 200,
+          "finalURL": "https://r.jina.ai/https://getgpt.pro/purchase_credits",
+          "bytes": 7496,
+          "sha256": "fa3ac7e9dcfb0f7ecdb02cbe06d288b8ad4f3a4154c8f74638d9baa912aa3883"
+        }
+      ]
+    },
+    {
+      "url": "https://getgpt.pro/blog/gpt-payment-not-approved",
+      "group": "GETGPT",
+      "kind": "article",
+      "learned": [
+        "以读者报错原文开头，再展示核查字段",
+        "错误对照表可做成决策树，但必须基于准确官方分类"
+      ],
+      "scope": [
+        "ChatGPT订阅收款失败：直接匹配；不是API错误专文"
+      ],
+      "reads": [
+        {
+          "id": 9,
+          "kind": "origin",
+          "url": "https://getgpt.pro/blog/gpt-payment-not-approved",
+          "requestedURL": "https://getgpt.pro/blog/gpt-payment-not-approved",
+          "at": "2026-10-20T04:22:35.134467+00:00",
+          "status": 200,
+          "finalURL": "https://getgpt.pro/blog/gpt-payment-not-approved",
+          "bytes": 142588,
+          "sha256": "237e7b013034d9a65b94dbe795402960554915efccb0b9f0be83cacf4bd88ed0"
+        },
+        {
+          "id": 9,
+          "kind": "reader",
+          "url": "https://getgpt.pro/blog/gpt-payment-not-approved",
+          "requestedURL": "https://r.jina.ai/https://getgpt.pro/blog/gpt-payment-not-approved",
+          "at": "2026-10-20T04:22:35.135045+00:00",
+          "status": 200,
+          "finalURL": "https://r.jina.ai/https://getgpt.pro/blog/gpt-payment-not-approved",
+          "bytes": 11304,
+          "sha256": "558f0074fbdb3da4349c02f6f56aafb318bef50bab97e02474e4ca2779e4a814"
+        }
+      ]
+    },
+    {
+      "url": "https://getgpt.pro/blog/chatgpt-recharge-plus-pro-guide-2026",
+      "group": "GETGPT",
+      "kind": "article",
+      "learned": [
+        "把同义查询收在同一个问题页，未拆成多篇同义泛文",
+        "购买前清单→付款后验收→失败责任人形成闭环",
+        "把API不包含在会员内说明清楚"
+      ],
+      "scope": [
+        "GPT代充：直接原词匹配"
+      ],
+      "reads": [
+        {
+          "id": 10,
+          "kind": "origin",
+          "url": "https://getgpt.pro/blog/chatgpt-recharge-plus-pro-guide-2026",
+          "requestedURL": "https://getgpt.pro/blog/chatgpt-recharge-plus-pro-guide-2026",
+          "at": "2026-10-20T04:22:35.135124+00:00",
+          "status": 200,
+          "finalURL": "https://getgpt.pro/blog/chatgpt-recharge-plus-pro-guide-2026",
+          "bytes": 147738,
+          "sha256": "a9f5f8112da6c357586fd03fe3eba0f41992db0f99f58e625ec8993e6929448d"
+        },
+        {
+          "id": 10,
+          "kind": "reader",
+          "url": "https://getgpt.pro/blog/chatgpt-recharge-plus-pro-guide-2026",
+          "requestedURL": "https://r.jina.ai/https://getgpt.pro/blog/chatgpt-recharge-plus-pro-guide-2026",
+          "at": "2026-10-20T04:22:35.135221+00:00",
+          "status": 200,
+          "finalURL": "https://r.jina.ai/https://getgpt.pro/blog/chatgpt-recharge-plus-pro-guide-2026",
+          "bytes": 12344,
+          "sha256": "fbb74b08cbff39dfbfd0375b7ddc0f887669d2853aee28d5ef4e31544b26e8c1"
+        }
+      ]
+    },
+    {
+      "url": "https://getgpt.pro/blog/chatgpt-pro-recharge-guide-2026",
+      "group": "GETGPT",
+      "kind": "article",
+      "learned": [
+        "企业发票问题放在有明确交易需求的Pro文末，减少用户另找客服",
+        "现有Plus状态、购买方式与最终方案验收在同篇中衔接"
+      ],
+      "scope": [
+        "ChatGPT Pro充值：直接原词匹配"
+      ],
+      "reads": [
+        {
+          "id": 11,
+          "kind": "origin",
+          "url": "https://getgpt.pro/blog/chatgpt-pro-recharge-guide-2026",
+          "requestedURL": "https://getgpt.pro/blog/chatgpt-pro-recharge-guide-2026",
+          "at": "2026-10-20T04:22:35.135276+00:00",
+          "status": 200,
+          "finalURL": "https://getgpt.pro/blog/chatgpt-pro-recharge-guide-2026",
+          "bytes": 139427,
+          "sha256": "3eba33a687e76e7be52870aee005b38fdafadf5d24e3204cdd9802285ba7a303"
+        },
+        {
+          "id": 11,
+          "kind": "reader",
+          "url": "https://getgpt.pro/blog/chatgpt-pro-recharge-guide-2026",
+          "requestedURL": "https://r.jina.ai/https://getgpt.pro/blog/chatgpt-pro-recharge-guide-2026",
+          "at": "2026-10-20T04:22:35.135487+00:00",
+          "status": 200,
+          "finalURL": "https://r.jina.ai/https://getgpt.pro/blog/chatgpt-pro-recharge-guide-2026",
+          "bytes": 11383,
+          "sha256": "71c33c40d0062d0ad95dd46117b21424b775224dfd40acb5cdfbf1a44e5a5bf8"
+        }
+      ]
+    },
+    {
+      "url": "https://getgptplus.app/blog/gpt-6-astra",
+      "group": "Other user-supplied tutorials",
+      "kind": "article",
+      "learned": [
+        "先澄清买什么再展示支付入口，可直接减少模型名与会员商品混淆。",
+        "用场景表承接不同购买意图；付费结果与模型权限分开核验。",
+        "相关教程落在当前问题旁，读者可继续排查而非全篇只放购买链接。"
+      ],
+      "scope": [
+        "gpt6-astra-access-billing",
+        "gpt6-astra-api-cost-estimate"
+      ],
+      "reads": [
+        {
+          "route": "reader",
+          "request_url": "https://r.jina.ai/https://getgptplus.app/blog/gpt-6-astra",
+          "read_at_utc": "2026-10-20T04:19:04.421819+00:00",
+          "method": "GET",
+          "status": 200,
+          "final_url": "https://r.jina.ai/https://getgptplus.app/blog/gpt-6-astra",
+          "sha256": "726d1dc0bc18406a49a0e32e908fe7d0dc9dd806a7d03c5ead429a6aa25d2683",
+          "bytes": 11425
+        },
+        {
+          "route": "origin",
+          "request_url": "https://getgptplus.app/blog/gpt-6-astra",
+          "read_at_utc": "2026-10-20T04:19:07.931632+00:00",
+          "method": "GET",
+          "status": 200,
+          "final_url": "https://getgptplus.app/blog/gpt-6-astra",
+          "sha256": "56cd43645531fde3b0f9c761b2586dd976a855d821ff512f310cb82c50dfb335",
+          "bytes": 113904
+        }
+      ]
+    },
+    {
+      "url": "https://getgptplus.app/blog/codex-usage",
+      "group": "Other user-supplied tutorials",
+      "kind": "article",
+      "learned": [
+        "用量类文章要给读者去哪里查的可执行入口，不只罗列套餐词。",
+        "套餐比较与查询截图可以形成理解→核验的连续阅读顺序。"
+      ],
+      "scope": [
+        "codex-credit-auto-top-up",
+        "chatgpt-pro-change-billing-cycle"
+      ],
+      "reads": [
+        {
+          "route": "reader",
+          "request_url": "https://r.jina.ai/https://getgptplus.app/blog/codex-usage",
+          "read_at_utc": "2026-10-20T04:19:04.422079+00:00",
+          "method": "GET",
+          "status": 200,
+          "final_url": "https://r.jina.ai/https://getgptplus.app/blog/codex-usage",
+          "sha256": "7711703300de9716401203c9863c281d754ac91d32304e3140df835f105c0903",
+          "bytes": 9646
+        },
+        {
+          "route": "origin",
+          "request_url": "https://getgptplus.app/blog/codex-usage",
+          "read_at_utc": "2026-10-20T04:19:08.135209+00:00",
+          "method": "GET",
+          "status": 200,
+          "final_url": "https://getgptplus.app/blog/codex-usage",
+          "sha256": "e75250fc0897433874594820d01b6555f65148e4fba75fbb7eb9c75060691297",
+          "bytes": 101925
+        }
+      ]
+    },
+    {
+      "url": "https://codexguide.ai/start/03-account-plan.html",
+      "group": "Other user-supplied tutorials",
+      "kind": "article",
+      "learned": [
+        "把用户需要准备什么、做到哪一步、看到什么结果落实在图旁。",
+        "明确第三方经验的作者/时间/风险，以及截图来自哪里，优于冒充全部自测。",
+        "保存原订单再验商品权益的顺序可以学习，但必须用我们真实原订单字段重写。"
+      ],
+      "scope": [
+        "chatgpt-pro-change-billing-cycle",
+        "gpt6-astra-access-billing"
+      ],
+      "reads": [
+        {
+          "route": "reader",
+          "request_url": "https://r.jina.ai/https://codexguide.ai/start/03-account-plan.html",
+          "read_at_utc": "2026-10-20T04:19:04.422159+00:00",
+          "method": "GET",
+          "status": 200,
+          "final_url": "https://r.jina.ai/https://codexguide.ai/start/03-account-plan.html",
+          "sha256": "6337a827111b861b03e26cf4a298af246d9bc0fb9ec97c8254b0ae5afb14f978",
+          "bytes": 23165
+        },
+        {
+          "route": "origin",
+          "request_url": "https://codexguide.ai/start/03-account-plan.html",
+          "read_at_utc": "2026-10-20T04:19:10.239940+00:00",
+          "method": "GET",
+          "status": 200,
+          "final_url": "https://codexguide.ai/start/03-account-plan",
+          "sha256": "ac1a262114c6188abcca4b73f3fc6e2048ba717bc8b8cb1249414ad101d7dca6",
+          "bytes": 64623
+        }
+      ]
+    },
+    {
+      "url": "https://codexguide.io/guides/deng-lu-codex",
+      "group": "Other user-supplied tutorials",
+      "kind": "article",
+      "learned": [
+        "最值得学习的形式是操作→应看到的结果→失败分流→完成清单。",
+        "明确历史截图、官方核对、命令帮助验证与实际登录测试的界限。",
+        "同一文章只解决一个任务，后续任务留给精确下一篇。"
+      ],
+      "scope": [
+        "gpt6-astra-access-billing",
+        "openai-api-model-access-billing-errors"
+      ],
+      "reads": [
+        {
+          "route": "reader",
+          "request_url": "https://r.jina.ai/https://codexguide.io/guides/deng-lu-codex",
+          "read_at_utc": "2026-10-20T04:19:04.422208+00:00",
+          "method": "GET",
+          "status": 200,
+          "final_url": "https://r.jina.ai/https://codexguide.io/guides/deng-lu-codex",
+          "sha256": "a5a25b2fff1e72bed1ae575493eca4e43937f91be31fc07e26e56d6d2d1d9713",
+          "bytes": 7448
+        },
+        {
+          "route": "origin",
+          "request_url": "https://codexguide.io/guides/deng-lu-codex",
+          "read_at_utc": "2026-10-20T04:19:06.392066+00:00",
+          "method": "GET",
+          "status": 200,
+          "final_url": "https://codexguide.io/guides/deng-lu-codex",
+          "sha256": "00ce9f789f14b8d546a8c0c31e5d0cddda02027061c1ee95123ee3ea1d9ab556",
+          "bytes": 98701
+        }
+      ]
+    },
+    {
+      "url": "https://codex-zh.com/posts/429-too-many-requests/",
+      "group": "Other user-supplied tutorials",
+      "kind": "article",
+      "learned": [
+        "以用户粘贴的具体错误作标题，先给连接链和排查顺序。",
+        "把配置层与模型服务层区分，可帮助设计本轮分流图。"
+      ],
+      "scope": [
+        "openai-api-model-access-billing-errors"
+      ],
+      "reads": [
+        {
+          "route": "reader",
+          "request_url": "https://r.jina.ai/https://codex-zh.com/posts/429-too-many-requests/",
+          "read_at_utc": "2026-10-20T04:19:07.709916+00:00",
+          "method": "GET",
+          "status": 200,
+          "final_url": "https://r.jina.ai/https://codex-zh.com/posts/429-too-many-requests/",
+          "sha256": "4b211050a5f9717b842df60710dca515066e5d840c16f812aedbd6e7c9881028",
+          "bytes": 3616
+        },
+        {
+          "route": "origin",
+          "request_url": "https://codex-zh.com/posts/429-too-many-requests/",
+          "read_at_utc": "2026-10-20T04:19:10.070583+00:00",
+          "method": "GET",
+          "status": 200,
+          "final_url": "https://codex-zh.com/posts/429-too-many-requests/",
+          "sha256": "6bed2554bfb76c09398647c076f0760366632bf3299990cfd301b5ca26e6f3fe",
+          "bytes": 83374
+        }
+      ]
+    },
+    {
+      "url": "https://codex-zh.com/posts/codex-api/",
+      "group": "Other user-supplied tutorials",
+      "kind": "article",
+      "learned": [
+        "用同任务、同仓库、同验收条件比较成本，避免只看模型价签。",
+        "上下文边界与实际token消耗应一起看。"
+      ],
+      "scope": [
+        "gpt6-astra-api-cost-estimate"
+      ],
+      "reads": [
+        {
+          "route": "reader",
+          "request_url": "https://r.jina.ai/https://codex-zh.com/posts/codex-api/",
+          "read_at_utc": "2026-10-20T04:19:08.672211+00:00",
+          "method": "GET",
+          "status": 200,
+          "final_url": "https://r.jina.ai/https://codex-zh.com/posts/codex-api/",
+          "sha256": "8e1639407fbd11e75defe0f033afd999b1dec24bdb791b8320ee351e2c4f4380",
+          "bytes": 9696
+        },
+        {
+          "route": "origin",
+          "request_url": "https://codex-zh.com/posts/codex-api/",
+          "read_at_utc": "2026-10-20T04:19:11.121306+00:00",
+          "method": "GET",
+          "status": 200,
+          "final_url": "https://codex-zh.com/posts/codex-api/",
+          "sha256": "528a87d5a232e4a32f617c347fb6032858b39c24f97dadf384eeb8c86961cc7c",
+          "bytes": 81186
+        }
+      ]
+    },
+    {
+      "url": "https://getgptplus.app/blog/chatgpt-pro-diff",
+      "group": "Other user-supplied tutorials",
+      "kind": "article",
+      "learned": [
+        "以是否真的需要升级开头，避免所有问题只给加价答案。",
+        "多路线对照和受众场景比长段罗列关键词更方便决策。"
+      ],
+      "scope": [
+        "chatgpt-pro-change-billing-cycle"
+      ],
+      "reads": [
+        {
+          "route": "reader",
+          "request_url": "https://r.jina.ai/https://getgptplus.app/blog/chatgpt-pro-diff",
+          "status": 200,
+          "final_url": "https://r.jina.ai/https://getgptplus.app/blog/chatgpt-pro-diff",
+          "read_at_utc": "2026-10-20T04:23:56.369554+00:00",
+          "sha256": "09a1903a5b14db479e67bd785b32c0fd8d06a3990a12c9ab6845f955234f3b0e",
+          "bytes": 9117
+        },
+        {
+          "route": "origin",
+          "request_url": "https://getgptplus.app/blog/chatgpt-pro-diff",
+          "status": 200,
+          "final_url": "https://getgptplus.app/blog/chatgpt-pro-diff",
+          "read_at_utc": "2026-10-20T04:24:01.311437+00:00",
+          "sha256": "849fea3959e6f9d03d1f8359ea420e528b520678c4d2d80ca7c842742fdefe99",
+          "bytes": 97665
+        }
+      ]
+    }
+  ],
+  "officialSourceCount": 15,
+  "officialSources": [
+    {
+      "read_at_utc": "2026-10-20T03:46:12.478643+00:00",
+      "method": "GET",
+      "status": 200,
+      "sha256": "b7c19b3bb89e87a392a0f3f8b732c5e7c9f0bf558cbe3022c491575a947fcef8",
+      "bytes": 3704,
+      "source_url": "https://developers.openai.com/api/docs/models/gpt-6-astra",
+      "supports": [
+        "GPT-6 Astra为官方模型名称，模型ID gpt-6-astra。",
+        "API模型定价按token计量；模型条目不是一张独立订阅充值卡。"
+      ],
+      "boundaries": [
+        "不能从官方API模型存在推出某个ChatGPT账号或第三方商品已包含该模型。"
+      ],
+      "url": "https://developers.openai.com/api/docs/models/gpt-6-astra"
+    },
+    {
+      "read_at_utc": "2026-10-20T03:46:12.479015+00:00",
+      "method": "GET",
+      "status": 200,
+      "sha256": "ad1aeb3d87e2e61a91233447f7c54b7b18ebfecc4315eeefab15bf5861b3a5c7",
+      "bytes": 19325,
+      "source_url": "https://developers.openai.com/api/docs/guides/latest-model",
+      "supports": [
+        "GPT-6为模型家族；官方指引区分Astra、GPT-6.1 Sol与Luna。"
+      ],
+      "boundaries": [
+        "不能把用户简称GPT6理解为一个确定的唯一SKU或固定购买对象。"
+      ],
+      "url": "https://developers.openai.com/api/docs/guides/latest-model"
+    },
+    {
+      "read_at_utc": "2026-10-20T03:46:12.479107+00:00",
+      "method": "GET",
+      "status": 200,
+      "sha256": "e0767b5009dcc929a2f9eeb9ce6096a57ff12e5d8c011de9d69ff145aef2fc28",
+      "bytes": 23231,
+      "source_url": "https://developers.openai.com/api/docs/pricing",
+      "supports": [
+        "官方API价格按具体model与服务档位、token类型区分。"
+      ],
+      "boundaries": [
+        "不把API token美元价格换算成订阅内固定任务数，也不当商城人民币商品报价。"
+      ],
+      "url": "https://developers.openai.com/api/docs/pricing"
+    },
+    {
+      "read_at_utc": "2026-10-20T03:48:03.742042+00:00",
+      "method": "GET",
+      "status": 200,
+      "sha256": "77779d7adf13e05df5bf7fa82088ebbaa647d16682a91cea5cd3cad043474f8e",
+      "bytes": 16586,
+      "source_url": "https://learn.chatgpt.com/docs/models",
+      "supports": [
+        "官方Work/Codex文档列出Astra模型与模型选择入口。",
+        "可见模型受rollout、登录方式、客户端与工作区管理影响。"
+      ],
+      "boundaries": [
+        "针对GPT-6.1 Sol、Sol、Luna的Work/Codex而非Chat限制，不能无依据扩大为所有Astra可用性的断言。",
+        "选择模型不授予缺失的工作区权限。"
+      ],
+      "url": "https://learn.chatgpt.com/docs/models"
+    },
+    {
+      "read_at_utc": "2026-10-20T03:48:03.742760+00:00",
+      "method": "GET",
+      "status": 200,
+      "sha256": "e3e0a5ac79441fac79cf1e50d31c0bdbd8d27e0f30452a8307f87ab64495bdf3",
+      "bytes": 45736,
+      "source_url": "https://learn.chatgpt.com/docs/pricing",
+      "supports": [
+        "ChatGPT订阅、额外credits与API token价格分别核对。",
+        "Fast/Ultrafast的订阅包含用量倍率和付费credits倍率不同；Work与Codex共享usage。"
+      ],
+      "boundaries": [
+        "不是Astra独立充值SKU或所有计划可用的证明；不是精确账号剩余额度。"
+      ],
+      "url": "https://learn.chatgpt.com/docs/pricing"
+    },
+    {
+      "read_at_utc": "2026-10-20T03:48:03.742868+00:00",
+      "method": "GET",
+      "status": 200,
+      "sha256": "ef2f4e55abe70a66783a34be97778df35d29ad23fb7f6d68eb2610be51a61644",
+      "bytes": 16852,
+      "source_url": "https://learn.chatgpt.com/docs/auth",
+      "supports": [
+        "Codex区分ChatGPT登录与API key认证；登录/计费来源应先确认。"
+      ],
+      "boundaries": [
+        "不需要读取任何真实auth.json、API key或登录态；本文研究未做登录或调用。"
+      ],
+      "url": "https://learn.chatgpt.com/docs/auth"
+    },
+    {
+      "read_at_utc": "2026-10-20T03:50:32.776925+00:00",
+      "method": "GET",
+      "status": 200,
+      "sha256": "e965b9526b3df51923c175012e3860106e8e3a3599b49efd7d934245bd5cd85b",
+      "bytes": 3580,
+      "source_url": "https://learn.chatgpt.com/docs/agent-configuration/speed",
+      "supports": [
+        "Fast以更高用量换速度；官方文档把Fast与Ultrafast分开。",
+        "Ultrafast面向Pro500及符合资格的Enterprise/Edu；其他自助计划不能仅买credits获得Ultrafast。",
+        "API key使用API token计价，不套ChatGPT credits倍率。"
+      ],
+      "boundaries": [
+        "不承诺所有账号可用、任务总时长固定加速倍数或商家商品等于Pro500资格。"
+      ],
+      "url": "https://learn.chatgpt.com/docs/agent-configuration/speed"
+    },
+    {
+      "read_at_utc": "2026-10-20T03:50:32.777190+00:00",
+      "method": "GET",
+      "status": 200,
+      "sha256": "c390d663cfc85416270be1804ab1fd52f731bbaa7d2d789ea037156426b5343c",
+      "bytes": 4489,
+      "source_url": "https://developers.openai.com/api/docs/guides/spend-limits",
+      "supports": [
+        "API支出通知不等于硬上限；组织/项目可配置硬上限。",
+        "429要区分组织/项目spend limit、官方usage limit、credit_balance_exhausted和速率问题。",
+        "硬限额传播非瞬时，不能承诺严格零超额。"
+      ],
+      "boundaries": [
+        "不应统一指导继续充值、提高限额或删除保护；先定位错误和实际责任主体，不实际更改配置。"
+      ],
+      "url": "https://developers.openai.com/api/docs/guides/spend-limits"
+    },
+    {
+      "read_at_utc": "2026-10-20T03:50:32.777255+00:00",
+      "method": "GET",
+      "status": 200,
+      "sha256": "ca56d0600fdfd00b2c48011233317c3eb7a8e8e5e6aeb958bb2777ea8a042982",
+      "bytes": 32170,
+      "source_url": "https://developers.openai.com/api/docs/guides/error-codes",
+      "supports": [
+        "官方错误表区分credit_balance_exhausted与请求速率429等原因。"
+      ],
+      "boundaries": [
+        "不能把同一HTTP429都解释为余额为零或订阅未开通。"
+      ],
+      "url": "https://developers.openai.com/api/docs/guides/error-codes"
+    },
+    {
+      "read_at_utc": "2026-10-20T03:55:16.010204+00:00",
+      "method": "GET",
+      "status": 200,
+      "sha256": "eab68faf1e12d93d77b96881a0f51f7ecfd85a4da94bb48fba64925a6c82a157",
+      "bytes": 1816,
+      "source_url": "https://developers.openai.com/api/reference/resources/models/methods/list",
+      "supports": [
+        "官方文档说明模型列表端点返回当前可用模型及基础可用性信息；本轮只读文档，不请求真实账户模型列表。"
+      ],
+      "boundaries": [
+        "文档公开模型条目不等于某个账户、项目、key具备调用权限。"
+      ],
+      "url": "https://developers.openai.com/api/reference/resources/models/methods/list"
+    },
+    {
+      "read_at_utc": "2026-10-20T03:55:16.010476+00:00",
+      "method": "GET",
+      "status": 200,
+      "sha256": "660f7b420f05c88b4bd49298e2c3049a5ce2351132c5b1efbae43ad760d843d6",
+      "bytes": 14883,
+      "source_url": "https://developers.openai.com/api/docs/guides/rbac",
+      "supports": [
+        "组织/项目、key与用户角色共同约束权限，项目key还需要调用用户具备对应项目权限。",
+        "读取模型列表与请求模型是不同权限动作。"
+      ],
+      "boundaries": [
+        "不索取key、不设置全权限、不创建或修改项目与角色。"
+      ],
+      "url": "https://developers.openai.com/api/docs/guides/rbac"
+    },
+    {
+      "read_at_utc": "2026-10-20T03:55:16.010552+00:00",
+      "method": "GET",
+      "status": 200,
+      "sha256": "eef6761e0308740574930ebe15d576f48f05ea13fdbb45fad0a43c2355f9dde8",
+      "bytes": 22738,
+      "source_url": "https://developers.openai.com/api/docs/guides/rate-limits",
+      "supports": [
+        "临时rate limit/slow_down与账单quota错误需要不同处理。",
+        "有效Retry-After表示临时速率/负载错误的最短等待；账单或quota错误不能靠重试恢复。"
+      ],
+      "boundaries": [
+        "不把所有429都指数重试；不通过大量真实请求测试限流。"
+      ],
+      "url": "https://developers.openai.com/api/docs/guides/rate-limits"
+    },
+    {
+      "source_url": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
+      "web_opened_actual_canonical": true,
+      "method_note": "普通origin GET403，agent-reach Jina200并与实际web.open当前canonical正文交叉；不伪写origin200。",
+      "id": "current-pro-tiers",
+      "supports": [
+        "当前Pro为100/200/500美元月付档；Pro200已重新开放新订阅。",
+        "符合2026-09-22至2026-09-29 10am Pacific活跃资格并保持active的Pro200旧allowance仅保留至2026-10-29；价格仍200美元。",
+        "旧allowance保留不升级成Pro500、不增加Ultrafast；其他自助Pro100/200仅买credits不解锁Ultrafast。",
+        "原账号Settings→My Plan查看可选计划变更；原平台取消通常保留至账期末，取消不自动退款。"
+      ],
+      "boundaries": [
+        "当前canonical未给出一条覆盖所有渠道、档位的升级即时结算、账期重置或proration公式。",
+        "不能引用搜索旧编码/翻译URL中附带临时pause的结算句，把它当当前统一规则。",
+        "具体立即应付、变更生效日、下一次续费和折抵/税费，只能按本人当前确认页与原账单核对；未明则请原收费方确认。"
+      ],
+      "url": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
+      "reads": [
+        {
+          "route": "origin",
+          "request_url": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
+          "read_at_utc": "2026-10-20T03:53:26.936289+00:00",
+          "method": "GET",
+          "status": 403,
+          "final_url": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
+          "sha256": "89edb0f778c63c4b0050faee0db0558613851d548e128dbf1541193be6f32bfb",
+          "bytes": 9866
+        },
+        {
+          "route": "reader",
+          "request_url": "https://r.jina.ai/https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
+          "read_at_utc": "2026-10-20T03:53:27.476428+00:00",
+          "method": "GET",
+          "status": 200,
+          "final_url": "https://r.jina.ai/https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
+          "sha256": "c273ef49cfe1ded5c73cffa957bca0e4123bdd62aa04f90f69646e1c54a95048",
+          "bytes": 13191
+        }
+      ]
+    },
+    {
+      "source_url": "https://help.openai.com/en/articles/12642688-using-credits-for-flexible-usage-in-chatgpt-personal-plans",
+      "web_opened_actual_canonical": true,
+      "method_note": "普通origin GET403，agent-reach Jina200并与实际web.open当前canonical正文交叉；不伪写origin200。",
+      "id": "current-personal-credits",
+      "supports": [
+        "credits是受支持功能超出包含用量后的按量补充，不改变订阅套餐；适用功能与资格按账户当前Usage显示。",
+        "自动补充可用时从Settings→Usage或Codex Usage & Billing配置minimum balance/target balance，低于阈值补到目标，用默认付款方式；启用时已低于minimum可能立即购买。",
+        "monthly maximum spend只限制自动reload，不限制单次手动购买。",
+        "自动reload购买usage credits，不补美元wallet；单次购买wallet抵扣只有当前结账显示时才适用，不能套给auto reload。",
+        "并发任务可造成负credits；后续购买或auto reload可先抵负值。",
+        "credits自购买起12个月有效、不可转让/转售/赠送；退款有法律/合同/经批准例外，不能写绝对永不退。"
+      ],
+      "boundaries": [
+        "不要承诺所有Free/Go/Plus/Pro账户都有购买或reload入口；有限Free/Go群体已获资格，不能写全部Free/Go不支持。",
+        "不声称关闭reload会退既往款、停止已经发生的用量，或monthly cap覆盖所有手动购买。",
+        "不编固定reload金额、cap重置时刻、通用按钮文案或实际自动扣费成功。"
+      ],
+      "url": "https://help.openai.com/en/articles/12642688-using-credits-for-flexible-usage-in-chatgpt-personal-plans",
+      "reads": [
+        {
+          "route": "origin",
+          "request_url": "https://help.openai.com/en/articles/12642688-using-credits-for-flexible-usage-in-chatgpt-personal-plans",
+          "read_at_utc": "2026-10-20T03:53:26.936634+00:00",
+          "method": "GET",
+          "status": 403,
+          "final_url": "https://help.openai.com/en/articles/12642688-using-credits-for-flexible-usage-in-chatgpt-personal-plans",
+          "sha256": "45f323512db44030f1d8120250d7907915be62340f35b4f47a0a688da5a93a93",
+          "bytes": 10017
+        },
+        {
+          "route": "reader",
+          "request_url": "https://r.jina.ai/https://help.openai.com/en/articles/12642688-using-credits-for-flexible-usage-in-chatgpt-personal-plans",
+          "read_at_utc": "2026-10-20T03:53:27.502208+00:00",
+          "method": "GET",
+          "status": 200,
+          "final_url": "https://r.jina.ai/https://help.openai.com/en/articles/12642688-using-credits-for-flexible-usage-in-chatgpt-personal-plans",
+          "sha256": "b50f077c361e99ed119a78183d868c0981af5b658d77195096592dd97df50749",
+          "bytes": 14262
+        }
+      ]
+    },
+    {
+      "method": "GET",
+      "read_at_utc": "2026-10-20T03:58:24.979976+00:00",
+      "status": 200,
+      "sha256": "a561487dd41db8828b5b9920d77275bdced3c3c07ba1fb9f3c3230c5aaeb925b",
+      "bytes": 70779,
+      "source_url": "https://developers.openai.com/api/docs/guides/reasoning",
+      "supports": [
+        "推理token不可见但计入上下文并按output tokens收费。",
+        "官方usage示例的output_tokens为总数，reasoning_tokens是output_tokens_details中的明细；不要把已计入的推理tokens再次加到总output上。",
+        "incomplete可能在可见正文输出前发生，仍可产生input/reasoning费用；不能仅用可见字数估算账单。"
+      ],
+      "boundaries": [
+        "本轮只读公开文档示例，未实际调用API。",
+        "不把GPT API的pro reasoning mode与ChatGPT Pro订阅商品混淆。"
+      ],
+      "url": "https://developers.openai.com/api/docs/guides/reasoning"
+    }
+  ],
+  "topicLearning": [
+    {
+      "slug": "gpt6-astra-access-billing",
+      "learn_from": [
+        "getgptplus-astra",
+        "codexguide-io-login"
+      ],
+      "reader_question": "我要的是界面模型入口、套餐，还是程序调用额度？",
+      "retain_problem_not_wording": "先画购买对象分流，再为每个入口列动作/应看到结果/不证明什么；用原创新图解释模型名≠商品名。",
+      "new_original_contribution": "同一owner合并GPT-6 Astra与GPT6充值；分清产品订阅、额外credits、API余额，以及账号/工作区可用性。",
+      "official_source_ids": [
+        "gpt-6-astra.md",
+        "learn-models.md",
+        "learn-pricing.md",
+        "learn-auth.md",
+        "current-pro-tiers"
+      ]
+    },
+    {
+      "slug": "chatgpt-pro-change-billing-cycle",
+      "learn_from": [
+        "getgptplus-pro-diff",
+        "codexguide-ai-account-plan",
+        "codexguide-io-login"
+      ],
+      "reader_question": "我该升级吗？变更后什么时候生效、下次多少钱？",
+      "retain_problem_not_wording": "先做是否需要升级清单，变更前/确认页/生效后三段并列核对；每项都有可观察结果。",
+      "new_original_contribution": "用档位、账号、当前周期、确认页应付、生效时间、下次续费六字段核验，当前官方未定通用差额公式则明确以本人页面为准。",
+      "official_source_ids": [
+        "current-pro-tiers"
+      ]
+    },
+    {
+      "slug": "codex-credit-auto-top-up",
+      "learn_from": [
+        "getgptplus-codex-usage",
+        "codexguide-io-login"
+      ],
+      "reader_question": "怎样避免中途停，开启自动补充会不会立即扣款、月上限管哪些购买？",
+      "retain_problem_not_wording": "先查用量和付款对象，再用触发→补到目标→上限停止的原创逻辑图；动作和结果并列。",
+      "new_original_contribution": "官方minimum/target、低于最低值时启用可能即时购买、默认付款、仅自动购买月上限、手动购买/钱包/负余额分流；不重复通用单次credits购买旧页。",
+      "official_source_ids": [
+        "current-personal-credits",
+        "learn-pricing.md"
+      ]
+    },
+    {
+      "slug": "gpt6-astra-api-cost-estimate",
+      "learn_from": [
+        "getgptplus-astra",
+        "codex-zh-api-cost"
+      ],
+      "reader_question": "我这次调用怎么算，为什么跨过272K会突然更贵？",
+      "retain_problem_not_wording": "保留场景假设与可复算思路，重画token四桶和阈值整次请求图，不复制同行表格样式/原句。",
+      "new_original_contribution": "Standard无缓存合成示例：270K输入+2K总输出=2.80美元，300K+同2K总输出=6.15美元；输入超过272K整次换长价，推理已含总输出不重复加，工具与税等另列。",
+      "official_source_ids": [
+        "gpt-6-astra.md",
+        "pricing.md",
+        "source-reasoning.md"
+      ]
+    },
+    {
+      "slug": "openai-api-model-access-billing-errors",
+      "learn_from": [
+        "codex-zh-429",
+        "codexguide-io-login"
+      ],
+      "reader_question": "同是429，应该等待、补余额、改预算，还是找管理员？",
+      "retain_problem_not_wording": "把同行宽泛连接链改为HTTP+error.type+error.code→归属层→下一步的表和分流图，最后给不含密钥的证据清单。",
+      "new_original_contribution": "区分余额耗尽、组织/项目硬上限、获批usagecap、临时频率限制；模型列表、调用权限、订阅付款各自不替代。",
+      "official_source_ids": [
+        "source-error-codes.md",
+        "source-spend-limits.md",
+        "source-rate-limits.md",
+        "source-rbac.md",
+        "source-models-list.md"
+      ]
+    }
+  ],
+  "limits": [
+    "Sampled public content only; no analytics dashboard, full backlink index, account transaction or claimed traffic share.",
+    "Native img/table counts are markup observations, not browser visual or accessibility measurements.",
+    "Automatic credit reload and complete Pro change settlement were not fully covered in sampled competitor articles. Current official documentation supplies those parts.",
+    "Some historical tutorials mix old plan ratios, releases or promotions; these were not copied as current facts."
+  ],
+  "sourceCommits": {
+    "nano": {
+      "repository": "hyai-dev/nano-banana-web",
+      "baseCommit": "0be59bea202ed0d4faf8188d7e742fd893ab7fad",
+      "sourceCommit": "9d2f88beadbd08901f4e8405766aefdb689ba320",
+      "sourceURL": "https://github.com/hyai-dev/nano-banana-web/commit/9d2f88beadbd08901f4e8405766aefdb689ba320",
+      "branch": "content/keywords-61-65-20261020",
+      "workingTreeClean": true
+    },
+    "pfg": {
+      "repository": "hyai-dev/payforgpt-web",
+      "baseCommit": "aa6c22dae7396a874b5cac29e28df553f38fcb17",
+      "sourceCommit": "69e77e56bd85ae41837cbea3480b2dd22ddbd490",
+      "sourceURL": "https://github.com/hyai-dev/payforgpt-web/commit/69e77e56bd85ae41837cbea3480b2dd22ddbd490",
+      "branch": "content/keywords-61-65-20261020",
+      "workingTreeClean": true
+    }
+  }
+}
