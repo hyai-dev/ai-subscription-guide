@@ -577,10 +577,12 @@
       ],
       "canonical": "https://github.com/hyai-dev/ai-subscription-guide/blob/main/docs/14-paid-but-still-free.md",
       "publishedAt": "2026-10-19",
-      "reviewedAt": "2026-10-19",
+      "reviewedAt": "2026-10-20",
       "sources": [
         "https://help.openai.com/en/articles/9135236",
-        "https://help.openai.com/en/articles/20001043-how-do-i-avoid-being-charged-twice-if-i-subscribe-to-chatgpt-on-ios-android-and-the-web"
+        "https://help.openai.com/en/articles/20001043-how-do-i-avoid-being-charged-twice-if-i-subscribe-to-chatgpt-on-ios-android-and-the-web",
+        "https://help.openai.com/en/articles/20001056-why-am-i-seeing-a-message-that-my-subscription-is-associated-with-another-account",
+        "https://help.openai.com/en/articles/8346573-restoring-a-chatgpt-subscription-purchased-in-the-apple-app-store"
       ],
       "figures": [
         {
@@ -602,7 +604,7 @@
           "trackedUrl": "https://nano-banana.lol/how-to/payment-success-not-delivered?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide_paid_but_still_free_nano"
         }
       ],
-      "sha256": "6769645bc391a3afac083aa7353869b8dadab08fd5ac2ceab22002d0a8d3b511",
+      "sha256": "714f0f06f12d0179cad61ecf9854aca46b38283cc5c2e0c2bf95953bf3704ce9",
       "archive": "articles/paid-but-still-free.md"
     },
     {

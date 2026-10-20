@@ -1,0 +1,3 @@
+example_type,original_channel,payment_record,account_match,delivery_record,entitlement_state,next_owner
+synthetic-account-mismatch,Apple App Store,active subscription shown in original store,current B differs from purchase account A,not applicable for direct purchase,B shows Free; A not yet checked,original account and official store support
+synthetic-delivery-unverified,original merchant website,paid shown; entitlement not verified,target account checked,delivered shown; redemption feedback unknown,Free in target account,original merchant order support

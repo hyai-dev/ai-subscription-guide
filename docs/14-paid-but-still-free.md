@@ -1,6 +1,6 @@
 # ChatGPT已付款仍显示Free：分开核对付款、交付与权益
 
-首次发布与复核：2026-10-19。由 PayForGPT 与 Nano Banana 内容运营方整理。
+首次发布：2026-10-19；最近复核：2026-10-20。由 PayForGPT 与 Nano Banana 内容运营方整理。
 
 ## 别把“付了钱”和“买在这个账号”合成一个判断
 
@@ -37,7 +37,45 @@
 
 切换渠道前还要检查旧订阅。官方特别说明 Apple 的失败续费不代表自动取消，后续可能重试；另开订阅可能导致重复收费。[避免多渠道重复收费](https://help.openai.com/en/articles/20001043-how-do-i-avoid-being-charged-twice-if-i-subscribe-to-chatgpt-on-ios-android-and-the-web)
 
-## 可复制的验收记录
+## iOS 提示“订阅关联到另一个账号”时
+
+这里要分别确认 **Apple 购买账户**和**当时登录的 ChatGPT 账号**。同一部手机或同一个 Apple ID，不代表当前所有 ChatGPT 账号都获得这份订阅。先找回原来购买时的 ChatGPT 账号；App 中的“恢复购买”用于核对原来的购买，不是把订阅搬到另一个账号。
+
+[OpenAI的账号关联排查](https://help.openai.com/en/articles/20001056-why-am-i-seeing-a-message-that-my-subscription-is-associated-with-another-account)与[恢复App Store购买说明](https://help.openai.com/en/articles/8346573-restoring-a-chatgpt-subscription-purchased-in-the-apple-app-store)给出相应支持路径。账号无法找回、收据与权益不符时，联系原收费方或官方支持；不要在第三方页面粘贴购买凭证、会话或验证码。
+
+### 完整示例一：Apple有订阅，当前ChatGPT仍是Free
+
+**合成案例，不是用户订单、平台界面截图或成功率证明。**“账号A/B”只是说明不同登录对象，没有真实邮箱。
+
+| 记录项 | 示例中看到的状态 | 下一步 |
+| --- | --- | --- |
+| 原购买渠道 | Apple App Store | 在Apple原订阅记录中确认是否仍有效 |
+| 原购买时ChatGPT登录 | 账号A | 回到账号A核对，无法登录时先处理账号恢复 |
+| 当前App登录 | 账号B，显示Free | 当前显示不能证明账号A没有权益 |
+| 恢复购买反馈 | 提示关联另一个账号 | 按官方关联排查，不把恢复理解成跨账号转移 |
+| 处理对象 | 原账号归属/原渠道支持 | 暂停在账号B重复购买；保存脱敏差异描述 |
+
+这个例子的完成条件是“原账号、原渠道记录与套餐周期对上”，不是“多试几个账号直到显示会员”。如果自己的情况不同，按实际反馈记录，不能套用示例结论。
+
+### 完整示例二：商家订单已交付，兑换结果仍未知
+
+**合成案例。**某数字商品订单显示“已交付”，读者只看到了交付材料，还没有核对其适用条件和入口。此时可以填写：
+
+```text
+原购买渠道：原商家网站
+付款记录：显示已付，尚未与账号权益对应核验
+交付记录：订单显示已交付，具体材料已在原订单内查看
+兑换反馈：尚未确认，不写“已成功升级”
+当前账号/工作区：已核对为本人目标账号
+实际套餐：仍显示Free
+需要原商家核对：材料对应的商品、适用账号条件和正确操作入口
+```
+
+这类情况回原商家订单查交付约定，不直接让OpenAI核对第三方卡密，也不把“已交付”当成“已升级”。
+
+可以下载[已填写的合成核对表](../assets/quality-repair-20261020/subscription-evidence.example.csv)，保留结构、删除示例行后在自己设备上记录。表格不需要密码、完整卡密、Session、订单查询密码或支付账号信息。不要把自己填完的材料提交到公开仓库。
+
+## 可复制的空白验收记录
 
 ```text
 原购买渠道与订单：
@@ -58,3 +96,7 @@
 **多久没变化就该再付？** 没有一个通用时间可支持重复付款。按原订单状态和已确认的处理时间跟进。
 
 需要联系原商家时，直接使用[工单问题模板](13-support-ticket-query.md)。本文没有查询真实订单或操作账号。
+
+## 原商家订单的后续帮助
+
+若原订单来自本仓运营方，可继续查阅 [PayForGPT原订单排查](https://payforgpt.com/how-to/payment-success-not-delivered?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide_paid_but_still_free_payforgpt) 或 [Nano Banana原订单排查](https://nano-banana.lol/how-to/payment-success-not-delivered?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide_paid_but_still_free_nano)。其他渠道购买请回原收款方；这些是运营方自有帮助页，不能代替原渠道支持或证明任何订单成功。
