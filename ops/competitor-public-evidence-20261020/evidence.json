@@ -1,0 +1,2011 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-10-20T06:54:07.368463+00:00",
+  "kind": "public_read_only_research",
+  "implementation_completed": false,
+  "indexing_or_conversion_verified": false,
+  "scope": {
+    "feishu_source_revision": 19,
+    "previous_keyword_completion_record": 65,
+    "keywords_marked_this_research": 0,
+    "new_articles_this_research": 0,
+    "site_deployments_this_research": 0
+  },
+  "payforchat": {
+    "markcopy": {
+      "url": "https://md.payforchat.com/",
+      "current_bundle_url": "https://md.payforchat.com/assets/index-CCs2ZUT8.js",
+      "current_bundle_sha256": "847124164d7066b4f9b073f720c5144f766a9d20967ce9beb2a1c01b83099470",
+      "verdict": "可确认免费排版工具的默认示例稿含品牌链接及营销段；当前静态实现不支持‘不可删除署名’说法，也不证明上万创作者已传播。"
+    },
+    "external_links": [
+      {
+        "url": "https://www.bajins.com/Other/Markdown.html",
+        "title": "Markdown | Bajins",
+        "type": "工具清单中的普通外链",
+        "href": "https://md.payforchat.com",
+        "anchor": "https://md.payforchat.com",
+        "target": "_blank",
+        "rel": [
+          "noopener",
+          "noreferrer"
+        ],
+        "signature_generated_proof": false,
+        "ownership": "未知"
+      },
+      {
+        "url": "https://www.jamecling.com/archives/759",
+        "title": "2026年5月 宝藏网站 精选推荐 - 格律诗的软件世界",
+        "type": "工具推荐集合中的普通外链",
+        "href": "https://md.payforchat.com/",
+        "anchor": "https://md.payforchat.com/",
+        "rel": [],
+        "signature_generated_proof": false,
+        "ownership": "未知"
+      }
+    ],
+    "plain_mention_not_backlink": {
+      "url": "https://claw101.com/blog/free-markdown-tool-recommendation",
+      "title": "推荐一个牛逼免费的 markdown 工具！ | Claw101",
+      "reason": "实际HTML正文有域名及工具介绍，但未发现a[href]指向md.payforchat.com或payforchat.com；搜索摘要出现URL不等于可点击反链。"
+    },
+    "article_url_checks": [
+      {
+        "report_priority": "P0",
+        "url": "https://www.payforchat.com/articles/chatgpt-plus-recharge-failed-solutions-2026",
+        "http_status": 200,
+        "title": "ChatGPT Plus 充值失败怎么办？10种原因与对应解决方案（2026实测） - PayForChat",
+        "h1": [
+          "ChatGPT Plus 充值失败怎么办？10种原因与对应解决方案（2026实测）"
+        ],
+        "canonical": "https://www.payforchat.com/articles/chatgpt-plus-recharge-failed-solutions-2026",
+        "robots": [
+          "index, follow"
+        ],
+        "in_current_sitemap": true,
+        "verdict": "article_present",
+        "sha256": "e2499a039887ec344ff089985302b30201e2b461892f6bd53305561602237cfe",
+        "read_at": "2026-10-20T06:44:23.100991+00:00"
+      },
+      {
+        "report_priority": "P0",
+        "url": "https://www.payforchat.com/articles/chatgpt-access-token-session-json-guide-2026",
+        "http_status": 200,
+        "title": "ChatGPT 代充第二步卡住？Access Token / Session JSON 获取图解与报错排查（2026） - PayForChat",
+        "h1": [
+          "ChatGPT 代充第二步卡住？Access Token / Session JSON 获取图解与报错排查（2026）"
+        ],
+        "canonical": "https://www.payforchat.com/articles/chatgpt-access-token-session-json-guide-2026",
+        "robots": [
+          "index, follow"
+        ],
+        "in_current_sitemap": true,
+        "verdict": "article_present",
+        "sha256": "c9b9f36ede608189829b52d3756a8e868b0c5e305f8d7360a26ad4b5dd2f7059",
+        "read_at": "2026-10-20T06:44:23.101027+00:00"
+      },
+      {
+        "report_priority": "P0",
+        "url": "https://www.payforchat.com/articles/chatgpt-degraded-fix",
+        "http_status": 200,
+        "title": "ChatGPT 被降智了怎么办？2026最全检测与解决方案 - PayForChat",
+        "h1": [
+          "ChatGPT 被降智了怎么办？2026最全检测与解决方案"
+        ],
+        "canonical": "https://www.payforchat.com/articles/chatgpt-degraded-fix",
+        "robots": [
+          "index, follow"
+        ],
+        "in_current_sitemap": true,
+        "verdict": "article_present",
+        "sha256": "9e22bf0efe6ecb1c3cae67ab4584006fded4a881e9f9b0cccf688102a959b02f",
+        "read_at": "2026-10-20T06:44:23.101063+00:00"
+      },
+      {
+        "report_priority": "P0",
+        "url": "https://www.payforchat.com/articles/chatgpt-plus-showing-free-fix",
+        "http_status": 200,
+        "title": "ChatGPT Plus 充值后显示 Free？会员状态异常处理指南 - PayForChat",
+        "h1": [
+          "ChatGPT Plus 充值后显示 Free？会员状态异常处理指南"
+        ],
+        "canonical": "https://www.payforchat.com/articles/chatgpt-plus-showing-free-fix",
+        "robots": [
+          "index, follow"
+        ],
+        "in_current_sitemap": true,
+        "verdict": "article_present",
+        "sha256": "60f4f2d9a8c1533c7a748dc1b6a5d9d3d2d087de5d35fd28ad840b2239bf1c30",
+        "read_at": "2026-10-20T06:44:23.101094+00:00"
+      },
+      {
+        "report_priority": "P0",
+        "url": "https://www.payforchat.com/articles/chatgpt-3ds-verification-failed",
+        "http_status": 200,
+        "title": "文章未找到 - PayForChat",
+        "h1": [],
+        "canonical": null,
+        "robots": [
+          "index, follow",
+          "noindex"
+        ],
+        "in_current_sitemap": false,
+        "verdict": "soft_404_article_not_found",
+        "sha256": "124a0af234d78bea6e7c8b2eed36fb93a44956fac1bd960b5a7a64ab6e600152",
+        "read_at": "2026-10-20T06:44:24.009313+00:00"
+      },
+      {
+        "report_priority": "P1",
+        "url": "https://www.payforchat.com/articles/chatgpt-pro-5x-vs-20x-comparison",
+        "http_status": 200,
+        "title": "ChatGPT Pro 200 vs Pro 100（原 20X vs 5X）怎么选？价格、Codex 额度完整对比（2026） - PayForChat",
+        "h1": [
+          "ChatGPT Pro 200 vs Pro 100（原 20X vs 5X）怎么选？价格、Codex 额度完整对比（2026）"
+        ],
+        "canonical": "https://www.payforchat.com/articles/chatgpt-pro-5x-vs-20x-comparison",
+        "robots": [
+          "index, follow"
+        ],
+        "in_current_sitemap": true,
+        "verdict": "article_present",
+        "sha256": "150ccfaac2471d8fe9c60b64c6505bfba9f0d3bf70efdf242dc51f58771cb8d6",
+        "read_at": "2026-10-20T06:44:24.199587+00:00"
+      },
+      {
+        "report_priority": "P1",
+        "url": "https://www.payforchat.com/articles/chatgpt-pro-200-worth-it",
+        "http_status": 200,
+        "title": "文章未找到 - PayForChat",
+        "h1": [],
+        "canonical": null,
+        "robots": [
+          "index, follow",
+          "noindex"
+        ],
+        "in_current_sitemap": false,
+        "verdict": "soft_404_article_not_found",
+        "sha256": "e314fa772258eecbd8490df12983385ed86d353ba37c226f9c5f0a36535f70cb",
+        "read_at": "2026-10-20T06:44:24.234730+00:00"
+      },
+      {
+        "report_priority": "P1",
+        "url": "https://www.payforchat.com/articles/chatgpt-daichong-ban-risk",
+        "http_status": 200,
+        "title": "文章未找到 - PayForChat",
+        "h1": [],
+        "canonical": null,
+        "robots": [
+          "index, follow",
+          "noindex"
+        ],
+        "in_current_sitemap": false,
+        "verdict": "soft_404_article_not_found",
+        "sha256": "3d5e41f63b9050ff90cd106141d4fe83ab05edb6494c01776591262b31835328",
+        "read_at": "2026-10-20T06:44:24.632727+00:00"
+      },
+      {
+        "report_priority": "P1",
+        "url": "https://www.payforchat.com/articles/claude-3-7-vs-chatgpt-plus",
+        "http_status": 200,
+        "title": "文章未找到 - PayForChat",
+        "h1": [],
+        "canonical": null,
+        "robots": [
+          "index, follow",
+          "noindex"
+        ],
+        "in_current_sitemap": false,
+        "verdict": "soft_404_article_not_found",
+        "sha256": "13aa0806fffae38e82add4223a2838839cc2fd3ebcb75a3f489538c5776480ca",
+        "read_at": "2026-10-20T06:44:24.757558+00:00"
+      },
+      {
+        "report_priority": "P2",
+        "url": "https://www.payforchat.com/articles/cursor-pro-subscription-guide",
+        "http_status": 200,
+        "title": "文章未找到 - PayForChat",
+        "h1": [],
+        "canonical": null,
+        "robots": [
+          "index, follow",
+          "noindex"
+        ],
+        "in_current_sitemap": false,
+        "verdict": "soft_404_article_not_found",
+        "sha256": "ae693ff0c311ece936bbde8fab1eea1d22a9fd5a3eff618a4367e29a7f034185",
+        "read_at": "2026-10-20T06:44:24.823508+00:00"
+      },
+      {
+        "report_priority": "P2",
+        "url": "https://www.payforchat.com/articles/codex-quota-chatgpt-pro-upgrade",
+        "http_status": 200,
+        "title": "Codex 额度不够用？Plus、Pro 100 / Pro 200（原 5X / 20X）与积分补充怎么比较（2026） - PayForChat",
+        "h1": [
+          "Codex 额度不够用？Plus、Pro 100 / Pro 200（原 5X / 20X）与积分补充怎么比较（2026）"
+        ],
+        "canonical": "https://www.payforchat.com/articles/codex-quota-chatgpt-pro-upgrade",
+        "robots": [
+          "index, follow"
+        ],
+        "in_current_sitemap": true,
+        "verdict": "article_present",
+        "sha256": "f9fe1e45ed106f6485fd115ad1139b28108a56304327212eb475976b9179af56",
+        "read_at": "2026-10-20T06:44:24.995421+00:00"
+      },
+      {
+        "report_priority": "P2",
+        "url": "https://www.payforchat.com/articles/supergrok-recharge-guide",
+        "http_status": 200,
+        "title": "文章未找到 - PayForChat",
+        "h1": [],
+        "canonical": null,
+        "robots": [
+          "index, follow",
+          "noindex"
+        ],
+        "in_current_sitemap": false,
+        "verdict": "soft_404_article_not_found",
+        "sha256": "cdedbdbcf49a5ec5cdc218e6a02b6aa3fdef4a55c956d5f834b2f97597faaa46",
+        "read_at": "2026-10-20T06:44:25.060755+00:00"
+      },
+      {
+        "report_priority": "P2",
+        "url": "https://www.payforchat.com/articles/openai-invoice-tax-guide",
+        "http_status": 200,
+        "title": "文章未找到 - PayForChat",
+        "h1": [],
+        "canonical": null,
+        "robots": [
+          "index, follow",
+          "noindex"
+        ],
+        "in_current_sitemap": false,
+        "verdict": "soft_404_article_not_found",
+        "sha256": "93ed965d5cd762973a4ee68657805b83587df4ca6d5eab03710c231e52c154e7",
+        "read_at": "2026-10-20T06:44:25.196413+00:00"
+      }
+    ],
+    "sitemap_summary": {
+      "url": "https://www.payforchat.com/sitemap.xml",
+      "raw_locs": 304,
+      "unique_locs": 304,
+      "main_article_detail_paths": 218,
+      "grok_article_detail_paths": 56,
+      "other_paths": 30,
+      "definition": "按URL路径前缀分组；/articles/{slug}=主文章详情路径，/grok/articles/{slug}=Grok文章详情路径；其他包括商品/工具/目录/FAQ等。仅sitemap枚举，不称已收录或全部正文已审。",
+      "receipt": {
+        "name": "pfc-sitemap",
+        "url": "https://www.payforchat.com/sitemap.xml",
+        "at": "2026-10-20T06:43:41.740668+00:00",
+        "status": 200,
+        "final": "https://www.payforchat.com/sitemap.xml",
+        "bytes": 59903,
+        "sha256": "2d4199376e91c0c1e767cf59351e3689507364330a10fe343d662b38ea0a4bd6"
+      }
+    },
+    "read_receipts": [
+      {
+        "name": "markcopy-home",
+        "url": "https://md.payforchat.com/",
+        "at": "2026-10-20T06:43:41.740357+00:00",
+        "status": 200,
+        "final": "https://md.payforchat.com/",
+        "bytes": 1478,
+        "sha256": "b45cc913d52bec0be92132d1a4404ffc5ed39d9bf52b61c8311ff4b99056001f"
+      },
+      {
+        "name": "markcopy-reader",
+        "url": "https://r.jina.ai/https://md.payforchat.com/",
+        "at": "2026-10-20T06:43:41.740597+00:00",
+        "status": 200,
+        "final": "https://r.jina.ai/https://md.payforchat.com/",
+        "bytes": 6038,
+        "sha256": "f1f80ff95167bdd8226b8ddb162288dee6cc4171f9cd69c7e90e0d6c2ddf76b2"
+      },
+      {
+        "name": "pfc-sitemap",
+        "url": "https://www.payforchat.com/sitemap.xml",
+        "at": "2026-10-20T06:43:41.740668+00:00",
+        "status": 200,
+        "final": "https://www.payforchat.com/sitemap.xml",
+        "bytes": 59903,
+        "sha256": "2d4199376e91c0c1e767cf59351e3689507364330a10fe343d662b38ea0a4bd6"
+      },
+      {
+        "name": "pfc-robots",
+        "url": "https://www.payforchat.com/robots.txt",
+        "at": "2026-10-20T06:43:41.740715+00:00",
+        "status": 200,
+        "final": "https://www.payforchat.com/robots.txt",
+        "bytes": 120,
+        "sha256": "a823530be0175410bd9641760fa207239c39cb0939391905ac0b0e0f7774b376"
+      },
+      {
+        "name": "markcopy-bundle",
+        "url": "https://md.payforchat.com/assets/index-CCs2ZUT8.js",
+        "at": "2026-10-20T06:44:23.100537+00:00",
+        "status": 200,
+        "final": "https://md.payforchat.com/assets/index-CCs2ZUT8.js",
+        "bytes": 805738,
+        "sha256": "847124164d7066b4f9b073f720c5144f766a9d20967ce9beb2a1c01b83099470"
+      },
+      {
+        "name": "external-claw101",
+        "url": "https://claw101.com/blog/free-markdown-tool-recommendation",
+        "at": "2026-10-20T06:44:23.100803+00:00",
+        "status": 200,
+        "final": "https://claw101.com/blog/free-markdown-tool-recommendation",
+        "bytes": 74511,
+        "sha256": "3959cecc36291d672e01866f08b8c1f46d1a3737bf8cd3dcf8b87243fecab52b"
+      },
+      {
+        "name": "external-bajins",
+        "url": "https://www.bajins.com/Other/Markdown.html",
+        "at": "2026-10-20T06:44:23.100875+00:00",
+        "status": 200,
+        "final": "https://www.bajins.com/Other/Markdown.html",
+        "bytes": 225579,
+        "sha256": "5c923f3ff17c41904d0f8f511cdc25deb536e007b083f774810eff1e0e470e7b"
+      },
+      {
+        "name": "external-jamecling",
+        "url": "https://www.jamecling.com/archives/759",
+        "at": "2026-10-20T06:44:23.100944+00:00",
+        "status": 200,
+        "final": "https://www.jamecling.com/archives/759",
+        "bytes": 385363,
+        "sha256": "8eebe537b0943e31e4ce3e3180d6444264de45476c1cce731c56cfebada3ae2d"
+      },
+      {
+        "name": "ch12-1",
+        "url": "https://www.payforchat.com/articles/chatgpt-plus-recharge-failed-solutions-2026",
+        "at": "2026-10-20T06:44:23.100991+00:00",
+        "status": 200,
+        "final": "https://www.payforchat.com/articles/chatgpt-plus-recharge-failed-solutions-2026",
+        "bytes": 95933,
+        "sha256": "e2499a039887ec344ff089985302b30201e2b461892f6bd53305561602237cfe"
+      },
+      {
+        "name": "ch12-2",
+        "url": "https://www.payforchat.com/articles/chatgpt-access-token-session-json-guide-2026",
+        "at": "2026-10-20T06:44:23.101027+00:00",
+        "status": 200,
+        "final": "https://www.payforchat.com/articles/chatgpt-access-token-session-json-guide-2026",
+        "bytes": 112548,
+        "sha256": "c9b9f36ede608189829b52d3756a8e868b0c5e305f8d7360a26ad4b5dd2f7059"
+      },
+      {
+        "name": "ch12-3",
+        "url": "https://www.payforchat.com/articles/chatgpt-degraded-fix",
+        "at": "2026-10-20T06:44:23.101063+00:00",
+        "status": 200,
+        "final": "https://www.payforchat.com/articles/chatgpt-degraded-fix",
+        "bytes": 96653,
+        "sha256": "9e22bf0efe6ecb1c3cae67ab4584006fded4a881e9f9b0cccf688102a959b02f"
+      },
+      {
+        "name": "ch12-4",
+        "url": "https://www.payforchat.com/articles/chatgpt-plus-showing-free-fix",
+        "at": "2026-10-20T06:44:23.101094+00:00",
+        "status": 200,
+        "final": "https://www.payforchat.com/articles/chatgpt-plus-showing-free-fix",
+        "bytes": 64626,
+        "sha256": "60f4f2d9a8c1533c7a748dc1b6a5d9d3d2d087de5d35fd28ad840b2239bf1c30"
+      },
+      {
+        "name": "ch12-5",
+        "url": "https://www.payforchat.com/articles/chatgpt-3ds-verification-failed",
+        "at": "2026-10-20T06:44:24.009313+00:00",
+        "status": 200,
+        "final": "https://www.payforchat.com/articles/chatgpt-3ds-verification-failed",
+        "bytes": 26646,
+        "sha256": "124a0af234d78bea6e7c8b2eed36fb93a44956fac1bd960b5a7a64ab6e600152"
+      },
+      {
+        "name": "ch12-6",
+        "url": "https://www.payforchat.com/articles/chatgpt-pro-5x-vs-20x-comparison",
+        "at": "2026-10-20T06:44:24.199587+00:00",
+        "status": 200,
+        "final": "https://www.payforchat.com/articles/chatgpt-pro-5x-vs-20x-comparison",
+        "bytes": 88224,
+        "sha256": "150ccfaac2471d8fe9c60b64c6505bfba9f0d3bf70efdf242dc51f58771cb8d6"
+      },
+      {
+        "name": "ch12-7",
+        "url": "https://www.payforchat.com/articles/chatgpt-pro-200-worth-it",
+        "at": "2026-10-20T06:44:24.234730+00:00",
+        "status": 200,
+        "final": "https://www.payforchat.com/articles/chatgpt-pro-200-worth-it",
+        "bytes": 26625,
+        "sha256": "e314fa772258eecbd8490df12983385ed86d353ba37c226f9c5f0a36535f70cb"
+      },
+      {
+        "name": "ch12-8",
+        "url": "https://www.payforchat.com/articles/chatgpt-daichong-ban-risk",
+        "at": "2026-10-20T06:44:24.632727+00:00",
+        "status": 200,
+        "final": "https://www.payforchat.com/articles/chatgpt-daichong-ban-risk",
+        "bytes": 26628,
+        "sha256": "3d5e41f63b9050ff90cd106141d4fe83ab05edb6494c01776591262b31835328"
+      },
+      {
+        "name": "ch12-9",
+        "url": "https://www.payforchat.com/articles/claude-3-7-vs-chatgpt-plus",
+        "at": "2026-10-20T06:44:24.757558+00:00",
+        "status": 200,
+        "final": "https://www.payforchat.com/articles/claude-3-7-vs-chatgpt-plus",
+        "bytes": 26631,
+        "sha256": "13aa0806fffae38e82add4223a2838839cc2fd3ebcb75a3f489538c5776480ca"
+      },
+      {
+        "name": "ch12-10",
+        "url": "https://www.payforchat.com/articles/cursor-pro-subscription-guide",
+        "at": "2026-10-20T06:44:24.823508+00:00",
+        "status": 200,
+        "final": "https://www.payforchat.com/articles/cursor-pro-subscription-guide",
+        "bytes": 26640,
+        "sha256": "ae693ff0c311ece936bbde8fab1eea1d22a9fd5a3eff618a4367e29a7f034185"
+      },
+      {
+        "name": "ch12-11",
+        "url": "https://www.payforchat.com/articles/codex-quota-chatgpt-pro-upgrade",
+        "at": "2026-10-20T06:44:24.995421+00:00",
+        "status": 200,
+        "final": "https://www.payforchat.com/articles/codex-quota-chatgpt-pro-upgrade",
+        "bytes": 111473,
+        "sha256": "f9fe1e45ed106f6485fd115ad1139b28108a56304327212eb475976b9179af56"
+      },
+      {
+        "name": "ch12-12",
+        "url": "https://www.payforchat.com/articles/supergrok-recharge-guide",
+        "at": "2026-10-20T06:44:25.060755+00:00",
+        "status": 200,
+        "final": "https://www.payforchat.com/articles/supergrok-recharge-guide",
+        "bytes": 26625,
+        "sha256": "cdedbdbcf49a5ec5cdc218e6a02b6aa3fdef4a55c956d5f834b2f97597faaa46"
+      },
+      {
+        "name": "ch12-13",
+        "url": "https://www.payforchat.com/articles/openai-invoice-tax-guide",
+        "at": "2026-10-20T06:44:25.196413+00:00",
+        "status": 200,
+        "final": "https://www.payforchat.com/articles/openai-invoice-tax-guide",
+        "bytes": 26625,
+        "sha256": "93ed965d5cd762973a4ee68657805b83587df4ca6d5eab03710c231e52c154e7"
+      }
+    ]
+  },
+  "csguide": {
+    "counts": {
+      "sitemapUrl": "https://csguide.cn/sitemap.xml",
+      "sitemapTotalLocs": 221,
+      "sitemapUniqueURLs": 221,
+      "privateSitemapURLs": 71,
+      "privateHtmlDetailURLs": 62,
+      "privateDirectoryURLs": 9,
+      "additionalPublicPrivateRootNotInSitemap": "https://csguide.cn/private/",
+      "publicTopicHubBodiesRead": 8,
+      "hubArticleLinkMemberships": 61,
+      "hubUniqueDetailURLs": 59,
+      "aiRelatedTitlesInHubs": 53,
+      "aiRelatedCandidateDetailURLsIncludingThreeMetadataChecked": 56,
+      "excludedGeneralDeveloperOrOtherPaymentURLs": 6,
+      "fullTextSampleCount": 5,
+      "detailOriginHttpSamples": 11,
+      "sampleDetailPagesWithGetgptBodyLinks": 9,
+      "sampleReferralInviteAnchorOccurrences": 27,
+      "uniqueInviteHrefStrings": 7,
+      "countDefinitions": [
+        "62是sitemap中.html详情路径数，不等于62篇原创或去重意图。",
+        "56按公开标题与栏目判断AI相关，其中53来自8个主题正文目录，另3由sitemap及200详情元数据补证。",
+        "8目录的61次文章归属中，Astra和Sol各在两栏，去重后59；3条sitemap详情未见于这8目录正文，不能据此断言全站孤儿页。",
+        "只抽读5全文，并非62篇逐字核验；本轮未测收录、展示、点击、访问量、转化、收入或权重。"
+      ]
+    },
+    "full_article_studies": [
+      {
+        "url": "https://csguide.cn/private/gptplus-recharge.html",
+        "originEvidence": {
+          "url": "https://csguide.cn/private/gptplus-recharge.html",
+          "at": "2026-10-20T06:43:59.607161+00:00",
+          "method": "GET",
+          "status": 200,
+          "finalURL": "https://csguide.cn/private/gptplus-recharge.html",
+          "contentType": "text/html",
+          "bytes": 53241,
+          "sha256": "71904932ce9ec937f4b73ac932490ab554e718abc894c2d28952abe363ec42c6"
+        },
+        "fullTextReadEvidence": {
+          "url": "https://r.jina.ai/https://csguide.cn/private/gptplus-recharge.html",
+          "at": "2026-10-20T06:43:59.607198+00:00",
+          "method": "GET",
+          "status": 200,
+          "finalURL": "https://r.jina.ai/https://csguide.cn/private/gptplus-recharge.html",
+          "contentType": "text/plain; charset=utf-8",
+          "bytes": 5761,
+          "sha256": "e41d079e1412469f7a87bea6e7a81f63814a422bc9973d58c48f4a80189e6bfb"
+        },
+        "bodyImageCount": 6,
+        "readerQuestions": [
+          "国内没有海外卡，能用什么付款？",
+          "开始前要准备账号和什么材料？",
+          "怎样购买、保存并找回卡密？",
+          "如何兑换并检查账号结果？",
+          "失败和取消续费该找谁？"
+        ],
+        "visibleDates": [
+          {
+            "value": "2025-08-31",
+            "kind": "页面作者区日期及Reader Published Time"
+          },
+          {
+            "value": "2026-08-27 / 2026-07-23",
+            "kind": "正文两处更新时间，口径不一致"
+          }
+        ],
+        "structureLearning": "按准备→购买→交付→账号结果排序，每步就近放一张图，原订单查询链接放在保存卡密步骤旁。",
+        "doNotCarryOver": [
+          "不继承作者的亲测、时效和保证可用、成功率评价。",
+          "不把第三方会话资料提交做法移植为本站无风险授权教程。",
+          "单篇有混杂更新时间、格式错误的兑换链接，不能按最新标题直接认定全部事实新鲜。"
+        ]
+      },
+      {
+        "url": "https://csguide.cn/private/chatgpt-plus-tutorial.html",
+        "originEvidence": {
+          "url": "https://csguide.cn/private/chatgpt-plus-tutorial.html",
+          "at": "2026-10-20T06:44:01.384946+00:00",
+          "method": "GET",
+          "status": 200,
+          "finalURL": "https://csguide.cn/private/chatgpt-plus-tutorial.html",
+          "contentType": "text/html",
+          "bytes": 46349,
+          "sha256": "2b4731bc1bbc0a25644357ac7c72660a05d17885dd6541f4e21d367b73f4cb50"
+        },
+        "fullTextReadEvidence": {
+          "url": "https://r.jina.ai/https://csguide.cn/private/chatgpt-plus-tutorial.html",
+          "at": "2026-10-20T06:44:02.551985+00:00",
+          "method": "GET",
+          "status": 200,
+          "finalURL": "https://r.jina.ai/https://csguide.cn/private/chatgpt-plus-tutorial.html",
+          "contentType": "text/plain; charset=utf-8",
+          "bytes": 3611,
+          "sha256": "2d69745b2f858328201cacdbf9eeabb7c1eb6ffc55a6c528799bb1a82aa5caf7"
+        },
+        "bodyImageCount": 7,
+        "readerQuestions": [
+          "虚拟卡不可用后还有哪种购买路线？",
+          "在哪里买卡密？",
+          "付完款怎样保存并回原订单？",
+          "在哪里做兑换、账号信息处理与结果确认？"
+        ],
+        "visibleDates": [
+          {
+            "value": "2026-08-27 / 2026-07",
+            "kind": "正文更新时间/验证文案；未把Reader抓取时间当发表时间"
+          }
+        ],
+        "structureLearning": "将购买与兑换分成两段，步骤图紧邻相应动作；与另一充值篇意图高度接近，本站应复用主owner，不拆同义新文。",
+        "doNotCarryOver": [
+          "作者稳定靠谱、近原价、短耗时属于商家/作者自述。",
+          "不照搬复制完整会话信息的步骤或声称不需密码就安全。"
+        ]
+      },
+      {
+        "url": "https://csguide.cn/private/codex-install-tutorial.html",
+        "originEvidence": {
+          "url": "https://csguide.cn/private/codex-install-tutorial.html",
+          "at": "2026-10-20T06:44:05.148157+00:00",
+          "method": "GET",
+          "status": 200,
+          "finalURL": "https://csguide.cn/private/codex-install-tutorial.html",
+          "contentType": "text/html",
+          "bytes": 58414,
+          "sha256": "a818ff39d7e3a8320ddc22fb1eeade1a182203fee5e66c5687a5ed0c3425bd64"
+        },
+        "fullTextReadEvidence": {
+          "url": "https://r.jina.ai/https://csguide.cn/private/codex-install-tutorial.html",
+          "at": "2026-10-20T06:44:06.153585+00:00",
+          "method": "GET",
+          "status": 200,
+          "finalURL": "https://r.jina.ai/https://csguide.cn/private/codex-install-tutorial.html",
+          "contentType": "text/plain; charset=utf-8",
+          "bytes": 6318,
+          "sha256": "72f0de3ab319db82c20119c766797b244e0e041da9065f4a1de498af0c91923f"
+        },
+        "bodyImageCount": 4,
+        "readerQuestions": [
+          "Codex是什么、为什么要装？",
+          "账号是否要付费？",
+          "本机要准备哪些工具？",
+          "选哪种安装来源？",
+          "认证/配置后如何开始第一个任务？",
+          "报错、更新或卸载怎么办？"
+        ],
+        "visibleDates": [
+          {
+            "value": "2025-09-24",
+            "kind": "页面作者区日期及Reader Published Time，正文称2025-09资料"
+          }
+        ],
+        "structureLearning": "从具体工具任务进入，上文放购买分支，下文仍保留安装与故障查询；不能把购买作为所有读者的统一前置。",
+        "doNotCarryOver": [
+          "免费账号一定不能用、过期模型/包地址和默认sudo建议不当作当前官方规则。",
+          "文章命令只读未执行，没有安装、配置、认证或API调用。"
+        ]
+      },
+      {
+        "url": "https://csguide.cn/private/chatgpt-your-card-has-been-declined.html",
+        "originEvidence": {
+          "url": "https://csguide.cn/private/chatgpt-your-card-has-been-declined.html",
+          "at": "2026-10-20T06:44:06.335820+00:00",
+          "method": "GET",
+          "status": 200,
+          "finalURL": "https://csguide.cn/private/chatgpt-your-card-has-been-declined.html",
+          "contentType": "text/html",
+          "bytes": 57801,
+          "sha256": "9aa95789863e62870a88ca526999c070233639b04f036a1471a07757174bf099"
+        },
+        "fullTextReadEvidence": {
+          "url": "https://r.jina.ai/https://csguide.cn/private/chatgpt-your-card-has-been-declined.html",
+          "at": "2026-10-20T06:44:06.702119+00:00",
+          "method": "GET",
+          "status": 200,
+          "finalURL": "https://r.jina.ai/https://csguide.cn/private/chatgpt-your-card-has-been-declined.html",
+          "contentType": "text/plain; charset=utf-8",
+          "bytes": 10944,
+          "sha256": "a1ee18e8ea6ff3048a5f2223f1f6522f7d73d9f2996c174d6e4b06578ce9794f"
+        },
+        "bodyImageCount": 3,
+        "readerQuestions": [
+          "这个具体拒付提示是什么意思？",
+          "卡、地区、银行、账号与网络分别可能发生什么？",
+          "IP检测工具能提供什么线索？",
+          "可以有哪些付款或原收费方处理路径？",
+          "什么情况应该停下重复付款？"
+        ],
+        "visibleDates": [
+          {
+            "value": "Wed, 30 Sep 2026 03:07:19 GMT",
+            "kind": "Reader Published Time/响应元数据，不当作作者编辑日期"
+          }
+        ],
+        "structureLearning": "用原始报错做入口，在说明网络因素的段落放IP工具入口，并在后续购买分支放相关商家路径。",
+        "doNotCarryOver": [
+          "34%、70%、20%、78%、83%、<1%等成功/风险数字没有可复核样本或本轮主源，不作为事实。",
+          "家宽标签、短信验证、连续拒付不能推导模型降智、永久封控或必然成功。",
+          "不提供伪造账单资料、切地区或绕验证的操作。"
+        ]
+      },
+      {
+        "url": "https://csguide.cn/private/gpt6-astra-recharge-how-to-use.html",
+        "originEvidence": {
+          "url": "https://csguide.cn/private/gpt6-astra-recharge-how-to-use.html",
+          "at": "2026-10-20T06:44:02.588246+00:00",
+          "method": "GET",
+          "status": 200,
+          "finalURL": "https://csguide.cn/private/gpt6-astra-recharge-how-to-use.html",
+          "contentType": "text/html",
+          "bytes": 96156,
+          "sha256": "e97a591def8e20168300dcb7cb314cc921193ba01c524500ebbf4b95fb6628ac"
+        },
+        "fullTextReadEvidence": {
+          "url": "https://r.jina.ai/https://csguide.cn/private/gpt6-astra-recharge-how-to-use.html",
+          "at": "2026-10-20T06:44:04.059473+00:00",
+          "method": "GET",
+          "status": 200,
+          "finalURL": "https://r.jina.ai/https://csguide.cn/private/gpt6-astra-recharge-how-to-use.html",
+          "contentType": "text/plain; charset=utf-8",
+          "bytes": 27255,
+          "sha256": "fb9d950f1e4dcd80930a4e3847c24a2f29561e1b7298b0b6a0e8d1cfde19e89f"
+        },
+        "bodyImageCount": 3,
+        "readerQuestions": [
+          "模型名是否意味着单独购买一张卡？",
+          "产品界面和API该分别买什么？",
+          "付款前账号与订阅要准备什么？",
+          "购买、保存卡密、兑换后如何验收？",
+          "官方网页/商店/第三方有哪些路径？",
+          "Work、Codex与API入口分别在哪里？",
+          "套餐未到、模型未见和API报错怎样分流？"
+        ],
+        "visibleDates": [
+          {
+            "value": "2026-09-04",
+            "kind": "Reader Published Time"
+          },
+          {
+            "value": "2026-09-05",
+            "kind": "正文保留当时开放消息"
+          }
+        ],
+        "structureLearning": "把入口对比、购买动作和使用验证串起来，篇中多次导向同一专题邀请路径，并用精确错误段连接下一篇。",
+        "doNotCarryOver": [
+          "旧发布时的Plus/Pro固定估算与5x/20x映射不沿用为当前全账户资格。",
+          "付款方式/库存/时效/资料处理不成为本站交付承诺。",
+          "9月发布消息与10月当前资格须分开，不把旧标题新年份当最新事实。"
+        ]
+      }
+    ],
+    "body_anchors": [
+      {
+        "sourceURL": "https://csguide.cn/private/gptplus-recharge.html",
+        "sourceTitle": "【亲测可行】2026年国内支付宝/微信充值ChatGPT Plus最全教程（含 GPT5.6 充值教程）",
+        "readAtUtc": "2026-10-20T06:43:59.607161+00:00",
+        "status": 200,
+        "sourceHtmlSha256": "71904932ce9ec937f4b73ac932490ab554e718abc894c2d28952abe363ec42c6",
+        "href": "http://getgpt.pro",
+        "resolvedHref": "http://getgpt.pro",
+        "anchorText": "getgpt.pro",
+        "rel": "noopener noreferrer",
+        "target": "_blank"
+      },
+      {
+        "sourceURL": "https://csguide.cn/private/gptplus-recharge.html",
+        "sourceTitle": "【亲测可行】2026年国内支付宝/微信充值ChatGPT Plus最全教程（含 GPT5.6 充值教程）",
+        "readAtUtc": "2026-10-20T06:43:59.607161+00:00",
+        "status": 200,
+        "sourceHtmlSha256": "71904932ce9ec937f4b73ac932490ab554e718abc894c2d28952abe363ec42c6",
+        "href": "https://getgpt.pro/i/csguide",
+        "resolvedHref": "https://getgpt.pro/i/csguide",
+        "anchorText": "https://getgpt.pro",
+        "rel": "noopener noreferrer",
+        "target": "_blank"
+      },
+      {
+        "sourceURL": "https://csguide.cn/private/gptplus-recharge.html",
+        "sourceTitle": "【亲测可行】2026年国内支付宝/微信充值ChatGPT Plus最全教程（含 GPT5.6 充值教程）",
+        "readAtUtc": "2026-10-20T06:43:59.607161+00:00",
+        "status": 200,
+        "sourceHtmlSha256": "71904932ce9ec937f4b73ac932490ab554e718abc894c2d28952abe363ec42c6",
+        "href": "https://getgpt.pro/order",
+        "resolvedHref": "https://getgpt.pro/order",
+        "anchorText": "订单查询页",
+        "rel": "noopener noreferrer",
+        "target": "_blank"
+      },
+      {
+        "sourceURL": "https://csguide.cn/private/chatgpt-plus-tutorial.html",
+        "sourceTitle": "（亲测可行）2026年ChatGPT充值教程，微信/支付宝代充升级 GPT5.6 流程",
+        "readAtUtc": "2026-10-20T06:44:01.384946+00:00",
+        "status": 200,
+        "sourceHtmlSha256": "2b4731bc1bbc0a25644357ac7c72660a05d17885dd6541f4e21d367b73f4cb50",
+        "href": "https://getgpt.pro/i/csguide",
+        "resolvedHref": "https://getgpt.pro/i/csguide",
+        "anchorText": "https://getgpt.pro",
+        "rel": "noopener noreferrer",
+        "target": "_blank"
+      },
+      {
+        "sourceURL": "https://csguide.cn/private/chatgpt-plus-tutorial.html",
+        "sourceTitle": "（亲测可行）2026年ChatGPT充值教程，微信/支付宝代充升级 GPT5.6 流程",
+        "readAtUtc": "2026-10-20T06:44:01.384946+00:00",
+        "status": 200,
+        "sourceHtmlSha256": "2b4731bc1bbc0a25644357ac7c72660a05d17885dd6541f4e21d367b73f4cb50",
+        "href": "https://getgpt.pro/i/csguide",
+        "resolvedHref": "https://getgpt.pro/i/csguide",
+        "anchorText": "https://getgpt.pro",
+        "rel": "noopener noreferrer",
+        "target": "_blank"
+      },
+      {
+        "sourceURL": "https://csguide.cn/private/chatgpt-plus-tutorial.html",
+        "sourceTitle": "（亲测可行）2026年ChatGPT充值教程，微信/支付宝代充升级 GPT5.6 流程",
+        "readAtUtc": "2026-10-20T06:44:01.384946+00:00",
+        "status": 200,
+        "sourceHtmlSha256": "2b4731bc1bbc0a25644357ac7c72660a05d17885dd6541f4e21d367b73f4cb50",
+        "href": "https://getgpt.pro/order",
+        "resolvedHref": "https://getgpt.pro/order",
+        "anchorText": "https://getgpt.pro/order",
+        "rel": "noopener noreferrer",
+        "target": "_blank"
+      },
+      {
+        "sourceURL": "https://csguide.cn/private/gpt6-astra-recharge-how-to-use.html",
+        "sourceTitle": "GPT-6 Astra 充值和使用教程：Plus/Pro 已开放，需切换 Work 模式",
+        "readAtUtc": "2026-10-20T06:44:02.588246+00:00",
+        "status": 200,
+        "sourceHtmlSha256": "e97a591def8e20168300dcb7cb314cc921193ba01c524500ebbf4b95fb6628ac",
+        "href": "https://getgpt.pro/i/gpt6",
+        "resolvedHref": "https://getgpt.pro/i/gpt6",
+        "anchorText": "GPT-6 Astra 国内自助充值入口",
+        "rel": "noopener noreferrer",
+        "target": "_blank"
+      },
+      {
+        "sourceURL": "https://csguide.cn/private/gpt6-astra-recharge-how-to-use.html",
+        "sourceTitle": "GPT-6 Astra 充值和使用教程：Plus/Pro 已开放，需切换 Work 模式",
+        "readAtUtc": "2026-10-20T06:44:02.588246+00:00",
+        "status": 200,
+        "sourceHtmlSha256": "e97a591def8e20168300dcb7cb314cc921193ba01c524500ebbf4b95fb6628ac",
+        "href": "https://getgpt.pro/i/gpt6",
+        "resolvedHref": "https://getgpt.pro/i/gpt6",
+        "anchorText": "GPT-6 Astra 国内自助充值入口",
+        "rel": "noopener noreferrer",
+        "target": "_blank"
+      },
+      {
+        "sourceURL": "https://csguide.cn/private/gpt6-astra-recharge-how-to-use.html",
+        "sourceTitle": "GPT-6 Astra 充值和使用教程：Plus/Pro 已开放，需切换 Work 模式",
+        "readAtUtc": "2026-10-20T06:44:02.588246+00:00",
+        "status": 200,
+        "sourceHtmlSha256": "e97a591def8e20168300dcb7cb314cc921193ba01c524500ebbf4b95fb6628ac",
+        "href": "https://getgpt.pro/order",
+        "resolvedHref": "https://getgpt.pro/order",
+        "anchorText": "订单查询页面",
+        "rel": "noopener noreferrer",
+        "target": "_blank"
+      },
+      {
+        "sourceURL": "https://csguide.cn/private/gpt6-astra-recharge-how-to-use.html",
+        "sourceTitle": "GPT-6 Astra 充值和使用教程：Plus/Pro 已开放，需切换 Work 模式",
+        "readAtUtc": "2026-10-20T06:44:02.588246+00:00",
+        "status": 200,
+        "sourceHtmlSha256": "e97a591def8e20168300dcb7cb314cc921193ba01c524500ebbf4b95fb6628ac",
+        "href": "https://getgpt.pro/recharge",
+        "resolvedHref": "https://getgpt.pro/recharge",
+        "anchorText": "卡密充值页面",
+        "rel": "noopener noreferrer",
+        "target": "_blank"
+      },
+      {
+        "sourceURL": "https://csguide.cn/private/gpt6-astra-recharge-how-to-use.html",
+        "sourceTitle": "GPT-6 Astra 充值和使用教程：Plus/Pro 已开放，需切换 Work 模式",
+        "readAtUtc": "2026-10-20T06:44:02.588246+00:00",
+        "status": 200,
+        "sourceHtmlSha256": "e97a591def8e20168300dcb7cb314cc921193ba01c524500ebbf4b95fb6628ac",
+        "href": "https://getgpt.pro/i/gpt6",
+        "resolvedHref": "https://getgpt.pro/i/gpt6",
+        "anchorText": "GPT-6 Astra 国内充值与代充入口",
+        "rel": "noopener noreferrer",
+        "target": "_blank"
+      },
+      {
+        "sourceURL": "https://csguide.cn/private/codex-install-tutorial.html",
+        "sourceTitle": "最新 OpenAI Codex CLI 国内安装配置教程（GPT-5模型、付费升级、全平台配置详解）",
+        "readAtUtc": "2026-10-20T06:44:05.148157+00:00",
+        "status": 200,
+        "sourceHtmlSha256": "a818ff39d7e3a8320ddc22fb1eeade1a182203fee5e66c5687a5ed0c3425bd64",
+        "href": "https://getgpt.pro/i/csguide-codex1",
+        "resolvedHref": "https://getgpt.pro/i/csguide-codex1",
+        "anchorText": "getgpt.pro",
+        "rel": "noopener noreferrer",
+        "target": "_blank"
+      },
+      {
+        "sourceURL": "https://csguide.cn/private/chatgpt-your-card-has-been-declined.html",
+        "sourceTitle": "【2026 年最新】ChatGPT Plus 订阅报错「您的银行卡被拒绝/Your card has been declined」最全解决指南",
+        "readAtUtc": "2026-10-20T06:44:06.335820+00:00",
+        "status": 200,
+        "sourceHtmlSha256": "9aa95789863e62870a88ca526999c070233639b04f036a1471a07757174bf099",
+        "href": "https://getgpt.pro/i/ip",
+        "resolvedHref": "https://getgpt.pro/i/ip",
+        "anchorText": "https://getgpt.pro/",
+        "rel": "noopener noreferrer",
+        "target": "_blank"
+      },
+      {
+        "sourceURL": "https://csguide.cn/private/chatgpt-your-card-has-been-declined.html",
+        "sourceTitle": "【2026 年最新】ChatGPT Plus 订阅报错「您的银行卡被拒绝/Your card has been declined」最全解决指南",
+        "readAtUtc": "2026-10-20T06:44:06.335820+00:00",
+        "status": 200,
+        "sourceHtmlSha256": "9aa95789863e62870a88ca526999c070233639b04f036a1471a07757174bf099",
+        "href": "https://getgpt.pro/ip",
+        "resolvedHref": "https://getgpt.pro/ip",
+        "anchorText": "https://getgpt.pro/ip",
+        "rel": "noopener noreferrer",
+        "target": "_blank"
+      },
+      {
+        "sourceURL": "https://csguide.cn/private/chatgpt-your-card-has-been-declined.html",
+        "sourceTitle": "【2026 年最新】ChatGPT Plus 订阅报错「您的银行卡被拒绝/Your card has been declined」最全解决指南",
+        "readAtUtc": "2026-10-20T06:44:06.335820+00:00",
+        "status": 200,
+        "sourceHtmlSha256": "9aa95789863e62870a88ca526999c070233639b04f036a1471a07757174bf099",
+        "href": "https://getgpt.pro/",
+        "resolvedHref": "https://getgpt.pro/",
+        "anchorText": "https://getgpt.pro/",
+        "rel": "noopener noreferrer",
+        "target": "_blank"
+      },
+      {
+        "sourceURL": "https://csguide.cn/private/chatgpt-your-card-has-been-declined.html",
+        "sourceTitle": "【2026 年最新】ChatGPT Plus 订阅报错「您的银行卡被拒绝/Your card has been declined」最全解决指南",
+        "readAtUtc": "2026-10-20T06:44:06.335820+00:00",
+        "status": 200,
+        "sourceHtmlSha256": "9aa95789863e62870a88ca526999c070233639b04f036a1471a07757174bf099",
+        "href": "https://getgpt.pro/i/ip",
+        "resolvedHref": "https://getgpt.pro/i/ip",
+        "anchorText": "chatgpt 充值网站",
+        "rel": "noopener noreferrer",
+        "target": "_blank"
+      },
+      {
+        "sourceURL": "https://csguide.cn/private/chatgpt-your-card-has-been-declined.html",
+        "sourceTitle": "【2026 年最新】ChatGPT Plus 订阅报错「您的银行卡被拒绝/Your card has been declined」最全解决指南",
+        "readAtUtc": "2026-10-20T06:44:06.335820+00:00",
+        "status": 200,
+        "sourceHtmlSha256": "9aa95789863e62870a88ca526999c070233639b04f036a1471a07757174bf099",
+        "href": "https://getgpt.pro/i/ip",
+        "resolvedHref": "https://getgpt.pro/i/ip",
+        "anchorText": "chatgpt 充值网站",
+        "rel": "noopener noreferrer",
+        "target": "_blank"
+      },
+      {
+        "sourceURL": "https://csguide.cn/private/chatgpt-your-card-has-been-declined.html",
+        "sourceTitle": "【2026 年最新】ChatGPT Plus 订阅报错「您的银行卡被拒绝/Your card has been declined」最全解决指南",
+        "readAtUtc": "2026-10-20T06:44:06.335820+00:00",
+        "status": 200,
+        "sourceHtmlSha256": "9aa95789863e62870a88ca526999c070233639b04f036a1471a07757174bf099",
+        "href": "https://getgpt.pro/i/ip",
+        "resolvedHref": "https://getgpt.pro/i/ip",
+        "anchorText": "getgpt pro 充值网站",
+        "rel": "noopener noreferrer",
+        "target": "_blank"
+      },
+      {
+        "sourceURL": "https://csguide.cn/private/chatgpt.html",
+        "sourceTitle": "【亲测可行】2026年最新 GPT/ChatGPT代充教程, 支持支付宝和微信充值 GPT 5.6、Go、Plus、Pro、Codex等",
+        "readAtUtc": "2026-10-20T06:45:01.159283+00:00",
+        "status": 200,
+        "sourceHtmlSha256": "2fa82fa5ac95cc9d294538de43b0f4a7a0c03fee1e579afb514f8ce482247d5d",
+        "href": "https://getgpt.pro/i/csguide",
+        "resolvedHref": "https://getgpt.pro/i/csguide",
+        "anchorText": "https://getgpt.pro",
+        "rel": "noopener noreferrer",
+        "target": "_blank"
+      },
+      {
+        "sourceURL": "https://csguide.cn/private/chatgpt.html",
+        "sourceTitle": "【亲测可行】2026年最新 GPT/ChatGPT代充教程, 支持支付宝和微信充值 GPT 5.6、Go、Plus、Pro、Codex等",
+        "readAtUtc": "2026-10-20T06:45:01.159283+00:00",
+        "status": 200,
+        "sourceHtmlSha256": "2fa82fa5ac95cc9d294538de43b0f4a7a0c03fee1e579afb514f8ce482247d5d",
+        "href": "https://getgpt.pro/i/csguide",
+        "resolvedHref": "https://getgpt.pro/i/csguide",
+        "anchorText": "https://getgpt.pro",
+        "rel": "noopener noreferrer",
+        "target": "_blank"
+      },
+      {
+        "sourceURL": "https://csguide.cn/private/chatgpt.html",
+        "sourceTitle": "【亲测可行】2026年最新 GPT/ChatGPT代充教程, 支持支付宝和微信充值 GPT 5.6、Go、Plus、Pro、Codex等",
+        "readAtUtc": "2026-10-20T06:45:01.159283+00:00",
+        "status": 200,
+        "sourceHtmlSha256": "2fa82fa5ac95cc9d294538de43b0f4a7a0c03fee1e579afb514f8ce482247d5d",
+        "href": "https://getgpt.pro/i/csguide",
+        "resolvedHref": "https://getgpt.pro/i/csguide",
+        "anchorText": "https://getgpt.pro",
+        "rel": "noopener noreferrer",
+        "target": "_blank"
+      },
+      {
+        "sourceURL": "https://csguide.cn/private/chatgpt.html",
+        "sourceTitle": "【亲测可行】2026年最新 GPT/ChatGPT代充教程, 支持支付宝和微信充值 GPT 5.6、Go、Plus、Pro、Codex等",
+        "readAtUtc": "2026-10-20T06:45:01.159283+00:00",
+        "status": 200,
+        "sourceHtmlSha256": "2fa82fa5ac95cc9d294538de43b0f4a7a0c03fee1e579afb514f8ce482247d5d",
+        "href": "https://getgpt.pro/order",
+        "resolvedHref": "https://getgpt.pro/order",
+        "anchorText": "https://getgpt.pro/order",
+        "rel": "noopener noreferrer",
+        "target": "_blank"
+      },
+      {
+        "sourceURL": "https://csguide.cn/private/chatgpt.html",
+        "sourceTitle": "【亲测可行】2026年最新 GPT/ChatGPT代充教程, 支持支付宝和微信充值 GPT 5.6、Go、Plus、Pro、Codex等",
+        "readAtUtc": "2026-10-20T06:45:01.159283+00:00",
+        "status": 200,
+        "sourceHtmlSha256": "2fa82fa5ac95cc9d294538de43b0f4a7a0c03fee1e579afb514f8ce482247d5d",
+        "href": "https://getgpt.pro/i/csguide",
+        "resolvedHref": "https://getgpt.pro/i/csguide",
+        "anchorText": "https://getgpt.pro",
+        "rel": "noopener noreferrer",
+        "target": "_blank"
+      },
+      {
+        "sourceURL": "https://csguide.cn/private/gpt-payment-not-approved.html",
+        "sourceTitle": "【2026 年最新】ChatGPT 付款未获批准是什么原因？ChatGPT Plus 支付失败解决办法",
+        "readAtUtc": "2026-10-20T06:45:01.768810+00:00",
+        "status": 200,
+        "sourceHtmlSha256": "9d4e6cd1fd11cf5e56ed2ac7630cba5ce0e6dc32c15982c6c3c65a3fd90d18ef",
+        "href": "https://getgpt.pro/i/ip2",
+        "resolvedHref": "https://getgpt.pro/i/ip2",
+        "anchorText": "getgpt.pro",
+        "rel": "noopener noreferrer",
+        "target": "_blank"
+      },
+      {
+        "sourceURL": "https://csguide.cn/private/gpt-payment-not-approved.html",
+        "sourceTitle": "【2026 年最新】ChatGPT 付款未获批准是什么原因？ChatGPT Plus 支付失败解决办法",
+        "readAtUtc": "2026-10-20T06:45:01.768810+00:00",
+        "status": 200,
+        "sourceHtmlSha256": "9d4e6cd1fd11cf5e56ed2ac7630cba5ce0e6dc32c15982c6c3c65a3fd90d18ef",
+        "href": "https://getgpt.pro/i/ip",
+        "resolvedHref": "https://getgpt.pro/i/ip",
+        "anchorText": "getgpt.pro 的 IP 检测工具",
+        "rel": "noopener noreferrer",
+        "target": "_blank"
+      },
+      {
+        "sourceURL": "https://csguide.cn/private/gpt-payment-not-approved.html",
+        "sourceTitle": "【2026 年最新】ChatGPT 付款未获批准是什么原因？ChatGPT Plus 支付失败解决办法",
+        "readAtUtc": "2026-10-20T06:45:01.768810+00:00",
+        "status": 200,
+        "sourceHtmlSha256": "9d4e6cd1fd11cf5e56ed2ac7630cba5ce0e6dc32c15982c6c3c65a3fd90d18ef",
+        "href": "https://getgpt.pro/i/ip",
+        "resolvedHref": "https://getgpt.pro/i/ip",
+        "anchorText": "IP 检测工具",
+        "rel": "noopener noreferrer",
+        "target": "_blank"
+      },
+      {
+        "sourceURL": "https://csguide.cn/private/gpt-payment-not-approved.html",
+        "sourceTitle": "【2026 年最新】ChatGPT 付款未获批准是什么原因？ChatGPT Plus 支付失败解决办法",
+        "readAtUtc": "2026-10-20T06:45:01.768810+00:00",
+        "status": 200,
+        "sourceHtmlSha256": "9d4e6cd1fd11cf5e56ed2ac7630cba5ce0e6dc32c15982c6c3c65a3fd90d18ef",
+        "href": "https://getgpt.pro/i/ip2",
+        "resolvedHref": "https://getgpt.pro/i/ip2",
+        "anchorText": "getgpt.pro",
+        "rel": "noopener noreferrer",
+        "target": "_blank"
+      },
+      {
+        "sourceURL": "https://csguide.cn/private/gpt-payment-not-approved.html",
+        "sourceTitle": "【2026 年最新】ChatGPT 付款未获批准是什么原因？ChatGPT Plus 支付失败解决办法",
+        "readAtUtc": "2026-10-20T06:45:01.768810+00:00",
+        "status": 200,
+        "sourceHtmlSha256": "9d4e6cd1fd11cf5e56ed2ac7630cba5ce0e6dc32c15982c6c3c65a3fd90d18ef",
+        "href": "https://getgpt.pro/i/ip2",
+        "resolvedHref": "https://getgpt.pro/i/ip2",
+        "anchorText": "getgpt.pro",
+        "rel": "noopener noreferrer",
+        "target": "_blank"
+      },
+      {
+        "sourceURL": "https://csguide.cn/private/gpt-payment-not-approved.html",
+        "sourceTitle": "【2026 年最新】ChatGPT 付款未获批准是什么原因？ChatGPT Plus 支付失败解决办法",
+        "readAtUtc": "2026-10-20T06:45:01.768810+00:00",
+        "status": 200,
+        "sourceHtmlSha256": "9d4e6cd1fd11cf5e56ed2ac7630cba5ce0e6dc32c15982c6c3c65a3fd90d18ef",
+        "href": "https://getgpt.pro/i/ip2",
+        "resolvedHref": "https://getgpt.pro/i/ip2",
+        "anchorText": "getgpt.pro",
+        "rel": "noopener noreferrer",
+        "target": "_blank"
+      },
+      {
+        "sourceURL": "https://csguide.cn/private/gpt-payment-not-approved.html",
+        "sourceTitle": "【2026 年最新】ChatGPT 付款未获批准是什么原因？ChatGPT Plus 支付失败解决办法",
+        "readAtUtc": "2026-10-20T06:45:01.768810+00:00",
+        "status": 200,
+        "sourceHtmlSha256": "9d4e6cd1fd11cf5e56ed2ac7630cba5ce0e6dc32c15982c6c3c65a3fd90d18ef",
+        "href": "https://getgpt.pro/i/ip2",
+        "resolvedHref": "https://getgpt.pro/i/ip2",
+        "anchorText": "getgpt.pro",
+        "rel": "noopener noreferrer",
+        "target": "_blank"
+      },
+      {
+        "sourceURL": "https://csguide.cn/private/gpt-image-2.5-release.html",
+        "sourceTitle": "GPT Image 2.5 使用指南：新特性、免费入口、API 价格与提示词",
+        "readAtUtc": "2026-10-20T06:47:08.150483+00:00",
+        "status": 200,
+        "sourceHtmlSha256": "01d264a6a2148d4123ded744274d48761478d686fe587734ca2e1be7d8465b6c",
+        "href": "http://getgpt.pro/i/imgae25",
+        "resolvedHref": "http://getgpt.pro/i/imgae25",
+        "anchorText": "getgpt.pro 查看会员升级方案",
+        "rel": "noopener noreferrer",
+        "target": "_blank"
+      },
+      {
+        "sourceURL": "https://csguide.cn/private/gpt-image-2.5-release.html",
+        "sourceTitle": "GPT Image 2.5 使用指南：新特性、免费入口、API 价格与提示词",
+        "readAtUtc": "2026-10-20T06:47:08.150483+00:00",
+        "status": 200,
+        "sourceHtmlSha256": "01d264a6a2148d4123ded744274d48761478d686fe587734ca2e1be7d8465b6c",
+        "href": "http://getgpt.pro/i/imgae25",
+        "resolvedHref": "http://getgpt.pro/i/imgae25",
+        "anchorText": "getgpt.pro 了解并办理 ChatGPT 会员升级",
+        "rel": "noopener noreferrer",
+        "target": "_blank"
+      },
+      {
+        "sourceURL": "https://csguide.cn/private/what-is-chatgpt-business.html",
+        "sourceTitle": "【2025年最新】ChatGPT Business/Team 是什么？怎么开通以及与 ChatGPT Plus 区别详细对比",
+        "readAtUtc": "2026-10-20T06:47:08.150549+00:00",
+        "status": 200,
+        "sourceHtmlSha256": "9f97024c4a4b07b337784624140ad53d551871bbde476fa894d18a9f43a9ca38",
+        "href": "http://getgpt.pro",
+        "resolvedHref": "http://getgpt.pro",
+        "anchorText": "getgpt.pro",
+        "rel": "noopener noreferrer",
+        "target": "_blank"
+      },
+      {
+        "sourceURL": "https://csguide.cn/private/what-is-chatgpt-business.html",
+        "sourceTitle": "【2025年最新】ChatGPT Business/Team 是什么？怎么开通以及与 ChatGPT Plus 区别详细对比",
+        "readAtUtc": "2026-10-20T06:47:08.150549+00:00",
+        "status": 200,
+        "sourceHtmlSha256": "9f97024c4a4b07b337784624140ad53d551871bbde476fa894d18a9f43a9ca38",
+        "href": "https://getgpt.pro/i/business-csguide",
+        "resolvedHref": "https://getgpt.pro/i/business-csguide",
+        "anchorText": "getgpt.pro",
+        "rel": "noopener noreferrer",
+        "target": "_blank"
+      },
+      {
+        "sourceURL": "https://csguide.cn/private/what-is-chatgpt-business.html",
+        "sourceTitle": "【2025年最新】ChatGPT Business/Team 是什么？怎么开通以及与 ChatGPT Plus 区别详细对比",
+        "readAtUtc": "2026-10-20T06:47:08.150549+00:00",
+        "status": 200,
+        "sourceHtmlSha256": "9f97024c4a4b07b337784624140ad53d551871bbde476fa894d18a9f43a9ca38",
+        "href": "https://getgpt.pro/i/business-csguide",
+        "resolvedHref": "https://getgpt.pro/i/business-csguide",
+        "anchorText": "https://getgpt.pro/i/business",
+        "rel": "noopener noreferrer",
+        "target": "_blank"
+      },
+      {
+        "sourceURL": "https://csguide.cn/private/what-is-chatgpt-business.html",
+        "sourceTitle": "【2025年最新】ChatGPT Business/Team 是什么？怎么开通以及与 ChatGPT Plus 区别详细对比",
+        "readAtUtc": "2026-10-20T06:47:08.150549+00:00",
+        "status": 200,
+        "sourceHtmlSha256": "9f97024c4a4b07b337784624140ad53d551871bbde476fa894d18a9f43a9ca38",
+        "href": "https://getgpt.pro/i/business-csguide",
+        "resolvedHref": "https://getgpt.pro/i/business-csguide",
+        "anchorText": "https://getgpt.pro/i/business",
+        "rel": "noopener noreferrer",
+        "target": "_blank"
+      }
+    ],
+    "unique_invite_hrefs": [
+      "http://getgpt.pro/i/imgae25",
+      "https://getgpt.pro/i/business-csguide",
+      "https://getgpt.pro/i/csguide",
+      "https://getgpt.pro/i/csguide-codex1",
+      "https://getgpt.pro/i/gpt6",
+      "https://getgpt.pro/i/ip",
+      "https://getgpt.pro/i/ip2"
+    ],
+    "link_semantics": {
+      "all27InviteAnchorsRel": "noopener noreferrer",
+      "all27InviteAnchorsTarget": "_blank",
+      "sponsoredOrNofollowOnTheseInviteAnchorsObserved": false,
+      "standardSource": "https://html.spec.whatwg.org/multipage/links.html#link-type-noreferrer",
+      "standardRead": "web.open/find 2026-10-20，HTML Living Standard 2026-10-19版，段4.6.8.15",
+      "boundedInference": "noreferrer指示不传HTTP来源信息；并不移除href内邀请路径，也不能单凭它决定对方analytics归类。",
+      "notProven": [
+        "不能由无nofollow/sponsored推断实际传权、已收录、排名或商业合作金额。",
+        "不能由noreferrer或地址栏改写推断56.8%直访来自私域，更不能说100%。"
+      ]
+    },
+    "receipts": [
+      {
+        "url": "https://csguide.cn/robots.txt",
+        "at": "2026-10-20T06:43:18.092511+00:00",
+        "method": "GET",
+        "status": 200,
+        "finalURL": "https://csguide.cn/robots.txt",
+        "contentType": "text/plain",
+        "bytes": 65,
+        "sha256": "541a2c14950202a900d0b391fb1cac600209eb756b6d19bc575e0cf34279e8cb"
+      },
+      {
+        "url": "https://csguide.cn/sitemap.xml",
+        "at": "2026-10-20T06:43:18.093048+00:00",
+        "method": "GET",
+        "status": 200,
+        "finalURL": "https://csguide.cn/sitemap.xml",
+        "contentType": "text/xml",
+        "bytes": 30106,
+        "sha256": "d0b0354a60378ff6e79dfa553fc445d0afbcc7f5a0ee4ab37f3185b5ddbbbb0a"
+      },
+      {
+        "url": "https://csguide.cn/",
+        "at": "2026-10-20T06:43:18.093117+00:00",
+        "method": "GET",
+        "status": 200,
+        "finalURL": "https://csguide.cn/",
+        "contentType": "text/html",
+        "bytes": 36201,
+        "sha256": "be0a0d7be06fc562dda3898c2cb114b598e1f302225cb65d4fb09e9203ef658e"
+      },
+      {
+        "url": "https://r.jina.ai/https://csguide.cn/private/",
+        "at": "2026-10-20T06:43:18.093162+00:00",
+        "method": "GET",
+        "status": 200,
+        "finalURL": "https://r.jina.ai/https://csguide.cn/private/",
+        "contentType": "text/plain; charset=utf-8",
+        "bytes": 3579,
+        "sha256": "69ff115fc03d6c3d39074fddba5a2be15dca9f8a7b3176df0f5305daa8f3d772"
+      },
+      {
+        "url": "https://csguide.cn/private/",
+        "at": "2026-10-20T06:43:59.606784+00:00",
+        "method": "GET",
+        "status": 200,
+        "finalURL": "https://csguide.cn/private/",
+        "contentType": "text/html",
+        "bytes": 33161,
+        "sha256": "1d9224e749e5acb4f19796b954244a6f29790647225b5cc20fd8292d1e71a164"
+      },
+      {
+        "url": "https://csguide.cn/private/all/",
+        "at": "2026-10-20T06:43:59.607051+00:00",
+        "method": "GET",
+        "status": 200,
+        "finalURL": "https://csguide.cn/private/all/",
+        "contentType": "text/html",
+        "bytes": 35445,
+        "sha256": "8dc12472842371421b603c0d42fd3683420a8e648163b2a007fc4c5a039a1436"
+      },
+      {
+        "url": "https://r.jina.ai/https://csguide.cn/private/all/",
+        "at": "2026-10-20T06:43:59.607117+00:00",
+        "method": "GET",
+        "status": 200,
+        "finalURL": "https://r.jina.ai/https://csguide.cn/private/all/",
+        "contentType": "text/plain; charset=utf-8",
+        "bytes": 1274,
+        "sha256": "63e268aad62c2dc6fc9ada024c4d845c067c794deafc874eb23b46147931a603"
+      },
+      {
+        "url": "https://csguide.cn/private/gptplus-recharge.html",
+        "at": "2026-10-20T06:43:59.607161+00:00",
+        "method": "GET",
+        "status": 200,
+        "finalURL": "https://csguide.cn/private/gptplus-recharge.html",
+        "contentType": "text/html",
+        "bytes": 53241,
+        "sha256": "71904932ce9ec937f4b73ac932490ab554e718abc894c2d28952abe363ec42c6"
+      },
+      {
+        "url": "https://r.jina.ai/https://csguide.cn/private/gptplus-recharge.html",
+        "at": "2026-10-20T06:43:59.607198+00:00",
+        "method": "GET",
+        "status": 200,
+        "finalURL": "https://r.jina.ai/https://csguide.cn/private/gptplus-recharge.html",
+        "contentType": "text/plain; charset=utf-8",
+        "bytes": 5761,
+        "sha256": "e41d079e1412469f7a87bea6e7a81f63814a422bc9973d58c48f4a80189e6bfb"
+      },
+      {
+        "url": "https://csguide.cn/private/chatgpt-plus-tutorial.html",
+        "at": "2026-10-20T06:44:01.384946+00:00",
+        "method": "GET",
+        "status": 200,
+        "finalURL": "https://csguide.cn/private/chatgpt-plus-tutorial.html",
+        "contentType": "text/html",
+        "bytes": 46349,
+        "sha256": "2b4731bc1bbc0a25644357ac7c72660a05d17885dd6541f4e21d367b73f4cb50"
+      },
+      {
+        "url": "https://r.jina.ai/https://csguide.cn/private/chatgpt-plus-tutorial.html",
+        "at": "2026-10-20T06:44:02.551985+00:00",
+        "method": "GET",
+        "status": 200,
+        "finalURL": "https://r.jina.ai/https://csguide.cn/private/chatgpt-plus-tutorial.html",
+        "contentType": "text/plain; charset=utf-8",
+        "bytes": 3611,
+        "sha256": "2d69745b2f858328201cacdbf9eeabb7c1eb6ffc55a6c528799bb1a82aa5caf7"
+      },
+      {
+        "url": "https://csguide.cn/private/gpt6-astra-recharge-how-to-use.html",
+        "at": "2026-10-20T06:44:02.588246+00:00",
+        "method": "GET",
+        "status": 200,
+        "finalURL": "https://csguide.cn/private/gpt6-astra-recharge-how-to-use.html",
+        "contentType": "text/html",
+        "bytes": 96156,
+        "sha256": "e97a591def8e20168300dcb7cb314cc921193ba01c524500ebbf4b95fb6628ac"
+      },
+      {
+        "url": "https://r.jina.ai/https://csguide.cn/private/gpt6-astra-recharge-how-to-use.html",
+        "at": "2026-10-20T06:44:04.059473+00:00",
+        "method": "GET",
+        "status": 200,
+        "finalURL": "https://r.jina.ai/https://csguide.cn/private/gpt6-astra-recharge-how-to-use.html",
+        "contentType": "text/plain; charset=utf-8",
+        "bytes": 27255,
+        "sha256": "fb9d950f1e4dcd80930a4e3847c24a2f29561e1b7298b0b6a0e8d1cfde19e89f"
+      },
+      {
+        "url": "https://csguide.cn/private/codex-install-tutorial.html",
+        "at": "2026-10-20T06:44:05.148157+00:00",
+        "method": "GET",
+        "status": 200,
+        "finalURL": "https://csguide.cn/private/codex-install-tutorial.html",
+        "contentType": "text/html",
+        "bytes": 58414,
+        "sha256": "a818ff39d7e3a8320ddc22fb1eeade1a182203fee5e66c5687a5ed0c3425bd64"
+      },
+      {
+        "url": "https://r.jina.ai/https://csguide.cn/private/codex-install-tutorial.html",
+        "at": "2026-10-20T06:44:06.153585+00:00",
+        "method": "GET",
+        "status": 200,
+        "finalURL": "https://r.jina.ai/https://csguide.cn/private/codex-install-tutorial.html",
+        "contentType": "text/plain; charset=utf-8",
+        "bytes": 6318,
+        "sha256": "72f0de3ab319db82c20119c766797b244e0e041da9065f4a1de498af0c91923f"
+      },
+      {
+        "url": "https://csguide.cn/private/chatgpt-your-card-has-been-declined.html",
+        "at": "2026-10-20T06:44:06.335820+00:00",
+        "method": "GET",
+        "status": 200,
+        "finalURL": "https://csguide.cn/private/chatgpt-your-card-has-been-declined.html",
+        "contentType": "text/html",
+        "bytes": 57801,
+        "sha256": "9aa95789863e62870a88ca526999c070233639b04f036a1471a07757174bf099"
+      },
+      {
+        "url": "https://r.jina.ai/https://csguide.cn/private/chatgpt-your-card-has-been-declined.html",
+        "at": "2026-10-20T06:44:06.702119+00:00",
+        "method": "GET",
+        "status": 200,
+        "finalURL": "https://r.jina.ai/https://csguide.cn/private/chatgpt-your-card-has-been-declined.html",
+        "contentType": "text/plain; charset=utf-8",
+        "bytes": 10944,
+        "sha256": "a1ee18e8ea6ff3048a5f2223f1f6522f7d73d9f2996c174d6e4b06578ce9794f"
+      },
+      {
+        "url": "https://csguide.cn/private/ai-tools/",
+        "at": "2026-10-20T06:44:58.467502+00:00",
+        "method": "GET",
+        "status": 200,
+        "finalURL": "https://csguide.cn/private/ai-tools/",
+        "contentType": "text/html",
+        "bytes": 37858,
+        "sha256": "2acbab80730f1491c5a3f4d6f8419772e7816881a26413ffb4dab53c4ff4e1d7"
+      },
+      {
+        "url": "https://csguide.cn/private/chatgpt-recharge/",
+        "at": "2026-10-20T06:44:58.467779+00:00",
+        "method": "GET",
+        "status": 200,
+        "finalURL": "https://csguide.cn/private/chatgpt-recharge/",
+        "contentType": "text/html",
+        "bytes": 42667,
+        "sha256": "6b993024ca194a251a9af31c923c6e9473bf365d84ebf6aacb35d0ccd64260c4"
+      },
+      {
+        "url": "https://csguide.cn/private/codex/",
+        "at": "2026-10-20T06:44:58.467858+00:00",
+        "method": "GET",
+        "status": 200,
+        "finalURL": "https://csguide.cn/private/codex/",
+        "contentType": "text/html",
+        "bytes": 37195,
+        "sha256": "bcffdc1368fd03bb4771b8c5139afb9cf510c08415fae95f74b9d3b92516ee3c"
+      },
+      {
+        "url": "https://csguide.cn/private/developer-resources/",
+        "at": "2026-10-20T06:44:58.467925+00:00",
+        "method": "GET",
+        "status": 200,
+        "finalURL": "https://csguide.cn/private/developer-resources/",
+        "contentType": "text/html",
+        "bytes": 37091,
+        "sha256": "a68305321ba7a6b6394169a66f8f0cac4aa3dca987dce65d64b570d0305875ac"
+      },
+      {
+        "url": "https://csguide.cn/private/gpt-models/",
+        "at": "2026-10-20T06:44:58.467969+00:00",
+        "method": "GET",
+        "status": 200,
+        "finalURL": "https://csguide.cn/private/gpt-models/",
+        "contentType": "text/html",
+        "bytes": 40573,
+        "sha256": "1df725c4ba6aaeecf936f7e46352abfee6d9eeedf228e4a89e160a3cfa9dd25b"
+      },
+      {
+        "url": "https://csguide.cn/private/openai-media/",
+        "at": "2026-10-20T06:44:59.599931+00:00",
+        "method": "GET",
+        "status": 200,
+        "finalURL": "https://csguide.cn/private/openai-media/",
+        "contentType": "text/html",
+        "bytes": 37233,
+        "sha256": "587e02ab2b260e347dcf0729254c076af738ec6b47ad9af36c658d77dd7821cc"
+      },
+      {
+        "url": "https://csguide.cn/private/overseas-payment/",
+        "at": "2026-10-20T06:44:59.754269+00:00",
+        "method": "GET",
+        "status": 200,
+        "finalURL": "https://csguide.cn/private/overseas-payment/",
+        "contentType": "text/html",
+        "bytes": 36119,
+        "sha256": "0d00a62595ef7b269a93951f31d69db38df1ebd00a7c59e47918ea4cc1c54b72"
+      },
+      {
+        "url": "https://csguide.cn/private/payment-errors/",
+        "at": "2026-10-20T06:44:59.770775+00:00",
+        "method": "GET",
+        "status": 200,
+        "finalURL": "https://csguide.cn/private/payment-errors/",
+        "contentType": "text/html",
+        "bytes": 37099,
+        "sha256": "9e29b6ababaa0e1a8d18a95f15c6e26b8e82a4723f90294c9fa9836d102e6b41"
+      },
+      {
+        "url": "https://csguide.cn/private/gpt.html",
+        "at": "2026-10-20T06:45:00.974943+00:00",
+        "method": "GET",
+        "status": 200,
+        "finalURL": "https://csguide.cn/private/gpt.html",
+        "contentType": "text/html",
+        "bytes": 54904,
+        "sha256": "fe3b6eccedd6aabb9813abf89db287d7a82c387d5f849db9b0e735cc515e2114"
+      },
+      {
+        "url": "https://csguide.cn/private/chatgpt.html",
+        "at": "2026-10-20T06:45:01.159283+00:00",
+        "method": "GET",
+        "status": 200,
+        "finalURL": "https://csguide.cn/private/chatgpt.html",
+        "contentType": "text/html",
+        "bytes": 72724,
+        "sha256": "2fa82fa5ac95cc9d294538de43b0f4a7a0c03fee1e579afb514f8ce482247d5d"
+      },
+      {
+        "url": "https://csguide.cn/private/gpt-payment-not-approved.html",
+        "at": "2026-10-20T06:45:01.768810+00:00",
+        "method": "GET",
+        "status": 200,
+        "finalURL": "https://csguide.cn/private/gpt-payment-not-approved.html",
+        "contentType": "text/html",
+        "bytes": 64985,
+        "sha256": "9d4e6cd1fd11cf5e56ed2ac7630cba5ce0e6dc32c15982c6c3c65a3fd90d18ef"
+      },
+      {
+        "url": "https://getgpt.pro/",
+        "at": "2026-10-20T06:45:02.499380+00:00",
+        "method": "GET",
+        "status": 200,
+        "finalURL": "https://getgpt.pro/",
+        "contentType": "text/html; charset=utf-8",
+        "bytes": 292709,
+        "sha256": "15bfd3d27ce49c92041d26f57cd7fe74fc5323175f6b7a1fbd43bb8a334b724d"
+      },
+      {
+        "url": "https://how2cs.cn/",
+        "at": "2026-10-20T06:45:03.259339+00:00",
+        "method": "GET",
+        "status": 200,
+        "finalURL": "https://how2cs.cn/",
+        "contentType": "text/html",
+        "bytes": 27842,
+        "sha256": "8bd761d7af5bf0e38c700d86cc6f41658c93f1bbe8a000d4927ab52820801a23"
+      },
+      {
+        "url": "https://csguide.cn/private/chatshare.html",
+        "at": "2026-10-20T06:47:08.150220+00:00",
+        "method": "GET",
+        "status": 200,
+        "finalURL": "https://csguide.cn/private/chatshare.html",
+        "contentType": "text/html",
+        "bytes": 42133,
+        "sha256": "a916414c6a0a50849729cf31c224ed53f55478359cb979d7db14e4f3083b1fcb"
+      },
+      {
+        "url": "https://csguide.cn/private/gpt-image-2.5-release.html",
+        "at": "2026-10-20T06:47:08.150483+00:00",
+        "method": "GET",
+        "status": 200,
+        "finalURL": "https://csguide.cn/private/gpt-image-2.5-release.html",
+        "contentType": "text/html",
+        "bytes": 84677,
+        "sha256": "01d264a6a2148d4123ded744274d48761478d686fe587734ca2e1be7d8465b6c"
+      },
+      {
+        "url": "https://csguide.cn/private/what-is-chatgpt-business.html",
+        "at": "2026-10-20T06:47:08.150549+00:00",
+        "method": "GET",
+        "status": 200,
+        "finalURL": "https://csguide.cn/private/what-is-chatgpt-business.html",
+        "contentType": "text/html",
+        "bytes": 50320,
+        "sha256": "9f97024c4a4b07b337784624140ad53d551871bbde476fa894d18a9f43a9ca38"
+      }
+    ],
+    "association_boundary": "Shared resources and links establish an observable association, not common ownership or operator identity"
+  },
+  "github": {
+    "scope": {
+      "repositories_requested": 6,
+      "public_repositories_read": 6,
+      "complete_root_READMEs": 6,
+      "additional_complete_root_language_READMEs": 2,
+      "docs_index_README": 1,
+      "necessary_related_files": 10,
+      "actual_GitHub_blob_pages_for_three_guides": 3,
+      "rendered_GitHub_README_API_pages": 6,
+      "routing": "Read agent-reach SKILL.md + references/dev.md/web.md; gh official public API and ordinary public raw/blob HTTP; no browser/CDP/JS execution.",
+      "actions_not_performed": [
+        "posts",
+        "PRs",
+        "emails",
+        "visibility changes",
+        "orders/payments",
+        "credential/session endpoint calls",
+        "repo source edits",
+        "follow outbound purchase links"
+      ],
+      "absence_language": "本次读取的完整README/选定文件/可见代码检索范围未见，不是证明所有历史、分支、站外页面或经营关系均不存在。"
+    },
+    "repositories": [
+      {
+        "repository": "LearnPrompt/LearnPrompt",
+        "repository_url": "https://github.com/LearnPrompt/LearnPrompt",
+        "fixed_commit": "33db714b1713e50e3a831b51d7f47fd4978a4a31",
+        "readme_fixed_url": "https://github.com/LearnPrompt/LearnPrompt/blob/33db714b1713e50e3a831b51d7f47fd4978a4a31/README.md",
+        "merchant_readme_link_instances": 0,
+        "merchant_unique_readme_urls": 0,
+        "merchant_domains": {},
+        "github_blob_matching_merchant_link_instances": null,
+        "github_blob_merchant_rel_counts": null,
+        "latest_update": {
+          "commit_sha": "33db714b1713e50e3a831b51d7f47fd4978a4a31",
+          "commit_url": "https://github.com/LearnPrompt/LearnPrompt/commit/33db714b1713e50e3a831b51d7f47fd4978a4a31",
+          "author_date": "2026-10-13T08:29:57Z",
+          "committer_date": "2026-10-13T08:29:57Z",
+          "changed_files_count": 7,
+          "text_line_stats": {
+            "total": 327,
+            "additions": 319,
+            "deletions": 8
+          },
+          "changed_file_examples": [
+            {
+              "filename": "starlight/src/content/docs/en/agent-engineering/mac-workflow-storage-cleanup.mdx",
+              "status": "added",
+              "additions": 311,
+              "deletions": 0
+            },
+            {
+              "filename": "starlight/src/content/docs/en/claude-code/control-style-with-claude-md.mdx",
+              "status": "modified",
+              "additions": 1,
+              "deletions": 1
+            },
+            {
+              "filename": "starlight/src/content/docs/en/claude-code/skills-hooks-mcp-roles.mdx",
+              "status": "modified",
+              "additions": 1,
+              "deletions": 1
+            }
+          ],
+          "not_empty_by_changed_files": true,
+          "scope": "Only this fixed latest commit; no inference about automation or ranking.",
+          "content_summary": "新增英文工作流清理教程并调整英文文档/路由；不是观察到的空提交。"
+        },
+        "concise_conclusion": "本次完整中英README、相关充值/API教程及当前两域代码索引未见PayForChat/GETGPT直接链接；充值旧教程确有WildCard，不能把它替换成竞对外链证据。"
+      },
+      {
+        "repository": "yaolifeng0629/Awesome-independent-tools",
+        "repository_url": "https://github.com/yaolifeng0629/Awesome-independent-tools",
+        "fixed_commit": "137dbab17d7e360394acafad7e4a08a0a9a1629f",
+        "readme_fixed_url": "https://github.com/yaolifeng0629/Awesome-independent-tools/blob/137dbab17d7e360394acafad7e4a08a0a9a1629f/README.md",
+        "merchant_readme_link_instances": 0,
+        "merchant_unique_readme_urls": 0,
+        "merchant_domains": {},
+        "github_blob_matching_merchant_link_instances": null,
+        "github_blob_merchant_rel_counts": null,
+        "latest_update": {
+          "commit_sha": "137dbab17d7e360394acafad7e4a08a0a9a1629f",
+          "commit_url": "https://github.com/yaolifeng0629/Awesome-independent-tools/commit/137dbab17d7e360394acafad7e4a08a0a9a1629f",
+          "author_date": "2026-10-16T12:20:26Z",
+          "committer_date": "2026-10-16T12:20:26Z",
+          "changed_files_count": 2,
+          "text_line_stats": {
+            "total": 4,
+            "additions": 2,
+            "deletions": 2
+          },
+          "changed_file_examples": [
+            {
+              "filename": "README.md",
+              "status": "modified",
+              "additions": 1,
+              "deletions": 1
+            },
+            {
+              "filename": "README_en.md",
+              "status": "modified",
+              "additions": 1,
+              "deletions": 1
+            }
+          ],
+          "not_empty_by_changed_files": true,
+          "scope": "Only this fixed latest commit; no inference about automation or ranking.",
+          "content_summary": "中英README各有一处赞助描述措辞修改，2增2删。"
+        },
+        "concise_conclusion": "完整中英README可证WildCard，不可据此确认PayForChat/GETGPT；目录收录与赞助内容也不等同真实流量。"
+      },
+      {
+        "repository": "hq450/fancyss",
+        "repository_url": "https://github.com/hq450/fancyss",
+        "fixed_commit": "b19e82cb6a05e08990a96905353921819d44d134",
+        "readme_fixed_url": "https://github.com/hq450/fancyss/blob/b19e82cb6a05e08990a96905353921819d44d134/README.md",
+        "merchant_readme_link_instances": 0,
+        "merchant_unique_readme_urls": 0,
+        "merchant_domains": {},
+        "github_blob_matching_merchant_link_instances": null,
+        "github_blob_merchant_rel_counts": null,
+        "latest_update": {
+          "commit_sha": "b19e82cb6a05e08990a96905353921819d44d134",
+          "commit_url": "https://github.com/hq450/fancyss/commit/b19e82cb6a05e08990a96905353921819d44d134",
+          "author_date": "2026-06-01T16:00:28Z",
+          "committer_date": "2026-06-01T16:00:28Z",
+          "changed_files_count": 46,
+          "text_line_stats": {
+            "total": 148,
+            "additions": 65,
+            "deletions": 83
+          },
+          "changed_file_examples": [
+            {
+              "filename": "Changelog.txt",
+              "status": "modified",
+              "additions": 7,
+              "deletions": 0
+            },
+            {
+              "filename": "binaries/node-tool/SHA256SUMS-v0.1.16",
+              "status": "added",
+              "additions": 5,
+              "deletions": 0
+            },
+            {
+              "filename": "binaries/node-tool/node-tool-v0.1.16-linux-aarch64",
+              "status": "added",
+              "additions": 0,
+              "deletions": 0
+            }
+          ],
+          "not_empty_by_changed_files": true,
+          "scope": "Only this fixed latest commit; no inference about automation or ranking.",
+          "content_summary": "软件3.5.30版本、二进制/校验值及运行脚本更新；不是观察到的教程营销空提交。"
+        },
+        "concise_conclusion": "当前README明确有nf.video广告链接，不是PFC/GETGPT链接；仅可证广告展示，不证点击/营收或商家共同经营。"
+      },
+      {
+        "repository": "tokenhunter475/awesome-chatgpt-plus-guide",
+        "repository_url": "https://github.com/tokenhunter475/awesome-chatgpt-plus-guide",
+        "fixed_commit": "62b55654b47e36453a4818ee1e8c18750a7113b5",
+        "readme_fixed_url": "https://github.com/tokenhunter475/awesome-chatgpt-plus-guide/blob/62b55654b47e36453a4818ee1e8c18750a7113b5/README.md",
+        "merchant_readme_link_instances": 32,
+        "merchant_unique_readme_urls": 27,
+        "merchant_domains": {
+          "payforchat.com": 32
+        },
+        "github_blob_matching_merchant_link_instances": 32,
+        "github_blob_merchant_rel_counts": {
+          "nofollow": 32
+        },
+        "latest_update": {
+          "commit_sha": "62b55654b47e36453a4818ee1e8c18750a7113b5",
+          "commit_url": "https://github.com/tokenhunter475/awesome-chatgpt-plus-guide/commit/62b55654b47e36453a4818ee1e8c18750a7113b5",
+          "author_date": "2026-10-10T02:26:05Z",
+          "committer_date": "2026-10-10T02:26:05Z",
+          "changed_files_count": 18,
+          "text_line_stats": {
+            "total": 0,
+            "additions": 0,
+            "deletions": 0
+          },
+          "changed_file_examples": [
+            {
+              "filename": "assets/articles/2026-10-10-codex-sms-giffgaff/01-codex-phone-required.png",
+              "status": "added",
+              "additions": 0,
+              "deletions": 0
+            },
+            {
+              "filename": "assets/articles/2026-10-10-codex-sms-giffgaff/18-welcome-sms.jpg",
+              "status": "added",
+              "additions": 0,
+              "deletions": 0
+            }
+          ],
+          "not_empty_by_changed_files": true,
+          "scope": "Only this fixed latest commit; no inference about automation or ranking.",
+          "interpretation": "18张二进制截图新增；文本行统计total/additions/deletions均0，但changed_files非空，所以不是空提交。"
+        },
+        "concise_conclusion": "可证README与3个相关教程有PayForChat原生出站链接及公开UTM，GitHub实际blob页32个相应Web链接均nofollow。"
+      },
+      {
+        "repository": "youngyangyang04/gpt-daichong",
+        "repository_url": "https://github.com/youngyangyang04/gpt-daichong",
+        "fixed_commit": "15bcd8a171bb94ef318e3ece4c14826bf39c2658",
+        "readme_fixed_url": "https://github.com/youngyangyang04/gpt-daichong/blob/15bcd8a171bb94ef318e3ece4c14826bf39c2658/README.md",
+        "merchant_readme_link_instances": 5,
+        "merchant_unique_readme_urls": 1,
+        "merchant_domains": {
+          "payai.plus": 5
+        },
+        "github_blob_matching_merchant_link_instances": 5,
+        "github_blob_merchant_rel_counts": {
+          "nofollow": 5
+        },
+        "latest_update": {
+          "commit_sha": "15bcd8a171bb94ef318e3ece4c14826bf39c2658",
+          "commit_url": "https://github.com/youngyangyang04/gpt-daichong/commit/15bcd8a171bb94ef318e3ece4c14826bf39c2658",
+          "author_date": "2026-10-02T16:06:47Z",
+          "committer_date": "2026-10-02T16:06:47Z",
+          "changed_files_count": 1,
+          "text_line_stats": {
+            "total": 19,
+            "additions": 10,
+            "deletions": 9
+          },
+          "changed_file_examples": [
+            {
+              "filename": "README.md",
+              "status": "modified",
+              "additions": 10,
+              "deletions": 9
+            }
+          ],
+          "not_empty_by_changed_files": true,
+          "scope": "Only this fixed latest commit; no inference about automation or ranking.",
+          "content_summary": "README标题/核对日期、Pro订阅与历史倍率描述修改，10增9删；其内容宣称需另由官方复核，不能据此认证当前商品或套餐。"
+        },
+        "concise_conclusion": "当前README的5个商业Web链接实例均指payai.plus；2篇相关教程也指该域及其发票/退款页。不能归入PFC/GETGPT。"
+      },
+      {
+        "repository": "jiangyy-1/gpt-chongzhi-guide",
+        "repository_url": "https://github.com/jiangyy-1/gpt-chongzhi-guide",
+        "fixed_commit": "0fd6589961ba7aad0dddaace6e74a4df5bfc68d4",
+        "readme_fixed_url": "https://github.com/jiangyy-1/gpt-chongzhi-guide/blob/0fd6589961ba7aad0dddaace6e74a4df5bfc68d4/README.md",
+        "merchant_readme_link_instances": 35,
+        "merchant_unique_readme_urls": 32,
+        "merchant_domains": {
+          "gptpro20x.com": 26,
+          "gptpro5x.com": 9
+        },
+        "github_blob_matching_merchant_link_instances": 35,
+        "github_blob_merchant_rel_counts": {
+          "nofollow": 35
+        },
+        "latest_update": {
+          "commit_sha": "0fd6589961ba7aad0dddaace6e74a4df5bfc68d4",
+          "commit_url": "https://github.com/jiangyy-1/gpt-chongzhi-guide/commit/0fd6589961ba7aad0dddaace6e74a4df5bfc68d4",
+          "author_date": "2026-10-18T04:35:55Z",
+          "committer_date": "2026-10-18T04:35:55Z",
+          "changed_files_count": 1,
+          "text_line_stats": {
+            "total": 4,
+            "additions": 2,
+            "deletions": 2
+          },
+          "changed_file_examples": [
+            {
+              "filename": "README.md",
+              "status": "modified",
+              "additions": 2,
+              "deletions": 2
+            }
+          ],
+          "not_empty_by_changed_files": true,
+          "scope": "Only this fixed latest commit; no inference about automation or ranking.",
+          "content_summary": "README首段购买搜索意图措辞与最近核对日期修改，2增2删；不等于全站文章均已复核。"
+        },
+        "concise_conclusion": "当前README商业出站为gptpro20x.com与gptpro5x.com，实际blob页35个链接实例均nofollow；并非PFC/GETGPT。"
+      }
+    ],
+    "search_gaps": [
+      {
+        "repository": "jiangyy-1/gpt-chongzhi-guide",
+        "requests": 2,
+        "kind": "GitHub code-search rate limit",
+        "treatment": "recorded as unavailable, not zero matches; no repeated retries or alternate account bypass."
+      }
+    ],
+    "history_boundary": "没有穷尽git历史。所谓旧内容仅指当前固定commit仍保留的旧主题/文案；未伪造某历史commit曾有PFC/GETGPT链接。"
+  },
+  "root_http_receipts": [
+    {
+      "name": "pfc-similarweb-jina",
+      "url": "https://r.jina.ai/https://www.similarweb.com/website/payforchat.com/",
+      "checked_at": "2026-10-20T06:45:09.416361+00:00",
+      "status": 200,
+      "final_url": "https://r.jina.ai/https://www.similarweb.com/website/payforchat.com/",
+      "bytes": 679,
+      "sha256": "40b516c67969bbd4e3a1d10692c5cc9a96b6f2676a2b6503e17e7cf2d6510fdb",
+      "transport_status": 200,
+      "origin_status": 403,
+      "usable_body": false,
+      "meaning": "Reader transport succeeded but source response was an access-denied body; not treated as source content success"
+    },
+    {
+      "name": "getgpt-similarweb-jina",
+      "url": "https://r.jina.ai/https://www.similarweb.com/website/getgpt.pro/",
+      "checked_at": "2026-10-20T06:45:09.416580+00:00",
+      "status": 200,
+      "final_url": "https://r.jina.ai/https://www.similarweb.com/website/getgpt.pro/",
+      "bytes": 675,
+      "sha256": "e016c8a13d0158a0f9507a70adb46c613f76f3eea0c82c62d93e78745ae50743",
+      "transport_status": 200,
+      "origin_status": 403,
+      "usable_body": false,
+      "meaning": "Reader transport succeeded but source response was an access-denied body; not treated as source content success"
+    },
+    {
+      "name": "789ai",
+      "url": "https://789ai.vip/",
+      "checked_at": "2026-10-20T06:45:09.416658+00:00",
+      "status": 200,
+      "final_url": "https://789ai.vip/",
+      "bytes": 7493,
+      "sha256": "cc3161764fd98be07ee159873f9c972a930f92046d6d232470d8252662b6d802",
+      "title": "登录 - ChatGPT Plus 支付链接生成器",
+      "meaning": "Public login landing page only; no authentication or outbound referral verified"
+    },
+    {
+      "name": "5xgpt",
+      "url": "https://5xgpt.com/",
+      "checked_at": "2026-10-20T06:45:09.416705+00:00",
+      "status": 200,
+      "final_url": "https://www.5xgpt.com/",
+      "bytes": 70040,
+      "sha256": "9441cf829297cea1b3c175c46d14fa0931e9a944a8ba8cd89db35debb9ae7433",
+      "title": "ChatGPT Pro 充值开通｜Plus 升级 Pro 100 / 200 / 500｜Codex 用户适用｜5xGPT"
+    },
+    {
+      "name": "v2ex-guide",
+      "url": "https://www.v2ex.com/t/1184594",
+      "checked_at": "2026-10-20T06:45:09.416741+00:00",
+      "status": 200,
+      "final_url": "https://www.v2ex.com/t/1184594",
+      "bytes": 49127,
+      "sha256": "d53ae5ec48be33d3b562b0c367a0dfdde76fdcd4ca7fa75b2c7f9ae450ca1885",
+      "title": "2026 年如何在国内充值 ChatGPT Plus：最新 ChatGPT Plus 充值攻略 - V2EX"
+    },
+    {
+      "name": "v2ex-declined",
+      "url": "https://www.v2ex.com/t/1182439",
+      "checked_at": "2026-10-20T06:45:10.213853+00:00",
+      "status": 200,
+      "final_url": "https://www.v2ex.com/t/1182439",
+      "bytes": 32068,
+      "sha256": "c9c4a6c67318f04e2883d8aa8222c289f02dbb903e2076dc4fc4557c87dbb0ee",
+      "title": "请问怎样订阅 chatgpt 的 plus 套餐啊？我这显示 “您的银行卡被拒绝了。” - V2EX"
+    },
+    {
+      "name": "pfg-team",
+      "url": "https://payforgpt.com/team",
+      "checked_at": "2026-10-20T06:45:10.424532+00:00",
+      "status": 200,
+      "final_url": "https://payforgpt.com/team",
+      "bytes": 59086,
+      "sha256": "064e48c34bc55fe415561f547beee6c927df5d2aadd62f9725538a2a1b62351b",
+      "title": "ChatGPT Business 团队采购预检｜合同、付款与票据核验 | PayForGPT"
+    },
+    {
+      "name": "nano-business",
+      "url": "https://nano-banana.lol/business",
+      "checked_at": "2026-10-20T06:45:11.228232+00:00",
+      "status": 200,
+      "final_url": "https://nano-banana.lol/team",
+      "bytes": 61159,
+      "sha256": "ba951321cde75f7adb2242a6190a8b6d71c287aa19ca5b2cae1d752ef4e921af",
+      "title": "ChatGPT Business 团队版：价格、席位与采购核验 | Nano Banana"
+    },
+    {
+      "name": "pfg-help",
+      "url": "https://payforgpt.com/help",
+      "checked_at": "2026-10-20T06:45:11.647043+00:00",
+      "status": 200,
+      "final_url": "https://payforgpt.com/help",
+      "bytes": 125430,
+      "sha256": "c7ebc29e3de6c1b608b2a6f8a1547dc0c52e84212576d3efb95e3a17bc36e79a",
+      "title": "ChatGPT Plus充值自助排查 | 快速解决充值问题 | PayForGPT"
+    },
+    {
+      "name": "nano-help",
+      "url": "https://nano-banana.lol/help",
+      "checked_at": "2026-10-20T06:45:11.657812+00:00",
+      "status": 200,
+      "final_url": "https://nano-banana.lol/help",
+      "bytes": 76700,
+      "sha256": "42e6598819c24d9994ba1fc62e05332a72de3f2f856d1164c5ca039bb7c4bb29",
+      "title": "Nano Banana 帮助中心 | AI 数字订阅订单、付款与交付排查 | Nano Banana"
+    },
+    {
+      "name": "pfc-team",
+      "url": "https://www.payforchat.com/team-purchase",
+      "checked_at": "2026-10-20T06:49:09.519705+00:00",
+      "status": 200,
+      "final_url": "https://www.payforchat.com/business-recharge",
+      "sha256": "a0cf10339119282f305e4168ccb901de7904a0138c05530c048df4147d32ffdb",
+      "bytes": 103820
+    },
+    {
+      "name": "pfc-business",
+      "url": "https://www.payforchat.com/business-recharge",
+      "checked_at": "2026-10-20T06:49:11.639670+00:00",
+      "status": 200,
+      "final_url": "https://www.payforchat.com/business-recharge",
+      "sha256": "c6c386f1835a760472d6e05398b96938ecaf66f40e101520297deb15dbcc736d",
+      "bytes": 103820
+    }
+  ],
+  "official_reference_receipts": [
+    {
+      "id": "analytics-direct",
+      "url": "https://support.google.com/analytics/answer/15258820?hl=en",
+      "checked_at": "2026-10-20T06:46:44.592577+00:00",
+      "status": 200,
+      "final_url": "https://support.google.com/analytics/answer/15258820?hl=en",
+      "sha256": "725e81e298a47f852fb5a61a9d6e8c45c4239d5024ee4bbca323b0072a28dcf5"
+    },
+    {
+      "id": "history",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/API/History/replaceState",
+      "checked_at": "2026-10-20T06:46:44.592819+00:00",
+      "status": 200,
+      "final_url": "https://developer.mozilla.org/en-US/docs/Web/API/History/replaceState",
+      "sha256": "3ebe0a15b9644685bb746c00099c7709f2810ff983065404b6e02a214bfe130c"
+    },
+    {
+      "id": "dr",
+      "url": "https://ahrefs.com/seo/glossary/domain-rating",
+      "checked_at": "2026-10-20T06:46:44.592896+00:00",
+      "status": 200,
+      "final_url": "https://ahrefs.com/seo/glossary/domain-rating",
+      "sha256": "036c0354f7e75f451751f6c14fbfb636c516506dbe1ea5ebc9c0a1c1cca927a8"
+    },
+    {
+      "id": "sitemap",
+      "url": "https://developers.google.com/search/docs/crawling-indexing/sitemaps/overview",
+      "checked_at": "2026-10-20T06:46:44.592943+00:00",
+      "status": 200,
+      "final_url": "https://developers.google.com/search/docs/crawling-indexing/sitemaps/overview",
+      "sha256": "49c9d49292f756a783ec6f15a88957da681052358b2149283a6d56b3f8b2fd98"
+    }
+  ],
+  "web_reader_only_sources": [
+    {
+      "url": "https://www.similarweb.com/website/getgpt.pro/",
+      "read_date": "2026-10-20",
+      "observed_period": "September 2026",
+      "data_type": "Similarweb vendor estimate, not first-party analytics",
+      "total_visits_display": "198.1K",
+      "monthly_change_percent": 36.02,
+      "direct_share_percent": 56.81,
+      "direct_scope": "desktop",
+      "organic_search_mix_percent": 77.41,
+      "paid_search_mix_percent": 22.59,
+      "search_scope": "search mix, desktop/worldwide; not whole-site channel shares",
+      "full_channel_breakdown_available": false,
+      "named_referral_domains": [
+        "789ai.vip",
+        "5xgpt.com",
+        "v2ex.com"
+      ],
+      "native_transport_success_not_claimed": true
+    },
+    {
+      "url": "https://support.similarweb.com/hc/en-us/articles/115004173925-Marketing-Channels",
+      "read_date": "2026-10-20",
+      "meaning": "Vendor definitions and April 2026 methodology/channel updates"
+    },
+    {
+      "url": "https://html.spec.whatwg.org/multipage/links.html#link-type-noreferrer",
+      "read_date": "2026-10-20",
+      "meaning": "noreferrer suppresses referral information; does not remove invite path or establish analytics outcome"
+    }
+  ],
+  "limits": [
+    "No full backlink index, first-party competitor analytics, actual order/paid/delivered dataset or causal traffic experiment.",
+    "No browser interaction, JS execution, login, transaction, outbound promotional target request, post, email or PR.",
+    "Full third-party bodies and private document snapshots excluded."
+  ]
+}

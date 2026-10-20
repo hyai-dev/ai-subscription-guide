@@ -99,6 +99,6 @@
 
 每日UTC02:00（北京时间10:00）的 [Actions](https://github.com/hyai-dev/ai-subscription-guide/actions/workflows/daily-sync.yml)计划检查已审阅稿件、观察价格、同步稳定归档与导航；调度可能延迟，以每次运行记录为准。没有内容变化不伪造复核日；脚本不自动创作、代充或修改飞书。
 
-先运行 `npm run sync:preview` 本地预览。流程见[维护手册](ops/maintenance.md)。主题与站点链接已加来源标记，付款/交付归因仍需验收，见[归因范围](ops/measurement.md)。
+先运行 `npm run sync:preview` 本地预览。流程见[维护手册](ops/maintenance.md)。 最新[公开竞品证据复核](ops/competitor-public-evidence-20261020/README.md)区分真实外链、当前正文、流量估算与待实施建议。主题与站点链接已加来源标记，付款/交付归因仍需验收，见[归因范围](ops/measurement.md)。
 
 原创代码：[MIT](LICENSE)；文字和图示：[内容许可与第三方边界](CONTENT-LICENSE.md)。欢迎有来源的更正和实际使用反馈。

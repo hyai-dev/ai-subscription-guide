@@ -1,0 +1,79 @@
+{
+  "status": "pass",
+  "blocker_count": 0,
+  "reviewed_at_utc": "2026-10-20T06:57:36.282133+00:00",
+  "scope": "Final report, public evidence and URL inventory; independent read-only consistency review",
+  "report_sha256": "0a25e075ea6d99338bb9af856f2e95a9f6ff4ab06e68c0165a63ac6d65528060",
+  "report_bytes": 11451,
+  "checks": [
+    {
+      "topic": "PayForChat sitemap口径",
+      "result": "pass"
+    },
+    {
+      "topic": "第12章13URL",
+      "result": "pass"
+    },
+    {
+      "topic": "MarkCopy署名机制",
+      "result": "pass"
+    },
+    {
+      "topic": "MarkCopy实际反链",
+      "result": "pass"
+    },
+    {
+      "topic": "MarkCopy输出与上传边界",
+      "result": "pass"
+    },
+    {
+      "topic": "Similarweb估算与分母",
+      "result": "pass"
+    },
+    {
+      "topic": "PayForChat流量读取失败",
+      "result": "pass"
+    },
+    {
+      "topic": "V2EX链接及nofollow",
+      "result": "pass"
+    },
+    {
+      "topic": "Direct与replaceState因果",
+      "result": "pass"
+    },
+    {
+      "topic": "DR与URL发现",
+      "result": "pass"
+    },
+    {
+      "topic": "Similarweb现行渠道分类",
+      "result": "pass"
+    },
+    {
+      "topic": "企业采购与redirect差异",
+      "result": "pass"
+    },
+    {
+      "topic": "我方已有能力与建议",
+      "result": "pass"
+    },
+    {
+      "topic": "隐私与版权/全文边界",
+      "result": "pass"
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {}
+  ],
+  "limitations": [
+    "No browser interaction or live payment/delivery measurement.",
+    "Review does not establish indexing, traffic causation or commercial operator identity."
+  ]
+}
