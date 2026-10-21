@@ -3,22 +3,22 @@
  <rect width="1080" height="1180" fill="#f8fafc"/>
  <g font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" fill="#172033">
   <text x="70" y="92" font-size="43" font-weight="700">Codex 提示受限，先找哪本账？</text>
-  <text x="70" y="141" font-size="25" fill="#475569">先认登录方式，再判断要不要购买</text>
+  <text x="70" y="141" font-size="25" fill="#475569">ChatGPT 登录看 A；API key 登录看 B</text>
   <rect x="70" y="190" width="940" height="190" rx="24" fill="#ecfdf5" stroke="#047857" stroke-width="3"/>
-  <text x="102" y="239" font-size="28" font-weight="700" fill="#065f46">01　ChatGPT 套餐</text>
+  <text x="102" y="239" font-size="28" font-weight="700" fill="#065f46">A1　ChatGPT 套餐</text>
   <text x="102" y="286" font-size="25">查：当前账号、套餐、原续费渠道与账期</text>
   <text x="102" y="330" font-size="25">适合：核对订阅资格与需要的功能</text>
-  <path d="M540 393v46m-13-13 13 13 13-13" stroke="#475569" stroke-width="4" fill="none"/>
+  <text x="102" y="424" font-size="22" fill="#475569">同一登录路径：用量不足时再看下一项</text>
   <rect x="70" y="457" width="940" height="190" rx="24" fill="#eff6ff" stroke="#1d4ed8" stroke-width="3"/>
-  <text x="102" y="506" font-size="28" font-weight="700" fill="#1e40af">02　可用用量与额外 credits</text>
+  <text x="102" y="506" font-size="28" font-weight="700" fill="#1e40af">A2　可用用量与额外 credits</text>
   <text x="102" y="553" font-size="25">查：用量面板、重置时间、可见补充入口</text>
   <text x="102" y="597" font-size="25">适合：功能可用，但本周期用量不足</text>
-  <path d="M540 660v46m-13-13 13 13 13-13" stroke="#475569" stroke-width="4" fill="none"/>
+  <text x="102" y="691" font-size="22" fill="#475569">另一条登录路径：API key 用户看这里</text>
   <rect x="70" y="724" width="940" height="190" rx="24" fill="#f5f3ff" stroke="#6d28d9" stroke-width="3"/>
-  <text x="102" y="773" font-size="28" font-weight="700" fill="#5b21b6">03　API 组织与项目账单</text>
+  <text x="102" y="773" font-size="28" font-weight="700" fill="#5b21b6">B　API 组织与项目账单</text>
   <text x="102" y="820" font-size="25">查：API key 所属组织、计费与限制</text>
   <text x="102" y="864" font-size="25">适合：API key 本地任务的余额或限额问题</text>
-  <text x="70" y="985" font-size="27" font-weight="700">定位顺序，不是购买顺序。</text>
+  <text x="70" y="985" font-size="27" font-weight="700">按登录方式选路径，不需要依次购买。</text>
   <text x="70" y="1034" font-size="25">续费套餐、补充 credits、API 付款不能互相替代。</text>
   <text x="70" y="1090" font-size="21" fill="#475569">运营方原创解释图 · 非官方界面 · 2026-10-21复核</text>
   <text x="70" y="1125" font-size="21" fill="#475569">实际资格、价格和用量以本人账号与官方说明为准</text>
