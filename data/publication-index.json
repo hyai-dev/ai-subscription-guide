@@ -577,17 +577,26 @@
       ],
       "canonical": "https://github.com/hyai-dev/ai-subscription-guide/blob/main/docs/14-paid-but-still-free.md",
       "publishedAt": "2026-10-19",
-      "reviewedAt": "2026-10-20",
+      "reviewedAt": "2026-10-21",
       "sources": [
         "https://help.openai.com/en/articles/9135236",
         "https://help.openai.com/en/articles/20001043-how-do-i-avoid-being-charged-twice-if-i-subscribe-to-chatgpt-on-ios-android-and-the-web",
         "https://help.openai.com/en/articles/20001056-why-am-i-seeing-a-message-that-my-subscription-is-associated-with-another-account",
-        "https://help.openai.com/en/articles/8346573-restoring-a-chatgpt-subscription-purchased-in-the-apple-app-store"
+        "https://help.openai.com/en/articles/8346573-restoring-a-chatgpt-subscription-purchased-in-the-apple-app-store",
+        "https://help.openai.com/en/articles/8980438-can-i-access-my-chatgpt-subscription-from-another-device"
       ],
       "figures": [
         {
           "file": "assets/keyword-tasks-20261019/paid-free-states.webp",
           "sha256": "333eeec932536f41993e8723ab800817b673c7148445c2d7b29800b06492ec5f"
+        },
+        {
+          "file": "assets/activation-check-20261021/figure-subscription.webp",
+          "sha256": "b349b5697bb5c3db356e304ba413cdb42cfb88ed730ff129a0557703478e7012"
+        },
+        {
+          "file": "assets/activation-check-20261021/figure-ticket.webp",
+          "sha256": "9f6139da45fa815a808d8807f10c7001dd15b0953bcb1700197e96ce0c801bb2"
         }
       ],
       "targets": [
@@ -604,7 +613,7 @@
           "trackedUrl": "https://nano-banana.lol/how-to/payment-success-not-delivered?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide_paid_but_still_free_nano"
         }
       ],
-      "sha256": "714f0f06f12d0179cad61ecf9854aca46b38283cc5c2e0c2bf95953bf3704ce9",
+      "sha256": "625613d006a619929b1f5d97eb3714c351084f693200feb66de1bb25190ed9ad",
       "archive": "articles/paid-but-still-free.md"
     },
     {

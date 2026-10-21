@@ -1,5 +1,5 @@
 {
-  "reviewDate": "2026-10-19",
+  "reviewDate": "2026-10-21",
   "rights": "See CONTENT-LICENSE.md; only rights we hold are licensed.",
   "assets": [
     {
@@ -245,6 +245,20 @@
       "sourceOrScreenshot": "Not a product UI, account or transaction screenshot.",
       "width": 640,
       "height": 1200
+    },
+    {
+      "path": "assets/activation-check-20261021/figure-subscription.webp",
+      "sha256": "b349b5697bb5c3db356e304ba413cdb42cfb88ed730ff129a0557703478e7012",
+      "bytes": 99126,
+      "kind": "original-explanatory-diagram",
+      "sourceOrScreenshot": "Existing operator-owned explanatory image reused with permission. Not a product UI, customer record or transaction screenshot."
+    },
+    {
+      "path": "assets/activation-check-20261021/figure-ticket.webp",
+      "sha256": "9f6139da45fa815a808d8807f10c7001dd15b0953bcb1700197e96ce0c801bb2",
+      "bytes": 53136,
+      "kind": "original-explanatory-diagram",
+      "sourceOrScreenshot": "Existing operator-owned explanatory image reused with permission. Not a product UI, customer record or transaction screenshot."
     }
   ]
 }

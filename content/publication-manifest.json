@@ -486,15 +486,18 @@
       ],
       "canonical": "https://github.com/hyai-dev/ai-subscription-guide/blob/main/docs/14-paid-but-still-free.md",
       "publishedAt": "2026-10-19",
-      "reviewedAt": "2026-10-20",
+      "reviewedAt": "2026-10-21",
       "sources": [
         "https://help.openai.com/en/articles/9135236",
         "https://help.openai.com/en/articles/20001043-how-do-i-avoid-being-charged-twice-if-i-subscribe-to-chatgpt-on-ios-android-and-the-web",
         "https://help.openai.com/en/articles/20001056-why-am-i-seeing-a-message-that-my-subscription-is-associated-with-another-account",
-        "https://help.openai.com/en/articles/8346573-restoring-a-chatgpt-subscription-purchased-in-the-apple-app-store"
+        "https://help.openai.com/en/articles/8346573-restoring-a-chatgpt-subscription-purchased-in-the-apple-app-store",
+        "https://help.openai.com/en/articles/8980438-can-i-access-my-chatgpt-subscription-from-another-device"
       ],
       "figures": [
-        "assets/keyword-tasks-20261019/paid-free-states.webp"
+        "assets/keyword-tasks-20261019/paid-free-states.webp",
+        "assets/activation-check-20261021/figure-subscription.webp",
+        "assets/activation-check-20261021/figure-ticket.webp"
       ],
       "targets": [
         {

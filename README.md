@@ -42,7 +42,7 @@
 <!-- BEGIN LATEST -->
 | 复核日期 | 教程 |
 | --- | --- |
-| 2026-10-20 | [ChatGPT已付款仍显示Free：分开核对付款、交付与权益](docs/14-paid-but-still-free.md) |
+| 2026-10-21 | [ChatGPT已付款仍显示Free：分开核对付款、交付与权益](docs/14-paid-but-still-free.md) |
 | 2026-10-19 | [GETGPT Pro 购买前核对：官网、卡密兑换与原账号结果](docs/19-getgpt-card-code-checklist.md) |
 | 2026-10-19 | [ChatGPT会员、API余额和用量点数：购买前找对账单](docs/18-membership-api-wallet.md) |
 | 2026-10-19 | [awesome ChatGPT Plus guide阅读地图：从问题找到来源和下一步](docs/17-guide-reading-map.md) |
