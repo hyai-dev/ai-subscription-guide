@@ -44,7 +44,7 @@
       "topic": "codex-access",
       "canonical": "https://github.com/hyai-dev/ai-subscription-guide/blob/main/docs/02-codex-topup-guide.md",
       "publishedAt": "2026-10-14",
-      "reviewedAt": "2026-10-19",
+      "reviewedAt": "2026-10-21",
       "sources": [
         "https://learn.chatgpt.com/docs/auth",
         "https://learn.chatgpt.com/docs/pricing"
@@ -53,20 +53,24 @@
         {
           "file": "assets/illustrated-20261018/renewal-v1.webp",
           "sha256": "4199289ce3567a5f92ff37efd1543bbd3a8bc02b0918f5728b36c398f51396e0"
+        },
+        {
+          "file": "assets/codex-ledgers-20261021/three-ledgers.webp",
+          "sha256": "6ee99e43f08590400c4e080bdb2e08f6b697de9eb07f200363fd01ee209121fa"
         }
       ],
       "targets": [
         {
           "site": "payforgpt",
-          "url": "https://payforgpt.com/faq",
-          "label": "PayForGPT账号与购买帮助",
-          "trackedUrl": "https://payforgpt.com/faq?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide_codex_access_payforgpt"
+          "url": "https://payforgpt.com/codex",
+          "label": "PayForGPT Codex任务入口",
+          "trackedUrl": "https://payforgpt.com/codex?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide_codex_access_payforgpt"
         },
         {
           "site": "nano",
-          "url": "https://nano-banana.lol/faq",
-          "label": "Nano Banana账号与购买帮助",
-          "trackedUrl": "https://nano-banana.lol/faq?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide_codex_access_nano"
+          "url": "https://nano-banana.lol/codex",
+          "label": "Nano Banana Codex任务入口",
+          "trackedUrl": "https://nano-banana.lol/codex?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide_codex_access_nano"
         }
       ],
       "cluster": "Codex使用",
@@ -75,7 +79,7 @@
         "Codex登录方式区别",
         "Codex额度不够怎么办"
       ],
-      "sha256": "3bf2734a0f60d330d713c2cf94deb3aebd6ee50c45299ce21482de10fb3c0135",
+      "sha256": "b7acb72709f742ec164ea275a1b23c0802bc55c97676b925d525f9aceddbb1f1",
       "archive": "articles/codex-access-and-usage.md"
     },
     {

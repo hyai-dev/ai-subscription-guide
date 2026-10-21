@@ -38,24 +38,25 @@
       "topic": "codex-access",
       "canonical": "https://github.com/hyai-dev/ai-subscription-guide/blob/main/docs/02-codex-topup-guide.md",
       "publishedAt": "2026-10-14",
-      "reviewedAt": "2026-10-19",
+      "reviewedAt": "2026-10-21",
       "sources": [
         "https://learn.chatgpt.com/docs/auth",
         "https://learn.chatgpt.com/docs/pricing"
       ],
       "figures": [
-        "assets/illustrated-20261018/renewal-v1.webp"
+        "assets/illustrated-20261018/renewal-v1.webp",
+        "assets/codex-ledgers-20261021/three-ledgers.webp"
       ],
       "targets": [
         {
           "site": "payforgpt",
-          "url": "https://payforgpt.com/faq",
-          "label": "PayForGPT账号与购买帮助"
+          "url": "https://payforgpt.com/codex",
+          "label": "PayForGPT Codex任务入口"
         },
         {
           "site": "nano",
-          "url": "https://nano-banana.lol/faq",
-          "label": "Nano Banana账号与购买帮助"
+          "url": "https://nano-banana.lol/codex",
+          "label": "Nano Banana Codex任务入口"
         }
       ],
       "cluster": "Codex使用",

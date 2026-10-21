@@ -43,6 +43,7 @@
 | 复核日期 | 教程 |
 | --- | --- |
 | 2026-10-21 | [ChatGPT已付款仍显示Free：分开核对付款、交付与权益](docs/14-paid-but-still-free.md) |
+| 2026-10-21 | [Codex 购买前先核对：登录方式、当前可用功能与实际用量](docs/02-codex-topup-guide.md) |
 | 2026-10-19 | [GETGPT Pro 购买前核对：官网、卡密兑换与原账号结果](docs/19-getgpt-card-code-checklist.md) |
 | 2026-10-19 | [ChatGPT会员、API余额和用量点数：购买前找对账单](docs/18-membership-api-wallet.md) |
 | 2026-10-19 | [awesome ChatGPT Plus guide阅读地图：从问题找到来源和下一步](docs/17-guide-reading-map.md) |
@@ -51,7 +52,6 @@
 | 2026-10-19 | [ChatGPT代充工单查询：按原订单整理证据和回复](docs/13-support-ticket-query.md) |
 | 2026-10-19 | [ChatGPT无法绑卡怎么办：从失败位置判断下一步](docs/12-card-binding-failed.md) |
 | 2026-10-19 | [国内信用卡支付ChatGPT：地区、发卡行与付款渠道怎么核对](docs/11-domestic-card-payment.md) |
-| 2026-10-19 | [用 ChatGPT 写 PPT 大纲：先核对结论，再安排每一页](docs/10-presentation-outline-workflow.md) |
 <!-- END LATEST -->
 
 复核日是编辑读取来源与修订的日期，不代表所有产品或交易已实测。CSV、页码练习和小任务均为合成示例，文内分别说明验算与未验证部分。
