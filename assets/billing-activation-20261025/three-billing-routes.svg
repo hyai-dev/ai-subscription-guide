@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="850" viewBox="0 0 1440 850" role="img" aria-labelledby="title desc">
+  <title id="title">充值前，先找到你正在使用的账本</title>
+  <desc id="desc">ChatGPT订阅查套餐和原购买渠道；Codex用ChatGPT登录查计划用量与适用额外credits；API Key登录查API组织与项目账单。三个账本不能用一张商家付款截图替代。</desc>
+  <defs>
+    <style>text{font-family:"Noto Sans CJK SC","PingFang SC","Microsoft YaHei",sans-serif;fill:#142b38}.title{font-size:48px;font-weight:700}.label{font-size:30px;font-weight:700}.body{font-size:25px}.small{font-size:22px;fill:#48616c}.note{font-size:26px;font-weight:600}.white{fill:white}</style>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#536e7a"/></marker>
+  </defs>
+  <rect width="1440" height="850" rx="28" fill="#f5f9fa"/>
+  <text class="small" x="60" y="62">购买对象核对 · 原创解释图</text>
+  <text class="title" x="60" y="130">充值前，先找到你正在使用的账本</text>
+  <text class="body" x="60" y="185">先看使用入口与登录方式，再决定要不要付款。</text>
+  <g>
+    <rect x="60" y="240" width="410" height="160" rx="20" fill="#dfeef0" stroke="#3f7782" stroke-width="2"/>
+    <text class="label" x="90" y="298">ChatGPT 网页 / App</text>
+    <text class="body" x="90" y="351">准备开通或续费会员</text>
+    <path d="M265 415V463" fill="none" stroke="#536e7a" stroke-width="4" marker-end="url(#arrow)"/>
+    <rect x="60" y="480" width="410" height="150" rx="20" fill="white" stroke="#d0dde1" stroke-width="2"/>
+    <text class="label" x="90" y="535">订阅记录</text>
+    <text class="body" x="90" y="582">套餐、周期、原购买渠道</text>
+  </g>
+  <g>
+    <rect x="515" y="240" width="410" height="160" rx="20" fill="#e9e4f7" stroke="#756096" stroke-width="2"/>
+    <text class="label" x="545" y="298">Codex</text>
+    <text class="body" x="545" y="351">使用 ChatGPT 登录</text>
+    <path d="M720 415V463" fill="none" stroke="#536e7a" stroke-width="4" marker-end="url(#arrow)"/>
+    <rect x="515" y="480" width="410" height="150" rx="20" fill="white" stroke="#d0dde1" stroke-width="2"/>
+    <text class="label" x="545" y="535">计划用量</text>
+    <text class="body" x="545" y="582">可用额度、适用额外 credits</text>
+  </g>
+  <g>
+    <rect x="970" y="240" width="410" height="160" rx="20" fill="#f5ead9" stroke="#987245" stroke-width="2"/>
+    <text class="label" x="1000" y="298">Codex / 自己的程序</text>
+    <text class="body" x="1000" y="351">使用 API Key 登录或调用</text>
+    <path d="M1175 415V463" fill="none" stroke="#536e7a" stroke-width="4" marker-end="url(#arrow)"/>
+    <rect x="970" y="480" width="410" height="150" rx="20" fill="white" stroke="#d0dde1" stroke-width="2"/>
+    <text class="label" x="1000" y="535">API 账单</text>
+    <text class="body" x="1000" y="582">组织、项目、用量与预算</text>
+  </g>
+  <rect x="60" y="674" width="1320" height="82" rx="16" fill="#fff4e4"/>
+  <text class="note" x="88" y="725">商城“已付款”只说明一笔交易，不能替代目标账号里的权益记录。</text>
+  <text class="small" x="60" y="807">非官方界面 · 非订单或充值证明 · 具体可用范围以本人账号及最新官方规则为准</text>
+</svg>

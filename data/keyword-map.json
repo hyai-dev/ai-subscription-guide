@@ -3,7 +3,7 @@
   "scope": "Editorial query-to-article map, with normalized exact duplicate queries rejected. These are assigned candidate queries, not verified search volume, rankings, traffic or all semantic variants.",
   "primaryArticleCount": 19,
   "topicClusterCount": 9,
-  "assignedQueryCount": 75,
+  "assignedQueryCount": 79,
   "owners": [
     {
       "id": "ip-network-information",
@@ -221,19 +221,32 @@
         "ChatGPT已扣款没有Plus",
         "ChatGPT已发货没升级",
         "ChatGPT恢复购买还是Free",
-        "ChatGPT充值到账怎么确认"
+        "ChatGPT充值到账怎么确认",
+        "ChatGPT自助充值怎么核对激活",
+        "ChatGPT代升级要授权吗"
       ],
       "file": "docs/14-paid-but-still-free.md",
       "canonical": "https://github.com/hyai-dev/ai-subscription-guide/blob/main/docs/14-paid-but-still-free.md",
-      "keywordQueueRows": [],
+      "keywordQueueRows": [
+        97,
+        98
+      ],
       "websiteOwners": [
         {
-          "site": "payforgpt",
-          "url": "https://payforgpt.com/how-to/payment-success-not-delivered"
+          "site": "nano",
+          "url": "https://nano-banana.lol/guide"
         },
         {
           "site": "nano",
-          "url": "https://nano-banana.lol/how-to/payment-success-not-delivered"
+          "url": "https://nano-banana.lol/ai-subscriptions/chatgpt-plus-recharge"
+        },
+        {
+          "site": "payforgpt",
+          "url": "https://payforgpt.com/guide"
+        },
+        {
+          "site": "payforgpt",
+          "url": "https://payforgpt.com/how-to/recharge-chatgpt-plus"
         }
       ]
     },
@@ -324,19 +337,23 @@
         "ChatGPT Plus包含API吗",
         "ChatGPT充值充到哪里",
         "ChatGPT钱包余额等于会员吗",
-        "ChatGPT点数和订阅区别"
+        "ChatGPT点数和订阅区别",
+        "OpenAI额度充值",
+        "Codex用量不足该充哪里"
       ],
       "file": "docs/18-membership-api-wallet.md",
       "canonical": "https://github.com/hyai-dev/ai-subscription-guide/blob/main/docs/18-membership-api-wallet.md",
-      "keywordQueueRows": [],
+      "keywordQueueRows": [
+        96
+      ],
       "websiteOwners": [
         {
-          "site": "payforgpt",
-          "url": "https://payforgpt.com/ai-subscriptions/chatgpt-payment-channels-guide"
+          "site": "nano",
+          "url": "https://nano-banana.lol/ai-subscriptions/openai-api-model-access-billing-errors"
         },
         {
-          "site": "nano",
-          "url": "https://nano-banana.lol/ai-subscriptions/alipay-wechat-pay"
+          "site": "payforgpt",
+          "url": "https://payforgpt.com/how-to/chatgpt-subscription-vs-api-billing"
         }
       ]
     },

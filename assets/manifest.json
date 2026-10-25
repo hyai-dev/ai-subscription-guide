@@ -1,5 +1,5 @@
 {
-  "reviewDate": "2026-10-21",
+  "reviewDate": "2026-10-25",
   "rights": "See CONTENT-LICENSE.md; only rights we hold are licensed.",
   "assets": [
     {
@@ -259,6 +259,42 @@
       "bytes": 53136,
       "kind": "original-explanatory-diagram",
       "sourceOrScreenshot": "Existing operator-owned explanatory image reused with permission. Not a product UI, customer record or transaction screenshot."
+    },
+    {
+      "path": "assets/billing-activation-20261025/card-code-result-check.svg",
+      "sha256": "7b0ad3a212fb45163fb900255ea8ab84a8320d92391d79834f2483388c031477",
+      "bytes": 4021,
+      "kind": "original-explanatory-diagram",
+      "sourceOrScreenshot": "Operator-created explanatory diagram. Not an official UI, real customer record, completed order, payment receipt or success-rate evidence.",
+      "width": 1440,
+      "height": 850
+    },
+    {
+      "path": "assets/billing-activation-20261025/card-code-result-check.webp",
+      "sha256": "fb0662747b2cefb5c35170b8a25e2c4f412a693962d16748f97cd5a1267a24ef",
+      "bytes": 100232,
+      "kind": "original-explanatory-diagram",
+      "sourceOrScreenshot": "Operator-created explanatory diagram. Not an official UI, real customer record, completed order, payment receipt or success-rate evidence.",
+      "width": 1440,
+      "height": 850
+    },
+    {
+      "path": "assets/billing-activation-20261025/three-billing-routes.svg",
+      "sha256": "1efa4222db82ef196da32a0cc5e9243f6a8305117f3c35e3496f250fedb7faef",
+      "bytes": 3441,
+      "kind": "original-explanatory-diagram",
+      "sourceOrScreenshot": "Operator-created explanatory diagram. Not an official UI, real customer record, completed order, payment receipt or success-rate evidence.",
+      "width": 1440,
+      "height": 850
+    },
+    {
+      "path": "assets/billing-activation-20261025/three-billing-routes.webp",
+      "sha256": "aeef2d26ea9b76284f5926a6c4518a938586c707bb067c98e6586fa0e0a7a799",
+      "bytes": 83656,
+      "kind": "original-explanatory-diagram",
+      "sourceOrScreenshot": "Operator-created explanatory diagram. Not an official UI, real customer record, completed order, payment receipt or success-rate evidence.",
+      "width": 1440,
+      "height": 850
     }
   ]
 }
