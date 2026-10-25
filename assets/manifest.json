@@ -295,6 +295,42 @@
       "sourceOrScreenshot": "Operator-created explanatory diagram. Not an official UI, real customer record, completed order, payment receipt or success-rate evidence.",
       "width": 1440,
       "height": 850
+    },
+    {
+      "path": "assets/final-plan-20261025/purchase-risk-six-checks.svg",
+      "sha256": "7e9f6a9fd6da292ad25d4f2103c29358596199929d6648b11f1751e5a962b636",
+      "bytes": 2958,
+      "kind": "original-explanatory-diagram",
+      "sourceOrScreenshot": "Operator-created explanatory diagram. Not official UI, an actual customer/order, a verified coupon, platform approval or success-rate evidence.",
+      "width": 1440,
+      "height": 920
+    },
+    {
+      "path": "assets/final-plan-20261025/purchase-risk-six-checks.webp",
+      "sha256": "56ab9de6ad98ba9d063ab37c85904e8136a5672735961450b88631f7e2f8d6c4",
+      "bytes": 112338,
+      "kind": "original-explanatory-diagram",
+      "sourceOrScreenshot": "Operator-created explanatory diagram. Not official UI, an actual customer/order, a verified coupon, platform approval or success-rate evidence.",
+      "width": 1440,
+      "height": 920
+    },
+    {
+      "path": "assets/final-plan-20261025/codex-budget-decision.svg",
+      "sha256": "1c9bd1c273f5881a17364c7c542438d1ab7cf65739e22c23058cefc1b92ece3a",
+      "bytes": 2889,
+      "kind": "original-explanatory-diagram",
+      "sourceOrScreenshot": "Operator-created explanatory diagram. Not official UI, an actual customer/order, a verified coupon, platform approval or success-rate evidence.",
+      "width": 1440,
+      "height": 920
+    },
+    {
+      "path": "assets/final-plan-20261025/codex-budget-decision.webp",
+      "sha256": "d34db871004e33dbd0fab0f1034d06967b0c94ab6e1212186eabcb636af81106",
+      "bytes": 114328,
+      "kind": "original-explanatory-diagram",
+      "sourceOrScreenshot": "Operator-created explanatory diagram. Not official UI, an actual customer/order, a verified coupon, platform approval or success-rate evidence.",
+      "width": 1440,
+      "height": 920
     }
   ]
 }

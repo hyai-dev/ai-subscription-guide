@@ -38,32 +38,36 @@
       "topic": "codex-access",
       "canonical": "https://github.com/hyai-dev/ai-subscription-guide/blob/main/docs/02-codex-topup-guide.md",
       "publishedAt": "2026-10-14",
-      "reviewedAt": "2026-10-21",
+      "reviewedAt": "2026-10-25",
       "sources": [
         "https://learn.chatgpt.com/docs/auth",
         "https://learn.chatgpt.com/docs/pricing"
       ],
       "figures": [
         "assets/illustrated-20261018/renewal-v1.webp",
-        "assets/codex-ledgers-20261021/three-ledgers.webp"
+        "assets/codex-ledgers-20261021/three-ledgers.webp",
+        "assets/final-plan-20261025/codex-budget-decision.webp"
       ],
       "targets": [
         {
           "site": "payforgpt",
           "url": "https://payforgpt.com/codex",
-          "label": "PayForGPT Codex任务入口"
+          "label": "PayForGPT当前Codex账本指南"
         },
         {
           "site": "nano",
-          "url": "https://nano-banana.lol/codex",
-          "label": "Nano Banana Codex任务入口"
+          "url": "https://nano-banana.lol/blog/is-chatgpt-pro-worth-it-for-codex-users-2026#section-4-w3maei",
+          "label": "Nano Banana同周期用量预算"
         }
       ],
       "cluster": "Codex使用",
       "primaryQuery": "Codex怎么购买",
       "secondaryQueries": [
         "Codex登录方式区别",
-        "Codex额度不够怎么办"
+        "Codex额度不够怎么办",
+        "Codex 用量",
+        "Codex 月度预算",
+        "Codex需要升级Pro吗"
       ]
     },
     {
@@ -597,7 +601,10 @@
         "ChatGPT代充会封号吗",
         "ChatGPT免密代充安全吗",
         "ChatGPT Session JSON有风险吗",
-        "ChatGPT独享账号和共享账号区别"
+        "ChatGPT独享账号和共享账号区别",
+        "chatgpt代充靠谱吗",
+        "gpt plus代充安全吗",
+        "chatgpt永久会员值得吗"
       ],
       "keywordQueueRows": [
         48
@@ -605,35 +612,39 @@
       "websiteOwners": [
         {
           "site": "payforgpt",
-          "url": "https://payforgpt.com/ai-subscriptions/passwordless-recharge-credentials#account-safety-check"
+          "url": "https://payforgpt.com/trust"
         },
         {
           "site": "nano",
-          "url": "https://nano-banana.lol/ai-subscriptions/claim-checklist#no-ban-claim"
+          "url": "https://nano-banana.lol/blog/is-chatgpt-plus-recharge-safe#section-1-1n19wf7"
         }
       ],
       "canonical": "https://github.com/hyai-dev/ai-subscription-guide/blob/main/docs/16-account-risk-claims.md",
       "publishedAt": "2026-10-19",
-      "reviewedAt": "2026-10-19",
+      "reviewedAt": "2026-10-25",
       "sources": [
         "https://help.openai.com/en/articles/10471989-openai-account-sharing-policy",
         "https://cheatsheetseries.owasp.org/cheatsheets/Session_Management_Cheat_Sheet.html",
         "https://help.openai.com/en/articles/8304786-keeping-your-openai-account-secure",
-        "https://help.openai.com/en/articles/5112595-best-practices-for-api-key-safety"
+        "https://help.openai.com/en/articles/5112595-best-practices-for-api-key-safety",
+        "https://help.openai.com/en/articles/7947663-chatgpt-supported-countries",
+        "https://openai.com/policies/row-terms-of-use/",
+        "https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus"
       ],
       "figures": [
-        "assets/keyword-tasks-20261019/account-risk-check.webp"
+        "assets/keyword-tasks-20261019/account-risk-check.webp",
+        "assets/final-plan-20261025/purchase-risk-six-checks.webp"
       ],
       "targets": [
         {
           "site": "payforgpt",
-          "url": "https://payforgpt.com/ai-subscriptions/passwordless-recharge-credentials#account-safety-check",
-          "label": "PayForGPT对应任务帮助"
+          "url": "https://payforgpt.com/trust",
+          "label": "PayForGPT当前订单与售后边界"
         },
         {
           "site": "nano",
-          "url": "https://nano-banana.lol/ai-subscriptions/claim-checklist#no-ban-claim",
-          "label": "Nano Banana对应任务帮助"
+          "url": "https://nano-banana.lol/blog/is-chatgpt-plus-recharge-safe#section-1-1n19wf7",
+          "label": "Nano Banana个人与工作区购买方式比较"
         }
       ]
     },

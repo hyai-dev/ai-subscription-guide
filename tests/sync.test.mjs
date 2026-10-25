@@ -71,3 +71,27 @@ test('query ownership rejects duplicates and Markdown structures before README g
     assert.equal(loadCatalog(root).articles.length, baseline.articles.length);
   } finally { fs.rmSync(root, { recursive: true }); }
 });
+
+// Actual edited publications need labels that survive the sites' <=32-character filter.
+test('reviewed Codex and risk publications use unique bounded campaign labels', () => {
+  const labels = new Set();
+  for (const [topic, prefix] of [['codex-access', 'codex_check'], ['account-risk-claims', 'risk_check']]) {
+    for (const site of ['nano', 'payforgpt']) {
+      const origin = site === 'nano' ? 'https://nano-banana.lol' : 'https://payforgpt.com';
+      const u = new URL(trackedUrl(site, origin + '/blog/is-chatgpt-plus-recharge-safe#checks', topic));
+      const label = u.searchParams.get('utm_campaign');
+      assert.equal(label, `${prefix}_${site}`);
+      assert.ok(label.length <= 32 && /^[a-z0-9_]+$/.test(label));
+      assert.equal(u.origin, origin);
+      assert.equal(u.pathname, '/blog/is-chatgpt-plus-recharge-safe');
+      assert.equal(u.hash, '#checks');
+      assert.equal(u.searchParams.get('utm_source'), 'github');
+      assert.equal(u.searchParams.get('utm_medium'), 'referral');
+      assert.ok(!labels.has(label)); labels.add(label);
+    }
+  }
+  assert.equal(labels.size, 4);
+  assert.equal(new URL(trackedUrl('nano', 'https://nano-banana.lol/faq', 'billing-ledgers')).searchParams.get('utm_campaign'), 'ai_subscription_guide_billing_ledgers_nano');
+  assert.throws(() => trackedUrl('nano', 'https://example.com/faq', 'codex-access'));
+  assert.throws(() => trackedUrl('nano', 'https://nano-banana.lol/faq', 'account-risk-claims?x=1'));
+});

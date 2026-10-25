@@ -44,7 +44,7 @@
       "topic": "codex-access",
       "canonical": "https://github.com/hyai-dev/ai-subscription-guide/blob/main/docs/02-codex-topup-guide.md",
       "publishedAt": "2026-10-14",
-      "reviewedAt": "2026-10-21",
+      "reviewedAt": "2026-10-25",
       "sources": [
         "https://learn.chatgpt.com/docs/auth",
         "https://learn.chatgpt.com/docs/pricing"
@@ -57,29 +57,36 @@
         {
           "file": "assets/codex-ledgers-20261021/three-ledgers.webp",
           "sha256": "bd5067e75c09c73feb79ee9af64601d7d5f89fc2d95c00a1305bfee5670f60b0"
+        },
+        {
+          "file": "assets/final-plan-20261025/codex-budget-decision.webp",
+          "sha256": "d34db871004e33dbd0fab0f1034d06967b0c94ab6e1212186eabcb636af81106"
         }
       ],
       "targets": [
         {
           "site": "payforgpt",
           "url": "https://payforgpt.com/codex",
-          "label": "PayForGPT Codex任务入口",
-          "trackedUrl": "https://payforgpt.com/codex?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide_codex_access_payforgpt"
+          "label": "PayForGPT当前Codex账本指南",
+          "trackedUrl": "https://payforgpt.com/codex?utm_source=github&utm_medium=referral&utm_campaign=codex_check_payforgpt"
         },
         {
           "site": "nano",
-          "url": "https://nano-banana.lol/codex",
-          "label": "Nano Banana Codex任务入口",
-          "trackedUrl": "https://nano-banana.lol/codex?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide_codex_access_nano"
+          "url": "https://nano-banana.lol/blog/is-chatgpt-pro-worth-it-for-codex-users-2026#section-4-w3maei",
+          "label": "Nano Banana同周期用量预算",
+          "trackedUrl": "https://nano-banana.lol/blog/is-chatgpt-pro-worth-it-for-codex-users-2026?utm_source=github&utm_medium=referral&utm_campaign=codex_check_nano#section-4-w3maei"
         }
       ],
       "cluster": "Codex使用",
       "primaryQuery": "Codex怎么购买",
       "secondaryQueries": [
         "Codex登录方式区别",
-        "Codex额度不够怎么办"
+        "Codex额度不够怎么办",
+        "Codex 用量",
+        "Codex 月度预算",
+        "Codex需要升级Pro吗"
       ],
-      "sha256": "b7acb72709f742ec164ea275a1b23c0802bc55c97676b925d525f9aceddbb1f1",
+      "sha256": "ae18a223f1f76d48bb4e813725b5b6e496dfbd59e7b7928064bc27fe436ab2f8",
       "archive": "articles/codex-access-and-usage.md"
     },
     {
@@ -716,7 +723,10 @@
         "ChatGPT代充会封号吗",
         "ChatGPT免密代充安全吗",
         "ChatGPT Session JSON有风险吗",
-        "ChatGPT独享账号和共享账号区别"
+        "ChatGPT独享账号和共享账号区别",
+        "chatgpt代充靠谱吗",
+        "gpt plus代充安全吗",
+        "chatgpt永久会员值得吗"
       ],
       "keywordQueueRows": [
         48
@@ -724,43 +734,50 @@
       "websiteOwners": [
         {
           "site": "payforgpt",
-          "url": "https://payforgpt.com/ai-subscriptions/passwordless-recharge-credentials#account-safety-check"
+          "url": "https://payforgpt.com/trust"
         },
         {
           "site": "nano",
-          "url": "https://nano-banana.lol/ai-subscriptions/claim-checklist#no-ban-claim"
+          "url": "https://nano-banana.lol/blog/is-chatgpt-plus-recharge-safe#section-1-1n19wf7"
         }
       ],
       "canonical": "https://github.com/hyai-dev/ai-subscription-guide/blob/main/docs/16-account-risk-claims.md",
       "publishedAt": "2026-10-19",
-      "reviewedAt": "2026-10-19",
+      "reviewedAt": "2026-10-25",
       "sources": [
         "https://help.openai.com/en/articles/10471989-openai-account-sharing-policy",
         "https://cheatsheetseries.owasp.org/cheatsheets/Session_Management_Cheat_Sheet.html",
         "https://help.openai.com/en/articles/8304786-keeping-your-openai-account-secure",
-        "https://help.openai.com/en/articles/5112595-best-practices-for-api-key-safety"
+        "https://help.openai.com/en/articles/5112595-best-practices-for-api-key-safety",
+        "https://help.openai.com/en/articles/7947663-chatgpt-supported-countries",
+        "https://openai.com/policies/row-terms-of-use/",
+        "https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus"
       ],
       "figures": [
         {
           "file": "assets/keyword-tasks-20261019/account-risk-check.webp",
           "sha256": "fb7bc06842e6a256735f760b3ff00a8056d70b32de0ffcc7fceed5b4f0d37da9"
+        },
+        {
+          "file": "assets/final-plan-20261025/purchase-risk-six-checks.webp",
+          "sha256": "56ab9de6ad98ba9d063ab37c85904e8136a5672735961450b88631f7e2f8d6c4"
         }
       ],
       "targets": [
         {
           "site": "payforgpt",
-          "url": "https://payforgpt.com/ai-subscriptions/passwordless-recharge-credentials#account-safety-check",
-          "label": "PayForGPT对应任务帮助",
-          "trackedUrl": "https://payforgpt.com/ai-subscriptions/passwordless-recharge-credentials?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide_account_risk_claims_payforgpt#account-safety-check"
+          "url": "https://payforgpt.com/trust",
+          "label": "PayForGPT当前订单与售后边界",
+          "trackedUrl": "https://payforgpt.com/trust?utm_source=github&utm_medium=referral&utm_campaign=risk_check_payforgpt"
         },
         {
           "site": "nano",
-          "url": "https://nano-banana.lol/ai-subscriptions/claim-checklist#no-ban-claim",
-          "label": "Nano Banana对应任务帮助",
-          "trackedUrl": "https://nano-banana.lol/ai-subscriptions/claim-checklist?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide_account_risk_claims_nano#no-ban-claim"
+          "url": "https://nano-banana.lol/blog/is-chatgpt-plus-recharge-safe#section-1-1n19wf7",
+          "label": "Nano Banana个人与工作区购买方式比较",
+          "trackedUrl": "https://nano-banana.lol/blog/is-chatgpt-plus-recharge-safe?utm_source=github&utm_medium=referral&utm_campaign=risk_check_nano#section-1-1n19wf7"
         }
       ],
-      "sha256": "a06aa7ecbb924f14f35f04775463b384fef7e5c3be1beed8f2dae14e7dc4249e",
+      "sha256": "3be011c772e5c377ac6b01a085157799bc451198c6019a5c3afadcd77fa33205",
       "archive": "articles/account-risk-claims.md"
     },
     {
