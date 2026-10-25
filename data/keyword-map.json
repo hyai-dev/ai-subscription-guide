@@ -3,7 +3,7 @@
   "scope": "Editorial query-to-article map, with normalized exact duplicate queries rejected. These are assigned candidate queries, not verified search volume, rankings, traffic or all semantic variants.",
   "primaryArticleCount": 19,
   "topicClusterCount": 9,
-  "assignedQueryCount": 79,
+  "assignedQueryCount": 85,
   "owners": [
     {
       "id": "ip-network-information",
@@ -24,7 +24,10 @@
       "primaryQuery": "Codex怎么购买",
       "secondaryQueries": [
         "Codex登录方式区别",
-        "Codex额度不够怎么办"
+        "Codex额度不够怎么办",
+        "Codex 用量",
+        "Codex 月度预算",
+        "Codex需要升级Pro吗"
       ],
       "file": "docs/02-codex-topup-guide.md",
       "canonical": "https://github.com/hyai-dev/ai-subscription-guide/blob/main/docs/02-codex-topup-guide.md",
@@ -285,7 +288,10 @@
         "ChatGPT代充会封号吗",
         "ChatGPT免密代充安全吗",
         "ChatGPT Session JSON有风险吗",
-        "ChatGPT独享账号和共享账号区别"
+        "ChatGPT独享账号和共享账号区别",
+        "chatgpt代充靠谱吗",
+        "gpt plus代充安全吗",
+        "chatgpt永久会员值得吗"
       ],
       "file": "docs/16-account-risk-claims.md",
       "canonical": "https://github.com/hyai-dev/ai-subscription-guide/blob/main/docs/16-account-risk-claims.md",
@@ -295,11 +301,11 @@
       "websiteOwners": [
         {
           "site": "payforgpt",
-          "url": "https://payforgpt.com/ai-subscriptions/passwordless-recharge-credentials#account-safety-check"
+          "url": "https://payforgpt.com/trust"
         },
         {
           "site": "nano",
-          "url": "https://nano-banana.lol/ai-subscriptions/claim-checklist#no-ban-claim"
+          "url": "https://nano-banana.lol/blog/is-chatgpt-plus-recharge-safe#section-1-1n19wf7"
         }
       ]
     },

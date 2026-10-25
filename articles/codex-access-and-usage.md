@@ -1,8 +1,8 @@
-> 本文是[主稿](https://github.com/hyai-dev/ai-subscription-guide/blob/main/docs/02-codex-topup-guide.md)的稳定归档，由 PayForGPT 与 Nano Banana 内容运营方维护。原稿发表：2026-10-14；复核：2026-10-21。修订原稿后同步本文件，不按日期重复增加文章数。
+> 本文是[主稿](https://github.com/hyai-dev/ai-subscription-guide/blob/main/docs/02-codex-topup-guide.md)的稳定归档，由 PayForGPT 与 Nano Banana 内容运营方维护。原稿发表：2026-10-14；复核：2026-10-25。修订原稿后同步本文件，不按日期重复增加文章数。
 
 # Codex 购买前先核对：登录方式、当前可用功能与实际用量
 
-首次发布：2026-10-14；复核：2026-10-21。由 PayForGPT 与 Nano Banana 内容运营方按 OpenAI Docs 公开资料整理，没有执行真实登录、充值或模型测试。
+首次发布：2026-10-14；最近复核：2026-10-25。由 PayForGPT 与 Nano Banana 内容运营方按 OpenAI Docs 公开资料整理。我们运营下文两个商业站，链接不属于独立第三方推荐；没有执行真实登录、充值或模型测试。
 
 ## 30 秒先看结果
 
@@ -66,6 +66,46 @@
 
 可以先看[Codex 第一个小任务](../docs/07-codex-first-task.md)，用固定输入与预期练习验收，再决定是否购买。
 
+<a id="codex-monthly-budget-check"></a>
+
+## Codex用量不够，怎样决定等、补用量还是调整套餐？
+
+先分清是功能没开放、组织权限不足，还是某个用量确实耗尽。前两种，未必能靠多付一次钱解决。官方[用量与价格说明](https://learn.chatgpt.com/docs/pricing)建议查看本人用量面板；CLI可用时查看`/status`。当前额度、可购买选项和重置时间以自己的界面为准，不把别人的“能跑多少次”当预算依据。
+
+![Codex预算分三本账：订阅、适用额外credits和API项目账单；用同一币种合计月度成本，再比较等待缩小任务、补用量或调整套餐](../assets/final-plan-20261025/codex-budget-decision.webp)
+
+运营方原创解释图，不是官方用量界面、实际账单或回本证明。[可缩放SVG](../assets/final-plan-20261025/codex-budget-decision.svg)。
+
+| 目前确认的情况 | 先比较的选项 | 付款前多记一项 |
+| --- | --- | --- |
+| 当前功能可用，只是用量将到上限 | 等待重置，或收窄任务和输入材料 | 下个重置时间、任务能否分批完成 |
+| 本人界面提供适用的额外credits | 该选项的用途、价格和使用规则 | 它适用于哪个账本、完整新增成本；不要把会员卡密当作credits |
+| 连续多次遇到同一种用量限制 | 当前方案与其他可用方案的完整成本和功能 | 新账期、改档扣费和权益；不能仅凭5x/20x推固定产出 |
+| 使用API Key，报项目余额或限额 | 该API组织/项目的账单及管理员设置 | 本项目预算、用量和权限；不重复买ChatGPT月卡 |
+
+### 把总预算写在付款之前
+
+先选一个自己的记账币种，再逐项记录：**本月订阅支出＋额外用量支出＋实际使用的API费用＋尚未包含的税费/手续费**。已含在报价里的费用不要重复加；不同币种先记录来源和当次换算，未知的费用留空，不能按零元算。
+
+**合成例子：**你给本月AI工具定了300元上限，已确认支出260元，剩余40元。若新增支出预计60元，合计320元，就超出20元；这时可以延后不急的任务或重新分配预算。所有数字都是算账练习，不对应任何套餐、credits或商家报价，也没有实际付款。
+
+```text
+我这个月的总预算与记账币种：
+现在用ChatGPT登录还是API Key；对应的账本：
+已确认的订阅、额外用量、API和未含费用（分别列行）：
+待核费用及来源，不填0替代未知：
+当前限制名称、本人界面的重置时间或可选入口：
+不再花钱时，哪些任务仍能完成：
+增加支出后需要补足的具体需求：
+最终应付、下一账期和停止继续加购的上限：
+```
+
+本次改档的实际应付与下一账期续费请分开记录；同一期已经计入的费用不要再次相加。
+
+你也可以连续记录几次同类任务的耗时、返工、用量提示与人工接手情况。记录不是为了给自己凑一个“必须升级”的理由：如果多数任务能在现有功能内完成，就先用现有方案；如果卡在代码环境或工具权限，先处理环境和权限。本文没有固定任务数、节省时间比例或升级回本保证。
+
+需要核对会员、credits和API的区别，直接用[三类账单分流](../docs/18-membership-api-wallet.md)；遇到“不限量”“防封”承诺，看[购买风险的六项证据](../docs/16-account-risk-claims.md#recharge-risk-evidence)。这两篇是同一仓库的不同问题入口，不是新的付费商品。
+
 ## 第三步：确需购买时，比较完整条件
 
 核对商品、账号归属、交付对象、周期、币种税费、资格、原续费状态和售后。付款方式以实际结算页为准，不泛称所有渠道均支持微信或 USDT，也不由商家收款方式推导官方服务资格。
@@ -78,7 +118,7 @@
 
 - 访问问题：回本人账号与当前官方功能/权限说明核对。
 - 已扣款或续费失败：看[付款渠道与账单](../docs/05-payment-channels-and-billing-records.md)、[续费状态](../docs/06-renewal-and-price-comparison.md)。
-- 我们两站的任务入口：[PayForGPT Codex指南](https://payforgpt.com/codex?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide_codex_access_payforgpt)、[Nano Banana Codex指南](https://nano-banana.lol/codex?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide_codex_access_nano)。它们是我们运营的商家网站；是否购买、实际供给、支付和交付条件分别核对。
+- 我们两站的分工入口：[PayForGPT当前Codex账本指南](https://payforgpt.com/codex?utm_source=github&utm_medium=referral&utm_campaign=codex_check_payforgpt)、[Nano Banana同周期用量预算](https://nano-banana.lol/blog/is-chatgpt-pro-worth-it-for-codex-users-2026?utm_source=github&utm_medium=referral&utm_campaign=codex_check_nano#section-4-w3maei)。两站由同一运营方经营；PFG补充交易和激活，Nano补充选购预算。它们不是第三方独立推荐，原订单仍回原站点处理。
 
 ## 本次更正与来源
 
@@ -86,6 +126,8 @@
 
 2026-10-21重新读取[Authentication](https://learn.chatgpt.com/docs/auth)、[Pricing](https://learn.chatgpt.com/docs/pricing)，补充三账本分流、已填写案例与双站任务入口。原URL、首次发表日和旧图保留。本文不创建API key或调用API，不替代平台资格与账单规则。
 
+2026-10-25再次复核相同官方登录和用量来源，补等待/补用量/套餐调整的判断表、完整月度预算和空白记录；没有实测额度、价格或回本率。原稿路径与首次发表日不变。
+
 ---
 
-相关资料：[PayForGPT Codex任务入口](https://payforgpt.com/codex?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide_codex_access_payforgpt) · [Nano Banana Codex任务入口](https://nano-banana.lol/codex?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide_codex_access_nano)。链接指向我们运营的网站；商品、支付和交付条件以实际页面为准。
+相关资料：[PayForGPT当前Codex账本指南](https://payforgpt.com/codex?utm_source=github&utm_medium=referral&utm_campaign=codex_check_payforgpt) · [Nano Banana同周期用量预算](https://nano-banana.lol/blog/is-chatgpt-pro-worth-it-for-codex-users-2026?utm_source=github&utm_medium=referral&utm_campaign=codex_check_nano#section-4-w3maei)。链接指向我们运营的网站；商品、支付和交付条件以实际页面为准。

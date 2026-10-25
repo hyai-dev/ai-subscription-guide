@@ -22,13 +22,21 @@ export function localFile(relative, root = ROOT, prefix) {
   return real;
 }
 
+// Reviewed short labels fit the existing attribution privacy filter.
+// Other topics retain their historical publishing labels.
+const REVIEWED_CAMPAIGN_PREFIXES = Object.freeze({
+  'codex-access': 'codex_check',
+  'account-risk-claims': 'risk_check',
+});
+
 export function trackedUrl(site, target, topic) {
   if (!Object.hasOwn(SITE_ORIGINS, site) || !/^[a-z0-9-]+$/.test(topic)) throw new Error('Unknown site or topic');
   const u = new URL(target);
   if (u.origin !== SITE_ORIGINS[site] || u.username || u.password) throw new Error('Target must belong to the selected site');
   u.searchParams.set('utm_source', 'github');
   u.searchParams.set('utm_medium', 'referral');
-  u.searchParams.set('utm_campaign', `ai_subscription_guide_${topic.replaceAll('-', '_')}_${site}`);
+  const prefix = REVIEWED_CAMPAIGN_PREFIXES[topic];
+  u.searchParams.set('utm_campaign', prefix ? `${prefix}_${site}` : `ai_subscription_guide_${topic.replaceAll('-', '_')}_${site}`);
   return u.href;
 }
 
