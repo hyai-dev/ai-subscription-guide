@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="850" viewBox="0 0 1440 850" role="img" aria-labelledby="title desc">
+  <title id="title">拿到卡密以后，按五个检查点确认结果</title>
+  <desc id="desc">原订单、实际交付材料、指定兑换入口、本人目标账号、实际套餐及周期逐项核对。材料未收到先查原订单；兑换失败回原商家；提示成功仍是Free先查账号和原渠道，不重复付款。</desc>
+  <defs>
+    <style>text{font-family:"Noto Sans CJK SC","PingFang SC","Microsoft YaHei",sans-serif;fill:#142b38}.title{font-size:48px;font-weight:700}.label{font-size:29px;font-weight:700}.body{font-size:24px}.small{font-size:22px;fill:#48616c}.note{font-size:26px;font-weight:600}</style>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#536e7a"/></marker>
+  </defs>
+  <rect width="1440" height="850" rx="28" fill="#f5f9fa"/>
+  <text class="small" x="60" y="62">自助兑换核对 · 原创解释图</text>
+  <text class="title" x="60" y="130">卡密已收到，会员就一定生效了吗？</text>
+  <text class="body" x="60" y="185">这五个检查点独立成立；前一项完成，不自动证明后一项成功。</text>
+  <g>
+    <rect x="60" y="250" width="240" height="140" rx="18" fill="#dfeef0" stroke="#3f7782" stroke-width="2"/>
+    <text class="label" x="90" y="302">1. 原订单</text><text class="body" x="90" y="350">付款记录</text>
+    <rect x="330" y="250" width="240" height="140" rx="18" fill="#e9e4f7" stroke="#756096" stroke-width="2"/>
+    <text class="label" x="360" y="302">2. 实际交付</text><text class="body" x="360" y="350">卡密或材料</text>
+    <rect x="600" y="250" width="240" height="140" rx="18" fill="#e9e4f7" stroke="#756096" stroke-width="2"/>
+    <text class="label" x="630" y="302">3. 指定兑换</text><text class="body" x="630" y="350">反馈与目标</text>
+    <rect x="870" y="250" width="240" height="140" rx="18" fill="#dfeef0" stroke="#3f7782" stroke-width="2"/>
+    <text class="label" x="900" y="302">4. 本人账号</text><text class="body" x="900" y="350">账号和工作区</text>
+    <rect x="1140" y="250" width="240" height="140" rx="18" fill="#f5ead9" stroke="#987245" stroke-width="2"/>
+    <text class="label" x="1170" y="302">5. 实际权益</text><text class="body" x="1170" y="350">套餐和周期</text>
+    <path d="M303 320H321 M573 320H591 M843 320H861 M1113 320H1131" fill="none" stroke="#536e7a" stroke-width="3" marker-end="url(#arrow)"/>
+  </g>
+  <g>
+    <rect x="60" y="440" width="410" height="155" rx="18" fill="white" stroke="#d0dde1" stroke-width="2"/>
+    <text class="label" x="88" y="490">没有收到材料</text><text class="body" x="88" y="535">先查原订单与交付记录</text><text class="small" x="88" y="570">不重新下单来验证</text>
+    <rect x="515" y="440" width="410" height="155" rx="18" fill="white" stroke="#d0dde1" stroke-width="2"/>
+    <text class="label" x="543" y="490">兑换提示失败</text><text class="body" x="543" y="535">记录脱敏错误，回原商家</text><text class="small" x="543" y="570">不换陌生入口连续尝试</text>
+    <rect x="970" y="440" width="410" height="155" rx="18" fill="white" stroke="#d0dde1" stroke-width="2"/>
+    <text class="label" x="998" y="490">提示成功，仍是 Free</text><text class="body" x="998" y="535">核对目标账号与原渠道</text><text class="small" x="998" y="570">不只看商家“已发货”</text>
+  </g>
+  <rect x="60" y="645" width="1320" height="112" rx="16" fill="#fff4e4"/>
+  <text class="note" x="88" y="690">兑换若需必要授权，只按原订单说明在指定入口操作。</text>
+  <text class="body" x="88" y="730">普通聊天和公开求助不发送密码、验证码、完整卡密或 Session。</text>
+  <text class="small" x="60" y="807">解释图与检查清单 · 非真实订单、平台界面或处理时效保证</text>
+</svg>

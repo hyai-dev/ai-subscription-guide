@@ -559,29 +559,42 @@
       "id": "paid-but-still-free",
       "file": "docs/14-paid-but-still-free.md",
       "title": "ChatGPT已付款仍显示Free：分开核对付款、交付与权益",
-      "topic": "paid-but-still-free",
+      "topic": "activation-k97-k98",
       "cluster": "续费与交付",
       "primaryQuery": "ChatGPT充值后依然显示Free",
       "secondaryQueries": [
         "ChatGPT已扣款没有Plus",
         "ChatGPT已发货没升级",
         "ChatGPT恢复购买还是Free",
-        "ChatGPT充值到账怎么确认"
+        "ChatGPT充值到账怎么确认",
+        "ChatGPT自助充值怎么核对激活",
+        "ChatGPT代升级要授权吗"
       ],
-      "keywordQueueRows": [],
+      "keywordQueueRows": [
+        97,
+        98
+      ],
       "websiteOwners": [
         {
-          "site": "payforgpt",
-          "url": "https://payforgpt.com/how-to/payment-success-not-delivered"
+          "site": "nano",
+          "url": "https://nano-banana.lol/guide"
         },
         {
           "site": "nano",
-          "url": "https://nano-banana.lol/how-to/payment-success-not-delivered"
+          "url": "https://nano-banana.lol/ai-subscriptions/chatgpt-plus-recharge"
+        },
+        {
+          "site": "payforgpt",
+          "url": "https://payforgpt.com/guide"
+        },
+        {
+          "site": "payforgpt",
+          "url": "https://payforgpt.com/how-to/recharge-chatgpt-plus"
         }
       ],
       "canonical": "https://github.com/hyai-dev/ai-subscription-guide/blob/main/docs/14-paid-but-still-free.md",
       "publishedAt": "2026-10-19",
-      "reviewedAt": "2026-10-21",
+      "reviewedAt": "2026-10-25",
       "sources": [
         "https://help.openai.com/en/articles/9135236",
         "https://help.openai.com/en/articles/20001043-how-do-i-avoid-being-charged-twice-if-i-subscribe-to-chatgpt-on-ios-android-and-the-web",
@@ -601,23 +614,39 @@
         {
           "file": "assets/activation-check-20261021/figure-ticket.webp",
           "sha256": "9f6139da45fa815a808d8807f10c7001dd15b0953bcb1700197e96ce0c801bb2"
+        },
+        {
+          "file": "assets/billing-activation-20261025/card-code-result-check.webp",
+          "sha256": "fb0662747b2cefb5c35170b8a25e2c4f412a693962d16748f97cd5a1267a24ef"
         }
       ],
       "targets": [
         {
-          "site": "payforgpt",
-          "url": "https://payforgpt.com/how-to/payment-success-not-delivered",
-          "label": "PayForGPT对应任务帮助",
-          "trackedUrl": "https://payforgpt.com/how-to/payment-success-not-delivered?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide_paid_but_still_free_payforgpt"
+          "site": "nano",
+          "url": "https://nano-banana.lol/guide",
+          "label": "Nano自助激活路径",
+          "trackedUrl": "https://nano-banana.lol/guide?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide_activation_k97_k98_nano"
         },
         {
           "site": "nano",
-          "url": "https://nano-banana.lol/how-to/payment-success-not-delivered",
-          "label": "Nano Banana对应任务帮助",
-          "trackedUrl": "https://nano-banana.lol/how-to/payment-success-not-delivered?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide_paid_but_still_free_nano"
+          "url": "https://nano-banana.lol/ai-subscriptions/chatgpt-plus-recharge",
+          "label": "Nano代升级条件核对",
+          "trackedUrl": "https://nano-banana.lol/ai-subscriptions/chatgpt-plus-recharge?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide_activation_k97_k98_nano"
+        },
+        {
+          "site": "payforgpt",
+          "url": "https://payforgpt.com/guide",
+          "label": "PayForGPT自助激活路径",
+          "trackedUrl": "https://payforgpt.com/guide?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide_activation_k97_k98_payforgpt"
+        },
+        {
+          "site": "payforgpt",
+          "url": "https://payforgpt.com/how-to/recharge-chatgpt-plus",
+          "label": "PayForGPT代升级条件核对",
+          "trackedUrl": "https://payforgpt.com/how-to/recharge-chatgpt-plus?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide_activation_k97_k98_payforgpt"
         }
       ],
-      "sha256": "625613d006a619929b1f5d97eb3714c351084f693200feb66de1bb25190ed9ad",
+      "sha256": "b2bc5a05ab5fb6e4a32202b6493034bf94e4194c71ada0ce35c824d71f6be6d4",
       "archive": "articles/paid-but-still-free.md"
     },
     {
@@ -794,58 +823,62 @@
       "id": "membership-api-wallet",
       "file": "docs/18-membership-api-wallet.md",
       "title": "ChatGPT会员、API余额和用量点数：购买前找对账单",
-      "topic": "membership-api-wallet",
+      "topic": "billing-k96",
       "cluster": "选购与账单",
       "primaryQuery": "ChatGPT会员和API余额区别",
       "secondaryQueries": [
         "ChatGPT Plus包含API吗",
         "ChatGPT充值充到哪里",
         "ChatGPT钱包余额等于会员吗",
-        "ChatGPT点数和订阅区别"
+        "ChatGPT点数和订阅区别",
+        "OpenAI额度充值",
+        "Codex用量不足该充哪里"
       ],
-      "keywordQueueRows": [],
+      "keywordQueueRows": [
+        96
+      ],
       "websiteOwners": [
         {
-          "site": "payforgpt",
-          "url": "https://payforgpt.com/ai-subscriptions/chatgpt-payment-channels-guide"
+          "site": "nano",
+          "url": "https://nano-banana.lol/ai-subscriptions/openai-api-model-access-billing-errors"
         },
         {
-          "site": "nano",
-          "url": "https://nano-banana.lol/ai-subscriptions/alipay-wechat-pay"
+          "site": "payforgpt",
+          "url": "https://payforgpt.com/how-to/chatgpt-subscription-vs-api-billing"
         }
       ],
       "canonical": "https://github.com/hyai-dev/ai-subscription-guide/blob/main/docs/18-membership-api-wallet.md",
       "publishedAt": "2026-10-19",
-      "reviewedAt": "2026-10-19",
+      "reviewedAt": "2026-10-25",
       "sources": [
-        "https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus",
-        "https://help.openai.com/en/articles/20001508-using-your-chatgpt-wallet-balance",
         "https://learn.chatgpt.com/docs/auth",
-        "https://learn.chatgpt.com/docs/pricing",
-        "https://developers.openai.com/siwc/token-sharing-open-source",
-        "https://developers.openai.com/siwc/token-sharing-open-source/profiles-and-sessions"
+        "https://learn.chatgpt.com/docs/pricing"
       ],
       "figures": [
         {
           "file": "assets/keyword-tasks-20261019/billing-object-map.webp",
           "sha256": "be4af033e2a13dab6b1e999c2ff37d56117c03b464ae08375c07a4aca9968eae"
+        },
+        {
+          "file": "assets/billing-activation-20261025/three-billing-routes.webp",
+          "sha256": "aeef2d26ea9b76284f5926a6c4518a938586c707bb067c98e6586fa0e0a7a799"
         }
       ],
       "targets": [
         {
-          "site": "payforgpt",
-          "url": "https://payforgpt.com/ai-subscriptions/chatgpt-payment-channels-guide",
-          "label": "PayForGPT对应任务帮助",
-          "trackedUrl": "https://payforgpt.com/ai-subscriptions/chatgpt-payment-channels-guide?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide_membership_api_wallet_payforgpt"
+          "site": "nano",
+          "url": "https://nano-banana.lol/ai-subscriptions/openai-api-model-access-billing-errors",
+          "label": "Nano额度与API错误核对",
+          "trackedUrl": "https://nano-banana.lol/ai-subscriptions/openai-api-model-access-billing-errors?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide_billing_k96_nano"
         },
         {
-          "site": "nano",
-          "url": "https://nano-banana.lol/ai-subscriptions/alipay-wechat-pay",
-          "label": "Nano Banana对应任务帮助",
-          "trackedUrl": "https://nano-banana.lol/ai-subscriptions/alipay-wechat-pay?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide_membership_api_wallet_nano"
+          "site": "payforgpt",
+          "url": "https://payforgpt.com/how-to/chatgpt-subscription-vs-api-billing",
+          "label": "PayForGPT额度充值账单分流",
+          "trackedUrl": "https://payforgpt.com/how-to/chatgpt-subscription-vs-api-billing?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide_billing_k96_payforgpt"
         }
       ],
-      "sha256": "a8548b081fc5b2f097731bec680559c012986e990050f923bd8348da821698b2",
+      "sha256": "093a77d2dc4ba2bfbc954dc31aa48c6aef8e213e5ba6701e2a74a86702466a20",
       "archive": "articles/membership-api-wallet.md"
     },
     {

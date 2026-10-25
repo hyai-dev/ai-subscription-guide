@@ -465,29 +465,42 @@
       "id": "paid-but-still-free",
       "file": "docs/14-paid-but-still-free.md",
       "title": "ChatGPT已付款仍显示Free：分开核对付款、交付与权益",
-      "topic": "paid-but-still-free",
+      "topic": "activation-k97-k98",
       "cluster": "续费与交付",
       "primaryQuery": "ChatGPT充值后依然显示Free",
       "secondaryQueries": [
         "ChatGPT已扣款没有Plus",
         "ChatGPT已发货没升级",
         "ChatGPT恢复购买还是Free",
-        "ChatGPT充值到账怎么确认"
+        "ChatGPT充值到账怎么确认",
+        "ChatGPT自助充值怎么核对激活",
+        "ChatGPT代升级要授权吗"
       ],
-      "keywordQueueRows": [],
+      "keywordQueueRows": [
+        97,
+        98
+      ],
       "websiteOwners": [
         {
-          "site": "payforgpt",
-          "url": "https://payforgpt.com/how-to/payment-success-not-delivered"
+          "site": "nano",
+          "url": "https://nano-banana.lol/guide"
         },
         {
           "site": "nano",
-          "url": "https://nano-banana.lol/how-to/payment-success-not-delivered"
+          "url": "https://nano-banana.lol/ai-subscriptions/chatgpt-plus-recharge"
+        },
+        {
+          "site": "payforgpt",
+          "url": "https://payforgpt.com/guide"
+        },
+        {
+          "site": "payforgpt",
+          "url": "https://payforgpt.com/how-to/recharge-chatgpt-plus"
         }
       ],
       "canonical": "https://github.com/hyai-dev/ai-subscription-guide/blob/main/docs/14-paid-but-still-free.md",
       "publishedAt": "2026-10-19",
-      "reviewedAt": "2026-10-21",
+      "reviewedAt": "2026-10-25",
       "sources": [
         "https://help.openai.com/en/articles/9135236",
         "https://help.openai.com/en/articles/20001043-how-do-i-avoid-being-charged-twice-if-i-subscribe-to-chatgpt-on-ios-android-and-the-web",
@@ -498,18 +511,29 @@
       "figures": [
         "assets/keyword-tasks-20261019/paid-free-states.webp",
         "assets/activation-check-20261021/figure-subscription.webp",
-        "assets/activation-check-20261021/figure-ticket.webp"
+        "assets/activation-check-20261021/figure-ticket.webp",
+        "assets/billing-activation-20261025/card-code-result-check.webp"
       ],
       "targets": [
         {
-          "site": "payforgpt",
-          "url": "https://payforgpt.com/how-to/payment-success-not-delivered",
-          "label": "PayForGPT对应任务帮助"
+          "site": "nano",
+          "url": "https://nano-banana.lol/guide",
+          "label": "Nano自助激活路径"
         },
         {
           "site": "nano",
-          "url": "https://nano-banana.lol/how-to/payment-success-not-delivered",
-          "label": "Nano Banana对应任务帮助"
+          "url": "https://nano-banana.lol/ai-subscriptions/chatgpt-plus-recharge",
+          "label": "Nano代升级条件核对"
+        },
+        {
+          "site": "payforgpt",
+          "url": "https://payforgpt.com/guide",
+          "label": "PayForGPT自助激活路径"
+        },
+        {
+          "site": "payforgpt",
+          "url": "https://payforgpt.com/how-to/recharge-chatgpt-plus",
+          "label": "PayForGPT代升级条件核对"
         }
       ]
     },
@@ -666,50 +690,51 @@
       "id": "membership-api-wallet",
       "file": "docs/18-membership-api-wallet.md",
       "title": "ChatGPT会员、API余额和用量点数：购买前找对账单",
-      "topic": "membership-api-wallet",
+      "topic": "billing-k96",
       "cluster": "选购与账单",
       "primaryQuery": "ChatGPT会员和API余额区别",
       "secondaryQueries": [
         "ChatGPT Plus包含API吗",
         "ChatGPT充值充到哪里",
         "ChatGPT钱包余额等于会员吗",
-        "ChatGPT点数和订阅区别"
+        "ChatGPT点数和订阅区别",
+        "OpenAI额度充值",
+        "Codex用量不足该充哪里"
       ],
-      "keywordQueueRows": [],
+      "keywordQueueRows": [
+        96
+      ],
       "websiteOwners": [
         {
-          "site": "payforgpt",
-          "url": "https://payforgpt.com/ai-subscriptions/chatgpt-payment-channels-guide"
+          "site": "nano",
+          "url": "https://nano-banana.lol/ai-subscriptions/openai-api-model-access-billing-errors"
         },
         {
-          "site": "nano",
-          "url": "https://nano-banana.lol/ai-subscriptions/alipay-wechat-pay"
+          "site": "payforgpt",
+          "url": "https://payforgpt.com/how-to/chatgpt-subscription-vs-api-billing"
         }
       ],
       "canonical": "https://github.com/hyai-dev/ai-subscription-guide/blob/main/docs/18-membership-api-wallet.md",
       "publishedAt": "2026-10-19",
-      "reviewedAt": "2026-10-19",
+      "reviewedAt": "2026-10-25",
       "sources": [
-        "https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus",
-        "https://help.openai.com/en/articles/20001508-using-your-chatgpt-wallet-balance",
         "https://learn.chatgpt.com/docs/auth",
-        "https://learn.chatgpt.com/docs/pricing",
-        "https://developers.openai.com/siwc/token-sharing-open-source",
-        "https://developers.openai.com/siwc/token-sharing-open-source/profiles-and-sessions"
+        "https://learn.chatgpt.com/docs/pricing"
       ],
       "figures": [
-        "assets/keyword-tasks-20261019/billing-object-map.webp"
+        "assets/keyword-tasks-20261019/billing-object-map.webp",
+        "assets/billing-activation-20261025/three-billing-routes.webp"
       ],
       "targets": [
         {
-          "site": "payforgpt",
-          "url": "https://payforgpt.com/ai-subscriptions/chatgpt-payment-channels-guide",
-          "label": "PayForGPT对应任务帮助"
+          "site": "nano",
+          "url": "https://nano-banana.lol/ai-subscriptions/openai-api-model-access-billing-errors",
+          "label": "Nano额度与API错误核对"
         },
         {
-          "site": "nano",
-          "url": "https://nano-banana.lol/ai-subscriptions/alipay-wechat-pay",
-          "label": "Nano Banana对应任务帮助"
+          "site": "payforgpt",
+          "url": "https://payforgpt.com/how-to/chatgpt-subscription-vs-api-billing",
+          "label": "PayForGPT额度充值账单分流"
         }
       ]
     },

@@ -1,8 +1,8 @@
-> 本文是[主稿](https://github.com/hyai-dev/ai-subscription-guide/blob/main/docs/14-paid-but-still-free.md)的稳定归档，由 PayForGPT 与 Nano Banana 内容运营方维护。原稿发表：2026-10-19；复核：2026-10-21。修订原稿后同步本文件，不按日期重复增加文章数。
+> 本文是[主稿](https://github.com/hyai-dev/ai-subscription-guide/blob/main/docs/14-paid-but-still-free.md)的稳定归档，由 PayForGPT 与 Nano Banana 内容运营方维护。原稿发表：2026-10-19；复核：2026-10-25。修订原稿后同步本文件，不按日期重复增加文章数。
 
 # ChatGPT已付款仍显示Free：分开核对付款、交付与权益
 
-首次发布：2026-10-19；最近复核：2026-10-21。由 PayForGPT 与 Nano Banana 内容运营方整理。
+首次发布：2026-10-19；最近复核：2026-10-25。由 PayForGPT 与 Nano Banana 内容运营方整理。两站均是独立商家，自有站链接不属于独立第三方推荐；本文不接收卡密、账号授权或付款。
 
 ## 别把“付了钱”和“买在这个账号”合成一个判断
 
@@ -46,6 +46,31 @@
 
 如果是官方直接购买，没有商家卡密或兑换步骤，就按该渠道实际流程跳过不适用项，不人为制造一个“必须有卡密”的环节。
 
+<a id="card-code-activation-check"></a>
+
+## 卡密收到后，怎样完成自助激活而不漏一步？
+
+如果实际买的是“发兑换卡密，按指引自行激活”的商品，商家发货只是交付了材料。下面检查的是从材料到权益的路径，不是替你的账号执行兑换。
+
+![原订单、交付材料、指定兑换、本人账号、套餐周期五个检查点，以及未交付、兑换失败、仍为Free三个处理分支](../assets/billing-activation-20261025/card-code-result-check.webp)
+
+运营方原创解释图，非真实订单或成功率证明。[可缩放SVG](../assets/billing-activation-20261025/card-code-result-check.svg)。
+
+1. **从原订单取材料。** 使用原下单邮箱、订单号和查单密码进入受保护的订单页；确认商品与交付内容。不要把完整卡密或查单密码贴进公开评论。
+2. **先读适用条件。** 原有套餐、原订阅渠道、账号与地区条件、有效期起算及售后，按这件商品逐项确认。看到“月卡”不能自行理解成所有账号统一再延长30天。
+3. **只从原订单进入兑换。** 核对原订单指引的地址、商品及目标账号后，再提供该流程明确需要的材料。不要在陌生“补单/激活”页面尝试。
+4. **授权需求先解释再操作。** 部分商品确需 Session/Token 等授权时，应由该商品在指定兑换入口说明用途和处理方，再由本人决定操作；这不等于全站“绝不需要授权”，也不等于普通客服聊天可以索取密码、邮箱验证码或恢复码。
+5. **回到目标账号核对结果。** 兑换反馈、本人账号/工作区、实际套餐与周期要对应同一笔约定。只有卡密、只有“已发货”、只有成功提示，都不能替代完整核对。
+
+| 做到哪里停住了 | 先保存什么 | 找谁处理 |
+| --- | --- | --- |
+| 原订单没有交付材料 | 原订单状态与缺少哪项材料 | 原商家订单支持，不重新付款 |
+| 指定入口提示卡密/条件错误 | 错误原文的脱敏版本、商品和操作阶段 | 原商家核对，不在多站连续试卡密 |
+| 兑换提示成功，仍为Free | 正确账号/工作区、套餐显示、对应周期差异 | 按原渠道和商品约定处理，不把刷新或清缓存当到账证据 |
+| 已有Plus，看不出本次续费 | 本次订单和原周期/原渠道记录 | 先核对下节的续费条件，不重复购买验证 |
+
+这些步骤不把商家卡密认定成 OpenAI 官方礼品卡，也不表示我们已验证你的会员。与原购买无关的平台看不到这笔第三方订单，应回原处理方。
+
 <a id="renewal-check"></a>
 
 ## 已经是 Plus，怎么确认这笔续费生效？
@@ -79,7 +104,7 @@
 
 这里要分别确认 **Apple 购买账户**和**当时登录的 ChatGPT 账号**。同一部手机或同一个 Apple ID，不代表当前所有 ChatGPT 账号都获得这份订阅。先找回原来购买时的 ChatGPT 账号；App 中的“恢复购买”用于核对原来的购买，不是把订阅搬到另一个账号。
 
-[OpenAI的账号关联排查](https://help.openai.com/en/articles/20001056-why-am-i-seeing-a-message-that-my-subscription-is-associated-with-another-account)与[恢复App Store购买说明](https://help.openai.com/en/articles/8346573-restoring-a-chatgpt-subscription-purchased-in-the-apple-app-store)给出相应支持路径。账号无法找回、收据与权益不符时，联系原收费方或官方支持；不要在第三方页面粘贴购买凭证、会话或验证码。
+[OpenAI的账号关联排查](https://help.openai.com/en/articles/20001056-why-am-i-seeing-a-message-that-my-subscription-is-associated-with-another-account)与[恢复App Store购买说明](https://help.openai.com/en/articles/8346573-restoring-a-chatgpt-subscription-purchased-in-the-apple-app-store)给出相应支持路径。账号无法找回、收据与权益不符时，联系原收费方或官方支持；不要在陌生第三方页面或公开求助中粘贴购买凭证、会话或验证码。
 
 ### 完整示例一：Apple有订阅，当前ChatGPT仍是Free
 
@@ -117,7 +142,7 @@
 
 ![先核对订单、再明确缺少的证据并回原处理方跟进的工单示意](../assets/activation-check-20261021/figure-ticket.webp)
 
-图：运营方自有流程图，不是真实客服对话或处理时效承诺。第三方卡密和商家交付先找原商家；官方直接购买的账号或收费差异按原渠道、官方支持路径处理。客服指导操作不代表可以索取你的账号密码、完整卡密、会话凭证或验证码。
+图：运营方自有流程图，不是真实客服对话或处理时效承诺。第三方卡密和商家交付先找原商家；官方直接购买的账号或收费差异按原渠道、官方支持路径处理。普通聊天与公开求助不发送账号密码、完整卡密、会话凭证或验证码；确需兑换材料的，在原订单指定入口按说明提交，不把两种场景混在一起。
 
 公开求助时只写状态与脱敏错误。确需订单号、收据等核对材料，应按原渠道受保护的支持流程提交，不发到公开评论、GitHub Issue 或陌生验证页面。
 
@@ -147,8 +172,15 @@
 
 ## 原商家订单的后续帮助
 
-若原订单来自本仓运营方，可继续查阅 [PayForGPT原订单排查](https://payforgpt.com/how-to/payment-success-not-delivered?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide_paid_but_still_free_payforgpt) 或 [Nano Banana原订单排查](https://nano-banana.lol/how-to/payment-success-not-delivered?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide_paid_but_still_free_nano)。其他渠道购买请回原收款方；这些是运营方自有帮助页，不能代替原渠道支持或证明任何订单成功。
+若原订单来自本仓运营方，可按自己遇到的问题进入对应说明；其他渠道购买请回原收款方：
+
+| 原商家 | 卡密购买到激活的自助路径 | 购买前的代升级条件核对 |
+| --- | --- | --- |
+| Nano Banana | [自助充值的起点与原订单](https://nano-banana.lol/guide?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide_activation_k97_k98_nano) | [代升级交付与必要授权](https://nano-banana.lol/ai-subscriptions/chatgpt-plus-recharge?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide_activation_k97_k98_nano) |
+| PayForGPT | [购买、查卡密和自助激活](https://payforgpt.com/guide?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide_activation_k97_k98_payforgpt) | [代升级适用条件与交付对象](https://payforgpt.com/how-to/recharge-chatgpt-plus?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide_activation_k97_k98_payforgpt) |
+
+这些是同一运营方维护的帮助页，带主题与站点来源标记；不代表独立推荐、已产生访问或任何订单成功。本文新增的是检查流程与图解，没有查询真实订单、提交授权或完成兑换。
 
 ---
 
-相关资料：[PayForGPT对应任务帮助](https://payforgpt.com/how-to/payment-success-not-delivered?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide_paid_but_still_free_payforgpt) · [Nano Banana对应任务帮助](https://nano-banana.lol/how-to/payment-success-not-delivered?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide_paid_but_still_free_nano)。链接指向我们运营的网站；商品、支付和交付条件以实际页面为准。
+相关资料：[Nano自助激活路径](https://nano-banana.lol/guide?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide_activation_k97_k98_nano) · [Nano代升级条件核对](https://nano-banana.lol/ai-subscriptions/chatgpt-plus-recharge?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide_activation_k97_k98_nano) · [PayForGPT自助激活路径](https://payforgpt.com/guide?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide_activation_k97_k98_payforgpt) · [PayForGPT代升级条件核对](https://payforgpt.com/how-to/recharge-chatgpt-plus?utm_source=github&utm_medium=referral&utm_campaign=ai_subscription_guide_activation_k97_k98_payforgpt)。链接指向我们运营的网站；商品、支付和交付条件以实际页面为准。
