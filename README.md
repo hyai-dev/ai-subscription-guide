@@ -7,6 +7,7 @@
 | 现在要解决什么 | 建议阅读顺序 |
 | --- | --- |
 | 选方案、确认买的是什么 | [平台怎么选](docs/15-provider-selection.md) → [会员、Codex与API账单分流](docs/18-membership-api-wallet.md) → [购买资格](docs/03-plus-without-card.md) |
+| 优惠码无效、想确认本单实付 | 两站自有延伸教程：[Nano Banana 优惠券使用与结账核对](https://nano-banana.lol/ai-subscriptions/ai-membership-coupon-guide?utm_source=github&utm_medium=referral&utm_campaign=coupon_check_20261029) · [PayForGPT 优惠码与订单实付检查](https://payforgpt.com/ai-subscriptions/ai-membership-coupon-check?utm_source=github&utm_medium=referral&utm_campaign=coupon_check_20261029) |
 | 无法绑卡、付款或续费异常 | [国内信用卡条件](docs/11-domestic-card-payment.md) → [绑卡失败分流](docs/12-card-binding-failed.md) → [原续费状态](docs/06-renewal-and-price-comparison.md) |
 | 忘记查单密码、换设备找不到卡密 | [原商家邮箱验证与人工找回分流](docs/13-support-ticket-query.md#cross-device-order-recovery) |
 | 已经付款，想查交付和权益 | [已付仍是Free](docs/14-paid-but-still-free.md) → [工单与客服模板](docs/13-support-ticket-query.md) → [账号材料](docs/04-account-credentials-and-order-evidence.md) |
