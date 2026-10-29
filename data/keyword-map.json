@@ -3,7 +3,7 @@
   "scope": "Editorial query-to-article map, with normalized exact duplicate queries rejected. These are assigned candidate queries, not verified search volume, rankings, traffic or all semantic variants.",
   "primaryArticleCount": 19,
   "topicClusterCount": 9,
-  "assignedQueryCount": 85,
+  "assignedQueryCount": 88,
   "owners": [
     {
       "id": "ip-network-information",
@@ -198,7 +198,10 @@
         "ChatGPT代充售后怎么联系",
         "ChatGPT订单查不到怎么办",
         "ChatGPT充值工单需要什么材料",
-        "ChatGPT客服核单要发什么"
+        "ChatGPT客服核单要发什么",
+        "ChatGPT查单密码忘记了",
+        "ChatGPT换设备找不到订单",
+        "ChatGPT原邮箱验证找回订单"
       ],
       "file": "docs/13-support-ticket-query.md",
       "canonical": "https://github.com/hyai-dev/ai-subscription-guide/blob/main/docs/13-support-ticket-query.md",

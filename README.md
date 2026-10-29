@@ -8,6 +8,7 @@
 | --- | --- |
 | 选方案、确认买的是什么 | [平台怎么选](docs/15-provider-selection.md) → [会员、Codex与API账单分流](docs/18-membership-api-wallet.md) → [购买资格](docs/03-plus-without-card.md) |
 | 无法绑卡、付款或续费异常 | [国内信用卡条件](docs/11-domestic-card-payment.md) → [绑卡失败分流](docs/12-card-binding-failed.md) → [原续费状态](docs/06-renewal-and-price-comparison.md) |
+| 忘记查单密码、换设备找不到卡密 | [原商家邮箱验证与人工找回分流](docs/13-support-ticket-query.md#cross-device-order-recovery) |
 | 已经付款，想查交付和权益 | [已付仍是Free](docs/14-paid-but-still-free.md) → [工单与客服模板](docs/13-support-ticket-query.md) → [账号材料](docs/04-account-credentials-and-order-evidence.md) |
 | 卡密已经收到，想自己激活并核对 | [原订单到套餐周期的五步检查](docs/14-paid-but-still-free.md#card-code-activation-check) |
 | iOS提示订阅关联另一个账号 | [原账号与Apple购买核对、完整合成案例](docs/14-paid-but-still-free.md) |
@@ -45,6 +46,7 @@
 <!-- BEGIN LATEST -->
 | 复核日期 | 教程 |
 | --- | --- |
+| 2026-10-29 | [ChatGPT代充工单查询：按原订单整理证据和回复](docs/13-support-ticket-query.md) |
 | 2026-10-25 | [ChatGPT会员、API余额和用量点数：购买前找对账单](docs/18-membership-api-wallet.md) |
 | 2026-10-25 | [ChatGPT代充安全不封号可信吗：先检查账号权限和承诺边界](docs/16-account-risk-claims.md) |
 | 2026-10-25 | [ChatGPT已付款仍显示Free：分开核对付款、交付与权益](docs/14-paid-but-still-free.md) |
@@ -52,7 +54,6 @@
 | 2026-10-19 | [GETGPT Pro 购买前核对：官网、卡密兑换与原账号结果](docs/19-getgpt-card-code-checklist.md) |
 | 2026-10-19 | [awesome ChatGPT Plus guide阅读地图：从问题找到来源和下一步](docs/17-guide-reading-map.md) |
 | 2026-10-19 | [ChatGPT充值哪个平台好：按交付类型、条件和售后比较](docs/15-provider-selection.md) |
-| 2026-10-19 | [ChatGPT代充工单查询：按原订单整理证据和回复](docs/13-support-ticket-query.md) |
 | 2026-10-19 | [ChatGPT无法绑卡怎么办：从失败位置判断下一步](docs/12-card-binding-failed.md) |
 | 2026-10-19 | [国内信用卡支付ChatGPT：地区、发卡行与付款渠道怎么核对](docs/11-domestic-card-payment.md) |
 <!-- END LATEST -->
