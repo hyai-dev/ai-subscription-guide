@@ -1,0 +1,27 @@
+{
+  "reviewedAt": "2026-10-29T11:49:46.382128+00:00",
+  "sources": [
+    {
+      "url": "https://help.openai.com/en/articles/20001056-troubleshooting-subscriptions-linked-to-another-chatgpt-account",
+      "method": "web primary page opened",
+      "supports": "Receipt email may differ from linked ChatGPT account; use original ChatGPT account on another device; avoid duplicate repurchase"
+    },
+    {
+      "url": "https://help.openai.com/en/articles/9135236",
+      "method": "web primary page opened",
+      "supports": "ChatGPT subscriptions cannot be transferred between accounts"
+    },
+    {
+      "url": "https://cheatsheetseries.owasp.org/cheatsheets/Forgot_Password_Cheat_Sheet.html",
+      "method": "web primary page opened",
+      "supports": "Out-of-band recovery, one-use expiring recovery credentials and attempt controls"
+    },
+    {
+      "url": "https://cheatsheetseries.owasp.org/cheatsheets/Session_Management_Cheat_Sheet.html",
+      "method": "web primary page opened and session-identifier authority passage located",
+      "supports": "Session identifiers can carry access authority; do not use as ordinary public support attachments"
+    }
+  ],
+  "liveStorefrontEvidence": "landing-readback.json",
+  "scope": "Storefront GET checks verify public text and enabled capability only, not delivery of real email or recovery of an actual order."
+}

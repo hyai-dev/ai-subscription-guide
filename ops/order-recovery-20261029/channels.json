@@ -1,0 +1,52 @@
+{
+  "checkedAt": "2026-10-29T11:49:46.382128+00:00",
+  "publicationStatus": "draft_reviewed_locally_not_pushed",
+  "newPrimaryArticles": 0,
+  "updatedPrimaryArticles": 1,
+  "stableArchiveIsNotNewArticle": true,
+  "channels": [
+    {
+      "name": "GitHub owned guide",
+      "repository": "hyai-dev/ai-subscription-guide",
+      "currentAccess": "authenticated_push_permission_true",
+      "evidence": "Repository API reported push, maintain and admin true; current public main read and cloned",
+      "plannedAction": "update existing docs/13 owner and generated archive after root review",
+      "publishedThisTask": false
+    },
+    {
+      "name": "GitHub Gist",
+      "currentAccess": "existing public publications listed by authenticated gh CLI",
+      "evidence": [
+        "https://gist.github.com/siuserxiaowei/3d452041972fb3a6bac71d9841f11ff3",
+        "https://gist.github.com/siuserxiaowei/f4d9de2f31f2c73392f58b021686af21"
+      ],
+      "plannedAction": "root prepares a distinct blank handoff template, not this long-form article copy",
+      "publishedThisTask": false
+    },
+    {
+      "name": "Penguin account",
+      "currentAccess": "not_verified_in_this_task",
+      "historicalEvidence": "storefront docs/growth-execution-20261021/channel-status.json records registration_failed and published=false on 2026-10-21",
+      "currentLimitation": "Root reports two Chrome connection timeouts; cannot infer current login or successful publication from old browser state",
+      "publishedThisTask": false
+    },
+    {
+      "name": "WeChat official account",
+      "currentAccess": "not_verified_in_this_task",
+      "historicalEvidence": "storefront docs/growth-execution-20261021/channel-status.json records published=false on 2026-10-21",
+      "currentLimitation": "No current usable browser session or verified publication receipt available",
+      "publishedThisTask": false
+    },
+    {
+      "name": "Other communities/directories",
+      "currentAccess": "not_verified",
+      "plannedAction": "none: no unrelated issue/comments, DMs or unsolicited mail",
+      "publishedThisTask": false
+    }
+  ],
+  "limits": [
+    "Current read permission or past public articles do not prove a new publication.",
+    "Public links do not prove search indexing, rankings, referrals or conversions.",
+    "No orders, mail challenges, payments, activation or private support tickets were created."
+  ]
+}

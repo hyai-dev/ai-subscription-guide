@@ -1,0 +1,49 @@
+{
+  "checkedAt": "2026-10-29T11:48:24.384526+00:00",
+  "method": "anonymous GET only",
+  "businessWrites": false,
+  "checks": [
+    {
+      "url": "https://nano-banana.lol/order",
+      "final": "https://nano-banana.lol/order",
+      "status": 200,
+      "emailRecoveryText": true
+    },
+    {
+      "url": "https://nano-banana.lol/guide",
+      "final": "https://nano-banana.lol/guide",
+      "status": 200,
+      "emailRecoveryText": null
+    },
+    {
+      "url": "https://nano-banana.lol/api/orders/recovery/",
+      "final": "https://nano-banana.lol/api/orders/recovery/",
+      "status": 200,
+      "emailRecoveryText": null,
+      "response": {
+        "enabled": true
+      }
+    },
+    {
+      "url": "https://payforgpt.com/order",
+      "final": "https://payforgpt.com/order",
+      "status": 200,
+      "emailRecoveryText": true
+    },
+    {
+      "url": "https://payforgpt.com/guide",
+      "final": "https://payforgpt.com/guide",
+      "status": 200,
+      "emailRecoveryText": null
+    },
+    {
+      "url": "https://payforgpt.com/api/orders/recovery/",
+      "final": "https://payforgpt.com/api/orders/recovery/",
+      "status": 200,
+      "emailRecoveryText": null,
+      "response": {
+        "enabled": true
+      }
+    }
+  ]
+}

@@ -427,7 +427,10 @@
         "ChatGPT代充售后怎么联系",
         "ChatGPT订单查不到怎么办",
         "ChatGPT充值工单需要什么材料",
-        "ChatGPT客服核单要发什么"
+        "ChatGPT客服核单要发什么",
+        "ChatGPT查单密码忘记了",
+        "ChatGPT换设备找不到订单",
+        "ChatGPT原邮箱验证找回订单"
       ],
       "keywordQueueRows": [
         45
@@ -444,24 +447,26 @@
       ],
       "canonical": "https://github.com/hyai-dev/ai-subscription-guide/blob/main/docs/13-support-ticket-query.md",
       "publishedAt": "2026-10-19",
-      "reviewedAt": "2026-10-19",
+      "reviewedAt": "2026-10-29",
       "sources": [
         "https://cheatsheetseries.owasp.org/cheatsheets/Session_Management_Cheat_Sheet.html",
-        "https://help.openai.com/en/articles/9135236"
+        "https://help.openai.com/en/articles/9135236",
+        "https://help.openai.com/en/articles/20001056-troubleshooting-subscriptions-linked-to-another-chatgpt-account",
+        "https://cheatsheetseries.owasp.org/cheatsheets/Forgot_Password_Cheat_Sheet.html"
       ],
       "figures": [
         "assets/keyword-tasks-20261019/support-ticket-timeline.webp"
       ],
       "targets": [
         {
-          "site": "payforgpt",
-          "url": "https://payforgpt.com/how-to/payment-success-not-delivered#support-ticket-query",
-          "label": "PayForGPT对应任务帮助"
+          "site": "nano",
+          "url": "https://nano-banana.lol/order",
+          "label": "Nano Banana查询订单与邮箱验证找回"
         },
         {
-          "site": "nano",
-          "url": "https://nano-banana.lol/ai-subscriptions/delivery#support-ticket-check",
-          "label": "Nano Banana对应任务帮助"
+          "site": "payforgpt",
+          "url": "https://payforgpt.com/order",
+          "label": "PayForGPT查询订单与邮箱验证找回"
         }
       ]
     },
