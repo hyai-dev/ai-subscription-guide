@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "checkedAt": "2026-10-29T11:54:39.577610+00:00",
+  "publicationStatus": "published_and_anonymous_readback_verified",
+  "guide": {
+    "repository": "hyai-dev/ai-subscription-guide",
+    "primaryFile": "docs/13-support-ticket-query.md",
+    "stableArchiveFile": "articles/support-ticket-query.md",
+    "changeType": "update_existing_primary_article",
+    "firstPublishedAt": "2026-10-19",
+    "reviewedAt": "2026-10-29",
+    "pullRequest": "https://github.com/hyai-dev/ai-subscription-guide/pull/3",
+    "pullRequestState": "MERGED",
+    "sourceCommit": "1ec7f7986b4d1a0b3bc1dfa57cf1e133220093d4",
+    "immutableSource": "https://github.com/hyai-dev/ai-subscription-guide/blob/1ec7f7986b4d1a0b3bc1dfa57cf1e133220093d4/docs/13-support-ticket-query.md",
+    "validationRun": "https://github.com/hyai-dev/ai-subscription-guide/actions/runs/40868614323",
+    "validationConclusion": "SUCCESS",
+    "anonymousReadback": {
+      "type": "guide",
+      "url": "https://github.com/hyai-dev/ai-subscription-guide/blob/main/docs/13-support-ticket-query.md",
+      "status": 200,
+      "anonymousRead": true,
+      "identicalToReviewedText": true,
+      "sha256": "2f66a643040ffd0cbe0e13de089b725234ed17c7e8bd9358d4fe34db572de082",
+      "bothSitesLinked": true
+    }
+  },
+  "checklist": {
+    "changeType": "new_reusable_blank_template",
+    "url": "https://gist.github.com/siuserxiaowei/8bfd05a22934eca0eff43ebce7d32dae",
+    "public": true,
+    "revision": "e2d47605204378566356adf9923bfcdb3da02086",
+    "files": [
+      {
+        "filename": "order-help-checklist.md",
+        "raw_url": "https://gist.githubusercontent.com/siuserxiaowei/8bfd05a22934eca0eff43ebce7d32dae/raw/40e2390c0e3a3461152adeb9e02fd396907a1e8d/order-help-checklist.md",
+        "size": 3873
+      }
+    ],
+    "anonymousReadback": {
+      "type": "gist",
+      "url": "https://gist.github.com/siuserxiaowei/8bfd05a22934eca0eff43ebce7d32dae",
+      "status": 200,
+      "anonymousRead": true,
+      "identicalToReviewedText": true,
+      "sha256": "d6847f11f92822fadafcb7205d7c7dc526ae26b543480a07dfc645f22a8fe683",
+      "bothSitesLinked": true
+    },
+    "relationship": "Different format and task from the long guide; a blank support-handoff checklist, not a mirrored long article."
+  },
+  "counts": {
+    "platforms": [
+      "GitHub"
+    ],
+    "updatedPrimaryArticles": 1,
+    "newPrimaryArticles": 0,
+    "newReusableChecklists": 1,
+    "stableArchiveAddsPrimaryCount": false,
+    "totalPrimaryArticles": 19
+  },
+  "unpublished": [
+    "Penguin account",
+    "WeChat official account"
+  ],
+  "proofScope": {
+    "method": "Anonymous public HTML GET plus byte comparison of public raw text against reviewed local text, performed by root execution agent",
+    "status": 200,
+    "bothAssetsContainBothSites": true,
+    "noCustomerOrderAccess": true,
+    "noRealEmailChallenge": true
+  },
+  "limits": [
+    "This receipt covers the content publication, not deployment of storefront keyword changes.",
+    "Stable article archive and generated README do not count as additional original articles.",
+    "Published and publicly readable does not mean indexed, ranking, referred visitors or conversions.",
+    "No current success receipt exists for Penguin or WeChat publication."
+  ]
+}

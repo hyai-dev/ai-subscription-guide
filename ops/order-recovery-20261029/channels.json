@@ -1,52 +1,105 @@
 {
-  "checkedAt": "2026-10-29T11:49:46.382128+00:00",
-  "publicationStatus": "draft_reviewed_locally_not_pushed",
+  "schemaVersion": 1,
+  "checkedAt": "2026-10-29T11:54:39.577610+00:00",
+  "publicationStatus": "two_assets_published_on_one_platform",
+  "publicationReceipt": "publication-receipt.json",
   "newPrimaryArticles": 0,
   "updatedPrimaryArticles": 1,
+  "newReusableChecklists": 1,
   "stableArchiveIsNotNewArticle": true,
-  "channels": [
+  "finalChannels": [
     {
       "name": "GitHub owned guide",
       "repository": "hyai-dev/ai-subscription-guide",
-      "currentAccess": "authenticated_push_permission_true",
-      "evidence": "Repository API reported push, maintain and admin true; current public main read and cloned",
-      "plannedAction": "update existing docs/13 owner and generated archive after root review",
-      "publishedThisTask": false
+      "state": "existing_primary_article_updated_and_public_readback_verified",
+      "url": "https://github.com/hyai-dev/ai-subscription-guide/blob/main/docs/13-support-ticket-query.md",
+      "sourceCommit": "1ec7f7986b4d1a0b3bc1dfa57cf1e133220093d4",
+      "pullRequest": "https://github.com/hyai-dev/ai-subscription-guide/pull/3",
+      "publishedThisTask": true
     },
     {
       "name": "GitHub Gist",
-      "currentAccess": "existing public publications listed by authenticated gh CLI",
-      "evidence": [
-        "https://gist.github.com/siuserxiaowei/3d452041972fb3a6bac71d9841f11ff3",
-        "https://gist.github.com/siuserxiaowei/f4d9de2f31f2c73392f58b021686af21"
-      ],
-      "plannedAction": "root prepares a distinct blank handoff template, not this long-form article copy",
-      "publishedThisTask": false
+      "state": "new_blank_handoff_template_published_and_public_readback_verified",
+      "url": "https://gist.github.com/siuserxiaowei/8bfd05a22934eca0eff43ebce7d32dae",
+      "publishedThisTask": true
     },
     {
       "name": "Penguin account",
-      "currentAccess": "not_verified_in_this_task",
-      "historicalEvidence": "storefront docs/growth-execution-20261021/channel-status.json records registration_failed and published=false on 2026-10-21",
-      "currentLimitation": "Root reports two Chrome connection timeouts; cannot infer current login or successful publication from old browser state",
+      "state": "not_published",
+      "currentAccess": "not_verified",
+      "reason": "No usable current browser connection or public publication success receipt",
       "publishedThisTask": false
     },
     {
       "name": "WeChat official account",
-      "currentAccess": "not_verified_in_this_task",
-      "historicalEvidence": "storefront docs/growth-execution-20261021/channel-status.json records published=false on 2026-10-21",
-      "currentLimitation": "No current usable browser session or verified publication receipt available",
+      "state": "not_published",
+      "currentAccess": "not_verified",
+      "reason": "No usable current browser connection or public publication success receipt",
       "publishedThisTask": false
     },
     {
       "name": "Other communities/directories",
-      "currentAccess": "not_verified",
-      "plannedAction": "none: no unrelated issue/comments, DMs or unsolicited mail",
+      "state": "not_published",
       "publishedThisTask": false
     }
   ],
+  "beforePublicationSnapshot": {
+    "checkedAt": "2026-10-29T11:49:46.382128+00:00",
+    "publicationStatus": "draft_reviewed_locally_not_pushed",
+    "newPrimaryArticles": 0,
+    "updatedPrimaryArticles": 1,
+    "stableArchiveIsNotNewArticle": true,
+    "channels": [
+      {
+        "name": "GitHub owned guide",
+        "repository": "hyai-dev/ai-subscription-guide",
+        "currentAccess": "authenticated_push_permission_true",
+        "evidence": "Repository API reported push, maintain and admin true; current public main read and cloned",
+        "plannedAction": "update existing docs/13 owner and generated archive after root review",
+        "publishedThisTask": false
+      },
+      {
+        "name": "GitHub Gist",
+        "currentAccess": "existing public publications listed by authenticated gh CLI",
+        "evidence": [
+          "https://gist.github.com/siuserxiaowei/3d452041972fb3a6bac71d9841f11ff3",
+          "https://gist.github.com/siuserxiaowei/f4d9de2f31f2c73392f58b021686af21"
+        ],
+        "plannedAction": "root prepares a distinct blank handoff template, not this long-form article copy",
+        "publishedThisTask": false
+      },
+      {
+        "name": "Penguin account",
+        "currentAccess": "not_verified_in_this_task",
+        "historicalEvidence": "storefront docs/growth-execution-20261021/channel-status.json records registration_failed and published=false on 2026-10-21",
+        "currentLimitation": "Root reports two Chrome connection timeouts; cannot infer current login or successful publication from old browser state",
+        "publishedThisTask": false
+      },
+      {
+        "name": "WeChat official account",
+        "currentAccess": "not_verified_in_this_task",
+        "historicalEvidence": "storefront docs/growth-execution-20261021/channel-status.json records published=false on 2026-10-21",
+        "currentLimitation": "No current usable browser session or verified publication receipt available",
+        "publishedThisTask": false
+      },
+      {
+        "name": "Other communities/directories",
+        "currentAccess": "not_verified",
+        "plannedAction": "none: no unrelated issue/comments, DMs or unsolicited mail",
+        "publishedThisTask": false
+      }
+    ],
+    "limits": [
+      "Current read permission or past public articles do not prove a new publication.",
+      "Public links do not prove search indexing, rankings, referrals or conversions.",
+      "No orders, mail challenges, payments, activation or private support tickets were created."
+    ]
+  },
+  "snapshotNote": "The beforePublicationSnapshot preserves the earlier draft-time observation. It is historical, not the final publication state. GitHub owned guide and Gist are two assets on one platform.",
   "limits": [
-    "Current read permission or past public articles do not prove a new publication.",
-    "Public links do not prove search indexing, rankings, referrals or conversions.",
-    "No orders, mail challenges, payments, activation or private support tickets were created."
+    "This receipt covers the content publication, not deployment of storefront keyword changes.",
+    "Stable article archive and generated README do not count as additional original articles.",
+    "Published and publicly readable does not mean indexed, ranking, referred visitors or conversions.",
+    "No current success receipt exists for Penguin or WeChat publication."
   ]
 }
