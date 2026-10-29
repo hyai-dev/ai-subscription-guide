@@ -74,5 +74,31 @@
     "Stable article archive and generated README do not count as additional original articles.",
     "Published and publicly readable does not mean indexed, ranking, referred visitors or conversions.",
     "No current success receipt exists for Penguin or WeChat publication."
-  ]
+  ],
+  "followup": {
+    "preparedAt": "2026-10-29T12:07:24.293679+00:00",
+    "status": "prepared_pending_root_publish",
+    "scope": "Add two contextual links in the existing hand-picked README task table to newly deployed storefront coupon help pages.",
+    "sourceFile": "README.md",
+    "table": "从你要做的事开始",
+    "rowLabel": "优惠码无效、想确认本单实付",
+    "links": [
+      {
+        "site": "nano",
+        "url": "https://nano-banana.lol/ai-subscriptions/ai-membership-coupon-guide?utm_source=github&utm_medium=referral&utm_campaign=coupon_check_20261029",
+        "label": "Nano Banana 优惠券使用与结账核对"
+      },
+      {
+        "site": "payforgpt",
+        "url": "https://payforgpt.com/ai-subscriptions/ai-membership-coupon-check?utm_source=github&utm_medium=referral&utm_campaign=coupon_check_20261029",
+        "label": "PayForGPT 优惠码与订单实付检查"
+      }
+    ],
+    "newContextualLinks": 2,
+    "newPrimaryArticles": 0,
+    "ownershipDisclosure": "Both linked storefront tutorials are operated by the guide authors; README introduction remains unchanged and the row explicitly identifies self-owned extension tutorials.",
+    "claims": "Links offer coupon and final-price checks; no coupon code, discount eligibility, price, successful redemption or ranking is claimed.",
+    "publicationVerified": false,
+    "boundary": "Storefront deployment was reported verified by root; this README follow-up is only prepared locally until root publication and anonymous readback."
+  }
 }
