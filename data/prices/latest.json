@@ -1,6 +1,6 @@
 {
   "schemaVersion": "public-price-observation-v1",
-  "generatedAt": "2026-11-12T08:56:36.079Z",
+  "generatedAt": "2026-11-13T08:52:52.073Z",
   "scope": "Public advertised source claims only; not checkout totals, independent product verification or a cheapest-price ranking.",
   "automaticComparison": false,
   "humanReviewRequired": true,
@@ -10,7 +10,7 @@
       "sourceName": "GPTPro20x",
       "requestedUrl": "https://gptpro20x.com/chatgpt/",
       "sourceUrl": "https://gptpro20x.com/chatgpt/",
-      "observedAt": "2026-11-12T08:56:26.447Z",
+      "observedAt": "2026-11-13T08:52:48.354Z",
       "httpStatus": 200,
       "bodyBytes": 45306,
       "bodySha256": "8b0b197c9ee852c49acf500276574053dad2792d9531194ce9e7e3014f50221a",
@@ -31,26 +31,26 @@
           "availabilityClaim": "unknown",
           "productUrl": "https://gptpro20x.com/chatgpt/",
           "sourceUrl": "https://gptpro20x.com/chatgpt/",
-          "observedAt": "2026-11-12T08:56:26.447Z",
+          "observedAt": "2026-11-13T08:52:48.354Z",
           "taxStatus": {
             "value": "unknown",
             "sourceUrl": "https://gptpro20x.com/chatgpt/",
-            "observedAt": "2026-11-12T08:56:26.447Z"
+            "observedAt": "2026-11-13T08:52:48.354Z"
           },
           "simSupport": {
             "value": "unknown",
             "sourceUrl": "https://gptpro20x.com/chatgpt/",
-            "observedAt": "2026-11-12T08:56:26.447Z"
+            "observedAt": "2026-11-13T08:52:48.354Z"
           },
           "invoiceSupport": {
             "value": "unknown",
             "sourceUrl": "https://gptpro20x.com/chatgpt/",
-            "observedAt": "2026-11-12T08:56:26.447Z"
+            "observedAt": "2026-11-13T08:52:48.354Z"
           },
           "eligibility": {
             "value": "unknown",
             "sourceUrl": "https://gptpro20x.com/chatgpt/",
-            "observedAt": "2026-11-12T08:56:26.447Z"
+            "observedAt": "2026-11-13T08:52:48.354Z"
           },
           "evidence": {
             "method": "html-product-card",
@@ -79,26 +79,26 @@
           "availabilityClaim": "unknown",
           "productUrl": "https://gptpro20x.com/chatgpt/",
           "sourceUrl": "https://gptpro20x.com/chatgpt/",
-          "observedAt": "2026-11-12T08:56:26.447Z",
+          "observedAt": "2026-11-13T08:52:48.354Z",
           "taxStatus": {
             "value": "unknown",
             "sourceUrl": "https://gptpro20x.com/chatgpt/",
-            "observedAt": "2026-11-12T08:56:26.447Z"
+            "observedAt": "2026-11-13T08:52:48.354Z"
           },
           "simSupport": {
             "value": "unknown",
             "sourceUrl": "https://gptpro20x.com/chatgpt/",
-            "observedAt": "2026-11-12T08:56:26.447Z"
+            "observedAt": "2026-11-13T08:52:48.354Z"
           },
           "invoiceSupport": {
             "value": "unknown",
             "sourceUrl": "https://gptpro20x.com/chatgpt/",
-            "observedAt": "2026-11-12T08:56:26.447Z"
+            "observedAt": "2026-11-13T08:52:48.354Z"
           },
           "eligibility": {
             "value": "unknown",
             "sourceUrl": "https://gptpro20x.com/chatgpt/",
-            "observedAt": "2026-11-12T08:56:26.447Z"
+            "observedAt": "2026-11-13T08:52:48.354Z"
           },
           "evidence": {
             "method": "html-product-card",
@@ -127,26 +127,26 @@
           "availabilityClaim": "unknown",
           "productUrl": "https://gptpro20x.com/chatgpt/",
           "sourceUrl": "https://gptpro20x.com/chatgpt/",
-          "observedAt": "2026-11-12T08:56:26.447Z",
+          "observedAt": "2026-11-13T08:52:48.354Z",
           "taxStatus": {
             "value": "unknown",
             "sourceUrl": "https://gptpro20x.com/chatgpt/",
-            "observedAt": "2026-11-12T08:56:26.447Z"
+            "observedAt": "2026-11-13T08:52:48.354Z"
           },
           "simSupport": {
             "value": "unknown",
             "sourceUrl": "https://gptpro20x.com/chatgpt/",
-            "observedAt": "2026-11-12T08:56:26.447Z"
+            "observedAt": "2026-11-13T08:52:48.354Z"
           },
           "invoiceSupport": {
             "value": "unknown",
             "sourceUrl": "https://gptpro20x.com/chatgpt/",
-            "observedAt": "2026-11-12T08:56:26.447Z"
+            "observedAt": "2026-11-13T08:52:48.354Z"
           },
           "eligibility": {
             "value": "unknown",
             "sourceUrl": "https://gptpro20x.com/chatgpt/",
-            "observedAt": "2026-11-12T08:56:26.447Z"
+            "observedAt": "2026-11-13T08:52:48.354Z"
           },
           "evidence": {
             "method": "html-product-card",
@@ -175,26 +175,26 @@
           "availabilityClaim": "unknown",
           "productUrl": "https://gptpro20x.com/chatgpt/",
           "sourceUrl": "https://gptpro20x.com/chatgpt/",
-          "observedAt": "2026-11-12T08:56:26.447Z",
+          "observedAt": "2026-11-13T08:52:48.354Z",
           "taxStatus": {
             "value": "unknown",
             "sourceUrl": "https://gptpro20x.com/chatgpt/",
-            "observedAt": "2026-11-12T08:56:26.447Z"
+            "observedAt": "2026-11-13T08:52:48.354Z"
           },
           "simSupport": {
             "value": "unknown",
             "sourceUrl": "https://gptpro20x.com/chatgpt/",
-            "observedAt": "2026-11-12T08:56:26.447Z"
+            "observedAt": "2026-11-13T08:52:48.354Z"
           },
           "invoiceSupport": {
             "value": "unknown",
             "sourceUrl": "https://gptpro20x.com/chatgpt/",
-            "observedAt": "2026-11-12T08:56:26.447Z"
+            "observedAt": "2026-11-13T08:52:48.354Z"
           },
           "eligibility": {
             "value": "unknown",
             "sourceUrl": "https://gptpro20x.com/chatgpt/",
-            "observedAt": "2026-11-12T08:56:26.447Z"
+            "observedAt": "2026-11-13T08:52:48.354Z"
           },
           "evidence": {
             "method": "html-product-card",
@@ -223,26 +223,26 @@
           "availabilityClaim": "unknown",
           "productUrl": "https://gptpro20x.com/chatgpt/",
           "sourceUrl": "https://gptpro20x.com/chatgpt/",
-          "observedAt": "2026-11-12T08:56:26.447Z",
+          "observedAt": "2026-11-13T08:52:48.354Z",
           "taxStatus": {
             "value": "unknown",
             "sourceUrl": "https://gptpro20x.com/chatgpt/",
-            "observedAt": "2026-11-12T08:56:26.447Z"
+            "observedAt": "2026-11-13T08:52:48.354Z"
           },
           "simSupport": {
             "value": "unknown",
             "sourceUrl": "https://gptpro20x.com/chatgpt/",
-            "observedAt": "2026-11-12T08:56:26.447Z"
+            "observedAt": "2026-11-13T08:52:48.354Z"
           },
           "invoiceSupport": {
             "value": "unknown",
             "sourceUrl": "https://gptpro20x.com/chatgpt/",
-            "observedAt": "2026-11-12T08:56:26.447Z"
+            "observedAt": "2026-11-13T08:52:48.354Z"
           },
           "eligibility": {
             "value": "unknown",
             "sourceUrl": "https://gptpro20x.com/chatgpt/",
-            "observedAt": "2026-11-12T08:56:26.447Z"
+            "observedAt": "2026-11-13T08:52:48.354Z"
           },
           "evidence": {
             "method": "html-product-card",
@@ -271,26 +271,26 @@
           "availabilityClaim": "unknown",
           "productUrl": "https://gptpro20x.com/codex/",
           "sourceUrl": "https://gptpro20x.com/chatgpt/",
-          "observedAt": "2026-11-12T08:56:26.447Z",
+          "observedAt": "2026-11-13T08:52:48.354Z",
           "taxStatus": {
             "value": "unknown",
             "sourceUrl": "https://gptpro20x.com/chatgpt/",
-            "observedAt": "2026-11-12T08:56:26.447Z"
+            "observedAt": "2026-11-13T08:52:48.354Z"
           },
           "simSupport": {
             "value": "unknown",
             "sourceUrl": "https://gptpro20x.com/chatgpt/",
-            "observedAt": "2026-11-12T08:56:26.447Z"
+            "observedAt": "2026-11-13T08:52:48.354Z"
           },
           "invoiceSupport": {
             "value": "unknown",
             "sourceUrl": "https://gptpro20x.com/chatgpt/",
-            "observedAt": "2026-11-12T08:56:26.447Z"
+            "observedAt": "2026-11-13T08:52:48.354Z"
           },
           "eligibility": {
             "value": "unknown",
             "sourceUrl": "https://gptpro20x.com/chatgpt/",
-            "observedAt": "2026-11-12T08:56:26.447Z"
+            "observedAt": "2026-11-13T08:52:48.354Z"
           },
           "evidence": {
             "method": "html-product-card",
@@ -316,7 +316,7 @@
       "sourceName": "GPTPro5x",
       "requestedUrl": "https://gptpro5x.com/",
       "sourceUrl": "https://gptpro5x.com/",
-      "observedAt": "2026-11-12T08:56:26.734Z",
+      "observedAt": "2026-11-13T08:52:48.642Z",
       "httpStatus": 200,
       "bodyBytes": 143976,
       "bodySha256": "19a5d20585593800e70e102c53bba5a97b17c329074cc757ad1ebca07f3cd9f3",
@@ -337,26 +337,26 @@
           "availabilityClaim": "unknown",
           "productUrl": "https://gptpro5x.com/plus",
           "sourceUrl": "https://gptpro5x.com/",
-          "observedAt": "2026-11-12T08:56:26.734Z",
+          "observedAt": "2026-11-13T08:52:48.642Z",
           "taxStatus": {
             "value": "unknown",
             "sourceUrl": "https://gptpro5x.com/",
-            "observedAt": "2026-11-12T08:56:26.734Z"
+            "observedAt": "2026-11-13T08:52:48.642Z"
           },
           "simSupport": {
             "value": "unknown",
             "sourceUrl": "https://gptpro5x.com/",
-            "observedAt": "2026-11-12T08:56:26.734Z"
+            "observedAt": "2026-11-13T08:52:48.642Z"
           },
           "invoiceSupport": {
             "value": "unknown",
             "sourceUrl": "https://gptpro5x.com/",
-            "observedAt": "2026-11-12T08:56:26.734Z"
+            "observedAt": "2026-11-13T08:52:48.642Z"
           },
           "eligibility": {
             "value": "unknown",
             "sourceUrl": "https://gptpro5x.com/",
-            "observedAt": "2026-11-12T08:56:26.734Z"
+            "observedAt": "2026-11-13T08:52:48.642Z"
           },
           "evidence": {
             "method": "json-ld-offer",
@@ -385,26 +385,26 @@
           "availabilityClaim": "unknown",
           "productUrl": "https://gptpro5x.com/pro-5x",
           "sourceUrl": "https://gptpro5x.com/",
-          "observedAt": "2026-11-12T08:56:26.734Z",
+          "observedAt": "2026-11-13T08:52:48.642Z",
           "taxStatus": {
             "value": "unknown",
             "sourceUrl": "https://gptpro5x.com/",
-            "observedAt": "2026-11-12T08:56:26.734Z"
+            "observedAt": "2026-11-13T08:52:48.642Z"
           },
           "simSupport": {
             "value": "unknown",
             "sourceUrl": "https://gptpro5x.com/",
-            "observedAt": "2026-11-12T08:56:26.734Z"
+            "observedAt": "2026-11-13T08:52:48.642Z"
           },
           "invoiceSupport": {
             "value": "unknown",
             "sourceUrl": "https://gptpro5x.com/",
-            "observedAt": "2026-11-12T08:56:26.734Z"
+            "observedAt": "2026-11-13T08:52:48.642Z"
           },
           "eligibility": {
             "value": "unknown",
             "sourceUrl": "https://gptpro5x.com/",
-            "observedAt": "2026-11-12T08:56:26.734Z"
+            "observedAt": "2026-11-13T08:52:48.642Z"
           },
           "evidence": {
             "method": "json-ld-offer",
@@ -433,26 +433,26 @@
           "availabilityClaim": "unknown",
           "productUrl": "https://gptpro5x.com/pro-20x",
           "sourceUrl": "https://gptpro5x.com/",
-          "observedAt": "2026-11-12T08:56:26.734Z",
+          "observedAt": "2026-11-13T08:52:48.642Z",
           "taxStatus": {
             "value": "unknown",
             "sourceUrl": "https://gptpro5x.com/",
-            "observedAt": "2026-11-12T08:56:26.734Z"
+            "observedAt": "2026-11-13T08:52:48.642Z"
           },
           "simSupport": {
             "value": "unknown",
             "sourceUrl": "https://gptpro5x.com/",
-            "observedAt": "2026-11-12T08:56:26.734Z"
+            "observedAt": "2026-11-13T08:52:48.642Z"
           },
           "invoiceSupport": {
             "value": "unknown",
             "sourceUrl": "https://gptpro5x.com/",
-            "observedAt": "2026-11-12T08:56:26.734Z"
+            "observedAt": "2026-11-13T08:52:48.642Z"
           },
           "eligibility": {
             "value": "unknown",
             "sourceUrl": "https://gptpro5x.com/",
-            "observedAt": "2026-11-12T08:56:26.734Z"
+            "observedAt": "2026-11-13T08:52:48.642Z"
           },
           "evidence": {
             "method": "json-ld-offer",
@@ -481,26 +481,26 @@
           "availabilityClaim": "unknown",
           "productUrl": "https://gptpro5x.com/plus",
           "sourceUrl": "https://gptpro5x.com/",
-          "observedAt": "2026-11-12T08:56:26.734Z",
+          "observedAt": "2026-11-13T08:52:48.642Z",
           "taxStatus": {
             "value": "unknown",
             "sourceUrl": "https://gptpro5x.com/",
-            "observedAt": "2026-11-12T08:56:26.734Z"
+            "observedAt": "2026-11-13T08:52:48.642Z"
           },
           "simSupport": {
             "value": "unknown",
             "sourceUrl": "https://gptpro5x.com/",
-            "observedAt": "2026-11-12T08:56:26.734Z"
+            "observedAt": "2026-11-13T08:52:48.642Z"
           },
           "invoiceSupport": {
             "value": "unknown",
             "sourceUrl": "https://gptpro5x.com/",
-            "observedAt": "2026-11-12T08:56:26.734Z"
+            "observedAt": "2026-11-13T08:52:48.642Z"
           },
           "eligibility": {
             "value": "unknown",
             "sourceUrl": "https://gptpro5x.com/",
-            "observedAt": "2026-11-12T08:56:26.734Z"
+            "observedAt": "2026-11-13T08:52:48.642Z"
           },
           "evidence": {
             "method": "html-product-card",
@@ -529,26 +529,26 @@
           "availabilityClaim": "unknown",
           "productUrl": "https://gptpro5x.com/pro-5x",
           "sourceUrl": "https://gptpro5x.com/",
-          "observedAt": "2026-11-12T08:56:26.734Z",
+          "observedAt": "2026-11-13T08:52:48.642Z",
           "taxStatus": {
             "value": "unknown",
             "sourceUrl": "https://gptpro5x.com/",
-            "observedAt": "2026-11-12T08:56:26.734Z"
+            "observedAt": "2026-11-13T08:52:48.642Z"
           },
           "simSupport": {
             "value": "unknown",
             "sourceUrl": "https://gptpro5x.com/",
-            "observedAt": "2026-11-12T08:56:26.734Z"
+            "observedAt": "2026-11-13T08:52:48.642Z"
           },
           "invoiceSupport": {
             "value": "unknown",
             "sourceUrl": "https://gptpro5x.com/",
-            "observedAt": "2026-11-12T08:56:26.734Z"
+            "observedAt": "2026-11-13T08:52:48.642Z"
           },
           "eligibility": {
             "value": "unknown",
             "sourceUrl": "https://gptpro5x.com/",
-            "observedAt": "2026-11-12T08:56:26.734Z"
+            "observedAt": "2026-11-13T08:52:48.642Z"
           },
           "evidence": {
             "method": "html-product-card",
@@ -577,26 +577,26 @@
           "availabilityClaim": "unknown",
           "productUrl": "https://gptpro5x.com/pro-20x",
           "sourceUrl": "https://gptpro5x.com/",
-          "observedAt": "2026-11-12T08:56:26.734Z",
+          "observedAt": "2026-11-13T08:52:48.642Z",
           "taxStatus": {
             "value": "unknown",
             "sourceUrl": "https://gptpro5x.com/",
-            "observedAt": "2026-11-12T08:56:26.734Z"
+            "observedAt": "2026-11-13T08:52:48.642Z"
           },
           "simSupport": {
             "value": "unknown",
             "sourceUrl": "https://gptpro5x.com/",
-            "observedAt": "2026-11-12T08:56:26.734Z"
+            "observedAt": "2026-11-13T08:52:48.642Z"
           },
           "invoiceSupport": {
             "value": "unknown",
             "sourceUrl": "https://gptpro5x.com/",
-            "observedAt": "2026-11-12T08:56:26.734Z"
+            "observedAt": "2026-11-13T08:52:48.642Z"
           },
           "eligibility": {
             "value": "unknown",
             "sourceUrl": "https://gptpro5x.com/",
-            "observedAt": "2026-11-12T08:56:26.734Z"
+            "observedAt": "2026-11-13T08:52:48.642Z"
           },
           "evidence": {
             "method": "html-product-card",
@@ -620,7 +620,7 @@
       "sourceName": "GPTCZ",
       "requestedUrl": "https://gptcz.pro/plus",
       "sourceUrl": "https://gptcz.pro/plus",
-      "observedAt": "2026-11-12T08:56:27.892Z",
+      "observedAt": "2026-11-13T08:52:49.596Z",
       "httpStatus": 200,
       "bodyBytes": 2671,
       "bodySha256": "f7975f1f9aceb4c83ec84bf13877256f6540c4ceeb958e2a303d334e368cad77",
@@ -635,7 +635,7 @@
       "sourceName": "AIchongzhi",
       "requestedUrl": "https://aichongzhi.org/chatgpt/",
       "sourceUrl": "https://aichongzhi.org/chatgpt/",
-      "observedAt": "2026-11-12T08:56:28.068Z",
+      "observedAt": "2026-11-13T08:52:49.812Z",
       "httpStatus": 200,
       "bodyBytes": 47922,
       "bodySha256": "7855431fc4d2e08d58f36761c201e052dbf3283d145a684e5ab52e19e58370ff",
@@ -656,26 +656,26 @@
           "availabilityClaim": "unknown",
           "productUrl": null,
           "sourceUrl": "https://aichongzhi.org/chatgpt/",
-          "observedAt": "2026-11-12T08:56:28.068Z",
+          "observedAt": "2026-11-13T08:52:49.812Z",
           "taxStatus": {
             "value": "unknown",
             "sourceUrl": "https://aichongzhi.org/chatgpt/",
-            "observedAt": "2026-11-12T08:56:28.068Z"
+            "observedAt": "2026-11-13T08:52:49.812Z"
           },
           "simSupport": {
             "value": "unknown",
             "sourceUrl": "https://aichongzhi.org/chatgpt/",
-            "observedAt": "2026-11-12T08:56:28.068Z"
+            "observedAt": "2026-11-13T08:52:49.812Z"
           },
           "invoiceSupport": {
             "value": "unknown",
             "sourceUrl": "https://aichongzhi.org/chatgpt/",
-            "observedAt": "2026-11-12T08:56:28.068Z"
+            "observedAt": "2026-11-13T08:52:49.812Z"
           },
           "eligibility": {
             "value": "unknown",
             "sourceUrl": "https://aichongzhi.org/chatgpt/",
-            "observedAt": "2026-11-12T08:56:28.068Z"
+            "observedAt": "2026-11-13T08:52:49.812Z"
           },
           "evidence": {
             "method": "html-product-card",
@@ -704,26 +704,26 @@
           "availabilityClaim": "unknown",
           "productUrl": null,
           "sourceUrl": "https://aichongzhi.org/chatgpt/",
-          "observedAt": "2026-11-12T08:56:28.068Z",
+          "observedAt": "2026-11-13T08:52:49.812Z",
           "taxStatus": {
             "value": "unknown",
             "sourceUrl": "https://aichongzhi.org/chatgpt/",
-            "observedAt": "2026-11-12T08:56:28.068Z"
+            "observedAt": "2026-11-13T08:52:49.812Z"
           },
           "simSupport": {
             "value": "unknown",
             "sourceUrl": "https://aichongzhi.org/chatgpt/",
-            "observedAt": "2026-11-12T08:56:28.068Z"
+            "observedAt": "2026-11-13T08:52:49.812Z"
           },
           "invoiceSupport": {
             "value": "unknown",
             "sourceUrl": "https://aichongzhi.org/chatgpt/",
-            "observedAt": "2026-11-12T08:56:28.068Z"
+            "observedAt": "2026-11-13T08:52:49.812Z"
           },
           "eligibility": {
             "value": "unknown",
             "sourceUrl": "https://aichongzhi.org/chatgpt/",
-            "observedAt": "2026-11-12T08:56:28.068Z"
+            "observedAt": "2026-11-13T08:52:49.812Z"
           },
           "evidence": {
             "method": "html-product-card",
@@ -752,26 +752,26 @@
           "availabilityClaim": "unknown",
           "productUrl": null,
           "sourceUrl": "https://aichongzhi.org/chatgpt/",
-          "observedAt": "2026-11-12T08:56:28.068Z",
+          "observedAt": "2026-11-13T08:52:49.812Z",
           "taxStatus": {
             "value": "unknown",
             "sourceUrl": "https://aichongzhi.org/chatgpt/",
-            "observedAt": "2026-11-12T08:56:28.068Z"
+            "observedAt": "2026-11-13T08:52:49.812Z"
           },
           "simSupport": {
             "value": "unknown",
             "sourceUrl": "https://aichongzhi.org/chatgpt/",
-            "observedAt": "2026-11-12T08:56:28.068Z"
+            "observedAt": "2026-11-13T08:52:49.812Z"
           },
           "invoiceSupport": {
             "value": "unknown",
             "sourceUrl": "https://aichongzhi.org/chatgpt/",
-            "observedAt": "2026-11-12T08:56:28.068Z"
+            "observedAt": "2026-11-13T08:52:49.812Z"
           },
           "eligibility": {
             "value": "unknown",
             "sourceUrl": "https://aichongzhi.org/chatgpt/",
-            "observedAt": "2026-11-12T08:56:28.068Z"
+            "observedAt": "2026-11-13T08:52:49.812Z"
           },
           "evidence": {
             "method": "html-product-card",
@@ -795,10 +795,10 @@
       "sourceName": "GETGPT Pro",
       "requestedUrl": "https://getgpt.pro/plus-price",
       "sourceUrl": "https://getgpt.pro/price",
-      "observedAt": "2026-11-12T08:56:28.321Z",
+      "observedAt": "2026-11-13T08:52:49.954Z",
       "httpStatus": 200,
       "bodyBytes": 102417,
-      "bodySha256": "8626215b9421fa62d814e22d8529c6fca62a0584faa2ae72a0b3163c2c8160fd",
+      "bodySha256": "071d09ff65a32e81ab06e408a35d8d99b53b64cdb3cdbff7e69c181062c9dc34",
       "redirects": [
         {
           "from": "https://getgpt.pro/plus-price",
@@ -816,10 +816,10 @@
       "sourceName": "PayForChat",
       "requestedUrl": "https://www.payforchat.com/",
       "sourceUrl": "https://www.payforchat.com/",
-      "observedAt": "2026-11-12T08:56:34.196Z",
+      "observedAt": "2026-11-13T08:52:51.544Z",
       "httpStatus": 200,
-      "bodyBytes": 304815,
-      "bodySha256": "d9a6a4bd5064f5886123971a6e9f5f5217e4819eef31a4533a8af7ca5c5d735f",
+      "bodyBytes": 305560,
+      "bodySha256": "8199c3069b776afa0e8c7d015960b4e62540ef4464a9a4506c58238702e91736",
       "redirects": [],
       "offers": [],
       "warnings": [],
@@ -831,10 +831,10 @@
       "sourceName": "Nano Banana",
       "requestedUrl": "https://nano-banana.lol/",
       "sourceUrl": "https://payforgpt.com/",
-      "observedAt": "2026-11-12T08:56:34.727Z",
+      "observedAt": "2026-11-13T08:52:51.902Z",
       "httpStatus": 200,
-      "bodyBytes": 270777,
-      "bodySha256": "2355e067804662d00c79f90024bfd3d8cdbdc8384d8bd8f7593c6506b7fe2180",
+      "bodyBytes": 240772,
+      "bodySha256": "a6f76f8f0e1492b2901c24ce3400fb0b93997a4d0205e3e5974047e6d32a2d65",
       "redirects": [
         {
           "from": "https://nano-banana.lol/",
@@ -858,26 +858,26 @@
           "availabilityClaim": "https://schema.org/InStock",
           "productUrl": "https://payforgpt.com/product/11",
           "sourceUrl": "https://payforgpt.com/",
-          "observedAt": "2026-11-12T08:56:34.727Z",
+          "observedAt": "2026-11-13T08:52:51.902Z",
           "taxStatus": {
             "value": "unknown",
             "sourceUrl": "https://payforgpt.com/",
-            "observedAt": "2026-11-12T08:56:34.727Z"
+            "observedAt": "2026-11-13T08:52:51.902Z"
           },
           "simSupport": {
             "value": "unknown",
             "sourceUrl": "https://payforgpt.com/",
-            "observedAt": "2026-11-12T08:56:34.727Z"
+            "observedAt": "2026-11-13T08:52:51.902Z"
           },
           "invoiceSupport": {
             "value": "unknown",
             "sourceUrl": "https://payforgpt.com/",
-            "observedAt": "2026-11-12T08:56:34.727Z"
+            "observedAt": "2026-11-13T08:52:51.902Z"
           },
           "eligibility": {
             "value": "unknown",
             "sourceUrl": "https://payforgpt.com/",
-            "observedAt": "2026-11-12T08:56:34.727Z"
+            "observedAt": "2026-11-13T08:52:51.902Z"
           },
           "evidence": {
             "method": "json-ld-offer",
@@ -906,26 +906,26 @@
           "availabilityClaim": "https://schema.org/InStock",
           "productUrl": "https://payforgpt.com/product/10",
           "sourceUrl": "https://payforgpt.com/",
-          "observedAt": "2026-11-12T08:56:34.727Z",
+          "observedAt": "2026-11-13T08:52:51.902Z",
           "taxStatus": {
             "value": "unknown",
             "sourceUrl": "https://payforgpt.com/",
-            "observedAt": "2026-11-12T08:56:34.727Z"
+            "observedAt": "2026-11-13T08:52:51.902Z"
           },
           "simSupport": {
             "value": "unknown",
             "sourceUrl": "https://payforgpt.com/",
-            "observedAt": "2026-11-12T08:56:34.727Z"
+            "observedAt": "2026-11-13T08:52:51.902Z"
           },
           "invoiceSupport": {
             "value": "unknown",
             "sourceUrl": "https://payforgpt.com/",
-            "observedAt": "2026-11-12T08:56:34.727Z"
+            "observedAt": "2026-11-13T08:52:51.902Z"
           },
           "eligibility": {
             "value": "unknown",
             "sourceUrl": "https://payforgpt.com/",
-            "observedAt": "2026-11-12T08:56:34.727Z"
+            "observedAt": "2026-11-13T08:52:51.902Z"
           },
           "evidence": {
             "method": "json-ld-offer",
@@ -954,26 +954,26 @@
           "availabilityClaim": "https://schema.org/InStock",
           "productUrl": "https://payforgpt.com/product/7",
           "sourceUrl": "https://payforgpt.com/",
-          "observedAt": "2026-11-12T08:56:34.727Z",
+          "observedAt": "2026-11-13T08:52:51.902Z",
           "taxStatus": {
             "value": "unknown",
             "sourceUrl": "https://payforgpt.com/",
-            "observedAt": "2026-11-12T08:56:34.727Z"
+            "observedAt": "2026-11-13T08:52:51.902Z"
           },
           "simSupport": {
             "value": "unknown",
             "sourceUrl": "https://payforgpt.com/",
-            "observedAt": "2026-11-12T08:56:34.727Z"
+            "observedAt": "2026-11-13T08:52:51.902Z"
           },
           "invoiceSupport": {
             "value": "unknown",
             "sourceUrl": "https://payforgpt.com/",
-            "observedAt": "2026-11-12T08:56:34.727Z"
+            "observedAt": "2026-11-13T08:52:51.902Z"
           },
           "eligibility": {
             "value": "unknown",
             "sourceUrl": "https://payforgpt.com/",
-            "observedAt": "2026-11-12T08:56:34.727Z"
+            "observedAt": "2026-11-13T08:52:51.902Z"
           },
           "evidence": {
             "method": "json-ld-offer",
@@ -997,10 +997,10 @@
       "sourceName": "PayForGPT",
       "requestedUrl": "https://payforgpt.com/",
       "sourceUrl": "https://payforgpt.com/",
-      "observedAt": "2026-11-12T08:56:36.028Z",
+      "observedAt": "2026-11-13T08:52:52.032Z",
       "httpStatus": 200,
-      "bodyBytes": 270777,
-      "bodySha256": "2355e067804662d00c79f90024bfd3d8cdbdc8384d8bd8f7593c6506b7fe2180",
+      "bodyBytes": 240772,
+      "bodySha256": "a6f76f8f0e1492b2901c24ce3400fb0b93997a4d0205e3e5974047e6d32a2d65",
       "redirects": [],
       "offers": [
         {
@@ -1018,26 +1018,26 @@
           "availabilityClaim": "https://schema.org/InStock",
           "productUrl": "https://payforgpt.com/product/11",
           "sourceUrl": "https://payforgpt.com/",
-          "observedAt": "2026-11-12T08:56:36.028Z",
+          "observedAt": "2026-11-13T08:52:52.032Z",
           "taxStatus": {
             "value": "unknown",
             "sourceUrl": "https://payforgpt.com/",
-            "observedAt": "2026-11-12T08:56:36.028Z"
+            "observedAt": "2026-11-13T08:52:52.032Z"
           },
           "simSupport": {
             "value": "unknown",
             "sourceUrl": "https://payforgpt.com/",
-            "observedAt": "2026-11-12T08:56:36.028Z"
+            "observedAt": "2026-11-13T08:52:52.032Z"
           },
           "invoiceSupport": {
             "value": "unknown",
             "sourceUrl": "https://payforgpt.com/",
-            "observedAt": "2026-11-12T08:56:36.028Z"
+            "observedAt": "2026-11-13T08:52:52.032Z"
           },
           "eligibility": {
             "value": "unknown",
             "sourceUrl": "https://payforgpt.com/",
-            "observedAt": "2026-11-12T08:56:36.028Z"
+            "observedAt": "2026-11-13T08:52:52.032Z"
           },
           "evidence": {
             "method": "json-ld-offer",
@@ -1066,26 +1066,26 @@
           "availabilityClaim": "https://schema.org/InStock",
           "productUrl": "https://payforgpt.com/product/10",
           "sourceUrl": "https://payforgpt.com/",
-          "observedAt": "2026-11-12T08:56:36.028Z",
+          "observedAt": "2026-11-13T08:52:52.032Z",
           "taxStatus": {
             "value": "unknown",
             "sourceUrl": "https://payforgpt.com/",
-            "observedAt": "2026-11-12T08:56:36.028Z"
+            "observedAt": "2026-11-13T08:52:52.032Z"
           },
           "simSupport": {
             "value": "unknown",
             "sourceUrl": "https://payforgpt.com/",
-            "observedAt": "2026-11-12T08:56:36.028Z"
+            "observedAt": "2026-11-13T08:52:52.032Z"
           },
           "invoiceSupport": {
             "value": "unknown",
             "sourceUrl": "https://payforgpt.com/",
-            "observedAt": "2026-11-12T08:56:36.028Z"
+            "observedAt": "2026-11-13T08:52:52.032Z"
           },
           "eligibility": {
             "value": "unknown",
             "sourceUrl": "https://payforgpt.com/",
-            "observedAt": "2026-11-12T08:56:36.028Z"
+            "observedAt": "2026-11-13T08:52:52.032Z"
           },
           "evidence": {
             "method": "json-ld-offer",
@@ -1114,26 +1114,26 @@
           "availabilityClaim": "https://schema.org/InStock",
           "productUrl": "https://payforgpt.com/product/7",
           "sourceUrl": "https://payforgpt.com/",
-          "observedAt": "2026-11-12T08:56:36.028Z",
+          "observedAt": "2026-11-13T08:52:52.032Z",
           "taxStatus": {
             "value": "unknown",
             "sourceUrl": "https://payforgpt.com/",
-            "observedAt": "2026-11-12T08:56:36.028Z"
+            "observedAt": "2026-11-13T08:52:52.032Z"
           },
           "simSupport": {
             "value": "unknown",
             "sourceUrl": "https://payforgpt.com/",
-            "observedAt": "2026-11-12T08:56:36.028Z"
+            "observedAt": "2026-11-13T08:52:52.032Z"
           },
           "invoiceSupport": {
             "value": "unknown",
             "sourceUrl": "https://payforgpt.com/",
-            "observedAt": "2026-11-12T08:56:36.028Z"
+            "observedAt": "2026-11-13T08:52:52.032Z"
           },
           "eligibility": {
             "value": "unknown",
             "sourceUrl": "https://payforgpt.com/",
-            "observedAt": "2026-11-12T08:56:36.028Z"
+            "observedAt": "2026-11-13T08:52:52.032Z"
           },
           "evidence": {
             "method": "json-ld-offer",
